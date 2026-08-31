@@ -22,6 +22,15 @@ O objetivo do levantamento massivo é eliminar os dois últimos estados. Nenhum 
 - `library/open-pdfs/`: PDFs cuja licença permite redistribuição;
 - `docs/catalog.md`: navegação pelo corpus;
 - `docs/methodology.md`: protocolo de inclusão, classificação e uso.
+- `docs/api-map.md`: funções das vinte APIs de descoberta e recuperação;
+- `docs/search-strategy.md`: consultas, portão ontológico e fluxo documental;
+- `config/ontology-gate.json`: critérios quantitativos de inclusão;
+- `config/search-queries.json`: famílias versionadas de consultas;
+- `data/api-registry.csv`: requisitos e capacidade de cada conexão.
+
+## Regra ontológica
+
+Design Conversacional é o centro de inclusão, não apenas uma etiqueta temática. Uma fonte precisa tratar o design de uma interface, agente ou sistema conversacional como objeto central e contribuir para decisões de produto. Menções laterais a chatbots, conversa, voz ou inteligência artificial são excluídas.
 
 ## Direito autoral e proveniência
 

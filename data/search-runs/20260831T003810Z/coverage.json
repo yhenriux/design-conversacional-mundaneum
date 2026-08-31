@@ -1,0 +1,14 @@
+{
+  "run_id": "20260831T003810Z",
+  "raw_candidates": 1246,
+  "unique_candidates": 1064,
+  "duplicates": 182,
+  "automatic_high_priority_for_screening": 80,
+  "not_included_automatically": true,
+  "by_api": {
+    "OpenAlex": 596,
+    "Crossref": 650
+  },
+  "with_pdf_url": 387,
+  "with_doi": 1007
+}

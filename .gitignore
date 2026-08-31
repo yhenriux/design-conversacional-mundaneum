@@ -1,9 +1,16 @@
 # PDFs sem licença de redistribuição não entram no Git.
 library/restricted/
 library/local-only/
+library/staging/
+
+# Credenciais e respostas brutas de execução
+.env
+data/search-runs/*/raw/
 
 # Arquivos temporários
 *.tmp
 ~$*
 .DS_Store
 Thumbs.db
+__pycache__/
+*.pyc

@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "languages": ["en", "pt", "es"],
+  "precision_queries": [
+    "\"conversation design\"",
+    "\"conversational design\"",
+    "\"conversational UX\"",
+    "\"conversational user interface\" design",
+    "\"voice user interface\" design",
+    "\"conversational agent design\"",
+    "\"designing conversational agents\"",
+    "\"dialogue design\" conversational system",
+    "\"chatbot design\" user experience"
+  ],
+  "multilingual_queries": [
+    "\"design conversacional\"",
+    "\"diseño conversacional\"",
+    "\"interfaces conversacionais\" design",
+    "\"interfaces conversacionales\" diseño"
+  ],
+  "expansion_rule": "Expandir somente a partir de registros aceitos e reaplicar integralmente o portão ontológico."
+}

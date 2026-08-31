@@ -1,0 +1,21 @@
+id,api,funcao,cobertura,autenticacao,entrega_pdf,uso_no_fluxo,documentacao
+API01,OpenAlex,descoberta e ligação de versões,interdisciplinar global,chave gratuita recomendada,URL de melhor localização OA,principal índice de descoberta e deduplicação,https://docs.openalex.org/
+API02,Crossref REST API,metadados e resolução DOI,publicações com DOI,sem chave; mailto recomendado,links de recurso quando depositados,validação bibliográfica e DOI,https://www.crossref.org/documentation/retrieve-metadata/rest-api/
+API03,Unpaywall,localização de versões abertas,artigos com DOI,e-mail obrigatório,URL de melhor versão OA,resolução legal de texto integral,https://unpaywall.org/products/api
+API04,Semantic Scholar Academic Graph,descoberta citações e relações,interdisciplinar,chave recomendada,campo openAccessPdf,expansão por citações e recuperação OA,https://api.semanticscholar.org/api-docs/
+API05,CORE API,agregação de repositórios e texto integral,interdisciplinar OA,chave,links e conteúdo integral quando disponível,recuperação em repositórios,https://api.core.ac.uk/docs/v3
+API06,OpenAIRE Graph API,grafo de pesquisa e repositórios,interdisciplinar sobretudo Europa,limites públicos; token para escala,localizações de acesso,descoberta e resolução em repositórios,https://graph.openaire.eu/docs/apis/graph-api/
+API07,Europe PMC REST API,biomedicina e áreas aplicadas,biomédica,sem chave,XML integral e links quando disponíveis,design conversacional em saúde após portão ontológico,https://europepmc.org/RestfulWebService
+API08,NCBI E-utilities,PubMed e PubMed Central,biomédica,chave opcional para maior taxa,PMC integral quando existente,ligação PMID-PMC e recuperação autorizada,https://www.ncbi.nlm.nih.gov/books/NBK25501/
+API09,arXiv API,preprints,computação e áreas correlatas,sem chave,PDF direto,recuperação de preprints centrais,https://info.arxiv.org/help/api/index.html
+API10,DOAJ API,periódicos de acesso aberto,multidisciplinar OA,sem chave,links de texto integral,confirmação de publicação e licença OA,https://doaj.org/api/v3/docs
+API11,HAL API,repositório científico,multidisciplinar,sem chave,URL de arquivo depositado,recuperação de versões de autor,https://api.archives-ouvertes.fr/docs/search
+API12,Zenodo REST API,repositório de resultados de pesquisa,multidisciplinar,sem chave para leitura pública,arquivos depositados,artigos relatórios livros e versões,https://developers.zenodo.org/
+API13,OSF API,projetos preprints e arquivos,multidisciplinar,sem chave para conteúdo público,arquivos públicos,evidência suplementar e preprints,https://developer.osf.io/
+API14,DataCite REST API,metadados e DOI de repositórios,multidisciplinar,sem chave,URLs de conteúdo quando registradas,descoberta de literatura cinzenta e versões,https://support.datacite.org/docs/api
+API15,OpenCitations API,relações de citação,interdisciplinar,sem chave,campo de metadados sem PDF,expansão controlada de referências,https://opencitations.net/index/api/v2
+API16,IEEE Xplore API,engenharia computação e HCI,IEEE,chave,metadados; PDF depende de assinatura,descoberta especializada e DOI,https://developer.ieee.org/
+API17,Springer Nature API,livros capítulos e periódicos,Springer Nature,chave,alguns textos OA conforme produto,descoberta e verificação editorial,https://dev.springernature.com/
+API18,Scopus API,índice bibliográfico multidisciplinar,Scopus,chave e frequentemente assinatura,metadados sem direito geral de PDF,cobertura e análise de citações,https://dev.elsevier.com/
+API19,ScienceDirect API,texto e metadados Elsevier,Elsevier,chave e direitos institucionais,texto conforme licença do usuário,resolução autorizada de conteúdo Elsevier,https://dev.elsevier.com/
+API20,Web of Science API,índice bibliográfico multidisciplinar,Web of Science,chave e assinatura,metadados sem PDF,cobertura e rastreamento de citações,https://developer.clarivate.com/apis/wos

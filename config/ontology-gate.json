@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "ontology": "Design Conversacional como área interdisciplinar de produto",
+  "title_anchors": [
+    "conversation design",
+    "conversational design",
+    "conversational ux",
+    "conversational user interface",
+    "conversational user interfaces",
+    "voice user interface design",
+    "dialogue design",
+    "dialog system design",
+    "conversational agent design",
+    "designing conversational agents",
+    "chatbot design"
+  ],
+  "system_terms": [
+    "conversational agent", "conversational agents", "conversational interface",
+    "conversational interfaces", "dialog system", "dialogue system", "chatbot",
+    "chatbots", "voice assistant", "voice assistants", "voice user interface",
+    "spoken dialogue system", "ai assistant"
+  ],
+  "product_design_terms": [
+    "design", "product", "user experience", " ux ", "interaction", "interface",
+    "usability", "accessibility", "evaluation", "workflow", "service",
+    "turn-taking", "turn taking", "repair", "context", "memory", "microcopy",
+    "tone of voice", "governance", "multimodal"
+  ],
+  "exclusion_signals": [
+    "human conversation analysis without a designed system",
+    "conversational learning as pedagogy only",
+    "generic artificial intelligence or llm performance",
+    "chatbot adoption without a design or product contribution",
+    "clinical or educational outcome without interaction design implications",
+    "conversational writing style or marketing copy unrelated to an interface"
+  ],
+  "decision_rule": {
+    "ontology_minimum": 3,
+    "total_minimum": 7,
+    "maximum": 10,
+    "dimensions": {
+      "ontology_centrality": 4,
+      "product_design_relevance": 3,
+      "documentary_evidence": 2,
+      "actionable_contribution": 1
+    }
+  }
+}
