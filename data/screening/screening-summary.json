@@ -1,0 +1,12 @@
+{
+  "run_id": "20260831T003810Z",
+  "records": 80,
+  "decisions": {
+    "provisional-include": 67,
+    "exclude-ontology": 4,
+    "exclude-duplicate": 2,
+    "full-text-review": 7
+  },
+  "provisional_not_final": true,
+  "next_gate": "document-resolution-and-full-text-confirmation"
+}

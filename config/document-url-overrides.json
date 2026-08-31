@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "overrides": {
+    "10.2196/43135": {
+      "pdf_url": "https://humanfactors.jmir.org/2023/1/e43135/PDF",
+      "license": "cc-by",
+      "reason": "O link agregado pelo OpenAlex apontava para um arquivo suplementar, não para o artigo."
+    }
+  }
+}

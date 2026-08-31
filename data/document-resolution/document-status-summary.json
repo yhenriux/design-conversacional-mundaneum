@@ -1,0 +1,11 @@
+{
+  "records": 74,
+  "status": {
+    "sem-versao-aberta-localizada": 27,
+    "acesso-aberto-sem-url-pdf": 14,
+    "falha-recuperacao-pdf": 15,
+    "pdf-integral-validado-local": 14,
+    "lacuna-documental": 4
+  },
+  "validated_documents": 14
+}

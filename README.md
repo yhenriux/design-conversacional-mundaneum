@@ -39,3 +39,16 @@ O repositório publica somente documentos com licença de redistribuição ou em
 ## Estado inicial
 
 O primeiro ciclo migra 116 registros do corpus do Volume 1. A arquitetura futura da coleção será recalculada conforme o corpus crescer e as lacunas documentais forem eliminadas.
+
+## Primeiro ciclo de descoberta
+
+O piloto OpenAlex e Crossref produziu 1.064 candidatos únicos. O portão automático encaminhou 80 para triagem argumentada:
+
+- 67 inclusões provisórias, dependentes de confirmação documental;
+- 7 casos que exigem texto integral antes da decisão;
+- 4 exclusões por ausência de centralidade ontológica;
+- 2 ocorrências reunidas como duplicatas documentais.
+
+A primeira resolução pelo OpenAlex localizou 43 registros de acesso aberto e 29 URLs de PDF. Quatorze arquivos passaram pela validação de formato e correspondência bibliográfica e tiveram seu texto integral extraído localmente, com marcadores de página. Arquivos e textos sem licença de redistribuição confirmada permanecem fora do Git.
+
+Consulte `data/screening/screening-summary.json` e `data/document-resolution/document-status-summary.json` para os resultados auditáveis do ciclo.
