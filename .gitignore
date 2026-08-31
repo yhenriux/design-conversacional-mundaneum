@@ -1,0 +1,9 @@
+# PDFs sem licença de redistribuição não entram no Git.
+library/restricted/
+library/local-only/
+
+# Arquivos temporários
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
