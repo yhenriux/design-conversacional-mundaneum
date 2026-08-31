@@ -22,7 +22,7 @@ def main():
  with (folder/"candidates-deduplicated.csv").open("w",encoding="utf-8-sig",newline="") as h:
   w=csv.DictWriter(h,fieldnames=fields); w.writeheader(); w.writerows(values)
  with (folder/"screening-queue.csv").open("w",encoding="utf-8-sig",newline="") as h:
-  queue_fields=fields+["manual_centrality","manual_product_relevance","manual_documentary_evidence","manual_actionable_contribution","reviewer","review_date"]
+  queue_fields=fields+["manual_centrality","manual_field_relevance","manual_documentary_evidence","manual_actionable_contribution","reviewer","review_date"]
   w=csv.DictWriter(h,fieldnames=queue_fields,extrasaction="ignore"); w.writeheader(); w.writerows(eligible)
  report={"run_id":a.run_id,"raw_candidates":len(rows),"unique_candidates":len(values),"duplicates":len(rows)-len(values),
    "automatic_high_priority_for_screening":len(eligible),"not_included_automatically":True,

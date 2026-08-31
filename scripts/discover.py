@@ -24,9 +24,9 @@ def score(title, abstract, gate):
     title_l, text_l = f" {title.lower()} ", f" {title} {abstract} ".lower()
     anchored = any(x in title_l for x in gate["title_anchors"])
     systems = sum(x in text_l for x in gate["system_terms"])
-    products = sum(x in text_l for x in gate["product_design_terms"])
-    ontology = 4 if anchored else (3 if systems and products else (2 if systems else 0))
-    return ontology, ontology + min(3, products), "titulo-ancora" if anchored else f"sistema={systems};produto-design={products}"
+    field_relevance = sum(x in text_l for x in gate["field_relevance_terms"])
+    ontology = 4 if anchored else (3 if systems and field_relevance else (2 if systems else 0))
+    return ontology, ontology + min(3, field_relevance), "titulo-ancora" if anchored else f"sistema={systems};relevancia-campo={field_relevance}"
 
 def openalex(query, rows, mailto):
     fields = "id,doi,title,publication_year,type,authorships,abstract_inverted_index,primary_location,best_oa_location,open_access"

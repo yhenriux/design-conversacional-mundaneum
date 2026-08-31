@@ -1,6 +1,6 @@
 # Design Conversacional Mundaneum
 
-Repositório de mapeamento sistemático da literatura relacionada ao Design Conversacional como área interdisciplinar de produto.
+Repositório de mapeamento sistemático da literatura que trata o Design Conversacional como objeto interdisciplinar de pesquisa e estudo.
 
 ## Compromisso documental
 
@@ -30,7 +30,7 @@ O objetivo do levantamento massivo é eliminar os dois últimos estados. Nenhum 
 
 ## Regra ontológica
 
-Design Conversacional é o centro de inclusão, não apenas uma etiqueta temática. Uma fonte precisa tratar o design de uma interface, agente ou sistema conversacional como objeto central e contribuir para decisões de produto. Menções laterais a chatbots, conversa, voz ou inteligência artificial são excluídas.
+Design Conversacional é o centro de inclusão, não apenas uma etiqueta temática. Uma fonte precisa tratá-lo como objeto de pesquisa, estudo, formulação teórica, método, crítica ou prática. Produtos, interfaces, agentes, sistemas, serviços e situações educacionais são contextos possíveis de aplicação, mas nenhum deles define sozinho o campo. Menções laterais a chatbots, conversa, voz ou inteligência artificial são excluídas.
 
 ## Direito autoral e proveniência
 

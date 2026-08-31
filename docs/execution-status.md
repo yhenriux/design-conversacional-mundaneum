@@ -13,26 +13,28 @@ Uma auditoria posterior identificou que o primeiro corte exigia nota 7 antes de 
 ### Triagem
 
 - 67 inclusões provisórias.
-- 7 casos que exigem leitura do texto integral.
-- 4 exclusões ontológicas.
+- 8 casos que exigem leitura do texto integral.
+- 3 exclusões ontológicas.
 - 2 duplicatas documentais.
 
 As inclusões são provisórias porque o resumo não substitui a confirmação no documento integral.
+
+Uma correção conceitual retirou “produto conversacional” dos requisitos de inclusão. Design Conversacional passa a ser tratado como objeto autônomo de pesquisa e estudo. Produto, sistema, interface, serviço, educação e outros domínios são contextos possíveis, não fundamentos ontológicos. Um registro antes excluído por não ter produto conversacional foi devolvido à leitura integral.
 
 ### Triagem ampliada
 
 - 274 candidatos adicionais possuem centralidade ontológica mínima de 3/4 e podem alcançar nota 7/10 depois dos sinais documental e de aplicabilidade.
 - O conjunto foi dividido em seis lotes governáveis: cinco com cinquenta registros e um com vinte e quatro.
-- O lote B01 foi lido por título e resumo: 42 inclusões provisórias, 1 caso para leitura integral, 5 exclusões ontológicas e 2 duplicatas.
+- O lote B01 foi lido por título e resumo: 42 inclusões provisórias, 2 casos para leitura integral, 4 exclusões ontológicas e 2 duplicatas.
 - As inclusões do lote B01 ainda exigem obtenção legal e leitura do texto integral. Elas não foram incorporadas ao conjunto de evidências confirmadas.
-- Entre os 43 registros selecionados do B01, 19 apresentavam URL de PDF nos metadados de origem. Seis URLs devolveram arquivos PDF.
+- Entre os 44 registros selecionados do B01, 20 apresentavam URL de PDF nos metadados de origem. Seis URLs devolveram arquivos PDF.
 - Cinco documentos corresponderam ao título esperado e foram extraídos integralmente: 83 páginas e 309.070 caracteres com marcadores de página.
-- Uma URL foi rejeitada porque entregava um livreto relacionado ao tema, mas não o artigo bibliográfico esperado. As outras treze falharam por bloqueio, resposta não documental ou indisponibilidade.
+- Uma URL foi rejeitada porque entregava um livreto relacionado ao tema, mas não o artigo bibliográfico esperado. As outras quatorze falharam por bloqueio, resposta não documental ou indisponibilidade.
 - Os cinco textos extraídos continuam fora do Git e aguardam leitura analítica; os manifestos, hashes, licenças informadas e decisões de validação permanecem versionados.
 
 ### Resolução documental
 
-- 74 registros encaminhados à resolução.
+- 74 registros já processados na resolução e 1 registro reclassificado que ainda precisa entrar nessa etapa.
 - 70 identificadores resolvidos no OpenAlex.
 - 43 registros identificados como acesso aberto.
 - 29 localizações de PDF submetidas à recuperação.

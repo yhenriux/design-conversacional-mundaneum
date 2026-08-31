@@ -9,7 +9,7 @@ A unidade avaliada é a obra intelectual, não cada ocorrência devolvida por um
 1. Conferir título, autoria, ano, tipo e identificadores.
 2. Ler o resumo completo.
 3. Identificar o objeto que organiza a pergunta, o método e a contribuição.
-4. Verificar qual decisão de produto pode ser esclarecida pelo estudo.
+4. Verificar qual conhecimento sobre Design Conversacional o estudo produz, examina, contesta ou aplica.
 5. Aplicar as quatro dimensões do portão ontológico.
 6. Registrar decisão e justificativa em linguagem verificável.
 7. Encaminhar fontes aprovadas para resolução documental.
@@ -37,10 +37,12 @@ A ocorrência representa a mesma obra ou uma versão que precisa ser reunida a o
 
 ## Distinções obrigatórias
 
-- Projetar com uma IA por meio de conversa não equivale a projetar uma experiência conversacional.
+- Projetar com uma IA por meio de conversa não equivale, por si só, a estudar Design Conversacional.
 - Implementar um modelo de linguagem não equivale a contribuir para Design Conversacional.
 - Avaliar um chatbot pode contribuir para o campo quando o estudo relaciona características da interação a consequências observáveis.
-- Uma aplicação em saúde, educação ou comércio não é excluída pelo setor. Ela é excluída quando o produto conversacional funciona apenas como meio e não há conhecimento de design.
+- Produto conversacional é uma possível especificação aplicada do campo, não seu fundamento ontológico nem requisito de inclusão.
+- Uma aplicação em saúde, educação, serviços ou outro domínio não é excluída pelo setor. Ela é excluída quando a conversa funciona apenas como meio e o estudo não produz conhecimento sobre Design Conversacional.
+- Estudos teóricos, históricos, metodológicos e críticos podem ser centrais mesmo sem desenvolver ou avaliar um produto.
 - Uma fonte profissional pode integrar o corpus, mas seu tipo de evidência e seus conflitos de interesse devem permanecer visíveis.
 
 ## Responsabilidades

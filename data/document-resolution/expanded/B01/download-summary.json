@@ -1,8 +1,8 @@
 {
   "batch": "B01",
-  "urls_attempted": 19,
+  "urls_attempted": 20,
   "responses": 6,
   "pdf_signatures": 6,
-  "failures": 13,
+  "failures": 14,
   "validity_pending": "A assinatura PDF não confirma correspondência de título nem integralidade."
 }

@@ -11,11 +11,10 @@ from pathlib import Path
 
 
 B01_EXCLUSIONS = {
-    "X016": "Emprega conversação como interface gráfica para modelagem de redes de filas; não estuda produto ou experiência conversacional.",
+    "X016": "Emprega conversação como metáfora de uma interface gráfica para modelagem de redes de filas; Design Conversacional não organiza o objeto ou a contribuição.",
     "X019": "Trata da modelagem gráfica de sistemas estocásticos; não foi identificada centralidade em interação conversacional humana.",
-    "X027": "Usa conversacional como metáfora de um processo de criação arquitetônica com IA; está fora da ontologia de produtos conversacionais.",
+    "X027": "Usa conversacional como metáfora de um processo de criação arquitetônica com IA; Design Conversacional não é objeto de pesquisa ou estudo.",
     "X045": "Descreve uma implementação médica ampla, mas o resumo não apresenta questão, método ou contribuição centrados no design da conversa.",
-    "X047": "Investiga engenharia de prompts em uma ferramenta para criação com LLMs; o objeto principal não é a experiência conversacional de um produto.",
 }
 
 B01_DUPLICATES = {
@@ -25,6 +24,7 @@ B01_DUPLICATES = {
 
 B01_FULLTEXT = {
     "X010": "O resumo descreve estado e transições em um esquema de conversação, mas o uso histórico do termo precisa ser verificado no texto integral.",
+    "X047": "O estudo investiga prompts para interações em linguagem natural; o texto integral deve mostrar se Design Conversacional é objeto de pesquisa ou apenas contexto técnico.",
 }
 
 
@@ -38,7 +38,7 @@ def decide(record: dict[str, str]) -> tuple[str, str]:
         return "full-text-review", B01_FULLTEXT[rid]
     return (
         "provisional-include",
-        "O título e o resumo mantêm a conversa, sua concepção ou seus efeitos como objeto central de um produto conversacional; a decisão depende de confirmação no texto integral.",
+        "O título e o resumo tratam Design Conversacional, sua fundamentação, seus métodos, suas práticas ou seus efeitos como objeto central; a decisão depende de confirmação no texto integral.",
     )
 
 

@@ -17,6 +17,8 @@ O arquivo deve registrar origem, data de obtenção, licença, extensão documen
 
 As fontes são classificadas como DC central, aplicada, constituinte, tecnológica, normativa ou adjacente transferível. A classificação não transforma automaticamente literatura de outra disciplina em literatura originalmente produzida sobre Design Conversacional.
 
+Nesta pesquisa, Design Conversacional é o objeto que organiza o levantamento. Ele não é definido como uma subárea de produto nem depende da existência de um produto conversacional. Uma fonte pode ser central quando desenvolve sua história, teoria, linguagem, método, prática, crítica, ética ou avaliação. Produto é uma das formas possíveis de aplicação. A inclusão depende do conhecimento produzido sobre Design Conversacional, não do suporte em que esse conhecimento aparece.
+
 ## Uso de PDFs
 
 Arquivos redistribuíveis podem ser publicados em `library/open-pdfs`. Arquivos sem licença de redistribuição permanecem fora do Git e são representados no manifesto. Nenhum mecanismo do projeto deve contornar acesso fechado ou distribuir cópias sem autorização.
@@ -29,5 +31,5 @@ Arquivos redistribuíveis podem ser publicados em `library/open-pdfs`. Arquivos 
 4. registrar proveniência e licença;
 5. validar se o PDF é integral ou corresponde à parte utilizada;
 6. classificar a relação com o Design Conversacional;
-7. relacionar a macrodomínios e decisões de produto;
+7. relacionar a macrodomínios e questões próprias do Design Conversacional;
 8. atualizar o mapa e as medidas de cobertura.

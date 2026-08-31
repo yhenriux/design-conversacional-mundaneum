@@ -2,7 +2,7 @@
 
 ## Pergunta operacional
 
-Quais publicações tratam o Design Conversacional, as interfaces conversacionais ou o design de agentes e sistemas conversacionais como objeto central e oferecem conhecimento que pode orientar decisões de produto?
+Quais publicações tratam o Design Conversacional como objeto central de pesquisa ou estudo e produzem conhecimento teórico, histórico, metodológico, crítico ou aplicado sobre o campo?
 
 Uma publicação não entra apenas porque menciona chatbot, voz, inteligência artificial, conversa ou linguagem. A relação com Design Conversacional precisa organizar a pergunta, o método, a análise ou a contribuição do trabalho.
 
@@ -13,7 +13,7 @@ Cada resultado recebe quatro notas, com máximo de dez pontos:
 | Dimensão | Pontos | Evidência exigida |
 |---|---:|---|
 | Centralidade ontológica | 0 a 4 | Design Conversacional ou o design de uma interface, agente ou sistema conversacional é objeto central |
-| Relevância para produto | 0 a 3 | O estudo esclarece uma decisão sobre interação, conteúdo, comportamento, implementação, avaliação, acessibilidade, dados ou governança |
+| Relevância para o campo | 0 a 3 | O estudo desenvolve, examina, contesta ou aplica conceitos, métodos, práticas, efeitos, limites ou responsabilidades do Design Conversacional |
 | Evidência documental | 0 a 2 | Metadados verificáveis e documento integral ou parte pertinente legalmente acessível |
 | Contribuição aplicável | 0 a 1 | Há conceito, achado, método, padrão, crítica ou implicação utilizável |
 
@@ -22,10 +22,10 @@ O registro só é incorporado quando obtém pelo menos **3 de 4 em centralidade 
 ### Como atribuir centralidade
 
 - **4 pontos:** uma expressão âncora aparece no título e corresponde ao objeto efetivamente estudado.
-- **3 pontos:** título e resumo tratam explicitamente do design de uma interface, agente ou sistema conversacional, ainda que não usem a expressão “Design Conversacional”.
-- **2 pontos:** o sistema conversacional é apenas contexto de adoção, desempenho, ensino, saúde ou comportamento.
+- **3 pontos:** título e resumo tratam explicitamente de teorias, métodos, práticas ou objetos reconhecíveis de Design Conversacional, ainda que não usem essa expressão.
+- **2 pontos:** a conversa ou um artefato conversacional é contexto de adoção, desempenho, ensino, saúde ou comportamento, sem contribuição claramente desenvolvida para o campo.
 - **1 ponto:** há somente menção lateral a conversa ou chatbot.
-- **0 ponto:** não existe sistema conversacional projetado como objeto.
+- **0 ponto:** Design Conversacional não aparece como objeto, problema, método ou contribuição reconhecível.
 
 Resultados com zero, um ou dois pontos não entram no corpus. Também não são mantidos como uma fila temática paralela.
 
@@ -60,13 +60,13 @@ A sintaxe deve ser adaptada a cada API. A consulta executada, e não apenas a fo
 
 ## Exclusões substantivas
 
-- conversa humana sem sistema ou produto conversacional projetado;
+- conversa humana descrita ou analisada sem qualquer operação de concepção, estruturação, intervenção ou reflexão reconhecida como Design Conversacional;
 - aprendizagem conversacional entendida somente como técnica pedagógica;
 - estudos genéricos de LLMs, inteligência artificial ou processamento de linguagem;
 - adoção, satisfação ou desfecho de chatbot sem contribuição explícita para seu design;
 - aplicação clínica, educacional ou comercial que apenas usa um chatbot como canal;
 - “conversacional” empregado como estilo de escrita, marca ou metáfora;
-- trabalhos sobre detecção de intenção, ASR ou geração de linguagem que não relacionam o resultado a uma decisão de experiência ou produto.
+- trabalhos sobre detecção de intenção, ASR ou geração de linguagem que não relacionam o resultado a uma questão própria do Design Conversacional.
 
 ## Indicadores de cobertura
 

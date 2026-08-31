@@ -3,8 +3,8 @@
   "records": 50,
   "decisions": {
     "exclude-duplicate": 2,
-    "exclude-ontology": 5,
-    "full-text-review": 1,
+    "exclude-ontology": 4,
+    "full-text-review": 2,
     "provisional-include": 42
   },
   "method": "Leitura humana de título e resumo, com centralidade ontológica estrita e decisão provisória sujeita ao texto integral.",
