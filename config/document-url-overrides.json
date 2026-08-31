@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "overrides": {
     "10.2196/43135": {
-      "pdf_url": "https://humanfactors.jmir.org/2023/1/e43135/PDF",
+      "pdf_url": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10131797.1/PMC10131797.1.pdf",
       "license": "cc-by",
-      "reason": "O link agregado pelo OpenAlex apontava para um arquivo suplementar, não para o artigo."
+      "reason": "O link agregado pelo OpenAlex apontava para um arquivo suplementar. O novo endereço é o PDF integral do conjunto aberto oficial do PubMed Central."
     }
   }
 }

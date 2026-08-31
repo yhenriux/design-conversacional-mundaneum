@@ -9,6 +9,7 @@ extracted-text/local-only/
 data/search-runs/*/raw/
 data/document-resolution/raw/
 data/document-resolution/semantic-scholar-raw/
+data/document-resolution/openaire-raw/
 
 # Arquivos temporários
 *.tmp

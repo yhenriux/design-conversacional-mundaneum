@@ -5,16 +5,14 @@ from pathlib import Path
 from pypdf import PdfReader
 
 ROOT=Path(__file__).resolve().parents[1]
-INSPECTION=ROOT/"data"/"document-resolution"/"pdf-inspection.csv"
-DOWNLOADS=ROOT/"data"/"document-resolution"/"download-manifest.csv"
+VALIDATED=ROOT/"data"/"document-resolution"/"validated-documents.csv"
 DEST=ROOT/"extracted-text"/"local-only"
 MANIFEST=ROOT/"data"/"document-resolution"/"extraction-manifest.csv"
 def main():
- with INSPECTION.open(encoding="utf-8-sig",newline="") as h: valid={r["doi"]:r for r in csv.DictReader(h) if r["correspondence"]=="true"}
- with DOWNLOADS.open(encoding="utf-8-sig",newline="") as h: downloads={r["doi"]:r for r in csv.DictReader(h)}
+ with VALIDATED.open(encoding="utf-8-sig",newline="") as h: valid={r["doi"]:r for r in csv.DictReader(h)}
  DEST.mkdir(parents=True,exist_ok=True); results=[]
  for doi,inspection in valid.items():
-  source=ROOT/downloads[doi]["path"]; reader=PdfReader(source); parts=[]; extracted_pages=0
+  source=ROOT/inspection["local_path"]; reader=PdfReader(source); parts=[]; extracted_pages=0
   for number,page in enumerate(reader.pages,1):
    text=(page.extract_text() or "").strip()
    if text: extracted_pages+=1
