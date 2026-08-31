@@ -36,3 +36,7 @@ As inclusões são provisórias porque o resumo não substitui a confirmação n
 ### Próxima ação
 
 Consultar Semantic Scholar, OpenAIRE, CORE, DOAJ, HAL, Zenodo, OSF, arXiv, Europe PMC e NCBI para resolver as pendências. O Unpaywall será usado somente depois de autorização explícita para transmitir o e-mail exigido pelo serviço.
+
+### Semantic Scholar
+
+A primeira tentativa sem chave consultou 55 registros pendentes. Cinco foram resolvidos antes de o serviço aplicar limite de requisições, com três localizações abertas já conhecidas e nenhum PDF novo validado. As cinquenta respostas com código 429 permanecem registradas como limitação da execução, não como ausência documental. A próxima consulta deverá usar uma chave autorizada ou respeitar uma janela de espera maior.
