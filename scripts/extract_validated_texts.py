@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Extrai textos paginados de PDFs cuja correspondência foi validada."""
-import csv,hashlib
+import argparse,csv,hashlib
 from pathlib import Path
 from pypdf import PdfReader
 
@@ -9,20 +9,25 @@ VALIDATED=ROOT/"data"/"document-resolution"/"validated-documents.csv"
 DEST=ROOT/"extracted-text"/"local-only"
 MANIFEST=ROOT/"data"/"document-resolution"/"extraction-manifest.csv"
 def main():
- with VALIDATED.open(encoding="utf-8-sig",newline="") as h: valid={r["doi"]:r for r in csv.DictReader(h)}
- DEST.mkdir(parents=True,exist_ok=True); results=[]
- for doi,inspection in valid.items():
+ p=argparse.ArgumentParser(); p.add_argument("--validated",type=Path,default=VALIDATED); p.add_argument("--destination",type=Path,default=DEST); p.add_argument("--manifest",type=Path,default=MANIFEST); a=p.parse_args()
+ with a.validated.open(encoding="utf-8-sig",newline="") as h: valid={r.get("expanded_id") or r["doi"]:r for r in csv.DictReader(h)}
+ destination=a.destination if a.destination.is_absolute() else ROOT/a.destination
+ manifest=a.manifest if a.manifest.is_absolute() else ROOT/a.manifest
+ destination.mkdir(parents=True,exist_ok=True); results=[]
+ for record_id,inspection in valid.items():
+  doi=inspection["doi"]
   source=ROOT/inspection["local_path"]; reader=PdfReader(source); parts=[]; extracted_pages=0
   for number,page in enumerate(reader.pages,1):
    text=(page.extract_text() or "").strip()
    if text: extracted_pages+=1
    parts.append(f"\n\n===== PAGE {number} =====\n\n{text}")
-  content="".join(parts).lstrip(); target=DEST/(source.stem+".txt"); target.write_text(content,encoding="utf-8")
-  results.append({"title":inspection["title"],"doi":doi,"pdf_path":str(source.relative_to(ROOT)),"text_path":str(target.relative_to(ROOT)),
+  content="".join(parts).lstrip(); target=destination/(source.stem+".txt"); target.write_text(content,encoding="utf-8")
+  results.append({"record_id":record_id,"title":inspection["title"],"doi":doi,"pdf_path":str(source.relative_to(ROOT)),"text_path":str(target.relative_to(ROOT)),
    "pages":len(reader.pages),"pages_with_text":extracted_pages,"characters":len(content),"text_sha256":hashlib.sha256(content.encode()).hexdigest(),
    "extraction_status":"complete" if extracted_pages==len(reader.pages) else "partial-page-coverage"})
- fields=list(results[0]) if results else ["title","doi","pdf_path","text_path","pages","pages_with_text","characters","text_sha256","extraction_status"]
- with MANIFEST.open("w",encoding="utf-8-sig",newline="") as h:
+ fields=list(results[0]) if results else ["record_id","title","doi","pdf_path","text_path","pages","pages_with_text","characters","text_sha256","extraction_status"]
+ manifest.parent.mkdir(parents=True,exist_ok=True)
+ with manifest.open("w",encoding="utf-8-sig",newline="") as h:
   w=csv.DictWriter(h,fieldnames=fields);w.writeheader();w.writerows(results)
  print(f"documents={len(results)} complete={sum(r['extraction_status']=='complete' for r in results)}")
 if __name__=="__main__":main()

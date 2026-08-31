@@ -25,6 +25,10 @@ As inclusões são provisórias porque o resumo não substitui a confirmação n
 - O conjunto foi dividido em seis lotes governáveis: cinco com cinquenta registros e um com vinte e quatro.
 - O lote B01 foi lido por título e resumo: 42 inclusões provisórias, 1 caso para leitura integral, 5 exclusões ontológicas e 2 duplicatas.
 - As inclusões do lote B01 ainda exigem obtenção legal e leitura do texto integral. Elas não foram incorporadas ao conjunto de evidências confirmadas.
+- Entre os 43 registros selecionados do B01, 19 apresentavam URL de PDF nos metadados de origem. Seis URLs devolveram arquivos PDF.
+- Cinco documentos corresponderam ao título esperado e foram extraídos integralmente: 83 páginas e 309.070 caracteres com marcadores de página.
+- Uma URL foi rejeitada porque entregava um livreto relacionado ao tema, mas não o artigo bibliográfico esperado. As outras treze falharam por bloqueio, resposta não documental ou indisponibilidade.
+- Os cinco textos extraídos continuam fora do Git e aguardam leitura analítica; os manifestos, hashes, licenças informadas e decisões de validação permanecem versionados.
 
 ### Resolução documental
 
