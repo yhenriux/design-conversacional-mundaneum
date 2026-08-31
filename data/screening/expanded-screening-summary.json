@@ -1,0 +1,12 @@
+{
+  "deduplicated_candidates": 1064,
+  "already_screened": 80,
+  "ontology_at_least_3": 496,
+  "new_queue": 274,
+  "by_possible_score": {
+    "7": 104,
+    "8": 96,
+    "9": 74
+  },
+  "decision_required": true
+}

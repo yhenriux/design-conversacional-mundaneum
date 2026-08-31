@@ -8,6 +8,8 @@
 - 1.064 candidatos únicos depois da deduplicação.
 - 80 registros encaminhados à primeira triagem.
 
+Uma auditoria posterior identificou que o primeiro corte exigia nota 7 antes de contabilizar os sinais documental e de aplicabilidade. Esse procedimento poderia retirar estudos ontologicamente centrais que alcançariam o limiar depois dessas duas verificações. O filtro foi corrigido sem rebaixar o requisito de centralidade.
+
 ### Triagem
 
 - 67 inclusões provisórias.
@@ -16,6 +18,13 @@
 - 2 duplicatas documentais.
 
 As inclusões são provisórias porque o resumo não substitui a confirmação no documento integral.
+
+### Triagem ampliada
+
+- 274 candidatos adicionais possuem centralidade ontológica mínima de 3/4 e podem alcançar nota 7/10 depois dos sinais documental e de aplicabilidade.
+- O conjunto foi dividido em seis lotes governáveis: cinco com cinquenta registros e um com vinte e quatro.
+- O lote B01 foi lido por título e resumo: 42 inclusões provisórias, 1 caso para leitura integral, 5 exclusões ontológicas e 2 duplicatas.
+- As inclusões do lote B01 ainda exigem obtenção legal e leitura do texto integral. Elas não foram incorporadas ao conjunto de evidências confirmadas.
 
 ### Resolução documental
 
