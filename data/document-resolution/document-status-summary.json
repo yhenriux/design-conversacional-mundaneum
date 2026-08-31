@@ -1,11 +1,11 @@
 {
   "records": 74,
   "status": {
-    "pdf-integral-validado-local": 22,
-    "falha-recuperacao-pdf": 11,
+    "pdf-integral-validado-local": 23,
+    "falha-recuperacao-pdf": 10,
     "sem-versao-aberta-localizada": 26,
     "lacuna-documental": 4,
     "acesso-aberto-sem-url-pdf": 11
   },
-  "validated_documents": 22
+  "validated_documents": 23
 }

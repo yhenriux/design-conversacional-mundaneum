@@ -49,6 +49,6 @@ O piloto OpenAlex e Crossref produziu 1.064 candidatos únicos. O portão autom�
 - 4 exclusões por ausência de centralidade ontológica;
 - 2 ocorrências reunidas como duplicatas documentais.
 
-A resolução combinada por OpenAlex, OpenAIRE, Europe PMC e arXiv validou vinte e dois PDFs integrais. Todos tiveram seu texto extraído localmente com marcadores de página. Arquivos e textos sem licença de redistribuição confirmada permanecem fora do Git.
+A resolução combinada por OpenAlex, OpenAIRE, Europe PMC e arXiv validou vinte e três PDFs integrais. Todos tiveram seu texto extraído localmente com marcadores de página. Arquivos e textos sem licença de redistribuição confirmada permanecem fora do Git.
 
 Consulte `data/screening/screening-summary.json` e `data/document-resolution/document-status-summary.json` para os resultados auditáveis do ciclo.

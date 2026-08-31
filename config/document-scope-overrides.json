@@ -1,0 +1,10 @@
+{
+  "version": "1.0.0",
+  "overrides": {
+    "10.1007/978-1-4842-4125-7": {
+      "scope": "front-matter-only",
+      "include_as_validated_document": false,
+      "reason": "O arquivo contém somente elementos iniciais e sumário do livro, sem a parte substantiva correspondente ao tema."
+    }
+  }
+}

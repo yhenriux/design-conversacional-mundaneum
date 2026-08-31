@@ -23,8 +23,8 @@ As inclusões são provisórias porque o resumo não substitui a confirmação n
 - 70 identificadores resolvidos no OpenAlex.
 - 43 registros identificados como acesso aberto.
 - 29 localizações de PDF submetidas à recuperação.
-- 22 PDFs integrais validados localmente.
-- 22 extrações completas, com cobertura textual em todas as páginas.
+- 23 PDFs integrais validados localmente.
+- 23 extrações completas, com cobertura textual em todas as páginas.
 
 ### Pendências documentais
 
@@ -60,3 +60,7 @@ Zenodo e OSF foram consultados por título para 56 registros. O limiar de corres
 ### arXiv
 
 A API do arXiv recebeu sete consultas agrupadas, cobrindo 56 títulos. Quatro preprints apresentaram correspondência exata. Todos foram baixados, validados e extraídos integralmente, elevando o conjunto documental para 22 fontes.
+
+### Localizações alternativas do OpenAlex
+
+As respostas integrais do OpenAlex foram reprocessadas para examinar todas as localizações, não somente a versão indicada como melhor. Dezesseis URLs alternativas foram testadas e duas corresponderam ao título esperado. Uma forneceu o artigo completo “Chatbot Design and Implementation: Towards an Operational Model for Chatbots”. A outra continha somente os elementos iniciais do livro “Voice User Interface Design” e foi retirada do conjunto integral. O saldo desta etapa foi de um novo documento validado, elevando o total para 23.

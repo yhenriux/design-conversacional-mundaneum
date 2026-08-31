@@ -15,6 +15,8 @@ A unidade avaliada é a obra intelectual, não cada ocorrência devolvida por um
 7. Encaminhar fontes aprovadas para resolução documental.
 8. Encaminhar casos sem evidência suficiente para leitura integral.
 
+A correspondência entre título e PDF não comprova que o arquivo esteja completo. Livros, capítulos e anais exigem também uma classificação de extensão: documento integral, parte substantiva utilizada, elementos iniciais ou suplemento. Elementos iniciais e suplementos não entram como documento validado do estudo principal.
+
 ## Decisões permitidas
 
 ### `provisional-include`
