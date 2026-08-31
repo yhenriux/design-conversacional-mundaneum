@@ -23,14 +23,14 @@ As inclusões são provisórias porque o resumo não substitui a confirmação n
 - 70 identificadores resolvidos no OpenAlex.
 - 43 registros identificados como acesso aberto.
 - 29 localizações de PDF submetidas à recuperação.
-- 18 PDFs integrais validados localmente.
-- 18 extrações completas, com cobertura textual em todas as páginas.
+- 22 PDFs integrais validados localmente.
+- 22 extrações completas, com cobertura textual em todas as páginas.
 
 ### Pendências documentais
 
-- 12 localizações continuam com bloqueio, página HTML, arquivo incorreto ou outra falha depois das resoluções complementares.
-- 13 registros abertos ainda não oferecem URL direta de PDF validada.
-- 27 não apresentam versão aberta localizada no primeiro resolvedor.
+- 11 localizações continuam com bloqueio, página HTML, arquivo incorreto ou outra falha depois das resoluções complementares.
+- 11 registros abertos ainda não oferecem URL direta de PDF validada.
+- 26 não apresentam versão aberta localizada nos resolvedores executados.
 - 4 permanecem como lacuna documental.
 
 ### Próxima ação
@@ -48,3 +48,15 @@ O OpenAIRE consultou 55 registros pendentes, resolveu 52 e ofereceu 43 ocorrênc
 ### Europe PMC e PubMed Central
 
 O Europe PMC consultou 53 DOI pendentes e encontrou três registros biomédicos. Dois possuíam PDF no conjunto aberto do PubMed Central. Ambos foram recuperados e validados. A mesma rota corrigiu o artigo da JMIR cujo endereço anterior apontava para um suplemento. O acesso foi realizado pelo conjunto aberto oficial destinado à recuperação automatizada.
+
+### DOAJ e HAL
+
+DOAJ e HAL consultaram 51 DOI pendentes. Foram encontrados dois registros no DOAJ e um no HAL, sem nova URL direta de PDF. Os resultados foram preservados como evidência de cobertura e possíveis rotas para inspeção editorial posterior.
+
+### Zenodo e OSF
+
+Zenodo e OSF foram consultados por título para 56 registros. O limiar de correspondência foi fixado em 94%. Nenhuma nova versão documental foi localizada. Sete falhas de serviço foram registradas separadamente e poderão ser repetidas em outro ciclo.
+
+### arXiv
+
+A API do arXiv recebeu sete consultas agrupadas, cobrindo 56 títulos. Quatro preprints apresentaram correspondência exata. Todos foram baixados, validados e extraídos integralmente, elevando o conjunto documental para 22 fontes.

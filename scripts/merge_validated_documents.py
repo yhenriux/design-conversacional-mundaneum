@@ -17,6 +17,10 @@ def main():
   for item in read("europe-pmc-download-manifest.csv"):
    if item["correspondence"]!="true" or any(r["doi"]==item["doi"] for r in rows):continue
    rows.append({"title":item["title"],"doi":item["doi"],"local_path":item["local_path"],"pages":item["pages"],"sha256":item["sha256"],"resolver":"Europe PMC","license":item["license"],"version":"publishedVersion"})
+ if (BASE/"arxiv-download-manifest.csv").exists():
+  for item in read("arxiv-download-manifest.csv"):
+   if item["correspondence"]!="true" or any(r["doi"]==item["doi"] for r in rows):continue
+   rows.append({"title":item["title"],"doi":item["doi"],"local_path":item["local_path"],"pages":item["pages"],"sha256":item["sha256"],"resolver":"arXiv","license":item["license"],"version":"preprint"})
  fields=list(rows[0]);
  with (BASE/"validated-documents.csv").open("w",encoding="utf-8-sig",newline="") as h:w=csv.DictWriter(h,fieldnames=fields);w.writeheader();w.writerows(rows)
  print(f"validated={len(rows)}")
