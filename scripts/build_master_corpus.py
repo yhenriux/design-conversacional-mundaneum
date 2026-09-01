@@ -38,15 +38,7 @@ def main() -> None:
     candidates = read_rows(SOURCE)
     resolution_root = ROOT / "data" / "document-resolution"
     validated_paths = sorted(set(resolution_root.rglob("validated-documents.csv")))
-    download_paths = [
-        ROOT / "data" / "document-resolution" / "download-manifest.csv",
-        ROOT / "data" / "document-resolution" / "arxiv-download-manifest.csv",
-        ROOT / "data" / "document-resolution" / "europe-pmc-download-manifest.csv",
-        ROOT / "data" / "document-resolution" / "openaire-download-manifest.csv",
-        ROOT / "data" / "document-resolution" / "openalex-alt-download-manifest.csv",
-        *sorted((ROOT / "data" / "document-resolution" / "expanded").glob("*/download-manifest.csv")),
-        ROOT / "data" / "document-resolution" / "master" / "source-url-download-manifest.csv",
-    ]
+    download_paths = sorted(set(resolution_root.rglob("*download-manifest.csv")))
 
     validated = {}
     for path in validated_paths:

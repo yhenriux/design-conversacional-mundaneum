@@ -18,7 +18,7 @@ def main():
  for row in rows:
   validity=row.get("valid_pdf",row.get("pdf_signature","false"))
   if validity!="true": continue
-  path=ROOT/row["path"]; result={"corpus_id":row.get("corpus_id",""),"expanded_id":row.get("expanded_id",""),"title":row["title"],"doi":row["doi"],"path":row["path"],"pages":"","encrypted":"","metadata_title":"","title_token_coverage":"0","correspondence":"false","text_sha256":"","error":""}
+  path=ROOT/row["path"]; result={"candidate_id":row.get("candidate_id",""),"corpus_id":row.get("corpus_id",""),"expanded_id":row.get("expanded_id",""),"title":row["title"],"doi":row["doi"],"path":row["path"],"pages":"","encrypted":"","metadata_title":"","title_token_coverage":"0","correspondence":"false","text_sha256":"","error":""}
   try:
    reader=PdfReader(path); result["pages"]=len(reader.pages); result["encrypted"]=str(reader.is_encrypted).lower(); meta=reader.metadata or {}; result["metadata_title"]=str(meta.get("/Title") or "")
    sample=" ".join((reader.pages[i].extract_text() or "") for i in range(min(3,len(reader.pages))))
@@ -26,7 +26,7 @@ def main():
    result["title_token_coverage"]=f"{coverage:.3f}"; result["correspondence"]=str(coverage>=.60).lower(); result["text_sha256"]=hashlib.sha256(sample.encode("utf-8")).hexdigest()
   except Exception as exc: result["error"]=repr(exc)
   results.append(result)
- fields=list(results[0]) if results else ["corpus_id","expanded_id","title","doi","path","pages","encrypted","metadata_title","title_token_coverage","correspondence","text_sha256","error"]
+ fields=list(results[0]) if results else ["candidate_id","corpus_id","expanded_id","title","doi","path","pages","encrypted","metadata_title","title_token_coverage","correspondence","text_sha256","error"]
  a.output.parent.mkdir(parents=True,exist_ok=True)
  with a.output.open("w",encoding="utf-8-sig",newline="") as h:
   w=csv.DictWriter(h,fieldnames=fields); w.writeheader(); w.writerows(results)

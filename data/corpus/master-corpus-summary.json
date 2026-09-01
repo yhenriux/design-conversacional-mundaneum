@@ -5,12 +5,11 @@
   "with_doi": 1007,
   "with_source_pdf_url": 387,
   "document_status": {
-    "pdf-integral-validado-local": 58,
-    "pdf-recebido-a-validar": 2,
-    "recuperacao-tentada-sem-pdf-valido": 104,
+    "pdf-integral-validado-local": 255,
+    "pdf-recebido-a-validar": 15,
+    "recuperacao-tentada-sem-pdf-valido": 196,
     "sem-doi-busca-por-titulo-pendente": 26,
-    "sem-url-pdf-resolucao-pendente": 633,
-    "url-pdf-a-testar": 241
+    "sem-url-pdf-resolucao-pendente": 572
   },
   "output": "data/corpus/master-corpus.csv"
 }

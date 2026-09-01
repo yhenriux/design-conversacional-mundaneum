@@ -7,9 +7,10 @@
 - Os 1.064 estudos únicos descobertos formam o corpus mestre, independentemente da disponibilidade de PDF.
 - A presença de documento integral é tratada como estado documental, não como critério de validade bibliográfica.
 - 1.007 estudos possuem DOI e 387 apresentaram alguma URL de PDF nos metadados de descoberta.
-- Os dois primeiros lotes gerais testaram cem URLs ainda não processadas. Trinta entregaram PDFs que corresponderam bibliograficamente aos estudos.
-- O corpus possui agora 58 PDFs integrais validados localmente. Entre os trinta novos documentos, 29 tiveram texto em todas as páginas e um teve texto em 182 de 183 páginas.
-- Permanecem 241 URLs de origem a testar, 633 resoluções por DOI e 26 buscas por título sem DOI.
+- A fila de 341 URLs diretas foi integralmente testada. Duzentas entregaram PDFs; 190 corresponderam bibliograficamente aos estudos e dez foram rejeitadas por divergência ou erro estrutural.
+- A rota OpenAlex consultou os 633 DOI que não possuíam URL documental. O serviço reconheceu 411 estudos, retornou 605 localizações e forneceu 69 URLs de PDF para 61 estudos.
+- Das 69 URLs do OpenAlex, quarenta entregaram PDFs. Trinta e sete foram validados e três foram rejeitados por divergência bibliográfica.
+- O corpus possui agora 255 PDFs integrais validados localmente. Permanecem 572 estudos com DOI para consulta em outras rotas e 26 estudos sem DOI para busca por título.
 
 ### Descoberta
 

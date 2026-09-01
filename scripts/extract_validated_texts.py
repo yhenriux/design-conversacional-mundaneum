@@ -16,16 +16,20 @@ def main():
  destination.mkdir(parents=True,exist_ok=True); results=[]
  for record_id,inspection in valid.items():
   doi=inspection["doi"]
-  source=ROOT/inspection["local_path"]; reader=PdfReader(source); parts=[]; extracted_pages=0
+  source=ROOT/inspection["local_path"]; reader=PdfReader(source); parts=[]; extracted_pages=0; page_errors=0
   for number,page in enumerate(reader.pages,1):
-   text=(page.extract_text() or "").strip()
+   try: text=(page.extract_text() or "").strip()
+   except Exception as exc:
+    page_errors+=1; text=f"[ERRO DE EXTRAÇÃO NA PÁGINA {number}: {type(exc).__name__}]"
    if text: extracted_pages+=1
    parts.append(f"\n\n===== PAGE {number} =====\n\n{text}")
-  content="".join(parts).lstrip(); target=destination/(source.stem+".txt"); target.write_text(content,encoding="utf-8")
+  content="".join(parts).lstrip()
+  content=content.encode("utf-8",errors="replace").decode("utf-8")
+  target=destination/(source.stem+".txt"); target.write_text(content,encoding="utf-8")
   results.append({"record_id":record_id,"title":inspection["title"],"doi":doi,"pdf_path":str(source.relative_to(ROOT)),"text_path":str(target.relative_to(ROOT)),
-   "pages":len(reader.pages),"pages_with_text":extracted_pages,"characters":len(content),"text_sha256":hashlib.sha256(content.encode()).hexdigest(),
-   "extraction_status":"complete" if extracted_pages==len(reader.pages) else "partial-page-coverage"})
- fields=list(results[0]) if results else ["record_id","title","doi","pdf_path","text_path","pages","pages_with_text","characters","text_sha256","extraction_status"]
+   "pages":len(reader.pages),"pages_with_text":extracted_pages,"page_errors":page_errors,"characters":len(content),"text_sha256":hashlib.sha256(content.encode()).hexdigest(),
+   "extraction_status":"complete" if extracted_pages==len(reader.pages) and page_errors==0 else "partial-page-coverage"})
+ fields=list(results[0]) if results else ["record_id","title","doi","pdf_path","text_path","pages","pages_with_text","page_errors","characters","text_sha256","extraction_status"]
  manifest.parent.mkdir(parents=True,exist_ok=True)
  with manifest.open("w",encoding="utf-8-sig",newline="") as h:
   w=csv.DictWriter(h,fieldnames=fields);w.writeheader();w.writerows(results)
