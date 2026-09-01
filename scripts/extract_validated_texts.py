@@ -10,7 +10,7 @@ DEST=ROOT/"extracted-text"/"local-only"
 MANIFEST=ROOT/"data"/"document-resolution"/"extraction-manifest.csv"
 def main():
  p=argparse.ArgumentParser(); p.add_argument("--validated",type=Path,default=VALIDATED); p.add_argument("--destination",type=Path,default=DEST); p.add_argument("--manifest",type=Path,default=MANIFEST); a=p.parse_args()
- with a.validated.open(encoding="utf-8-sig",newline="") as h: valid={r.get("expanded_id") or r["doi"]:r for r in csv.DictReader(h)}
+ with a.validated.open(encoding="utf-8-sig",newline="") as h: valid={r.get("corpus_id") or r.get("expanded_id") or r["doi"]:r for r in csv.DictReader(h)}
  destination=a.destination if a.destination.is_absolute() else ROOT/a.destination
  manifest=a.manifest if a.manifest.is_absolute() else ROOT/a.manifest
  destination.mkdir(parents=True,exist_ok=True); results=[]

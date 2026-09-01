@@ -1,0 +1,9 @@
+{
+  "available_source_urls_pending_at_inventory": 241,
+  "attempted_total": 100,
+  "attempted_this_run": 0,
+  "pdf_signatures_total": 30,
+  "failures_total": 70,
+  "remaining": 241,
+  "validity_pending": "Assinatura PDF não confirma correspondência bibliográfica nem integralidade."
+}

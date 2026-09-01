@@ -2,6 +2,15 @@
 
 ## Ciclo 20260831T003810Z
 
+### Corpus mestre
+
+- Os 1.064 estudos únicos descobertos formam o corpus mestre, independentemente da disponibilidade de PDF.
+- A presença de documento integral é tratada como estado documental, não como critério de validade bibliográfica.
+- 1.007 estudos possuem DOI e 387 apresentaram alguma URL de PDF nos metadados de descoberta.
+- Os dois primeiros lotes gerais testaram cem URLs ainda não processadas. Trinta entregaram PDFs que corresponderam bibliograficamente aos estudos.
+- O corpus possui agora 58 PDFs integrais validados localmente. Entre os trinta novos documentos, 29 tiveram texto em todas as páginas e um teve texto em 182 de 183 páginas.
+- Permanecem 241 URLs de origem a testar, 633 resoluções por DOI e 26 buscas por título sem DOI.
+
 ### Descoberta
 
 - 1.246 ocorrências recuperadas por OpenAlex e Crossref.
