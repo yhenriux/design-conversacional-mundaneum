@@ -1,15 +1,18 @@
 {
   "run_id": "20260831T003810Z",
-  "unique_discovered_studies": 1064,
+  "unique_discovered_studies": 1065,
+  "supplemental_discovery_files": [
+    "data/discovery/brazil-seed.csv"
+  ],
   "bibliographic_rule": "Todo registro deduplicado integra o corpus mestre; disponibilidade de PDF é estado documental.",
-  "with_doi": 1007,
-  "with_source_pdf_url": 387,
+  "with_doi": 1008,
+  "with_source_pdf_url": 388,
   "document_status": {
-    "pdf-integral-validado-local": 255,
-    "pdf-recebido-a-validar": 15,
-    "recuperacao-tentada-sem-pdf-valido": 196,
+    "pdf-integral-validado-local": 297,
+    "pdf-recebido-a-validar": 16,
+    "recuperacao-tentada-sem-pdf-valido": 279,
     "sem-doi-busca-por-titulo-pendente": 26,
-    "sem-url-pdf-resolucao-pendente": 572
+    "sem-url-pdf-resolucao-pendente": 447
   },
   "output": "data/corpus/master-corpus.csv"
 }

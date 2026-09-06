@@ -1,0 +1,2 @@
+﻿record_id,title,doi,pdf_path,text_path,pages,pages_with_text,page_errors,characters,text_sha256,extraction_status
+DCM-00825,Conversational Structure for Artificial Agents,10.70675/c7696897zc084z4c01z971ez569e5eda249a,library\staging\master-doaj-hal\DCM-00825-DH0001-Conversational-Structure-for-Artificial-Agents.pdf,extracted-text\local-only\master-doaj-hal\DCM-00825-DH0001-Conversational-Structure-for-Artificial-Agents.txt,135,107,0,280269,f0586d83e06c2b1dd227dffe19c29d5835c0ad2cce6e8226c62f138f20623067,partial-page-coverage

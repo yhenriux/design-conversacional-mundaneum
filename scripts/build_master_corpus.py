@@ -36,6 +36,13 @@ def key(row: dict[str, str]) -> tuple[str, str]:
 
 def main() -> None:
     candidates = read_rows(SOURCE)
+    supplemental_paths = sorted((ROOT / "data" / "discovery").glob("*.csv"))
+    source_keys = {key(row) for row in candidates}
+    for supplemental in supplemental_paths:
+        for record in read_rows(supplemental):
+            if key(record) not in source_keys:
+                candidates.append(record)
+                source_keys.add(key(record))
     resolution_root = ROOT / "data" / "document-resolution"
     validated_paths = sorted(set(resolution_root.rglob("validated-documents.csv")))
     download_paths = sorted(set(resolution_root.rglob("*download-manifest.csv")))
@@ -109,6 +116,7 @@ def main() -> None:
     summary = {
         "run_id": RUN,
         "unique_discovered_studies": len(rows),
+        "supplemental_discovery_files": [path.relative_to(ROOT).as_posix() for path in supplemental_paths],
         "bibliographic_rule": "Todo registro deduplicado integra o corpus mestre; disponibilidade de PDF é estado documental.",
         "with_doi": sum(bool(row["doi"]) for row in rows),
         "with_source_pdf_url": sum(bool(row["source_pdf_url"]) for row in rows),

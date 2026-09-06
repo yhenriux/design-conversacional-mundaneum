@@ -1,0 +1,2 @@
+﻿record_id,title,doi,pdf_path,text_path,pages,pages_with_text,page_errors,characters,text_sha256,extraction_status
+https://doi.org/10.5753/webmedia_estendido.2024.243706,ARIA e Interactive Access: projetando chatbots para idosos,https://doi.org/10.5753/webmedia_estendido.2024.243706,library\staging\brazil\ARIA-e-Interactive-Access-2024.pdf,extracted-text\local-only\brazil\ARIA-e-Interactive-Access-2024.txt,4,4,0,23040,c93201892d7a99b2819a0a95a2a377269d6b52ec282b27a4528aab6c74244a19,complete

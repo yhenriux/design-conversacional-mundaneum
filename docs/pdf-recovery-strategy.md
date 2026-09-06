@@ -17,6 +17,12 @@ Cada estudo recebe um dos seguintes estados: PDF integral validado localmente; P
 7. Procurar versões aceitas, preprints, capítulos e partes pertinentes quando a obra integral não estiver legalmente disponível.
 8. Registrar o motivo de cada falha e repetir somente rotas transitórias, como limite de requisições ou indisponibilidade do serviço.
 
+## Cobertura territorial brasileira
+
+A busca brasileira não se limita a uma universidade, uma região ou periódicos indexados internacionalmente. Para cada expressão em português, o processo percorre BDTD/IBICT, Oasisbr/BrCris, SciELO Brasil, ReP USP, bibliotecas de teses e repositórios institucionais distribuídos pelas cinco regiões do país. A unidade de inclusão permanece sendo a obra, e não a instituição que a hospeda.
+
+Uma fonte brasileira só entra no corpus de evidências quando o PDF puder ser baixado, corresponder ao estudo e tiver proveniência registrada. Registros sem arquivo preservam seu lugar no corpus mestre e seguem para novas rotas de localização.
+
 ## Critérios de aceitação do arquivo
 
 Uma resposta só recebe o estado de PDF validado depois de cumprir todos os critérios aplicáveis:

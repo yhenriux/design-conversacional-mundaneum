@@ -4,13 +4,16 @@
 
 ### Corpus mestre
 
-- Os 1.064 estudos únicos descobertos formam o corpus mestre, independentemente da disponibilidade de PDF.
+- Os 1.065 estudos únicos descobertos formam o corpus mestre, independentemente da disponibilidade de PDF.
+- Uma descoberta brasileira suplementar da USP/SBC foi adicionada em 05 set. 2026, validada e extraída como PDF integral.
 - A presença de documento integral é tratada como estado documental, não como critério de validade bibliográfica.
 - 1.007 estudos possuem DOI e 387 apresentaram alguma URL de PDF nos metadados de descoberta.
 - A fila de 341 URLs diretas foi integralmente testada. Duzentas entregaram PDFs; 190 corresponderam bibliograficamente aos estudos e dez foram rejeitadas por divergência ou erro estrutural.
 - A rota OpenAlex consultou os 633 DOI que não possuíam URL documental. O serviço reconheceu 411 estudos, retornou 605 localizações e forneceu 69 URLs de PDF para 61 estudos.
 - Das 69 URLs do OpenAlex, quarenta entregaram PDFs. Trinta e sete foram validados e três foram rejeitados por divergência bibliográfica.
-- O corpus possui agora 255 PDFs integrais validados localmente. Permanecem 572 estudos com DOI para consulta em outras rotas e 26 estudos sem DOI para busca por título.
+- O corpus possui agora 297 PDFs integrais validados localmente.
+- OpenAIRE, Semantic Scholar, DOAJ, HAL, Europe PMC e arXiv foram executados sobre os estudos pendentes. O arXiv localizou 22 correspondências por título, das quais 18 foram validadas como PDFs.
+- Permanecem 447 estudos com DOI sem PDF localizado nas rotas já executadas e 26 estudos sem DOI para busca por título e por repositório institucional.
 
 ### Descoberta
 
