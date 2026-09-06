@@ -1,0 +1,36 @@
+"""Gera catálogo público sem expor caminhos locais ou textos integrais."""
+import csv
+import json
+from pathlib import Path
+from datetime import datetime, timezone
+from urllib.parse import urlsplit
+
+ROOT = Path(__file__).resolve().parents[1]
+
+def read(path):
+    with path.open(encoding='utf-8-sig', newline='') as handle:
+        return list(csv.DictReader(handle))
+
+def safe_url(value):
+    return value if urlsplit(value or '').scheme in ('http', 'https') else ''
+
+def main():
+    records = []
+    for row in read(ROOT / 'data/corpus/master-corpus.csv'):
+        documents = []
+        for raw_path in row.get('document_manifest', '').split(';'):
+            path = ROOT / raw_path.strip()
+            if path.is_file() and path.suffix == '.csv':
+                documents.extend(read(path))
+        matches = [d for d in documents if d.get('corpus_id') == row['corpus_id'] or (row['doi'] and d.get('doi', '').removeprefix('https://doi.org/') == row['doi'].removeprefix('https://doi.org/'))]
+        pdf = next((safe_url(d.get('source_url', '')) for d in matches if safe_url(d.get('source_url', ''))), safe_url(row['source_pdf_url']))
+        records.append(dict(id=row['corpus_id'], title=row['title'], authors=row['authors'], year=row['year'], type=row['type'], source=row['source_api'], status=row['document_status'], score=row['ontology_score'], screening=row['screening_state'], doi=safe_url(row['doi'] if row['doi'].startswith('http') else 'https://doi.org/'+row['doi']) if row['doi'] else '', url=safe_url(row['landing_url']), pdf=pdf, license=row['license']))
+    destination = ROOT / 'site'
+    destination.mkdir(exist_ok=True)
+    (destination/'catalog.json').write_text(json.dumps({'generated':datetime.now(timezone.utc).isoformat(), 'records':records}, ensure_ascii=False), encoding='utf-8')
+    with (destination/'catalog.csv').open('w',encoding='utf-8-sig',newline='') as handle:
+        writer=csv.DictWriter(handle,fieldnames=list(records[0]));writer.writeheader();writer.writerows(records)
+    print(f'{len(records)} registros; {sum(r["status"]=="pdf-integral-validado-local" for r in records)} PDFs com validação automatizada.')
+
+if __name__ == '__main__':
+    main()
