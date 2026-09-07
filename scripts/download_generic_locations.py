@@ -6,8 +6,8 @@ from datetime import datetime,timezone
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];UA="DesignConversacionalMundaneum/1.1"
 def fetch(x,url_field,dest,label,index):
- candidate=f"{x['corpus_id']}-{label}{index:04d}";target=dest/f"{candidate}-{re.sub(r'[^a-zA-Z0-9]+','-',x['title']).strip('-')[:65]}.pdf";url=x[url_field]
- out={"candidate_id":candidate,"corpus_id":x["corpus_id"],"title":x["title"],"doi":x.get("doi",""),"url":url,"license":x.get("license",""),"version":x.get("version",x.get("link_type","")),"source_name":x.get("repository",x.get("resolver",label)),"path":target.relative_to(ROOT).as_posix(),"downloaded":"false","pdf_signature":"false","bytes":"0","sha256":"","content_type":"","retrieved_at":datetime.now(timezone.utc).isoformat(),"error":""}
+ corpus_id=x.get('corpus_id') or x.get('seed_corpus_id') or f'candidate-{index:05d}';candidate=f"{corpus_id}-{label}{index:04d}";target=dest/f"{candidate}-{re.sub(r'[^a-zA-Z0-9]+','-',x['title']).strip('-')[:65]}.pdf";url=x[url_field]
+ out={"candidate_id":candidate,"corpus_id":corpus_id,"title":x["title"],"doi":x.get("doi",""),"url":url,"license":x.get("license",""),"version":x.get("version",x.get("link_type","")),"source_name":x.get("repository",x.get("resolver",label)),"path":target.relative_to(ROOT).as_posix(),"downloaded":"false","pdf_signature":"false","bytes":"0","sha256":"","content_type":"","retrieved_at":datetime.now(timezone.utc).isoformat(),"error":""}
  try:
   req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"application/pdf,*/*;q=0.5"})
   with urllib.request.urlopen(req,timeout=60) as response:data=response.read();out["content_type"]=response.headers.get("Content-Type","")

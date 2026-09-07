@@ -47,6 +47,14 @@ Além das vinte rotas globais, o ciclo de exaustão documental usa fontes federa
 25. **Repositórios institucionais federados:** UFMG, UnB, UFRGS, UFSC, UFPE, UFBA, UFC, UFPR, UFRN, UFPB, UFPA, UFAM, UFG, UFMS, Unesp, Unicamp e demais instituições que exponham OAI-PMH ou bitstreams públicos.
 26. **LA Referencia:** rede latino-americana de repositórios, usada para localizar cópias depositadas no Brasil e em outros países da região.
 
+## Endpoints nacionais confirmados
+
+- **BDTD/IBICT OAI-PMH:** `https://bdtd.ibict.br/vufind/OAI/Server`.
+- **SciELO:** o provedor OAI-PMH é exposto pela infraestrutura SciELO; a rota deve ser confirmada por coleção antes da colheita.
+- **LA Referencia:** a plataforma mantém provedor OAI-PMH e API REST de entidades; a coleta pública depende do nodo e da documentação de cada país.
+
+Esses endpoints foram identificados em documentação pública. A confirmação de disponibilidade de PDF continua sendo feita registro a registro, sem presumir que todo item de um agregador possua texto completo.
+
 Na BDTD, o portal nacional aponta para o texto completo hospedado pela instituição de defesa. Por isso, a recuperação deve seguir o link institucional, registrar a instituição, o estado e o repositório de origem, e só aceitar o arquivo depois da validação bibliográfica.
 
 ## Ordem de conexão
