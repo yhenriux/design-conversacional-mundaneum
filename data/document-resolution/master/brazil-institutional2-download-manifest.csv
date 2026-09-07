@@ -1,0 +1,2 @@
+﻿candidate_id,corpus_id,title,doi,url,license,version,source_name,path,downloaded,pdf_signature,bytes,sha256,content_type,retrieved_at,error
+candidate-00001-BR20001,candidate-00001,DUBI: um framework para avaliação automática de chatbots,,https://repositorio.unb.br/jspui/bitstream/10482/50958/1/JoseRonaldoAgraDeSouzaFilho_DISSERT.pdf,,,BR2,library/staging/brazil-institutional2/candidate-00001-BR20001-DUBI-um-framework-para-avalia-o-autom-tica-de-chatbots.pdf,false,false,0,,,2026-09-07T23:22:55.127987+00:00,<HTTPError 503: 'Service Unavailable'>
