@@ -1,10 +1,10 @@
 {
-  "eligible_at_start": 507,
-  "attempted_total": 507,
-  "attempted_this_run": 7,
-  "resolved_total": 355,
-  "with_open_pdf": 58,
-  "studies_with_open_pdf": 58,
+  "eligible_at_start": 2146,
+  "attempted_total": 1107,
+  "attempted_this_run": 500,
+  "resolved_total": 879,
+  "with_open_pdf": 199,
+  "studies_with_open_pdf": 199,
   "errors_total": 7,
-  "remaining": 0
+  "remaining": 1039
 }
