@@ -1,0 +1,1006 @@
+{
+  "id": "https://openalex.org/W3084523377",
+  "doi": "https://doi.org/10.26686/wgtn.17148509.v1",
+  "title": "Factors Affecting Conversation Design for Digital Political Personae",
+  "display_name": "Factors Affecting Conversation Design for Digital Political Personae",
+  "publication_year": 2020,
+  "publication_date": "2020-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W3084523377",
+    "doi": "https://doi.org/10.26686/wgtn.17148509.v1",
+    "mag": "3084523377"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.26686/wgtn.17148509.v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.26686/wgtn.17148509.v1",
+    "pdf_url": "https://openaccess.wgtn.ac.nz/articles/thesis/Factors_Affecting_Conversation_Design_for_Digital_Political_Personae/17148509/2/files/31709642.pdf",
+    "source": null,
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Open Access Victoria University of Wellington | Te Herenga Waka",
+    "raw_type": "dissertation"
+  },
+  "type": "dissertation",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://openaccess.wgtn.ac.nz/articles/thesis/Factors_Affecting_Conversation_Design_for_Digital_Political_Personae/17148509/2/files/31709642.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5053464238",
+        "display_name": "Reuben Cox",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Cox, Reuben",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5053464238"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": true,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T13155",
+    "display_name": "Digital Communication and Language",
+    "score": 0.9926000237464905,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1709",
+      "display_name": "Human-Computer Interaction"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.9926000237464905,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9915000200271606,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10557",
+      "display_name": "Social Media and Politics",
+      "score": 0.9905999898910522,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.8588057160377502
+    },
+    {
+      "id": "https://openalex.org/keywords/chatbot",
+      "display_name": "Chatbot",
+      "score": 0.7809928059577942
+    },
+    {
+      "id": "https://openalex.org/keywords/emotive",
+      "display_name": "Emotive",
+      "score": 0.7086451649665833
+    },
+    {
+      "id": "https://openalex.org/keywords/politics",
+      "display_name": "Politics",
+      "score": 0.6565550565719604
+    },
+    {
+      "id": "https://openalex.org/keywords/sophistication",
+      "display_name": "Sophistication",
+      "score": 0.6065061688423157
+    },
+    {
+      "id": "https://openalex.org/keywords/political-communication",
+      "display_name": "Political communication",
+      "score": 0.5520157217979431
+    },
+    {
+      "id": "https://openalex.org/keywords/persona",
+      "display_name": "Persona",
+      "score": 0.45473745465278625
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.4518702030181885
+    },
+    {
+      "id": "https://openalex.org/keywords/public-relations",
+      "display_name": "Public relations",
+      "score": 0.41170576214790344
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.4055069088935852
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.31940555572509766
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.2984769940376282
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.20493996143341064
+    },
+    {
+      "id": "https://openalex.org/keywords/social-science",
+      "display_name": "Social science",
+      "score": 0.2022295892238617
+    },
+    {
+      "id": "https://openalex.org/keywords/communication",
+      "display_name": "Communication",
+      "score": 0.15140065550804138
+    },
+    {
+      "id": "https://openalex.org/keywords/law",
+      "display_name": "Law",
+      "score": 0.0804675817489624
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.8588057160377502
+    },
+    {
+      "id": "https://openalex.org/C2779041454",
+      "wikidata": "https://www.wikidata.org/wiki/Q870780",
+      "display_name": "Chatbot",
+      "level": 2,
+      "score": 0.7809928059577942
+    },
+    {
+      "id": "https://openalex.org/C2776215170",
+      "wikidata": "https://www.wikidata.org/wiki/Q5373820",
+      "display_name": "Emotive",
+      "level": 2,
+      "score": 0.7086451649665833
+    },
+    {
+      "id": "https://openalex.org/C94625758",
+      "wikidata": "https://www.wikidata.org/wiki/Q7163",
+      "display_name": "Politics",
+      "level": 2,
+      "score": 0.6565550565719604
+    },
+    {
+      "id": "https://openalex.org/C168725872",
+      "wikidata": "https://www.wikidata.org/wiki/Q991663",
+      "display_name": "Sophistication",
+      "level": 2,
+      "score": 0.6065061688423157
+    },
+    {
+      "id": "https://openalex.org/C90508534",
+      "wikidata": "https://www.wikidata.org/wiki/Q1660049",
+      "display_name": "Political communication",
+      "level": 3,
+      "score": 0.5520157217979431
+    },
+    {
+      "id": "https://openalex.org/C313442",
+      "wikidata": "https://www.wikidata.org/wiki/Q778556",
+      "display_name": "Persona",
+      "level": 2,
+      "score": 0.45473745465278625
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.4518702030181885
+    },
+    {
+      "id": "https://openalex.org/C39549134",
+      "wikidata": "https://www.wikidata.org/wiki/Q133080",
+      "display_name": "Public relations",
+      "level": 1,
+      "score": 0.41170576214790344
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.4055069088935852
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.31940555572509766
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.2984769940376282
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.20493996143341064
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.2022295892238617
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.15140065550804138
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0804675817489624
+    },
+    {
+      "id": "https://openalex.org/C19165224",
+      "wikidata": "https://www.wikidata.org/wiki/Q23404",
+      "display_name": "Anthropology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.26686/wgtn.17148509.v1",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.26686/wgtn.17148509.v1",
+      "pdf_url": "https://openaccess.wgtn.ac.nz/articles/thesis/Factors_Affecting_Conversation_Design_for_Digital_Political_Personae/17148509/2/files/31709642.pdf",
+      "source": null,
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Open Access Victoria University of Wellington | Te Herenga Waka",
+      "raw_type": "dissertation"
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/17148509",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/thesis/Factors_Affecting_Conversation_Design_for_Digital_Political_Personae/17148509",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Thesis"
+    },
+    {
+      "id": "pmh:oai:researcharchive.vuw.ac.nz:10063/9168",
+      "is_oa": true,
+      "landing_page_url": "http://researcharchive.vuw.ac.nz/handle/10063/9168",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400531",
+        "display_name": "ResearchArchive–Te Puna Rangahau (Victoria University of Wellington)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I41156924",
+        "host_organization_name": "Victoria University of Wellington",
+        "host_organization_lineage": [
+          "https://openalex.org/I41156924"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "",
+      "raw_type": "Masters"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.26686/wgtn.17148509.v1",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.26686/wgtn.17148509.v1",
+    "pdf_url": "https://openaccess.wgtn.ac.nz/articles/thesis/Factors_Affecting_Conversation_Design_for_Digital_Political_Personae/17148509/2/files/31709642.pdf",
+    "source": null,
+    "license": "cc-by-nc-sa",
+    "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Open Access Victoria University of Wellington | Te Herenga Waka",
+    "raw_type": "dissertation"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.5400000214576721,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3084523377.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3084523377.grobid-xml"
+  },
+  "referenced_works_count": 35,
+  "referenced_works": [
+    "https://openalex.org/W108612201",
+    "https://openalex.org/W192475667",
+    "https://openalex.org/W1029364628",
+    "https://openalex.org/W1539648202",
+    "https://openalex.org/W1761173690",
+    "https://openalex.org/W2135168816",
+    "https://openalex.org/W2153646932",
+    "https://openalex.org/W2159473174",
+    "https://openalex.org/W2165238024",
+    "https://openalex.org/W2234292000",
+    "https://openalex.org/W2264742718",
+    "https://openalex.org/W2623293810",
+    "https://openalex.org/W2626888736",
+    "https://openalex.org/W2635153012",
+    "https://openalex.org/W2713640100",
+    "https://openalex.org/W2756230309",
+    "https://openalex.org/W2765689551",
+    "https://openalex.org/W2793579911",
+    "https://openalex.org/W2804365752",
+    "https://openalex.org/W2884159461",
+    "https://openalex.org/W2913153134",
+    "https://openalex.org/W2967737202",
+    "https://openalex.org/W2993308847",
+    "https://openalex.org/W3015637832",
+    "https://openalex.org/W3121590070",
+    "https://openalex.org/W3122790649",
+    "https://openalex.org/W3123479682",
+    "https://openalex.org/W3134044440",
+    "https://openalex.org/W4241780089",
+    "https://openalex.org/W4300827275",
+    "https://openalex.org/W6667986835",
+    "https://openalex.org/W6693199996",
+    "https://openalex.org/W6749757951",
+    "https://openalex.org/W6753484649",
+    "https://openalex.org/W6814551917"
+  ],
+  "related_works": [
+    "https://openalex.org/W4383501580",
+    "https://openalex.org/W4214931137",
+    "https://openalex.org/W4387007686",
+    "https://openalex.org/W4313813117",
+    "https://openalex.org/W4382052417",
+    "https://openalex.org/W3192088754",
+    "https://openalex.org/W3004257401",
+    "https://openalex.org/W603725405",
+    "https://openalex.org/W3084631705",
+    "https://openalex.org/W3176146353"
+  ],
+  "abstract_inverted_index": {
+    "Digital": [
+      0
+    ],
+    "political": [
+      1,
+      18,
+      46,
+      68,
+      92,
+      116,
+      152,
+      168,
+      203
+    ],
+    "personae": [
+      2,
+      21,
+      39,
+      69,
+      117,
+      153
+    ],
+    "are": [
+      3,
+      32
+    ],
+    "common": [
+      4
+    ],
+    "on": [
+      5,
+      108,
+      118,
+      170,
+      196
+    ],
+    "social": [
+      6,
+      119
+    ],
+    "media,": [
+      7
+    ],
+    "representing": [
+      8
+    ],
+    "a": [
+      9,
+      25,
+      81,
+      171,
+      175
+    ],
+    "potential": [
+      10,
+      208
+    ],
+    "avenue": [
+      11
+    ],
+    "to": [
+      12,
+      62,
+      105,
+      140,
+      180,
+      209
+    ],
+    "inform": [
+      13,
+      212
+    ],
+    "and": [
+      14,
+      30,
+      101,
+      103,
+      205,
+      211
+    ],
+    "engage": [
+      15,
+      44,
+      210
+    ],
+    "citizens": [
+      16
+    ],
+    "in": [
+      17,
+      45,
+      48,
+      70,
+      91
+    ],
+    "conversation.": [
+      19
+    ],
+    "While": [
+      20
+    ],
+    "that": [
+      22,
+      122,
+      143,
+      165
+    ],
+    "function": [
+      23
+    ],
+    "as": [
+      24,
+      217,
+      219
+    ],
+    "digital": [
+      26,
+      67,
+      89,
+      151,
+      200
+    ],
+    "extension": [
+      27
+    ],
+    "of": [
+      28,
+      37,
+      40,
+      66,
+      77,
+      83,
+      88,
+      112,
+      124,
+      177,
+      184,
+      198,
+      215
+    ],
+    "politicians": [
+      29
+    ],
+    "commentators": [
+      31
+    ],
+    "clearly": [
+      33
+    ],
+    "identifiable,": [
+      34
+    ],
+    "large": [
+      35,
+      213
+    ],
+    "numbers": [
+      36,
+      214
+    ],
+    "automated": [
+      38
+    ],
+    "limited": [
+      41,
+      128
+    ],
+    "sophistication": [
+      42
+    ],
+    "also": [
+      43
+    ],
+    "exchanges": [
+      47
+    ],
+    "online": [
+      49
+    ],
+    "spaces.": [
+      50
+    ],
+    "Despite": [
+      51
+    ],
+    "their": [
+      52,
+      71
+    ],
+    "prevalence,": [
+      53
+    ],
+    "little": [
+      54
+    ],
+    "prior": [
+      55
+    ],
+    "work": [
+      56
+    ],
+    "has": [
+      57,
+      206
+    ],
+    "addressed": [
+      58
+    ],
+    "conversation": [
+      59,
+      169,
+      188
+    ],
+    "design": [
+      60,
+      157,
+      189
+    ],
+    "approaches": [
+      61,
+      84,
+      126
+    ],
+    "maximise": [
+      63
+    ],
+    "the": [
+      64,
+      78,
+      132,
+      146,
+      182,
+      185,
+      194,
+      207
+    ],
+    "effectiveness": [
+      65
+    ],
+    "interactions": [
+      72,
+      113
+    ],
+    "with": [
+      73,
+      114,
+      149,
+      174
+    ],
+    "users.": [
+      74
+    ],
+    "A": [
+      75,
+      159
+    ],
+    "review": [
+      76
+    ],
+    "literature": [
+      79,
+      195
+    ],
+    "highlighted": [
+      80
+    ],
+    "range": [
+      82
+    ],
+    "for": [
+      85,
+      96,
+      202,
+      224
+    ],
+    "effective": [
+      86,
+      199
+    ],
+    "use": [
+      87,
+      197
+    ],
+    "tools": [
+      90,
+      201
+    ],
+    "contexts,": [
+      93
+    ],
+    "including": [
+      94
+    ],
+    "strategies": [
+      95
+    ],
+    "conveying": [
+      97
+    ],
+    "information,": [
+      98
+    ],
+    "sustaining": [
+      99
+    ],
+    "engagement": [
+      100
+    ],
+    "employing": [
+      102
+    ],
+    "responding": [
+      104
+    ],
+    "emotive": [
+      106
+    ],
+    "language": [
+      107
+    ],
+    "polarising": [
+      109
+    ],
+    "topics.": [
+      110
+    ],
+    "Examination": [
+      111
+    ],
+    "existing": [
+      115,
+      150
+    ],
+    "media": [
+      120
+    ],
+    "revealed": [
+      121
+    ],
+    "many": [
+      123
+    ],
+    "these": [
+      125
+    ],
+    "were": [
+      127
+    ],
+    "or": [
+      129
+    ],
+    "absent": [
+      130
+    ],
+    "from": [
+      131,
+      193,
+      222
+    ],
+    "current": [
+      133
+    ],
+    "conversational": [
+      134
+    ],
+    "paradigm.": [
+      135
+    ],
+    "Chatbot": [
+      136
+    ],
+    "software": [
+      137
+    ],
+    "was": [
+      138,
+      163
+    ],
+    "used": [
+      139
+    ],
+    "explore": [
+      141
+    ],
+    "methods": [
+      142
+    ],
+    "would": [
+      144
+    ],
+    "address": [
+      145
+    ],
+    "issues": [
+      147
+    ],
+    "identified": [
+      148
+    ],
+    "through": [
+      154
+    ],
+    "an": [
+      155
+    ],
+    "iterative": [
+      156
+    ],
+    "process.": [
+      158
+    ],
+    "layered": [
+      160
+    ],
+    "interaction": [
+      161
+    ],
+    "scenario": [
+      162
+    ],
+    "developed": [
+      164,
+      190
+    ],
+    "supports": [
+      166
+    ],
+    "branching": [
+      167
+    ],
+    "central": [
+      172
+    ],
+    "topic,": [
+      173
+    ],
+    "base": [
+      176
+    ],
+    "secondary": [
+      178
+    ],
+    "topics": [
+      179
+    ],
+    "enhance": [
+      181
+    ],
+    "utility": [
+      183
+    ],
+    "persona.": [
+      186
+    ],
+    "The": [
+      187
+    ],
+    "incorporates": [
+      191
+    ],
+    "lessons": [
+      192
+    ],
+    "conversation,": [
+      204
+    ],
+    "participants,": [
+      216
+    ],
+    "well": [
+      218
+    ],
+    "gather": [
+      220
+    ],
+    "information": [
+      221
+    ],
+    "them": [
+      223
+    ],
+    "analysis.": [
+      225
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-09-07T09:17:50.787605",
+  "created_date": "2025-10-10T00:00:00"
+}

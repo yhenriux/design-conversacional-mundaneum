@@ -1,0 +1,359 @@
+{
+  "id": "https://openalex.org/W4235224662",
+  "doi": "https://doi.org/10.1007/978-3-658-28849-5_5",
+  "title": "Conversation Design",
+  "display_name": "Conversation Design",
+  "publication_year": 2020,
+  "publication_date": "2020-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4235224662",
+    "doi": "https://doi.org/10.1007/978-3-658-28849-5_5"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-658-28849-5_5",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-658-28849-5_5",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Chatbots",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5005420713",
+        "display_name": "Andreas Kohne",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": true,
+      "raw_author_name": "Andreas Kohne",
+      "raw_affiliation_strings": [
+        "Materna TMT GmbH, Dortmund, Deutschland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Materna TMT GmbH, Dortmund, Deutschland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050853734",
+        "display_name": "Philipp Kleinmanns",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Kleinmanns",
+      "raw_affiliation_strings": [
+        "Materna SE, Dortmund, Deutschland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Materna SE, Dortmund, Deutschland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5110749360",
+        "display_name": "Christian Rolf",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Christian Rolf",
+      "raw_affiliation_strings": [
+        "standpunkt.digital, Dortmund, Deutschland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "standpunkt.digital, Dortmund, Deutschland",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5091252068",
+        "display_name": "Moritz Beck",
+        "orcid": "https://orcid.org/0000-0002-2972-8287"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Moritz Beck",
+      "raw_affiliation_strings": [
+        "Memacon GmbH, Hamburg, Deutschland"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Memacon GmbH, Hamburg, Deutschland",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5005420713"
+  ],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.5359,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.901191,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 95
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "83",
+    "last_page": "97"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12373",
+    "display_name": "Linguistic research and analysis",
+    "score": 0.9642999768257141,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1203",
+      "display_name": "Language and Linguistics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/12",
+      "display_name": "Arts and Humanities"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12373",
+      "display_name": "Linguistic research and analysis",
+      "score": 0.9642999768257141,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14081",
+      "display_name": "Linguistic Education and Pedagogy",
+      "score": 0.9427000284194946,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14321",
+      "display_name": "Religion, Theology, and Education",
+      "score": 0.9172000288963318,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1212",
+        "display_name": "Religious studies"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/chatbot",
+      "display_name": "Chatbot",
+      "score": 0.8114019632339478
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.41948723793029785
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.3246731162071228
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.2479623258113861
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.14677366614341736
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.08966469764709473
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779041454",
+      "wikidata": "https://www.wikidata.org/wiki/Q870780",
+      "display_name": "Chatbot",
+      "level": 2,
+      "score": 0.8114019632339478
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.41948723793029785
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.3246731162071228
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2479623258113861
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.14677366614341736
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.08966469764709473
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-658-28849-5_5",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-658-28849-5_5",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Chatbots",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 1,
+  "referenced_works": [
+    "https://openalex.org/W2264742718"
+  ],
+  "related_works": [
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W4383501580",
+    "https://openalex.org/W4214931137",
+    "https://openalex.org/W4387007686",
+    "https://openalex.org/W4313813117",
+    "https://openalex.org/W4382052417",
+    "https://openalex.org/W3192088754",
+    "https://openalex.org/W3084631705",
+    "https://openalex.org/W3176146353",
+    "https://openalex.org/W4293646425"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-04T08:18:43.703281",
+  "created_date": "2025-10-10T00:00:00"
+}

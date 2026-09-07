@@ -1,0 +1,6701 @@
+{
+  "meta": {
+    "count": 9,
+    "db_response_time_ms": 15,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W2485752924)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W2485752924"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W2485752924&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2994173442",
+      "doi": null,
+      "title": "Technoethical Inquiry: From Technological Systems to Society",
+      "display_name": "Technoethical Inquiry: From Technological Systems to Society",
+      "publication_year": 2009,
+      "publication_date": "2009-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2994173442",
+        "mag": "2994173442"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:doaj.org/article:60ac2e766fbe4da9b586712b4ecee888",
+        "is_oa": false,
+        "landing_page_url": "https://doaj.org/article/60ac2e766fbe4da9b586712b4ecee888",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401280",
+          "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "Global Media Journal: Canadian Edition, Vol 2, Iss 1, Pp 5-21 (2009)",
+        "raw_type": "article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055324184",
+            "display_name": "Rocci Luppicini",
+            "orcid": "https://orcid.org/0000-0003-1962-2697"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Rocci Luppicini",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0003-1962-2697",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055324184"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.8572,
+      "has_fulltext": false,
+      "cited_by_count": 29,
+      "citation_normalized_percentile": {
+        "value": 0.74047981,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11953",
+        "display_name": "Neuroethics, Human Enhancement, Biomedical Innovations",
+        "score": 0.9879000186920166,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2805",
+          "display_name": "Cognitive Neuroscience"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/28",
+          "display_name": "Neuroscience"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/1",
+          "display_name": "Life Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11953",
+          "display_name": "Neuroethics, Human Enhancement, Biomedical Innovations",
+          "score": 0.9879000186920166,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12788",
+          "display_name": "Space Science and Extraterrestrial Life",
+          "score": 0.982200026512146,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3103",
+            "display_name": "Astronomy and Astrophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14266",
+          "display_name": "Interdisciplinary Studies: Technology, Society, and Humanities",
+          "score": 0.9337999820709229,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1207",
+            "display_name": "History and Philosophy of Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4986412525177002
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.4234336018562317
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.41198045015335083
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.3573051393032074
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.3419467806816101
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.16133299469947815
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.15705502033233643
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4986412525177002
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.4234336018562317
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.41198045015335083
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.3573051393032074
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.3419467806816101
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.16133299469947815
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.15705502033233643
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "pmh:oai:doaj.org/article:60ac2e766fbe4da9b586712b4ecee888",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/60ac2e766fbe4da9b586712b4ecee888",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Global Media Journal: Canadian Edition, Vol 2, Iss 1, Pp 5-21 (2009)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 17,
+      "referenced_works": [
+        "https://openalex.org/W434039556",
+        "https://openalex.org/W1527571715",
+        "https://openalex.org/W1644932108",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1983343825",
+        "https://openalex.org/W1997210479",
+        "https://openalex.org/W2025265340",
+        "https://openalex.org/W2060780441",
+        "https://openalex.org/W2094251476",
+        "https://openalex.org/W2096178388",
+        "https://openalex.org/W2116871363",
+        "https://openalex.org/W2314887345",
+        "https://openalex.org/W2327521297",
+        "https://openalex.org/W2476135936",
+        "https://openalex.org/W2484805907",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2942733065"
+      ],
+      "related_works": [
+        "https://openalex.org/W2314887345",
+        "https://openalex.org/W2798517045",
+        "https://openalex.org/W2326753027",
+        "https://openalex.org/W2490457784",
+        "https://openalex.org/W2804515586",
+        "https://openalex.org/W2560793431",
+        "https://openalex.org/W2073066345",
+        "https://openalex.org/W3120810931",
+        "https://openalex.org/W2347967519",
+        "https://openalex.org/W1520105181",
+        "https://openalex.org/W2977480080",
+        "https://openalex.org/W2352919606",
+        "https://openalex.org/W2358128471",
+        "https://openalex.org/W2742857957",
+        "https://openalex.org/W278874594",
+        "https://openalex.org/W2115809702",
+        "https://openalex.org/W2023513627",
+        "https://openalex.org/W319534499",
+        "https://openalex.org/W231721311",
+        "https://openalex.org/W2993689628"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          62,
+          100
+        ],
+        "paper": [
+          1,
+          37,
+          84
+        ],
+        "explores": [
+          2
+        ],
+        "technoethical": [
+          3,
+          31,
+          164
+        ],
+        "inquiry": [
+          4,
+          133
+        ],
+        "as": [
+          5,
+          87,
+          96,
+          136
+        ],
+        "a": [
+          6,
+          70,
+          88,
+          97,
+          137
+        ],
+        "social": [
+          7,
+          47,
+          66,
+          74,
+          138,
+          145
+        ],
+        "systems": [
+          8,
+          48,
+          67
+        ],
+        "theory": [
+          9,
+          68,
+          140
+        ],
+        "and": [
+          10,
+          28,
+          53,
+          76,
+          117,
+          141,
+          146
+        ],
+        "methodology": [
+          11
+        ],
+        "used": [
+          12,
+          158
+        ],
+        "within": [
+          13,
+          69
+        ],
+        "the": [
+          14,
+          36,
+          58,
+          83,
+          104,
+          110,
+          119,
+          125,
+          152
+        ],
+        "field": [
+          15
+        ],
+        "of": [
+          16,
+          25,
+          60,
+          73,
+          92,
+          106,
+          113,
+          127,
+          154,
+          163
+        ],
+        "Technoethics.": [
+          17
+        ],
+        "The": [
+          18
+        ],
+        "purpose": [
+          19
+        ],
+        "is": [
+          20,
+          38,
+          134
+        ],
+        "to": [
+          21,
+          57,
+          64,
+          102,
+          159
+        ],
+        "leverage": [
+          22
+        ],
+        "readers": [
+          23
+        ],
+        "understanding": [
+          24
+        ],
+        "theoretical": [
+          26
+        ],
+        "concepts": [
+          27
+        ],
+        "considerations": [
+          29,
+          122
+        ],
+        "underlying": [
+          30
+        ],
+        "inquiry.": [
+          32,
+          148,
+          165
+        ],
+        "To": [
+          33
+        ],
+        "this": [
+          34
+        ],
+        "end,": [
+          35
+        ],
+        "divided": [
+          39
+        ],
+        "into": [
+          40
+        ],
+        "three": [
+          41
+        ],
+        "sections.": [
+          42
+        ],
+        "First,": [
+          43
+        ],
+        "it": [
+          44,
+          78
+        ],
+        "sketches": [
+          45
+        ],
+        "out": [
+          46
+        ],
+        "theory,": [
+          49
+        ],
+        "its": [
+          50,
+          54
+        ],
+        "general": [
+          51
+        ],
+        "principles,": [
+          52
+        ],
+        "unique": [
+          55
+        ],
+        "approach": [
+          56
+        ],
+        "study": [
+          59,
+          75,
+          153
+        ],
+        "society.": [
+          61,
+          130
+        ],
+        "helps": [
+          63,
+          101
+        ],
+        "situate": [
+          65
+        ],
+        "larger": [
+          71
+        ],
+        "context": [
+          72
+        ],
+        "distinguish": [
+          77
+        ],
+        "from": [
+          79,
+          124,
+          151
+        ],
+        "other": [
+          80
+        ],
+        "approaches.": [
+          81
+        ],
+        "Next,": [
+          82
+        ],
+        "discusses": [
+          85
+        ],
+        "technology": [
+          86,
+          114,
+          128
+        ],
+        "central": [
+          89
+        ],
+        "organizing": [
+          90
+        ],
+        "construct": [
+          91
+        ],
+        "contemporary": [
+          93,
+          107
+        ],
+        "society": [
+          94
+        ],
+        "viewed": [
+          95
+        ],
+        "technological": [
+          98
+        ],
+        "system.": [
+          99
+        ],
+        "clarify": [
+          103
+        ],
+        "nature": [
+          105
+        ],
+        "society,": [
+          108,
+          116
+        ],
+        "explain": [
+          109
+        ],
+        "intermediating": [
+          111
+        ],
+        "role": [
+          112
+        ],
+        "in": [
+          115,
+          129
+        ],
+        "address": [
+          118
+        ],
+        "new": [
+          120
+        ],
+        "social/ethical": [
+          121
+        ],
+        "arising": [
+          123
+        ],
+        "intermediation": [
+          126
+        ],
+        "Finally,": [
+          131
+        ],
+        "techoethical": [
+          132
+        ],
+        "posited": [
+          135
+        ],
+        "system": [
+          139
+        ],
+        "method": [
+          142
+        ],
+        "for": [
+          143
+        ],
+        "guiding": [
+          144
+        ],
+        "ethical": [
+          147
+        ],
+        "Examples": [
+          149
+        ],
+        "derived": [
+          150
+        ],
+        "mass": [
+          155
+        ],
+        "media": [
+          156
+        ],
+        "are": [
+          157
+        ],
+        "illustrate": [
+          160
+        ],
+        "basic": [
+          161
+        ],
+        "principles": [
+          162
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-05-06T06:10:43.113611",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2476748197",
+      "doi": "https://doi.org/10.4018/978-1-60566-952-6.ch009",
+      "title": "Educational and Professional Technoethics",
+      "display_name": "Educational and Professional Technoethics",
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2476748197",
+        "doi": "https://doi.org/10.4018/978-1-60566-952-6.ch009",
+        "mag": "2476748197"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4018/978-1-60566-952-6.ch009",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4018/978-1-60566-952-6.ch009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210168370",
+          "display_name": "Advances in information security, privacy, and ethics book series",
+          "issn_l": "1948-9730",
+          "issn": [
+            "1948-9730",
+            "1948-9749"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Information Security, Privacy, and Ethics",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055324184",
+            "display_name": "Rocci Luppicini",
+            "orcid": "https://orcid.org/0000-0003-1962-2697"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153718931",
+              "display_name": "University of Ottawa",
+              "ror": "https://ror.org/03c4mmv16",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Luppicini Rocci",
+          "raw_affiliation_strings": [
+            "University of Ottawa, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Ottawa, Canada",
+              "institution_ids": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055324184"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I153718931"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.16872428,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "163",
+        "last_page": "180"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11492",
+        "display_name": "Academic integrity and plagiarism",
+        "score": 0.9986000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11492",
+          "display_name": "Academic integrity and plagiarism",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11058",
+          "display_name": "Ethics in Business and Education",
+          "score": 0.9926999807357788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.9205999970436096,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/happening",
+          "display_name": "Happening",
+          "score": 0.8091384768486023
+        },
+        {
+          "id": "https://openalex.org/keywords/upload",
+          "display_name": "Upload",
+          "score": 0.5359984040260315
+        },
+        {
+          "id": "https://openalex.org/keywords/the-internet",
+          "display_name": "The Internet",
+          "score": 0.5131810307502747
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.4615599513053894
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.44475317001342773
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.39849215745925903
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.3817684054374695
+        },
+        {
+          "id": "https://openalex.org/keywords/media-studies",
+          "display_name": "Media studies",
+          "score": 0.3712995946407318
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-privacy",
+          "display_name": "Internet privacy",
+          "score": 0.36676025390625
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-ethics",
+          "display_name": "Environmental ethics",
+          "score": 0.34888339042663574
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.23148274421691895
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.2312023937702179
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.16800686717033386
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.14220643043518066
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.07888704538345337
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779527642",
+          "wikidata": "https://www.wikidata.org/wiki/Q108874",
+          "display_name": "Happening",
+          "level": 3,
+          "score": 0.8091384768486023
+        },
+        {
+          "id": "https://openalex.org/C71901391",
+          "wikidata": "https://www.wikidata.org/wiki/Q7126699",
+          "display_name": "Upload",
+          "level": 2,
+          "score": 0.5359984040260315
+        },
+        {
+          "id": "https://openalex.org/C110875604",
+          "wikidata": "https://www.wikidata.org/wiki/Q75",
+          "display_name": "The Internet",
+          "level": 2,
+          "score": 0.5131810307502747
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.4615599513053894
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.44475317001342773
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.39849215745925903
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3817684054374695
+        },
+        {
+          "id": "https://openalex.org/C29595303",
+          "wikidata": "https://www.wikidata.org/wiki/Q165650",
+          "display_name": "Media studies",
+          "level": 1,
+          "score": 0.3712995946407318
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.36676025390625
+        },
+        {
+          "id": "https://openalex.org/C95124753",
+          "wikidata": "https://www.wikidata.org/wiki/Q875686",
+          "display_name": "Environmental ethics",
+          "level": 1,
+          "score": 0.34888339042663574
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.23148274421691895
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.2312023937702179
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.16800686717033386
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.14220643043518066
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.07888704538345337
+        },
+        {
+          "id": "https://openalex.org/C52119013",
+          "wikidata": "https://www.wikidata.org/wiki/Q50637",
+          "display_name": "Art history",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C554144382",
+          "wikidata": "https://www.wikidata.org/wiki/Q213156",
+          "display_name": "Performance art",
+          "level": 2,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/978-1-60566-952-6.ch009",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4018/978-1-60566-952-6.ch009",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210168370",
+            "display_name": "Advances in information security, privacy, and ethics book series",
+            "issn_l": "1948-9730",
+            "issn": [
+              "1948-9730",
+              "1948-9749"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in Information Security, Privacy, and Ethics",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 29,
+      "referenced_works": [
+        "https://openalex.org/W1494292754",
+        "https://openalex.org/W1511964165",
+        "https://openalex.org/W1535174579",
+        "https://openalex.org/W1542594036",
+        "https://openalex.org/W1565659799",
+        "https://openalex.org/W1631767606",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1974039524",
+        "https://openalex.org/W1991976654",
+        "https://openalex.org/W1999864931",
+        "https://openalex.org/W2025845715",
+        "https://openalex.org/W2040917341",
+        "https://openalex.org/W2098401919",
+        "https://openalex.org/W2122667292",
+        "https://openalex.org/W2171617513",
+        "https://openalex.org/W2476135936",
+        "https://openalex.org/W2479356678",
+        "https://openalex.org/W2484203494",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2490457784",
+        "https://openalex.org/W2496079946",
+        "https://openalex.org/W2506878877",
+        "https://openalex.org/W6630729599",
+        "https://openalex.org/W6632111601",
+        "https://openalex.org/W6632558790",
+        "https://openalex.org/W6636742777",
+        "https://openalex.org/W6721281882",
+        "https://openalex.org/W6723926504",
+        "https://openalex.org/W6724452518"
+      ],
+      "related_works": [
+        "https://openalex.org/W2281462793",
+        "https://openalex.org/W574712782",
+        "https://openalex.org/W4234792686",
+        "https://openalex.org/W2414401146",
+        "https://openalex.org/W2790008319",
+        "https://openalex.org/W2284511461",
+        "https://openalex.org/W2368538948",
+        "https://openalex.org/W2240749523",
+        "https://openalex.org/W4232778079",
+        "https://openalex.org/W4231829069"
+      ],
+      "abstract_inverted_index": {
+        "Are": [
+          0
+        ],
+        "we": [
+          1
+        ],
+        "developing": [
+          2
+        ],
+        "a": [
+          3,
+          44
+        ],
+        "(global)": [
+          4
+        ],
+        "society": [
+          5,
+          88
+        ],
+        "where": [
+          6,
+          29,
+          42
+        ],
+        "our": [
+          7,
+          75,
+          87,
+          104
+        ],
+        "youth": [
+          8
+        ],
+        "think": [
+          9
+        ],
+        "it": [
+          10,
+          25,
+          89
+        ],
+        "is": [
+          11,
+          55,
+          72,
+          107
+        ],
+        "ok": [
+          12
+        ],
+        "to": [
+          13,
+          111
+        ],
+        "copy": [
+          14
+        ],
+        "and": [
+          15,
+          23,
+          98
+        ],
+        "paste": [
+          16
+        ],
+        "whatever": [
+          17
+        ],
+        "they": [
+          18,
+          49
+        ],
+        "see": [
+          19
+        ],
+        "on": [
+          20,
+          86
+        ],
+        "the": [
+          21,
+          53,
+          68,
+          80,
+          92,
+          101,
+          108
+        ],
+        "Internet": [
+          22
+        ],
+        "turn": [
+          24
+        ],
+        "in": [
+          26,
+          74,
+          85,
+          100
+        ],
+        "for": [
+          27
+        ],
+        "homework;": [
+          28
+        ],
+        "writing": [
+          30
+        ],
+        "an": [
+          31
+        ],
+        "English": [
+          32
+        ],
+        "paper": [
+          33
+        ],
+        "would": [
+          34,
+          59
+        ],
+        "include": [
+          35
+        ],
+        "BTW,": [
+          36
+        ],
+        "IMHO,": [
+          37
+        ],
+        "LOL": [
+          38
+        ],
+        "among": [
+          39
+        ],
+        "other": [
+          40
+        ],
+        "emoticons;": [
+          41
+        ],
+        "downloading": [
+          43
+        ],
+        "song": [
+          45
+        ],
+        "or": [
+          46
+        ],
+        "movie": [
+          47
+        ],
+        "that": [
+          48
+        ],
+        "can": [
+          50
+        ],
+        "pirate": [
+          51
+        ],
+        "from": [
+          52
+        ],
+        "Web": [
+          54
+        ],
+        "perfectly": [
+          56
+        ],
+        "ok?": [
+          57
+        ],
+        "We": [
+          58
+        ],
+        "certainly": [
+          60
+        ],
+        "hope": [
+          61
+        ],
+        "not.": [
+          62
+        ],
+        "However,": [
+          63
+        ],
+        "these": [
+          64,
+          113
+        ],
+        "concerns": [
+          65
+        ],
+        "are": [
+          66
+        ],
+        "just": [
+          67
+        ],
+        "tip": [
+          69
+        ],
+        "of": [
+          70,
+          83,
+          94,
+          103
+        ],
+        "what": [
+          71
+        ],
+        "happening": [
+          73
+        ],
+        "society.": [
+          76,
+          105
+        ],
+        "When": [
+          77
+        ],
+        "looking": [
+          78
+        ],
+        "at": [
+          79
+        ],
+        "social": [
+          81
+        ],
+        "impact": [
+          82
+        ],
+        "technology": [
+          84
+        ],
+        "becomes": [
+          90
+        ],
+        "clear": [
+          91
+        ],
+        "importance": [
+          93
+        ],
+        "instilling": [
+          95
+        ],
+        "ethical": [
+          96,
+          114
+        ],
+        "behaviors": [
+          97
+        ],
+        "practices": [
+          99
+        ],
+        "members": [
+          102
+        ],
+        "Where": [
+          106
+        ],
+        "best": [
+          109
+        ],
+        "place": [
+          110
+        ],
+        "instill": [
+          112
+        ],
+        "behaviors?": [
+          115
+        ],
+        "--Gearhart,": [
+          116
+        ],
+        "2008,": [
+          117
+        ],
+        "p.263.": [
+          118
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-25T07:29:55.448023",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2495452823",
+      "doi": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+      "title": "Thinking More Dynamically about Using Sound to Enhance Learning from Instructional Technologies",
+      "display_name": "Thinking More Dynamically about Using Sound to Enhance Learning from Instructional Technologies",
+      "publication_year": 2014,
+      "publication_date": "2014-05-02",
+      "ids": {
+        "openalex": "https://openalex.org/W2495452823",
+        "doi": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+        "mag": "2495452823"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1093/oxfordhb/9780199797226.013.004",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463708",
+          "display_name": "Oxford University Press eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Oxford Handbook of Interactive Audio",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036163493",
+            "display_name": "Karen A. Collins",
+            "orcid": "https://orcid.org/0000-0001-6588-9574"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Karen Collins",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086060956",
+            "display_name": "Bill Kapralos",
+            "orcid": "https://orcid.org/0000-0003-0434-3847"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bill Kapralos",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080989841",
+            "display_name": "Holly Tessler",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Holly Tessler",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112620137",
+            "display_name": "M. J. Bishop",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.J. Bishop",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6564,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.81981348,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11516",
+        "display_name": "Visual and Cognitive Learning Processes",
+        "score": 0.9952999949455261,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11516",
+          "display_name": "Visual and Cognitive Learning Processes",
+          "score": 0.9952999949455261,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10072",
+          "display_name": "Science Education and Pedagogy",
+          "score": 0.9607999920845032,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13106",
+          "display_name": "Neuroscience, Education and Cognitive Function",
+          "score": 0.9606999754905701,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sound",
+          "display_name": "Sound (geography)",
+          "score": 0.6600703001022339
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.48751136660575867
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.40298348665237427
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3731048107147217
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.17859309911727905
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.08837300539016724
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C203718221",
+          "wikidata": "https://www.wikidata.org/wiki/Q491713",
+          "display_name": "Sound (geography)",
+          "level": 2,
+          "score": 0.6600703001022339
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.48751136660575867
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.40298348665237427
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3731048107147217
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.17859309911727905
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.08837300539016724
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1093/oxfordhb/9780199797226.013.004",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463708",
+            "display_name": "Oxford University Press eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Oxford Handbook of Interactive Audio",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 71,
+      "referenced_works": [
+        "https://openalex.org/W14809360",
+        "https://openalex.org/W26919075",
+        "https://openalex.org/W48809960",
+        "https://openalex.org/W63464001",
+        "https://openalex.org/W93789812",
+        "https://openalex.org/W115490372",
+        "https://openalex.org/W201552680",
+        "https://openalex.org/W232971164",
+        "https://openalex.org/W350622886",
+        "https://openalex.org/W567036164",
+        "https://openalex.org/W605263502",
+        "https://openalex.org/W612249010",
+        "https://openalex.org/W801784683",
+        "https://openalex.org/W1483155202",
+        "https://openalex.org/W1492445020",
+        "https://openalex.org/W1494287956",
+        "https://openalex.org/W1502981793",
+        "https://openalex.org/W1503480250",
+        "https://openalex.org/W1519522181",
+        "https://openalex.org/W1522392524",
+        "https://openalex.org/W1525490064",
+        "https://openalex.org/W1535927496",
+        "https://openalex.org/W1571144263",
+        "https://openalex.org/W1577674843",
+        "https://openalex.org/W1582639432",
+        "https://openalex.org/W1591261088",
+        "https://openalex.org/W1597739853",
+        "https://openalex.org/W1602376929",
+        "https://openalex.org/W1674066309",
+        "https://openalex.org/W1773016195",
+        "https://openalex.org/W1814179671",
+        "https://openalex.org/W1866954957",
+        "https://openalex.org/W1878893887",
+        "https://openalex.org/W1964538581",
+        "https://openalex.org/W1984314602",
+        "https://openalex.org/W1987072627",
+        "https://openalex.org/W1989474673",
+        "https://openalex.org/W1991223298",
+        "https://openalex.org/W2013020033",
+        "https://openalex.org/W2015347343",
+        "https://openalex.org/W2024762857",
+        "https://openalex.org/W2039537833",
+        "https://openalex.org/W2043896420",
+        "https://openalex.org/W2046036800",
+        "https://openalex.org/W2053915626",
+        "https://openalex.org/W2066052452",
+        "https://openalex.org/W2066785847",
+        "https://openalex.org/W2071493760",
+        "https://openalex.org/W2074091975",
+        "https://openalex.org/W2088974767",
+        "https://openalex.org/W2100254477",
+        "https://openalex.org/W2117342357",
+        "https://openalex.org/W2126153334",
+        "https://openalex.org/W2143560158",
+        "https://openalex.org/W2149095485",
+        "https://openalex.org/W2158232862",
+        "https://openalex.org/W2168139785",
+        "https://openalex.org/W2171301064",
+        "https://openalex.org/W2185027734",
+        "https://openalex.org/W2232925767",
+        "https://openalex.org/W2324956377",
+        "https://openalex.org/W2478203769",
+        "https://openalex.org/W2480380069",
+        "https://openalex.org/W2482792125",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2980912855",
+        "https://openalex.org/W2993383518",
+        "https://openalex.org/W3041214984",
+        "https://openalex.org/W3099985166",
+        "https://openalex.org/W3128690923",
+        "https://openalex.org/W4285719527"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2909726438",
+        "https://openalex.org/W2382290278",
+        "https://openalex.org/W2350741829",
+        "https://openalex.org/W2130043461",
+        "https://openalex.org/W2530322880"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-11T09:08:48.828518",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2504742452",
+      "doi": "https://doi.org/10.4018/978-1-4666-2110-7.ch025",
+      "title": "Design-Based Approach for the Implementation of an International Cyberlearning Community of Inquiry for Medical Education",
+      "display_name": "Design-Based Approach for the Implementation of an International Cyberlearning Community of Inquiry for Medical Education",
+      "publication_year": 2012,
+      "publication_date": "2012-08-29",
+      "ids": {
+        "openalex": "https://openalex.org/W2504742452",
+        "doi": "https://doi.org/10.4018/978-1-4666-2110-7.ch025",
+        "mag": "2504742452"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4018/978-1-4666-2110-7.ch025",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4018/978-1-4666-2110-7.ch025",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463409",
+          "display_name": "IGI Global eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Educational Communities of Inquiry",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077356277",
+            "display_name": "Yianna Vovides",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I193531525",
+              "display_name": "George Washington University",
+              "ror": "https://ror.org/00y4zzh67",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I193531525"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yianna Vovides",
+          "raw_affiliation_strings": [
+            "George Washington University, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "George Washington University, USA",
+              "institution_ids": [
+                "https://openalex.org/I193531525"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036093189",
+            "display_name": "Kristine Korhumel",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I193531525",
+              "display_name": "George Washington University",
+              "ror": "https://ror.org/00y4zzh67",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I193531525"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kristine Korhumel",
+          "raw_affiliation_strings": [
+            "George Washington University, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "George Washington University, USA",
+              "institution_ids": [
+                "https://openalex.org/I193531525"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I193531525"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9115,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.79167339,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "509",
+        "last_page": "525"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13280",
+        "display_name": "Biomedical and Engineering Education",
+        "score": 0.9846000075340271,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2204",
+          "display_name": "Biomedical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13280",
+          "display_name": "Biomedical and Engineering Education",
+          "score": 0.9846000075340271,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2204",
+            "display_name": "Biomedical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10636",
+          "display_name": "Innovative Teaching and Learning Methods",
+          "score": 0.9836999773979187,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14246",
+          "display_name": "E-Learning and Knowledge Management",
+          "score": 0.9836000204086304,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1706",
+            "display_name": "Computer Science Applications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conceptualization",
+          "display_name": "Conceptualization",
+          "score": 0.8628929853439331
+        },
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.42226776480674744
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.41199612617492676
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.3886844217777252
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.36345887184143066
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.34949177503585815
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.09435603022575378
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C90734943",
+          "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+          "display_name": "Conceptualization",
+          "level": 2,
+          "score": 0.8628929853439331
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.42226776480674744
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.41199612617492676
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.3886844217777252
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.36345887184143066
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.34949177503585815
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.09435603022575378
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/978-1-4666-2110-7.ch025",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4018/978-1-4666-2110-7.ch025",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463409",
+            "display_name": "IGI Global eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Educational Communities of Inquiry",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 25,
+      "referenced_works": [
+        "https://openalex.org/W579474715",
+        "https://openalex.org/W1481937710",
+        "https://openalex.org/W1525391024",
+        "https://openalex.org/W1526440157",
+        "https://openalex.org/W1565408702",
+        "https://openalex.org/W1648755690",
+        "https://openalex.org/W1656218917",
+        "https://openalex.org/W1662555306",
+        "https://openalex.org/W1704486749",
+        "https://openalex.org/W1988496957",
+        "https://openalex.org/W2014858765",
+        "https://openalex.org/W2029875957",
+        "https://openalex.org/W2033943395",
+        "https://openalex.org/W2055854942",
+        "https://openalex.org/W2107956835",
+        "https://openalex.org/W2119061374",
+        "https://openalex.org/W2124544838",
+        "https://openalex.org/W2144603077",
+        "https://openalex.org/W2172211131",
+        "https://openalex.org/W2480764363",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2495784352",
+        "https://openalex.org/W2999346941",
+        "https://openalex.org/W4408436523",
+        "https://openalex.org/W6633805421"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W4362575170",
+        "https://openalex.org/W2984230149",
+        "https://openalex.org/W2531253623",
+        "https://openalex.org/W1532772865",
+        "https://openalex.org/W2112095637",
+        "https://openalex.org/W2237121679",
+        "https://openalex.org/W2006867289",
+        "https://openalex.org/W1188194610",
+        "https://openalex.org/W1819252502"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          17,
+          133
+        ],
+        "chapter": [
+          1,
+          142,
+          165,
+          182
+        ],
+        "describes": [
+          2,
+          143
+        ],
+        "the": [
+          3,
+          32,
+          42,
+          46,
+          49,
+          63,
+          78,
+          95,
+          105,
+          109,
+          115,
+          126,
+          148,
+          155,
+          164,
+          181
+        ],
+        "conceptualization": [
+          4,
+          145
+        ],
+        "and": [
+          5,
+          26,
+          75,
+          82,
+          98,
+          170,
+          185
+        ],
+        "implementation": [
+          6
+        ],
+        "of": [
+          7,
+          14,
+          37,
+          39,
+          48,
+          77,
+          91,
+          117,
+          128,
+          135
+        ],
+        "a": [
+          8,
+          12,
+          88,
+          119,
+          122,
+          138
+        ],
+        "cyberlearning": [
+          9,
+          65
+        ],
+        "environment": [
+          10,
+          18,
+          66
+        ],
+        "as": [
+          11,
+          187,
+          189
+        ],
+        "community": [
+          13,
+          90,
+          120
+        ],
+        "inquiry": [
+          15,
+          92
+        ],
+        "(CoI).": [
+          16
+        ],
+        "includes": [
+          19
+        ],
+        "13": [
+          20,
+          79
+        ],
+        "medical": [
+          21,
+          80
+        ],
+        "schools": [
+          22,
+          81
+        ],
+        "from": [
+          23,
+          30,
+          61,
+          160
+        ],
+        "Sub-Saharan": [
+          24
+        ],
+        "Africa": [
+          25
+        ],
+        "their": [
+          27,
+          83
+        ],
+        "50-plus": [
+          28
+        ],
+        "partners": [
+          29
+        ],
+        "around": [
+          31,
+          94
+        ],
+        "world.": [
+          33
+        ],
+        "The": [
+          34,
+          141
+        ],
+        "theoretical": [
+          35
+        ],
+        "foundations": [
+          36
+        ],
+        "Communities": [
+          38
+        ],
+        "Inquiry": [
+          40
+        ],
+        "provided": [
+          41
+        ],
+        "framework": [
+          43
+        ],
+        "that": [
+          44,
+          86,
+          124
+        ],
+        "drove": [
+          45
+        ],
+        "design": [
+          47,
+          110,
+          136
+        ],
+        "web-based": [
+          50
+        ],
+        "platform": [
+          51
+        ],
+        "used": [
+          52
+        ],
+        "in": [
+          53
+        ],
+        "this": [
+          54,
+          144
+        ],
+        "project.": [
+          55
+        ],
+        "Through": [
+          56
+        ],
+        "an": [
+          57
+        ],
+        "emphasis": [
+          58
+        ],
+        "on": [
+          59,
+          113
+        ],
+        "learning": [
+          60,
+          159
+        ],
+        "conversations,": [
+          62
+        ],
+        "resulting": [
+          64
+        ],
+        "was": [
+          67,
+          111
+        ],
+        "designed": [
+          68
+        ],
+        "to": [
+          69,
+          157
+        ],
+        "foster": [
+          70
+        ],
+        "engagement": [
+          71
+        ],
+        "among": [
+          72
+        ],
+        "faculty,": [
+          73
+        ],
+        "staff,": [
+          74
+        ],
+        "students": [
+          76
+        ],
+        "partners.": [
+          84
+        ],
+        "Recognizing": [
+          85
+        ],
+        "generating": [
+          87
+        ],
+        "virtual": [
+          89
+        ],
+        "framed": [
+          93
+        ],
+        "cognitive,": [
+          96
+        ],
+        "social,": [
+          97
+        ],
+        "teaching": [
+          99
+        ],
+        "presence": [
+          100
+        ],
+        "is": [
+          101
+        ],
+        "no": [
+          102
+        ],
+        "easy": [
+          103
+        ],
+        "task,": [
+          104
+        ],
+        "approach": [
+          106
+        ],
+        "taken": [
+          107
+        ],
+        "for": [
+          108,
+          130
+        ],
+        "based": [
+          112
+        ],
+        "conceptualizing": [
+          114
+        ],
+        "development": [
+          116
+        ],
+        "such": [
+          118
+        ],
+        "along": [
+          121
+        ],
+        "continuum": [
+          123
+        ],
+        "addressed": [
+          125
+        ],
+        "depth": [
+          127
+        ],
+        "interaction": [
+          129
+        ],
+        "each": [
+          131
+        ],
+        "presence.": [
+          132
+        ],
+        "type": [
+          134
+        ],
+        "assumes": [
+          137
+        ],
+        "phased-in": [
+          139
+        ],
+        "implementation.": [
+          140,
+          178
+        ],
+        "by": [
+          146
+        ],
+        "addressing": [
+          147
+        ],
+        "core": [
+          149
+        ],
+        "communication": [
+          150
+        ],
+        "strategy": [
+          151
+        ],
+        "used,": [
+          152
+        ],
+        "which": [
+          153
+        ],
+        "underlies": [
+          154
+        ],
+        "interactions": [
+          156
+        ],
+        "support": [
+          158
+        ],
+        "conversations.": [
+          161
+        ],
+        "In": [
+          162,
+          179
+        ],
+        "addition,": [
+          163,
+          180
+        ],
+        "addresses": [
+          166
+        ],
+        "key": [
+          167
+        ],
+        "environmental": [
+          168
+        ],
+        "constraints": [
+          169,
+          173
+        ],
+        "how": [
+          171
+        ],
+        "these": [
+          172
+        ],
+        "guided": [
+          174
+        ],
+        "operational": [
+          175
+        ],
+        "decisions": [
+          176
+        ],
+        "during": [
+          177
+        ],
+        "discusses": [
+          183
+        ],
+        "challenges": [
+          184
+        ],
+        "solutions,": [
+          186
+        ],
+        "well": [
+          188
+        ],
+        "lessons": [
+          190
+        ],
+        "learned.": [
+          191
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-26T08:34:08.712188",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2594419462",
+      "doi": "https://doi.org/10.4018/978-1-5225-2463-2.ch001",
+      "title": "Technoethics and Digital Democracy for Future Citizens",
+      "display_name": "Technoethics and Digital Democracy for Future Citizens",
+      "publication_year": 2017,
+      "publication_date": "2017-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2594419462",
+        "doi": "https://doi.org/10.4018/978-1-5225-2463-2.ch001",
+        "mag": "2594419462"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4018/978-1-5225-2463-2.ch001",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4018/978-1-5225-2463-2.ch001",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210188083",
+          "display_name": "Advances in electronic government, digital divide, and regional development book series",
+          "issn_l": "2326-9103",
+          "issn": [
+            "2326-9103",
+            "2326-9111"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Electronic Government, Digital Divide, and Regional Development",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055324184",
+            "display_name": "Rocci Luppicini",
+            "orcid": "https://orcid.org/0000-0003-1962-2697"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153718931",
+              "display_name": "University of Ottawa",
+              "ror": "https://ror.org/03c4mmv16",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Rocci Luppicini",
+          "raw_affiliation_strings": [
+            "University of Ottawa, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Ottawa, Canada",
+              "institution_ids": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055324184"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I153718931"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.9998,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.75729891,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "21"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10557",
+        "display_name": "Social Media and Politics",
+        "score": 0.9975000023841858,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3315",
+          "display_name": "Communication"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10557",
+          "display_name": "Social Media and Politics",
+          "score": 0.9975000023841858,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3315",
+            "display_name": "Communication"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12679",
+          "display_name": "Focus Groups and Qualitative Methods",
+          "score": 0.9682999849319458,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11045",
+          "display_name": "Privacy, Security, and Data Protection",
+          "score": 0.9456999897956848,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/democracy",
+          "display_name": "Democracy",
+          "score": 0.7991988658905029
+        },
+        {
+          "id": "https://openalex.org/keywords/leverage",
+          "display_name": "Leverage (statistics)",
+          "score": 0.7145584225654602
+        },
+        {
+          "id": "https://openalex.org/keywords/conformity",
+          "display_name": "Conformity",
+          "score": 0.6975157260894775
+        },
+        {
+          "id": "https://openalex.org/keywords/perspective",
+          "display_name": "Perspective (graphical)",
+          "score": 0.5301612019538879
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.44989556074142456
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.4403298795223236
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.35700273513793945
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.24278059601783752
+        },
+        {
+          "id": "https://openalex.org/keywords/politics",
+          "display_name": "Politics",
+          "score": 0.1120753288269043
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.08416080474853516
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C555826173",
+          "wikidata": "https://www.wikidata.org/wiki/Q7174",
+          "display_name": "Democracy",
+          "level": 3,
+          "score": 0.7991988658905029
+        },
+        {
+          "id": "https://openalex.org/C153083717",
+          "wikidata": "https://www.wikidata.org/wiki/Q6535263",
+          "display_name": "Leverage (statistics)",
+          "level": 2,
+          "score": 0.7145584225654602
+        },
+        {
+          "id": "https://openalex.org/C142172996",
+          "wikidata": "https://www.wikidata.org/wiki/Q221284",
+          "display_name": "Conformity",
+          "level": 2,
+          "score": 0.6975157260894775
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.5301612019538879
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.44989556074142456
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.4403298795223236
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.35700273513793945
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.24278059601783752
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.1120753288269043
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.08416080474853516
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/978-1-5225-2463-2.ch001",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4018/978-1-5225-2463-2.ch001",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210188083",
+            "display_name": "Advances in electronic government, digital divide, and regional development book series",
+            "issn_l": "2326-9103",
+            "issn": [
+              "2326-9103",
+              "2326-9111"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in Electronic Government, Digital Divide, and Regional Development",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 13,
+      "referenced_works": [
+        "https://openalex.org/W656211683",
+        "https://openalex.org/W1676061295",
+        "https://openalex.org/W1892502720",
+        "https://openalex.org/W2110667918",
+        "https://openalex.org/W2110890492",
+        "https://openalex.org/W2314887345",
+        "https://openalex.org/W2468423319",
+        "https://openalex.org/W2478858438",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2490457784",
+        "https://openalex.org/W2530948716",
+        "https://openalex.org/W2897558098",
+        "https://openalex.org/W4248664731"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2011517474",
+        "https://openalex.org/W3093361777",
+        "https://openalex.org/W2375986109",
+        "https://openalex.org/W4312551713",
+        "https://openalex.org/W4386545958",
+        "https://openalex.org/W2061182527",
+        "https://openalex.org/W4252128182",
+        "https://openalex.org/W2050458297",
+        "https://openalex.org/W2361343466"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0
+        ],
+        "a": [
+          1,
+          24,
+          75,
+          101
+        ],
+        "digital": [
+          2,
+          29,
+          59,
+          85,
+          102
+        ],
+        "democracy,": [
+          3
+        ],
+        "education": [
+          4,
+          34
+        ],
+        "should": [
+          5
+        ],
+        "help": [
+          6,
+          80
+        ],
+        "foster": [
+          7
+        ],
+        "the": [
+          8,
+          66
+        ],
+        "development": [
+          9
+        ],
+        "of": [
+          10,
+          18
+        ],
+        "ethically,": [
+          11
+        ],
+        "socially,": [
+          12
+        ],
+        "and": [
+          13,
+          21,
+          33,
+          43,
+          54,
+          65,
+          87,
+          92
+        ],
+        "ecologically": [
+          14
+        ],
+        "responsible": [
+          15
+        ],
+        "citizens": [
+          16,
+          99
+        ],
+        "capable": [
+          17
+        ],
+        "living": [
+          19
+        ],
+        "autonomously": [
+          20
+        ],
+        "harmoniously": [
+          22
+        ],
+        "within": [
+          23,
+          100
+        ],
+        "networked": [
+          25
+        ],
+        "society.": [
+          26
+        ],
+        "Unfortunately,": [
+          27
+        ],
+        "contemporary": [
+          28
+        ],
+        "technology,": [
+          30
+        ],
+        "communication": [
+          31,
+          93
+        ],
+        "media": [
+          32
+        ],
+        "tend": [
+          35
+        ],
+        "to": [
+          36,
+          39,
+          56,
+          79,
+          84,
+          88,
+          96
+        ],
+        "give": [
+          37
+        ],
+        "rise": [
+          38
+        ],
+        "conformity,": [
+          40
+        ],
+        "individual": [
+          41
+        ],
+        "satisfaction,": [
+          42
+        ],
+        "short-term": [
+          44
+        ],
+        "goal": [
+          45
+        ],
+        "seeking.": [
+          46
+        ],
+        "Overcoming": [
+          47
+        ],
+        "current": [
+          48,
+          52
+        ],
+        "obstacles": [
+          49
+        ],
+        "requires": [
+          50
+        ],
+        "modifying": [
+          51
+        ],
+        "values": [
+          53
+        ],
+        "strategies": [
+          55
+        ],
+        "better": [
+          57
+        ],
+        "align": [
+          58
+        ],
+        "technology": [
+          60
+        ],
+        "use": [
+          61
+        ],
+        "with": [
+          62
+        ],
+        "democratic": [
+          63
+        ],
+        "ideals": [
+          64
+        ],
+        "capacity": [
+          67
+        ],
+        "for": [
+          68
+        ],
+        "harmonious": [
+          69
+        ],
+        "long-term": [
+          70
+        ],
+        "survival.": [
+          71
+        ],
+        "This": [
+          72
+        ],
+        "paper": [
+          73
+        ],
+        "presents": [
+          74
+        ],
+        "technoethical": [
+          76
+        ],
+        "systems": [
+          77
+        ],
+        "perspective": [
+          78
+        ],
+        "disentangle": [
+          81
+        ],
+        "core": [
+          82
+        ],
+        "threats": [
+          83
+        ],
+        "democracy": [
+          86
+        ],
+        "highlight": [
+          89
+        ],
+        "selected": [
+          90
+        ],
+        "educational": [
+          91
+        ],
+        "tools": [
+          94
+        ],
+        "needed": [
+          95
+        ],
+        "leverage": [
+          97
+        ],
+        "future": [
+          98
+        ],
+        "democracy.": [
+          103
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1490669343",
+      "doi": "https://doi.org/10.21038/asir.2014.0004",
+      "title": "Social Media Meets the Modern Mission Agency",
+      "display_name": "Social Media Meets the Modern Mission Agency",
+      "publication_year": 2014,
+      "publication_date": "2014-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1490669343",
+        "doi": "https://doi.org/10.21038/asir.2014.0004",
+        "mag": "1490669343"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.21038/asir.2014.0004",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.21038/asir.2014.0004",
+        "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol4/iss1/5/Social%20Media%20Meets%20the%20Modern%20Mission%20Agency.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210182400",
+          "display_name": "Advances in the Study of Information and Religion",
+          "issn_l": "2161-0177",
+          "issn": [
+            "2161-0177"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316299",
+          "host_organization_name": "Kent State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316299"
+          ],
+          "host_organization_lineage_names": [
+            "Kent State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in the Study of Information and Religion",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol4/iss1/5/Social%20Media%20Meets%20the%20Modern%20Mission%20Agency.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5033724724",
+            "display_name": "Todd Marshall",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28334184",
+              "display_name": "The University of Arizona Global Campus",
+              "ror": "https://ror.org/052bk3d94",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28334184"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Todd Marshall",
+          "raw_affiliation_strings": [
+            "Teach Every Nation, 200 Ashford Center North, Dunwoody, GA 30338"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Teach Every Nation, 200 Ashford Center North, Dunwoody, GA 30338",
+              "institution_ids": [
+                "https://openalex.org/I28334184"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5033724724"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I28334184"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.09019614,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "4",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13277",
+        "display_name": "Media, Religion, Digital Communication",
+        "score": 0.991599977016449,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1211",
+          "display_name": "Philosophy"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13277",
+          "display_name": "Media, Religion, Digital Communication",
+          "score": 0.991599977016449,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1211",
+            "display_name": "Philosophy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12028",
+          "display_name": "Knowledge Management and Sharing",
+          "score": 0.9757999777793884,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3315",
+            "display_name": "Communication"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12863",
+          "display_name": "Web and Library Services",
+          "score": 0.9671000242233276,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/agency",
+          "display_name": "Agency (philosophy)",
+          "score": 0.8296687602996826
+        },
+        {
+          "id": "https://openalex.org/keywords/implementation",
+          "display_name": "Implementation",
+          "score": 0.7367852926254272
+        },
+        {
+          "id": "https://openalex.org/keywords/cloud-computing",
+          "display_name": "Cloud computing",
+          "score": 0.6818610429763794
+        },
+        {
+          "id": "https://openalex.org/keywords/social-media",
+          "display_name": "Social media",
+          "score": 0.6084593534469604
+        },
+        {
+          "id": "https://openalex.org/keywords/process",
+          "display_name": "Process (computing)",
+          "score": 0.5669330954551697
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.396888792514801
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.3747002184391022
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.36198145151138306
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.31646478176116943
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.3159513473510742
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.313635915517807
+        },
+        {
+          "id": "https://openalex.org/keywords/social-science",
+          "display_name": "Social science",
+          "score": 0.11134344339370728
+        },
+        {
+          "id": "https://openalex.org/keywords/software-engineering",
+          "display_name": "Software engineering",
+          "score": 0.08021482825279236
+        },
+        {
+          "id": "https://openalex.org/keywords/operating-system",
+          "display_name": "Operating system",
+          "score": 0.06740531325340271
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.06494781374931335
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C108170787",
+          "wikidata": "https://www.wikidata.org/wiki/Q3951828",
+          "display_name": "Agency (philosophy)",
+          "level": 2,
+          "score": 0.8296687602996826
+        },
+        {
+          "id": "https://openalex.org/C26713055",
+          "wikidata": "https://www.wikidata.org/wiki/Q245962",
+          "display_name": "Implementation",
+          "level": 2,
+          "score": 0.7367852926254272
+        },
+        {
+          "id": "https://openalex.org/C79974875",
+          "wikidata": "https://www.wikidata.org/wiki/Q483639",
+          "display_name": "Cloud computing",
+          "level": 2,
+          "score": 0.6818610429763794
+        },
+        {
+          "id": "https://openalex.org/C518677369",
+          "wikidata": "https://www.wikidata.org/wiki/Q202833",
+          "display_name": "Social media",
+          "level": 2,
+          "score": 0.6084593534469604
+        },
+        {
+          "id": "https://openalex.org/C98045186",
+          "wikidata": "https://www.wikidata.org/wiki/Q205663",
+          "display_name": "Process (computing)",
+          "level": 2,
+          "score": 0.5669330954551697
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.396888792514801
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.3747002184391022
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.36198145151138306
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.31646478176116943
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.3159513473510742
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.313635915517807
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.11134344339370728
+        },
+        {
+          "id": "https://openalex.org/C115903868",
+          "wikidata": "https://www.wikidata.org/wiki/Q80993",
+          "display_name": "Software engineering",
+          "level": 1,
+          "score": 0.08021482825279236
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.06740531325340271
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.06494781374931335
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.21038/asir.2014.0004",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.21038/asir.2014.0004",
+          "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol4/iss1/5/Social%20Media%20Meets%20the%20Modern%20Mission%20Agency.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210182400",
+            "display_name": "Advances in the Study of Information and Religion",
+            "issn_l": "2161-0177",
+            "issn": [
+              "2161-0177"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316299",
+            "host_organization_name": "Kent State University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316299"
+            ],
+            "host_organization_lineage_names": [
+              "Kent State University"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in the Study of Information and Religion",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.671.2116",
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.671.2116",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://digitalcommons.kent.edu/cgi/viewcontent.cgi?article%3D1037%26context%3Dasir",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.21038/asir.2014.0004",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.21038/asir.2014.0004",
+        "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol4/iss1/5/Social%20Media%20Meets%20the%20Modern%20Mission%20Agency.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210182400",
+          "display_name": "Advances in the Study of Information and Religion",
+          "issn_l": "2161-0177",
+          "issn": [
+            "2161-0177"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316299",
+          "host_organization_name": "Kent State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316299"
+          ],
+          "host_organization_lineage_names": [
+            "Kent State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in the Study of Information and Religion",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1490669343.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1490669343.grobid-xml"
+      },
+      "referenced_works_count": 41,
+      "referenced_works": [
+        "https://openalex.org/W201578715",
+        "https://openalex.org/W656211683",
+        "https://openalex.org/W1495086477",
+        "https://openalex.org/W1501914213",
+        "https://openalex.org/W1507272366",
+        "https://openalex.org/W1565408702",
+        "https://openalex.org/W1592309167",
+        "https://openalex.org/W1604443527",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1780382453",
+        "https://openalex.org/W1886337131",
+        "https://openalex.org/W1969878082",
+        "https://openalex.org/W1988496957",
+        "https://openalex.org/W2005215459",
+        "https://openalex.org/W2033190752",
+        "https://openalex.org/W2069884544",
+        "https://openalex.org/W2093425966",
+        "https://openalex.org/W2094509566",
+        "https://openalex.org/W2103756065",
+        "https://openalex.org/W2112665591",
+        "https://openalex.org/W2116199508",
+        "https://openalex.org/W2150461333",
+        "https://openalex.org/W2347064257",
+        "https://openalex.org/W2399961799",
+        "https://openalex.org/W2411132709",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2497725259",
+        "https://openalex.org/W2501523198",
+        "https://openalex.org/W3123679541",
+        "https://openalex.org/W4239860512",
+        "https://openalex.org/W4253878552",
+        "https://openalex.org/W6630344629",
+        "https://openalex.org/W6633805421",
+        "https://openalex.org/W6635278357",
+        "https://openalex.org/W6668375506",
+        "https://openalex.org/W6674183180",
+        "https://openalex.org/W6676739982",
+        "https://openalex.org/W6721807627",
+        "https://openalex.org/W6793903795",
+        "https://openalex.org/W6828950667",
+        "https://openalex.org/W7033950559"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2120447654",
+        "https://openalex.org/W2977179488",
+        "https://openalex.org/W4244478748",
+        "https://openalex.org/W2144453115",
+        "https://openalex.org/W2128223750",
+        "https://openalex.org/W4238532390",
+        "https://openalex.org/W2188872161",
+        "https://openalex.org/W2002978035"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          38
+        ],
+        "paper": [
+          1
+        ],
+        "examines": [
+          2,
+          40
+        ],
+        "the": [
+          3,
+          27,
+          41,
+          49,
+          61
+        ],
+        "process": [
+          4,
+          42
+        ],
+        "of": [
+          5,
+          33,
+          43
+        ],
+        "a": [
+          6
+        ],
+        "modern": [
+          7,
+          52
+        ],
+        "mission": [
+          8,
+          45
+        ],
+        "agency's": [
+          9
+        ],
+        "transition": [
+          10,
+          50
+        ],
+        "from": [
+          11
+        ],
+        "desktop": [
+          12
+        ],
+        "and": [
+          13,
+          19,
+          29,
+          57,
+          66
+        ],
+        "server-based": [
+          14
+        ],
+        "systems": [
+          15
+        ],
+        "to": [
+          16,
+          51,
+          55
+        ],
+        "social": [
+          17,
+          53
+        ],
+        "media": [
+          18
+        ],
+        "cloud-based": [
+          20
+        ],
+        "solutions.": [
+          21
+        ],
+        "Mission": [
+          22
+        ],
+        "agencies": [
+          23
+        ],
+        "have": [
+          24
+        ],
+        "existed": [
+          25
+        ],
+        "since": [
+          26
+        ],
+        "1850s": [
+          28
+        ],
+        "represent": [
+          30
+        ],
+        "early": [
+          31
+        ],
+        "implementations": [
+          32
+        ],
+        "globally": [
+          34
+        ],
+        "distributed": [
+          35
+        ],
+        "collaborative": [
+          36
+        ],
+        "groups.": [
+          37
+        ],
+        "study": [
+          39
+        ],
+        "one": [
+          44
+        ],
+        "agency": [
+          46
+        ],
+        "working": [
+          47
+        ],
+        "through": [
+          48
+        ],
+        "computing": [
+          54
+        ],
+        "create": [
+          56
+        ],
+        "share": [
+          58
+        ],
+        "knowledge": [
+          59
+        ],
+        "between": [
+          60
+        ],
+        "home": [
+          62
+        ],
+        "office,": [
+          63
+        ],
+        "missionaries,": [
+          64
+        ],
+        "donors,": [
+          65
+        ],
+        "churches.": [
+          67
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-26T07:47:46.906454",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1572113483",
+      "doi": "https://doi.org/10.21038/asir.2011.0006",
+      "title": "The Conversing God: Exploring Trinitarian Information Transfer from the Perspective of Gordon Pask's Conversation Theory",
+      "display_name": "The Conversing God: Exploring Trinitarian Information Transfer from the Perspective of Gordon Pask's Conversation Theory",
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1572113483",
+        "doi": "https://doi.org/10.21038/asir.2011.0006",
+        "mag": "1572113483"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.21038/asir.2011.0006",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.21038/asir.2011.0006",
+        "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol1/iss1/6/The%20Conversing%20God%3A%20Exploring%20Trinitarian%20Information%20Transfer%20fr.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210182400",
+          "display_name": "Advances in the Study of Information and Religion",
+          "issn_l": "2161-0177",
+          "issn": [
+            "2161-0177"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316299",
+          "host_organization_name": "Kent State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316299"
+          ],
+          "host_organization_lineage_names": [
+            "Kent State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in the Study of Information and Religion",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol1/iss1/6/The%20Conversing%20God%3A%20Exploring%20Trinitarian%20Information%20Transfer%20fr.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5033724724",
+            "display_name": "Todd Marshall",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I164141967",
+              "display_name": "Spring Arbor University",
+              "ror": "https://ror.org/02j8e5x02",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I164141967"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Todd E. Marshall",
+          "raw_affiliation_strings": [
+            "Spring Arbor University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Spring Arbor University",
+              "institution_ids": [
+                "https://openalex.org/I164141967"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5033724724"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I164141967"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.15511604,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "1",
+        "issue": "1",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10362",
+        "display_name": "Biblical Studies and Interpretation",
+        "score": 0.9656000137329102,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1212",
+          "display_name": "Religious studies"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10362",
+          "display_name": "Biblical Studies and Interpretation",
+          "score": 0.9656000137329102,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1212",
+            "display_name": "Religious studies"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.7742940187454224
+        },
+        {
+          "id": "https://openalex.org/keywords/conceptualization",
+          "display_name": "Conceptualization",
+          "score": 0.5754673480987549
+        },
+        {
+          "id": "https://openalex.org/keywords/christian-theology",
+          "display_name": "Christian theology",
+          "score": 0.5496668219566345
+        },
+        {
+          "id": "https://openalex.org/keywords/epistemology",
+          "display_name": "Epistemology",
+          "score": 0.5481430292129517
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.5410792231559753
+        },
+        {
+          "id": "https://openalex.org/keywords/perspective",
+          "display_name": "Perspective (graphical)",
+          "score": 0.5243337750434875
+        },
+        {
+          "id": "https://openalex.org/keywords/doctrine",
+          "display_name": "Doctrine",
+          "score": 0.519832193851471
+        },
+        {
+          "id": "https://openalex.org/keywords/theology",
+          "display_name": "Theology",
+          "score": 0.3080877959728241
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.2991439998149872
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.16629955172538757
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.12412980198860168
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.114219069480896
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.7742940187454224
+        },
+        {
+          "id": "https://openalex.org/C90734943",
+          "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+          "display_name": "Conceptualization",
+          "level": 2,
+          "score": 0.5754673480987549
+        },
+        {
+          "id": "https://openalex.org/C199176802",
+          "wikidata": "https://www.wikidata.org/wiki/Q216545",
+          "display_name": "Christian theology",
+          "level": 2,
+          "score": 0.5496668219566345
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0.5481430292129517
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.5410792231559753
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.5243337750434875
+        },
+        {
+          "id": "https://openalex.org/C2776211767",
+          "wikidata": "https://www.wikidata.org/wiki/Q117850",
+          "display_name": "Doctrine",
+          "level": 2,
+          "score": 0.519832193851471
+        },
+        {
+          "id": "https://openalex.org/C27206212",
+          "wikidata": "https://www.wikidata.org/wiki/Q34178",
+          "display_name": "Theology",
+          "level": 1,
+          "score": 0.3080877959728241
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.2991439998149872
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.16629955172538757
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.12412980198860168
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.114219069480896
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.21038/asir.2011.0006",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.21038/asir.2011.0006",
+          "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol1/iss1/6/The%20Conversing%20God%3A%20Exploring%20Trinitarian%20Information%20Transfer%20fr.pdf",
+          "source": {
+            "id": "https://openalex.org/S4210182400",
+            "display_name": "Advances in the Study of Information and Religion",
+            "issn_l": "2161-0177",
+            "issn": [
+              "2161-0177"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316299",
+            "host_organization_name": "Kent State University",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316299"
+            ],
+            "host_organization_lineage_names": [
+              "Kent State University"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in the Study of Information and Religion",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.21038/asir.2011.0006",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.21038/asir.2011.0006",
+        "pdf_url": "https://kent-islandora.s3.us-east-2.amazonaws.com/asir/vol1/iss1/6/The%20Conversing%20God%3A%20Exploring%20Trinitarian%20Information%20Transfer%20fr.pdf",
+        "source": {
+          "id": "https://openalex.org/S4210182400",
+          "display_name": "Advances in the Study of Information and Religion",
+          "issn_l": "2161-0177",
+          "issn": [
+            "2161-0177"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316299",
+          "host_organization_name": "Kent State University",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316299"
+          ],
+          "host_organization_lineage_names": [
+            "Kent State University"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in the Study of Information and Religion",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W1572113483.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W1572113483.grobid-xml"
+      },
+      "referenced_works_count": 26,
+      "referenced_works": [
+        "https://openalex.org/W656211683",
+        "https://openalex.org/W1501914213",
+        "https://openalex.org/W1531303411",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1760368461",
+        "https://openalex.org/W1964558614",
+        "https://openalex.org/W1976861115",
+        "https://openalex.org/W2008381903",
+        "https://openalex.org/W2040239754",
+        "https://openalex.org/W2052182616",
+        "https://openalex.org/W2069884544",
+        "https://openalex.org/W2087979761",
+        "https://openalex.org/W2110248201",
+        "https://openalex.org/W2128519802",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W3121880775",
+        "https://openalex.org/W3178570190",
+        "https://openalex.org/W4239860512",
+        "https://openalex.org/W6631778261",
+        "https://openalex.org/W6660163926",
+        "https://openalex.org/W6668375506",
+        "https://openalex.org/W6672722917",
+        "https://openalex.org/W6721807627",
+        "https://openalex.org/W6797978469",
+        "https://openalex.org/W6806207508",
+        "https://openalex.org/W6828950667"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4362575170",
+        "https://openalex.org/W2984230149",
+        "https://openalex.org/W2531253623",
+        "https://openalex.org/W1532772865",
+        "https://openalex.org/W2112095637",
+        "https://openalex.org/W2237121679",
+        "https://openalex.org/W2006867289",
+        "https://openalex.org/W1188194610",
+        "https://openalex.org/W4294081884"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          62,
+          127
+        ],
+        "traditional": [
+          1
+        ],
+        "Christian": [
+          2,
+          47,
+          60,
+          124,
+          153
+        ],
+        "belief": [
+          3
+        ],
+        "in": [
+          4,
+          11,
+          23
+        ],
+        "the": [
+          5,
+          36,
+          70,
+          87,
+          94,
+          104,
+          120,
+          147,
+          152,
+          214,
+          223,
+          226
+        ],
+        "Trinity": [
+          6,
+          121,
+          148
+        ],
+        "states": [
+          7
+        ],
+        "that": [
+          8,
+          19,
+          33,
+          131,
+          203
+        ],
+        "God": [
+          9,
+          39
+        ],
+        "exists": [
+          10
+        ],
+        "three": [
+          12
+        ],
+        "persons:": [
+          13
+        ],
+        "Father,": [
+          14
+        ],
+        "Son,": [
+          15
+        ],
+        "and": [
+          16,
+          18,
+          40,
+          83,
+          99,
+          122,
+          144,
+          149,
+          165,
+          170,
+          198,
+          218,
+          225
+        ],
+        "Spirit,": [
+          17
+        ],
+        "people": [
+          20
+        ],
+        "were": [
+          21
+        ],
+        "created": [
+          22
+        ],
+        "“the": [
+          24
+        ],
+        "image": [
+          25
+        ],
+        "of": [
+          26,
+          38,
+          64,
+          72,
+          163,
+          216
+        ],
+        "God.”": [
+          27
+        ],
+        "This": [
+          28,
+          45,
+          89,
+          190
+        ],
+        "is": [
+          29,
+          67,
+          130,
+          206
+        ],
+        "understood": [
+          30
+        ],
+        "to": [
+          31,
+          43,
+          68,
+          77,
+          92
+        ],
+        "mean": [
+          32
+        ],
+        "humans": [
+          34
+        ],
+        "reflect": [
+          35
+        ],
+        "nature": [
+          37
+        ],
+        "His": [
+          41
+        ],
+        "ability": [
+          42,
+          71
+        ],
+        "communicate.": [
+          44
+        ],
+        "ancient": [
+          46,
+          97
+        ],
+        "concept": [
+          48
+        ],
+        "has": [
+          49
+        ],
+        "implications": [
+          50,
+          212
+        ],
+        "not": [
+          51
+        ],
+        "only": [
+          52
+        ],
+        "for": [
+          53,
+          57,
+          116,
+          140,
+          181,
+          213
+        ],
+        "theology,": [
+          54
+        ],
+        "but": [
+          55
+        ],
+        "also": [
+          56
+        ],
+        "communication": [
+          58,
+          85
+        ],
+        "within": [
+          59,
+          86,
+          119,
+          123,
+          146,
+          151
+        ],
+        "communities.": [
+          61
+        ],
+        "goal": [
+          63
+        ],
+        "this": [
+          65,
+          81
+        ],
+        "paper": [
+          66,
+          90
+        ],
+        "explore": [
+          69
+        ],
+        "a": [
+          73,
+          114,
+          138
+        ],
+        "modern": [
+          74,
+          100
+        ],
+        "information": [
+          75,
+          117
+        ],
+        "theory": [
+          76,
+          101,
+          111,
+          133,
+          205
+        ],
+        "shed": [
+          78
+        ],
+        "light": [
+          79
+        ],
+        "on": [
+          80,
+          160,
+          187,
+          195
+        ],
+        "doctrine": [
+          82
+        ],
+        "improve": [
+          84
+        ],
+        "Church.": [
+          88
+        ],
+        "seeks": [
+          91
+        ],
+        "bridge": [
+          93
+        ],
+        "gap": [
+          95
+        ],
+        "between": [
+          96
+        ],
+        "theology": [
+          98
+        ],
+        "by": [
+          102
+        ],
+        "asking": [
+          103
+        ],
+        "following": [
+          105
+        ],
+        "question:": [
+          106
+        ],
+        "“Can": [
+          107
+        ],
+        "Gordon": [
+          108
+        ],
+        "Pask’s": [
+          109,
+          161
+        ],
+        "conversation": [
+          110,
+          132,
+          204
+        ],
+        "serve": [
+          112
+        ],
+        "as": [
+          113,
+          137
+        ],
+        "framework": [
+          115,
+          139
+        ],
+        "transfer": [
+          118
+        ],
+        "religious": [
+          125,
+          220
+        ],
+        "communities?”": [
+          126
+        ],
+        "author’s": [
+          128
+        ],
+        "perspective": [
+          129
+        ],
+        "can": [
+          134
+        ],
+        "be": [
+          135,
+          193
+        ],
+        "used": [
+          136
+        ],
+        "exploring": [
+          141
+        ],
+        "knowledge": [
+          142,
+          221
+        ],
+        "creation": [
+          143
+        ],
+        "sharing": [
+          145,
+          219
+        ],
+        "subsequently": [
+          150
+        ],
+        "community.": [
+          154
+        ],
+        "These": [
+          155
+        ],
+        "new": [
+          156,
+          176
+        ],
+        "insights": [
+          157
+        ],
+        "are": [
+          158
+        ],
+        "based": [
+          159,
+          194
+        ],
+        "conceptualization": [
+          162
+        ],
+        "psychological": [
+          164
+        ],
+        "mechanical": [
+          166
+        ],
+        "individuals,": [
+          167
+        ],
+        "entailment": [
+          168
+        ],
+        "meshes,": [
+          169
+        ],
+        "consciousness.": [
+          171
+        ],
+        "As": [
+          172
+        ],
+        "these": [
+          173
+        ],
+        "concepts": [
+          174
+        ],
+        "create": [
+          175
+        ],
+        "perspectives,": [
+          177
+        ],
+        "they": [
+          178
+        ],
+        "have": [
+          179
+        ],
+        "significance": [
+          180
+        ],
+        "communities": [
+          182
+        ],
+        "who": [
+          183
+        ],
+        "model": [
+          184
+        ],
+        "their": [
+          185
+        ],
+        "communicating": [
+          186
+        ],
+        "Trinitarian": [
+          188,
+          208
+        ],
+        "theology.": [
+          189,
+          209
+        ],
+        "discussion": [
+          191
+        ],
+        "will": [
+          192
+        ],
+        "theoretical,": [
+          196
+        ],
+        "theological,": [
+          197
+        ],
+        "biblical": [
+          199
+        ],
+        "evidence": [
+          200
+        ],
+        "which": [
+          201
+        ],
+        "demonstrates": [
+          202
+        ],
+        "compatible": [
+          207
+        ],
+        "Conclusions": [
+          210
+        ],
+        "include": [
+          211
+        ],
+        "process": [
+          215
+        ],
+        "creating": [
+          217
+        ],
+        "from": [
+          222
+        ],
+        "individual": [
+          224
+        ],
+        "corporate": [
+          227
+        ],
+        "perspective.": [
+          228
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-09-06T09:10:53.072986",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2734897222",
+      "doi": null,
+      "title": "Understanding learning strategy as conversation",
+      "display_name": "Understanding learning strategy as conversation",
+      "publication_year": 2017,
+      "publication_date": "2017-02-03",
+      "ids": {
+        "openalex": "https://openalex.org/W2734897222",
+        "mag": "2734897222"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "pmh:oai:eprints.uwe.ac.uk:32347",
+        "is_oa": false,
+        "landing_page_url": "http://eprints.uwe.ac.uk/32347/",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401464",
+          "display_name": "UWE Research Repository (UWE Bristol)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I178535277",
+          "host_organization_name": "University of the West of England",
+          "host_organization_lineage": [
+            "https://openalex.org/I178535277"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "acceptedVersion",
+        "is_accepted": true,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Conference or Workshop Item"
+      },
+      "type": "conference-paper",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://uwe-repository.worktribe.com/output/898683",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5044809779",
+            "display_name": "Steve Battle",
+            "orcid": "https://orcid.org/0000-0002-7154-7869"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Steve Battle",
+          "raw_affiliation_strings": [],
+          "raw_orcid": "https://orcid.org/0000-0002-7154-7869",
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044809779"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.05671954,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11902",
+        "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+        "score": 0.9940000176429749,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10636",
+          "display_name": "Innovative Teaching and Learning Methods",
+          "score": 0.9902999997138977,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10162",
+          "display_name": "Online and Blended Learning",
+          "score": 0.9843999743461609,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.7743840217590332
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5972727537155151
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.45412200689315796
+        },
+        {
+          "id": "https://openalex.org/keywords/observational-learning",
+          "display_name": "Observational learning",
+          "score": 0.4405781030654907
+        },
+        {
+          "id": "https://openalex.org/keywords/experiential-learning",
+          "display_name": "Experiential learning",
+          "score": 0.3580200672149658
+        },
+        {
+          "id": "https://openalex.org/keywords/data-science",
+          "display_name": "Data science",
+          "score": 0.338576078414917
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.315732479095459
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.2626698613166809
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.1131887435913086
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.7743840217590332
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5972727537155151
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.45412200689315796
+        },
+        {
+          "id": "https://openalex.org/C102483320",
+          "wikidata": "https://www.wikidata.org/wiki/Q1143725",
+          "display_name": "Observational learning",
+          "level": 3,
+          "score": 0.4405781030654907
+        },
+        {
+          "id": "https://openalex.org/C37228920",
+          "wikidata": "https://www.wikidata.org/wiki/Q1307600",
+          "display_name": "Experiential learning",
+          "level": 2,
+          "score": 0.3580200672149658
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.338576078414917
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.315732479095459
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.2626698613166809
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.1131887435913086
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "pmh:oai:eprints.uwe.ac.uk:32347",
+          "is_oa": false,
+          "landing_page_url": "http://eprints.uwe.ac.uk/32347/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401464",
+            "display_name": "UWE Research Repository (UWE Bristol)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I178535277",
+            "host_organization_name": "University of the West of England",
+            "host_organization_lineage": [
+              "https://openalex.org/I178535277"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Conference or Workshop Item"
+        },
+        {
+          "id": "pmh:oai:uwe-repository.worktribe.com:898683",
+          "is_oa": true,
+          "landing_page_url": "https://uwe-repository.worktribe.com/output/898683",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401464",
+            "display_name": "UWE Research Repository (UWE Bristol)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I178535277",
+            "host_organization_name": "University of the West of England",
+            "host_organization_lineage": [
+              "https://openalex.org/I178535277"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Presentation / Conference Contribution"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:uwe-repository.worktribe.com:898683",
+        "is_oa": true,
+        "landing_page_url": "https://uwe-repository.worktribe.com/output/898683",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401464",
+          "display_name": "UWE Research Repository (UWE Bristol)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I178535277",
+          "host_organization_name": "University of the West of England",
+          "host_organization_lineage": [
+            "https://openalex.org/I178535277"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "Presentation / Conference Contribution"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 25,
+      "referenced_works": [
+        "https://openalex.org/W18806914",
+        "https://openalex.org/W609463016",
+        "https://openalex.org/W656211683",
+        "https://openalex.org/W1535291710",
+        "https://openalex.org/W1542932561",
+        "https://openalex.org/W1584697775",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1964558614",
+        "https://openalex.org/W1964560776",
+        "https://openalex.org/W1965680834",
+        "https://openalex.org/W1971099716",
+        "https://openalex.org/W2007321142",
+        "https://openalex.org/W2013138671",
+        "https://openalex.org/W2086699924",
+        "https://openalex.org/W2139280638",
+        "https://openalex.org/W2145440184",
+        "https://openalex.org/W2170644967",
+        "https://openalex.org/W2179018826",
+        "https://openalex.org/W2402691316",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2488473908",
+        "https://openalex.org/W2527667914",
+        "https://openalex.org/W2945424237",
+        "https://openalex.org/W3002808335",
+        "https://openalex.org/W3143583916"
+      ],
+      "related_works": [
+        "https://openalex.org/W2795928368",
+        "https://openalex.org/W2885633914",
+        "https://openalex.org/W2907115148",
+        "https://openalex.org/W3159036463",
+        "https://openalex.org/W2519874123",
+        "https://openalex.org/W2245098699",
+        "https://openalex.org/W2220126485",
+        "https://openalex.org/W3040549661",
+        "https://openalex.org/W2900464961",
+        "https://openalex.org/W1781697559",
+        "https://openalex.org/W37028304",
+        "https://openalex.org/W2187105703",
+        "https://openalex.org/W1982869221",
+        "https://openalex.org/W2571865004",
+        "https://openalex.org/W2910902738",
+        "https://openalex.org/W2026767251",
+        "https://openalex.org/W2010640316",
+        "https://openalex.org/W56541613",
+        "https://openalex.org/W3212111866",
+        "https://openalex.org/W2560798148"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "goal": [
+          1,
+          57
+        ],
+        "of": [
+          2,
+          24,
+          31,
+          34,
+          58,
+          74,
+          86,
+          113,
+          120,
+          123
+        ],
+        "this": [
+          3,
+          32
+        ],
+        "research": [
+          4
+        ],
+        "is": [
+          5,
+          39,
+          83
+        ],
+        "to": [
+          6,
+          27,
+          95,
+          117
+        ],
+        "understand": [
+          7
+        ],
+        "the": [
+          8,
+          22,
+          29,
+          50,
+          53,
+          56,
+          79,
+          87,
+          111,
+          126
+        ],
+        "learning": [
+          9,
+          60,
+          75,
+          101
+        ],
+        "strategies": [
+          10,
+          61,
+          104
+        ],
+        "employed": [
+          11
+        ],
+        "by": [
+          12,
+          63
+        ],
+        "students": [
+          13
+        ],
+        "using": [
+          14,
+          91
+        ],
+        "so": [
+          15
+        ],
+        "called": [
+          16
+        ],
+        "Intelligent": [
+          17
+        ],
+        "Tutoring": [
+          18
+        ],
+        "Systems": [
+          19
+        ],
+        "(ITS),": [
+          20
+        ],
+        "with": [
+          21,
+          55,
+          107
+        ],
+        "aim": [
+          23
+        ],
+        "supporting": [
+          25
+        ],
+        "efforts": [
+          26
+        ],
+        "improve": [
+          28
+        ],
+        "effectiveness": [
+          30
+        ],
+        "type": [
+          33
+        ],
+        "educational": [
+          35
+        ],
+        "technology.": [
+          36
+        ],
+        "An": [
+          37
+        ],
+        "experiment": [
+          38
+        ],
+        "conducted": [
+          40
+        ],
+        "in": [
+          41
+        ],
+        "which": [
+          42
+        ],
+        "we": [
+          43
+        ],
+        "observe": [
+          44
+        ],
+        "and": [
+          45,
+          52,
+          76,
+          78
+        ],
+        "record": [
+          46
+        ],
+        "online": [
+          47
+        ],
+        "interactions": [
+          48
+        ],
+        "between": [
+          49
+        ],
+        "participant": [
+          51
+        ],
+        "ITS,": [
+          54
+        ],
+        "discovering": [
+          59
+        ],
+        "used": [
+          62
+        ],
+        "students.": [
+          64
+        ],
+        "Gordon": [
+          65
+        ],
+        "Pask's": [
+          66
+        ],
+        "Conversation": [
+          67
+        ],
+        "Theory": [
+          68
+        ],
+        "defines": [
+          69
+        ],
+        "a": [
+          70
+        ],
+        "social": [
+          71
+        ],
+        "constructivist": [
+          72
+        ],
+        "account": [
+          73
+        ],
+        "teaching,": [
+          77
+        ],
+        "hypothesis": [
+          80
+        ],
+        "explored": [
+          81
+        ],
+        "here": [
+          82
+        ],
+        "whether": [
+          84
+        ],
+        "analysis": [
+          85
+        ],
+        "observed": [
+          88
+        ],
+        "data": [
+          89
+        ],
+        "encoded": [
+          90
+        ],
+        "CT": [
+          92
+        ],
+        "will": [
+          93
+        ],
+        "help": [
+          94
+        ],
+        "identify": [
+          96
+        ],
+        "behaviours": [
+          97
+        ],
+        "that": [
+          98
+        ],
+        "represent": [
+          99
+        ],
+        "meaningful": [
+          100
+        ],
+        "strategies.": [
+          102
+        ],
+        "These": [
+          103
+        ],
+        "are": [
+          105
+        ],
+        "identified": [
+          106
+        ],
+        "Markov": [
+          108,
+          115
+        ],
+        "Processes,": [
+          109
+        ],
+        "enabling": [
+          110
+        ],
+        "use": [
+          112
+        ],
+        "Hidden": [
+          114
+        ],
+        "Models": [
+          116
+        ],
+        "discover": [
+          118
+        ],
+        "clusters": [
+          119
+        ],
+        "distinct": [
+          121
+        ],
+        "patterns": [
+          122
+        ],
+        "behaviour": [
+          124
+        ],
+        "within": [
+          125
+        ],
+        "observational": [
+          127
+        ],
+        "data.": [
+          128
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-28T12:50:07.497085",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4255515193",
+      "doi": "https://doi.org/10.4018/978-1-60566-952-2.ch009",
+      "title": "Educational and Professional Technoethics",
+      "display_name": "Educational and Professional Technoethics",
+      "publication_year": 2010,
+      "publication_date": "2010-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4255515193",
+        "doi": "https://doi.org/10.4018/978-1-60566-952-2.ch009"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4018/978-1-60566-952-2.ch009",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4018/978-1-60566-952-2.ch009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210168370",
+          "display_name": "Advances in information security, privacy, and ethics book series",
+          "issn_l": "1948-9730",
+          "issn": [
+            "1948-9730",
+            "1948-9749"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Information Security, Privacy, and Ethics",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.4018/978-1-60566-952-2.ch009",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5055324184",
+            "display_name": "Rocci Luppicini",
+            "orcid": "https://orcid.org/0000-0003-1962-2697"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I153718931",
+              "display_name": "University of Ottawa",
+              "ror": "https://ror.org/03c4mmv16",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Luppicini Rocci",
+          "raw_affiliation_strings": [
+            "University of Ottawa, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Ottawa, Canada",
+              "institution_ids": [
+                "https://openalex.org/I153718931"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5055324184"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I153718931"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.55740072,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "163",
+        "last_page": "180"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11492",
+        "display_name": "Academic integrity and plagiarism",
+        "score": 0.9979000091552734,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11492",
+          "display_name": "Academic integrity and plagiarism",
+          "score": 0.9979000091552734,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11058",
+          "display_name": "Ethics in Business and Education",
+          "score": 0.9933000206947327,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.9271000027656555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/happening",
+          "display_name": "Happening",
+          "score": 0.7964226007461548
+        },
+        {
+          "id": "https://openalex.org/keywords/upload",
+          "display_name": "Upload",
+          "score": 0.516521155834198
+        },
+        {
+          "id": "https://openalex.org/keywords/the-internet",
+          "display_name": "The Internet",
+          "score": 0.5002570152282715
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.4635350704193115
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.43449410796165466
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.39062362909317017
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-privacy",
+          "display_name": "Internet privacy",
+          "score": 0.36322659254074097
+        },
+        {
+          "id": "https://openalex.org/keywords/media-studies",
+          "display_name": "Media studies",
+          "score": 0.3630673289299011
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.3545563817024231
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.24383828043937683
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.2384088635444641
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.17162325978279114
+        },
+        {
+          "id": "https://openalex.org/keywords/history",
+          "display_name": "History",
+          "score": 0.15260478854179382
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779527642",
+          "wikidata": "https://www.wikidata.org/wiki/Q108874",
+          "display_name": "Happening",
+          "level": 3,
+          "score": 0.7964226007461548
+        },
+        {
+          "id": "https://openalex.org/C71901391",
+          "wikidata": "https://www.wikidata.org/wiki/Q7126699",
+          "display_name": "Upload",
+          "level": 2,
+          "score": 0.516521155834198
+        },
+        {
+          "id": "https://openalex.org/C110875604",
+          "wikidata": "https://www.wikidata.org/wiki/Q75",
+          "display_name": "The Internet",
+          "level": 2,
+          "score": 0.5002570152282715
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.4635350704193115
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.43449410796165466
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.39062362909317017
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.36322659254074097
+        },
+        {
+          "id": "https://openalex.org/C29595303",
+          "wikidata": "https://www.wikidata.org/wiki/Q165650",
+          "display_name": "Media studies",
+          "level": 1,
+          "score": 0.3630673289299011
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3545563817024231
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.24383828043937683
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.2384088635444641
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.17162325978279114
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.15260478854179382
+        },
+        {
+          "id": "https://openalex.org/C554144382",
+          "wikidata": "https://www.wikidata.org/wiki/Q213156",
+          "display_name": "Performance art",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C52119013",
+          "wikidata": "https://www.wikidata.org/wiki/Q50637",
+          "display_name": "Art history",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/978-1-60566-952-2.ch009",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.4018/978-1-60566-952-2.ch009",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210168370",
+            "display_name": "Advances in information security, privacy, and ethics book series",
+            "issn_l": "1948-9730",
+            "issn": [
+              "1948-9730",
+              "1948-9749"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "book series"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in Information Security, Privacy, and Ethics",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.4018/978-1-60566-952-2.ch009",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.4018/978-1-60566-952-2.ch009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210168370",
+          "display_name": "Advances in information security, privacy, and ethics book series",
+          "issn_l": "1948-9730",
+          "issn": [
+            "1948-9730",
+            "1948-9749"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Information Security, Privacy, and Ethics",
+        "raw_type": "book-chapter"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 20,
+      "referenced_works": [
+        "https://openalex.org/W1494292754",
+        "https://openalex.org/W1565659799",
+        "https://openalex.org/W1751570342",
+        "https://openalex.org/W1974039524",
+        "https://openalex.org/W1991976654",
+        "https://openalex.org/W1999864931",
+        "https://openalex.org/W2098401919",
+        "https://openalex.org/W2122667292",
+        "https://openalex.org/W2171617513",
+        "https://openalex.org/W2484203494",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2490457784",
+        "https://openalex.org/W2506878877",
+        "https://openalex.org/W6630729599",
+        "https://openalex.org/W6632111601",
+        "https://openalex.org/W6632558790",
+        "https://openalex.org/W6636742777",
+        "https://openalex.org/W6721281882",
+        "https://openalex.org/W6723926504",
+        "https://openalex.org/W6724452518"
+      ],
+      "related_works": [
+        "https://openalex.org/W2281462793",
+        "https://openalex.org/W574712782",
+        "https://openalex.org/W4234792686",
+        "https://openalex.org/W2414401146",
+        "https://openalex.org/W2790008319",
+        "https://openalex.org/W2284511461",
+        "https://openalex.org/W2368538948",
+        "https://openalex.org/W2240749523",
+        "https://openalex.org/W4231829069",
+        "https://openalex.org/W308144540"
+      ],
+      "abstract_inverted_index": {
+        "Are": [
+          0
+        ],
+        "we": [
+          1
+        ],
+        "developing": [
+          2
+        ],
+        "a": [
+          3,
+          44
+        ],
+        "(global)": [
+          4
+        ],
+        "society": [
+          5,
+          88
+        ],
+        "where": [
+          6,
+          29,
+          42
+        ],
+        "our": [
+          7,
+          75,
+          87,
+          104
+        ],
+        "youth": [
+          8
+        ],
+        "think": [
+          9
+        ],
+        "it": [
+          10,
+          25,
+          89
+        ],
+        "is": [
+          11,
+          55,
+          72,
+          107
+        ],
+        "ok": [
+          12
+        ],
+        "to": [
+          13,
+          111
+        ],
+        "copy": [
+          14
+        ],
+        "and": [
+          15,
+          23,
+          98
+        ],
+        "paste": [
+          16
+        ],
+        "whatever": [
+          17
+        ],
+        "they": [
+          18,
+          49
+        ],
+        "see": [
+          19
+        ],
+        "on": [
+          20,
+          86
+        ],
+        "the": [
+          21,
+          53,
+          68,
+          80,
+          92,
+          101,
+          108
+        ],
+        "Internet": [
+          22
+        ],
+        "turn": [
+          24
+        ],
+        "in": [
+          26,
+          74,
+          85,
+          100
+        ],
+        "for": [
+          27
+        ],
+        "homework;": [
+          28
+        ],
+        "writing": [
+          30
+        ],
+        "an": [
+          31
+        ],
+        "English": [
+          32
+        ],
+        "paper": [
+          33
+        ],
+        "would": [
+          34,
+          59
+        ],
+        "include": [
+          35
+        ],
+        "BTW,": [
+          36
+        ],
+        "IMHO,": [
+          37
+        ],
+        "LOL": [
+          38
+        ],
+        "among": [
+          39
+        ],
+        "other": [
+          40
+        ],
+        "emoticons;": [
+          41
+        ],
+        "downloading": [
+          43
+        ],
+        "song": [
+          45
+        ],
+        "or": [
+          46
+        ],
+        "movie": [
+          47
+        ],
+        "that": [
+          48
+        ],
+        "can": [
+          50
+        ],
+        "pirate": [
+          51
+        ],
+        "from": [
+          52
+        ],
+        "Web": [
+          54
+        ],
+        "perfectly": [
+          56
+        ],
+        "ok?": [
+          57
+        ],
+        "We": [
+          58
+        ],
+        "certainly": [
+          60
+        ],
+        "hope": [
+          61
+        ],
+        "not.": [
+          62
+        ],
+        "However,": [
+          63
+        ],
+        "these": [
+          64,
+          113
+        ],
+        "concerns": [
+          65
+        ],
+        "are": [
+          66
+        ],
+        "just": [
+          67
+        ],
+        "tip": [
+          69
+        ],
+        "of": [
+          70,
+          83,
+          94,
+          103
+        ],
+        "what": [
+          71
+        ],
+        "happening": [
+          73
+        ],
+        "society.": [
+          76,
+          105
+        ],
+        "When": [
+          77
+        ],
+        "looking": [
+          78
+        ],
+        "at": [
+          79
+        ],
+        "social": [
+          81
+        ],
+        "impact": [
+          82
+        ],
+        "technology": [
+          84
+        ],
+        "becomes": [
+          90
+        ],
+        "clear": [
+          91
+        ],
+        "importance": [
+          93
+        ],
+        "instilling": [
+          95
+        ],
+        "ethical": [
+          96,
+          114
+        ],
+        "behaviors": [
+          97
+        ],
+        "practices": [
+          99
+        ],
+        "members": [
+          102
+        ],
+        "Where": [
+          106
+        ],
+        "best": [
+          109
+        ],
+        "place": [
+          110
+        ],
+        "instill": [
+          112
+        ],
+        "behaviors?": [
+          115
+        ],
+        "--Gearhart,": [
+          116
+        ],
+        "2008,": [
+          117
+        ],
+        "p.263.": [
+          118
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

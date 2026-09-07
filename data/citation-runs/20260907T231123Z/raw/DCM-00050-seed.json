@@ -1,0 +1,848 @@
+{
+  "id": "https://openalex.org/W4387939953",
+  "doi": "https://doi.org/10.1177/21695067231192609",
+  "title": "Investigating User Preferences for Conversation Design of Voice Assistant Systems using Linguistic Features",
+  "display_name": "Investigating User Preferences for Conversation Design of Voice Assistant Systems using Linguistic Features",
+  "publication_year": 2023,
+  "publication_date": "2023-09-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4387939953",
+    "doi": "https://doi.org/10.1177/21695067231192609"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/21695067231192609",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1177/21695067231192609",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210176815",
+      "display_name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+      "issn_l": "0163-5182",
+      "issn": [
+        "0163-5182",
+        "1071-1813",
+        "1541-9312",
+        "2169-5067"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5018713679",
+        "display_name": "Lilit Sargsyan",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210130704",
+          "display_name": "University of Michigan–Dearborn",
+          "ror": "https://ror.org/035wtm547",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lilit Sargsyan",
+      "raw_affiliation_strings": [
+        "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5104188075",
+        "display_name": "Seungju Choi",
+        "orcid": "https://orcid.org/0009-0002-1757-4652"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210130704",
+          "display_name": "University of Michigan–Dearborn",
+          "ror": "https://ror.org/035wtm547",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Seungju Choi",
+      "raw_affiliation_strings": [
+        "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041651734",
+        "display_name": "Sang-Hwan Kim",
+        "orcid": "https://orcid.org/0000-0002-2748-5664"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210130704",
+          "display_name": "University of Michigan–Dearborn",
+          "ror": "https://ror.org/035wtm547",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Sang-Hwan Kim",
+      "raw_affiliation_strings": [
+        "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2748-5664",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Industrial and Manufacturing Systems Engineering, College of Engineering and Computer Science, University of Michigan – Dearborn, Dearborn, MI, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210130704"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5041651734"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210130704"
+  ],
+  "apc_list": {
+    "value": 3000,
+    "currency": "USD",
+    "value_usd": 3000
+  },
+  "apc_paid": null,
+  "fwci": 0.2626,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.6582715,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 96
+  },
+  "biblio": {
+    "volume": "67",
+    "issue": "1",
+    "first_page": "91",
+    "last_page": "96"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12031",
+    "display_name": "Speech and dialogue systems",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10709",
+      "display_name": "Social Robot Interaction and HRI",
+      "score": 0.9950000047683716,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.8010154962539673
+    },
+    {
+      "id": "https://openalex.org/keywords/preference",
+      "display_name": "Preference",
+      "score": 0.7581734657287598
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.6337977051734924
+    },
+    {
+      "id": "https://openalex.org/keywords/theme",
+      "display_name": "Theme (computing)",
+      "score": 0.6159763932228088
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6015149354934692
+    },
+    {
+      "id": "https://openalex.org/keywords/affect",
+      "display_name": "Affect (linguistics)",
+      "score": 0.5837874412536621
+    },
+    {
+      "id": "https://openalex.org/keywords/natural",
+      "display_name": "Natural (archaeology)",
+      "score": 0.48225051164627075
+    },
+    {
+      "id": "https://openalex.org/keywords/ellipsis",
+      "display_name": "Ellipsis (linguistics)",
+      "score": 0.44281908869743347
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.38376444578170776
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.3673323392868042
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-processing",
+      "display_name": "Natural language processing",
+      "score": 0.35388118028640747
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.24316367506980896
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.17180272936820984
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.11516368389129639
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.0830514132976532
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.8010154962539673
+    },
+    {
+      "id": "https://openalex.org/C2781249084",
+      "wikidata": "https://www.wikidata.org/wiki/Q908656",
+      "display_name": "Preference",
+      "level": 2,
+      "score": 0.7581734657287598
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.6337977051734924
+    },
+    {
+      "id": "https://openalex.org/C33566652",
+      "wikidata": "https://www.wikidata.org/wiki/Q1065927",
+      "display_name": "Theme (computing)",
+      "level": 2,
+      "score": 0.6159763932228088
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6015149354934692
+    },
+    {
+      "id": "https://openalex.org/C2776035688",
+      "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+      "display_name": "Affect (linguistics)",
+      "level": 2,
+      "score": 0.5837874412536621
+    },
+    {
+      "id": "https://openalex.org/C2776608160",
+      "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+      "display_name": "Natural (archaeology)",
+      "level": 2,
+      "score": 0.48225051164627075
+    },
+    {
+      "id": "https://openalex.org/C2780881102",
+      "wikidata": "https://www.wikidata.org/wiki/Q189743",
+      "display_name": "Ellipsis (linguistics)",
+      "level": 2,
+      "score": 0.44281908869743347
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.38376444578170776
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3673323392868042
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.35388118028640747
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.24316367506980896
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.17180272936820984
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.11516368389129639
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0830514132976532
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1177/21695067231192609",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1177/21695067231192609",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210176815",
+        "display_name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+        "issn_l": "0163-5182",
+        "issn": [
+          "0163-5182",
+          "1071-1813",
+          "1541-9312",
+          "2169-5067"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "score": 0.8500000238418579,
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W202512431",
+    "https://openalex.org/W799975872",
+    "https://openalex.org/W1643469385",
+    "https://openalex.org/W1735949557",
+    "https://openalex.org/W2111960899",
+    "https://openalex.org/W2126555270",
+    "https://openalex.org/W2206274971",
+    "https://openalex.org/W2889031479",
+    "https://openalex.org/W2896893982",
+    "https://openalex.org/W2968089411",
+    "https://openalex.org/W4235073904"
+  ],
+  "related_works": [
+    "https://openalex.org/W1968552888",
+    "https://openalex.org/W1527532029",
+    "https://openalex.org/W2374116601",
+    "https://openalex.org/W3093134843",
+    "https://openalex.org/W2378167147",
+    "https://openalex.org/W3210777354",
+    "https://openalex.org/W2772323916",
+    "https://openalex.org/W2281307425",
+    "https://openalex.org/W1511346092",
+    "https://openalex.org/W2114613283"
+  ],
+  "abstract_inverted_index": {
+    "As": [
+      0
+    ],
+    "the": [
+      1,
+      13,
+      24,
+      29,
+      49,
+      99
+    ],
+    "use": [
+      2
+    ],
+    "of": [
+      3,
+      23,
+      31,
+      39,
+      42,
+      48,
+      63,
+      68
+    ],
+    "voice": [
+      4,
+      108
+    ],
+    "assistant": [
+      5
+    ],
+    "(VA)": [
+      6
+    ],
+    "systems": [
+      7,
+      45
+    ],
+    "is": [
+      8,
+      15
+    ],
+    "increasing,": [
+      9
+    ],
+    "conversation": [
+      10
+    ],
+    "design": [
+      11
+    ],
+    "in": [
+      12,
+      37
+    ],
+    "system": [
+      14
+    ],
+    "important": [
+      16
+    ],
+    "for": [
+      17,
+      34,
+      46,
+      56,
+      92,
+      106
+    ],
+    "effective": [
+      18
+    ],
+    "human-system": [
+      19
+    ],
+    "interaction.": [
+      20
+    ],
+    "The": [
+      21,
+      72,
+      95
+    ],
+    "objective": [
+      22
+    ],
+    "study": [
+      25
+    ],
+    "was": [
+      26
+    ],
+    "to": [
+      27,
+      103
+    ],
+    "investigate": [
+      28
+    ],
+    "level": [
+      30
+    ],
+    "user": [
+      32,
+      90
+    ],
+    "preference": [
+      33,
+      91
+    ],
+    "VA": [
+      35,
+      44,
+      73,
+      93
+    ],
+    "outputs": [
+      36
+    ],
+    "terms": [
+      38
+    ],
+    "linguistics.": [
+      40
+    ],
+    "Answers": [
+      41
+    ],
+    "three": [
+      43
+    ],
+    "each": [
+      47
+    ],
+    "nine": [
+      50
+    ],
+    "questions": [
+      51
+    ],
+    "were": [
+      52,
+      75
+    ],
+    "collected": [
+      53
+    ],
+    "and": [
+      54,
+      70,
+      86
+    ],
+    "categorized": [
+      55
+    ],
+    "distinctive": [
+      57
+    ],
+    "linguistic": [
+      58,
+      84,
+      100
+    ],
+    "factors": [
+      59,
+      85
+    ],
+    "such": [
+      60
+    ],
+    "as": [
+      61,
+      111
+    ],
+    "type": [
+      62
+    ],
+    "theme,": [
+      64
+    ],
+    "thematic": [
+      65
+    ],
+    "progression,": [
+      66
+    ],
+    "number": [
+      67
+    ],
+    "predications,": [
+      69
+    ],
+    "ellipsis.": [
+      71
+    ],
+    "answers": [
+      74
+    ],
+    "evaluated": [
+      76
+    ],
+    "through": [
+      77
+    ],
+    "an": [
+      78
+    ],
+    "online": [
+      79
+    ],
+    "survey.": [
+      80
+    ],
+    "Results": [
+      81
+    ],
+    "show": [
+      82
+    ],
+    "that": [
+      83,
+      98
+    ],
+    "features": [
+      87,
+      101
+    ],
+    "significantly": [
+      88
+    ],
+    "affect": [
+      89
+    ],
+    "outputs.": [
+      94
+    ],
+    "results": [
+      96
+    ],
+    "imply": [
+      97
+    ],
+    "need": [
+      102
+    ],
+    "be": [
+      104
+    ],
+    "considered": [
+      105
+    ],
+    "designing": [
+      107
+    ],
+    "interaction": [
+      109,
+      114
+    ],
+    "communications": [
+      110
+    ],
+    "a": [
+      112
+    ],
+    "natural": [
+      113
+    ],
+    "method.": [
+      115
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-29T07:29:34.045763",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,2182 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 11,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4407719098)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4407719098"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4407719098&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4409719960",
+      "doi": "https://doi.org/10.1145/3706599.3719976",
+      "title": "Exploring Older Adults Personality Preferences for LLM-powered Conversational Companions",
+      "display_name": "Exploring Older Adults Personality Preferences for LLM-powered Conversational Companions",
+      "publication_year": 2025,
+      "publication_date": "2025-04-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4409719960",
+        "doi": "https://doi.org/10.1145/3706599.3719976"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3706599.3719976",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3706599.3719976",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5117272927",
+            "display_name": "Ajwa Shahid",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ajwa Shahid",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Virginia, Charlottesville, Virginia, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0004-0700-1089",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Virginia, Charlottesville, Virginia, USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045503403",
+            "display_name": "Jane Chung",
+            "orcid": "https://orcid.org/0000-0002-0437-9025"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I150468666",
+              "display_name": "Emory University",
+              "ror": "https://ror.org/03czfpz43",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I150468666"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jane Chung",
+          "raw_affiliation_strings": [
+            "Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, Georgia, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-0437-9025",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Nell Hodgson Woodruff School of Nursing, Emory University, Atlanta, Georgia, USA",
+              "institution_ids": [
+                "https://openalex.org/I150468666"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5082876798",
+            "display_name": "Seongkook Heo",
+            "orcid": "https://orcid.org/0000-0003-2004-4812"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51556381",
+              "display_name": "University of Virginia",
+              "ror": "https://ror.org/0153tk833",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Seongkook Heo",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of Virginia, Charlottesville, Virginia, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2004-4812",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of Virginia, Charlottesville, Virginia, USA",
+              "institution_ids": [
+                "https://openalex.org/I51556381"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 19.691,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.99313815,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "7"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12488",
+        "display_name": "Mental Health via Writing",
+        "score": 0.9768999814987183,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12488",
+          "display_name": "Mental Health via Writing",
+          "score": 0.9768999814987183,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11040",
+          "display_name": "Personality Traits and Psychology",
+          "score": 0.9739000201225281,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3203",
+            "display_name": "Clinical Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11265",
+          "display_name": "Aging and Gerontology Research",
+          "score": 0.9733999967575073,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3206",
+            "display_name": "Neuropsychology and Physiological Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/personality",
+          "display_name": "Personality",
+          "score": 0.6583548784255981
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5372052192687988
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4297093152999878
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.3504493832588196
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.21956965327262878
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C187288502",
+          "wikidata": "https://www.wikidata.org/wiki/Q641118",
+          "display_name": "Personality",
+          "level": 2,
+          "score": 0.6583548784255981
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5372052192687988
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4297093152999878
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.3504493832588196
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.21956965327262878
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3706599.3719976",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/3706599.3719976",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.6499999761581421
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 38,
+      "referenced_works": [
+        "https://openalex.org/W42461611",
+        "https://openalex.org/W2026162620",
+        "https://openalex.org/W2042962409",
+        "https://openalex.org/W2071559616",
+        "https://openalex.org/W2103249557",
+        "https://openalex.org/W2120043049",
+        "https://openalex.org/W2129672652",
+        "https://openalex.org/W2152305200",
+        "https://openalex.org/W2166333452",
+        "https://openalex.org/W2911109671",
+        "https://openalex.org/W3010399192",
+        "https://openalex.org/W3047975279",
+        "https://openalex.org/W3084929246",
+        "https://openalex.org/W3118898753",
+        "https://openalex.org/W3168715003",
+        "https://openalex.org/W3168881649",
+        "https://openalex.org/W3185854663",
+        "https://openalex.org/W3206289796",
+        "https://openalex.org/W4200032706",
+        "https://openalex.org/W4205102912",
+        "https://openalex.org/W4225091475",
+        "https://openalex.org/W4236521339",
+        "https://openalex.org/W4283020727",
+        "https://openalex.org/W4295793508",
+        "https://openalex.org/W4307136618",
+        "https://openalex.org/W4323537006",
+        "https://openalex.org/W4366549110",
+        "https://openalex.org/W4385729976",
+        "https://openalex.org/W4387892136",
+        "https://openalex.org/W4390268005",
+        "https://openalex.org/W4394666259",
+        "https://openalex.org/W4396219005",
+        "https://openalex.org/W4399053129",
+        "https://openalex.org/W4399425790",
+        "https://openalex.org/W4400065236",
+        "https://openalex.org/W4400397492",
+        "https://openalex.org/W4400466627",
+        "https://openalex.org/W4407719098"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 9
+        }
+      ],
+      "updated_date": "2026-08-29T07:29:34.045763",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7130397175",
+      "doi": "https://doi.org/10.1080/10447318.2026.2629531",
+      "title": "The Minds Behind the Prompts: How Mental Representations Shape User Interaction with Generative AI",
+      "display_name": "The Minds Behind the Prompts: How Mental Representations Shape User Interaction with Generative AI",
+      "publication_year": 2026,
+      "publication_date": "2026-02-18",
+      "ids": {
+        "openalex": "https://openalex.org/W7130397175",
+        "doi": "https://doi.org/10.1080/10447318.2026.2629531"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/10447318.2026.2629531",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/10447318.2026.2629531",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S165559636",
+          "display_name": "International Journal of Human-Computer Interaction",
+          "issn_l": "1044-7318",
+          "issn": [
+            "1044-7318",
+            "1532-7590"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Human–Computer Interaction",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026997154",
+            "display_name": "Weizi Liu",
+            "orcid": "https://orcid.org/0000-0003-2071-1603"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I128956969",
+              "display_name": "Texas Christian University",
+              "ror": "https://ror.org/054b0b564",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I128956969"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Weizi Liu",
+          "raw_affiliation_strings": [
+            "Department of Strategic Communication, Bob Schieffer College of Communication, Texas Christian University"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2071-1603",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Strategic Communication, Bob Schieffer College of Communication, Texas Christian University",
+              "institution_ids": [
+                "https://openalex.org/I128956969"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5124903984",
+            "display_name": "Mike Yao",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157725225",
+              "display_name": "University of Illinois Urbana-Champaign",
+              "ror": "https://ror.org/047426m28",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157725225"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mike Yao",
+          "raw_affiliation_strings": [
+            "College of Media, University of Illinois at Urbana-Champaign"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-6429-0233",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Media, University of Illinois at Urbana-Champaign",
+              "institution_ids": [
+                "https://openalex.org/I157725225"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5026997154"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I128956969"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 12.1464,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.96270668,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "19"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10709",
+        "display_name": "Social Robot Interaction and HRI",
+        "score": 0.08510000258684158,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3207",
+          "display_name": "Social Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10709",
+          "display_name": "Social Robot Interaction and HRI",
+          "score": 0.08510000258684158,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11883",
+          "display_name": "Embodied and Extended Cognition",
+          "score": 0.06909999996423721,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11904",
+          "display_name": "Spatial Cognition and Navigation",
+          "score": 0.06790000200271606,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2203",
+            "display_name": "Automotive Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.5182999968528748
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.3091999888420105
+        },
+        {
+          "id": "https://openalex.org/keywords/representation",
+          "display_name": "Representation (politics)",
+          "score": 0.28940001130104065
+        },
+        {
+          "id": "https://openalex.org/keywords/feature",
+          "display_name": "Feature (linguistics)",
+          "score": 0.28360000252723694
+        },
+        {
+          "id": "https://openalex.org/keywords/generalization",
+          "display_name": "Generalization",
+          "score": 0.27959999442100525
+        },
+        {
+          "id": "https://openalex.org/keywords/generative-model",
+          "display_name": "Generative model",
+          "score": 0.2766999900341034
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.5182999968528748
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4708000123500824
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.40869998931884766
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.3862999975681305
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3846000134944916
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.34929999709129333
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.3091999888420105
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.3091000020503998
+        },
+        {
+          "id": "https://openalex.org/C2776359362",
+          "wikidata": "https://www.wikidata.org/wiki/Q2145286",
+          "display_name": "Representation (politics)",
+          "level": 3,
+          "score": 0.28940001130104065
+        },
+        {
+          "id": "https://openalex.org/C2776401178",
+          "wikidata": "https://www.wikidata.org/wiki/Q12050496",
+          "display_name": "Feature (linguistics)",
+          "level": 2,
+          "score": 0.28360000252723694
+        },
+        {
+          "id": "https://openalex.org/C177148314",
+          "wikidata": "https://www.wikidata.org/wiki/Q170084",
+          "display_name": "Generalization",
+          "level": 2,
+          "score": 0.27959999442100525
+        },
+        {
+          "id": "https://openalex.org/C167966045",
+          "wikidata": "https://www.wikidata.org/wiki/Q5532625",
+          "display_name": "Generative model",
+          "level": 3,
+          "score": 0.2766999900341034
+        },
+        {
+          "id": "https://openalex.org/C180747234",
+          "wikidata": "https://www.wikidata.org/wiki/Q23373",
+          "display_name": "Cognitive psychology",
+          "level": 1,
+          "score": 0.2687999904155731
+        },
+        {
+          "id": "https://openalex.org/C192209626",
+          "wikidata": "https://www.wikidata.org/wiki/Q190909",
+          "display_name": "Focus (optics)",
+          "level": 2,
+          "score": 0.2687999904155731
+        },
+        {
+          "id": "https://openalex.org/C2982912361",
+          "wikidata": "https://www.wikidata.org/wiki/Q1851867",
+          "display_name": "Mental model",
+          "level": 2,
+          "score": 0.26669999957084656
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.26339998841285706
+        },
+        {
+          "id": "https://openalex.org/C2780451532",
+          "wikidata": "https://www.wikidata.org/wiki/Q759676",
+          "display_name": "Task (project management)",
+          "level": 2,
+          "score": 0.2565999925136566
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.2502000033855438
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/10447318.2026.2629531",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/10447318.2026.2629531",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S165559636",
+            "display_name": "International Journal of Human-Computer Interaction",
+            "issn_l": "1044-7318",
+            "issn": [
+              "1044-7318",
+              "1532-7590"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Human–Computer Interaction",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.535315752029419
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 49,
+      "referenced_works": [
+        "https://openalex.org/W1493772365",
+        "https://openalex.org/W1678916964",
+        "https://openalex.org/W1791587663",
+        "https://openalex.org/W1964951887",
+        "https://openalex.org/W1968118027",
+        "https://openalex.org/W1991015565",
+        "https://openalex.org/W2003966557",
+        "https://openalex.org/W2011430131",
+        "https://openalex.org/W2072725179",
+        "https://openalex.org/W2089457241",
+        "https://openalex.org/W2097219834",
+        "https://openalex.org/W2108752510",
+        "https://openalex.org/W2110930288",
+        "https://openalex.org/W2116003303",
+        "https://openalex.org/W2123180161",
+        "https://openalex.org/W2130736456",
+        "https://openalex.org/W2150593711",
+        "https://openalex.org/W2156897926",
+        "https://openalex.org/W2159117246",
+        "https://openalex.org/W2162390035",
+        "https://openalex.org/W2168747479",
+        "https://openalex.org/W2247045068",
+        "https://openalex.org/W2479531384",
+        "https://openalex.org/W2955088691",
+        "https://openalex.org/W2963095307",
+        "https://openalex.org/W2991594645",
+        "https://openalex.org/W3003802619",
+        "https://openalex.org/W3005609231",
+        "https://openalex.org/W3006245018",
+        "https://openalex.org/W3030109276",
+        "https://openalex.org/W3036187971",
+        "https://openalex.org/W3047508744",
+        "https://openalex.org/W4235073904",
+        "https://openalex.org/W4241057687",
+        "https://openalex.org/W4241819366",
+        "https://openalex.org/W4242761397",
+        "https://openalex.org/W4253072022",
+        "https://openalex.org/W4280577403",
+        "https://openalex.org/W4292779060",
+        "https://openalex.org/W4297325261",
+        "https://openalex.org/W4301357669",
+        "https://openalex.org/W4321649710",
+        "https://openalex.org/W4366588078",
+        "https://openalex.org/W4376988629",
+        "https://openalex.org/W4384406040",
+        "https://openalex.org/W4385071300",
+        "https://openalex.org/W4400849102",
+        "https://openalex.org/W4407719098",
+        "https://openalex.org/W4411674210"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          128
+        ],
+        "investigates": [
+          2
+        ],
+        "how": [
+          3
+        ],
+        "users’": [
+          4,
+          26,
+          133
+        ],
+        "mental": [
+          5,
+          68,
+          82,
+          134
+        ],
+        "representations": [
+          6,
+          69,
+          83,
+          135
+        ],
+        "of": [
+          7,
+          28,
+          39,
+          54,
+          70,
+          136,
+          147
+        ],
+        "generative": [
+          8
+        ],
+        "AI": [
+          9,
+          15,
+          29,
+          55,
+          71,
+          98,
+          110,
+          137
+        ],
+        "influence": [
+          10
+        ],
+        "their": [
+          11,
+          40,
+          139
+        ],
+        "interaction": [
+          12
+        ],
+        "patterns": [
+          13
+        ],
+        "with": [
+          14,
+          21
+        ],
+        "systems.": [
+          16
+        ],
+        "Through": [
+          17
+        ],
+        "an": [
+          18
+        ],
+        "online": [
+          19
+        ],
+        "survey": [
+          20
+        ],
+        "211": [
+          22
+        ],
+        "participants,": [
+          23
+        ],
+        "we": [
+          24,
+          50
+        ],
+        "analyzed": [
+          25
+        ],
+        "perceptions": [
+          27
+        ],
+        "using": [
+          30
+        ],
+        "adjective": [
+          31
+        ],
+        "ratings": [
+          32
+        ],
+        "and": [
+          33,
+          63,
+          66,
+          74,
+          84,
+          103,
+          124
+        ],
+        "role": [
+          34
+        ],
+        "classifications,": [
+          35
+        ],
+        "followed": [
+          36
+        ],
+        "by": [
+          37
+        ],
+        "analyses": [
+          38,
+          77
+        ],
+        "preferred": [
+          41
+        ],
+        "prompting": [
+          42,
+          85,
+          105
+        ],
+        "styles": [
+          43,
+          86
+        ],
+        "across": [
+          44
+        ],
+        "task": [
+          45
+        ],
+        "scenarios.": [
+          46
+        ],
+        "Using": [
+          47
+        ],
+        "k-means": [
+          48
+        ],
+        "clustering,": [
+          49
+        ],
+        "identified": [
+          51
+        ],
+        "four": [
+          52
+        ],
+        "groups": [
+          53
+        ],
+        "users": [
+          56,
+          92
+        ],
+        "(optimistic": [
+          57
+        ],
+        "pragmatists,": [
+          58
+        ],
+        "neutral": [
+          59
+        ],
+        "observers,": [
+          60
+        ],
+        "skeptical": [
+          61
+        ],
+        "realists,": [
+          62
+        ],
+        "enthusiastic": [
+          64
+        ],
+        "advocates)": [
+          65
+        ],
+        "three": [
+          67
+        ],
+        "(all-rounder,": [
+          72
+        ],
+        "helper,": [
+          73
+        ],
+        "tool).": [
+          75
+        ],
+        "Chi-squared": [
+          76
+        ],
+        "revealed": [
+          78
+        ],
+        "significant": [
+          79
+        ],
+        "relationships": [
+          80
+        ],
+        "between": [
+          81
+        ],
+        "in": [
+          87,
+          97
+        ],
+        "the": [
+          88,
+          144
+        ],
+        "essay-writing": [
+          89
+        ],
+        "task,": [
+          90
+        ],
+        "where": [
+          91
+        ],
+        "who": [
+          93
+        ],
+        "had": [
+          94
+        ],
+        "more": [
+          95
+        ],
+        "faith": [
+          96
+        ],
+        "tended": [
+          99
+        ],
+        "to": [
+          100,
+          138,
+          143
+        ],
+        "adopt": [
+          101
+        ],
+        "conversational": [
+          102
+        ],
+        "co-creative": [
+          104
+        ],
+        "styles,": [
+          106,
+          141
+        ],
+        "while": [
+          107
+        ],
+        "those": [
+          108
+        ],
+        "viewing": [
+          109
+        ],
+        "as": [
+          111
+        ],
+        "merely": [
+          112
+        ],
+        "a": [
+          113
+        ],
+        "tool": [
+          114
+        ],
+        "favored": [
+          115
+        ],
+        "directive": [
+          116
+        ],
+        "approaches.": [
+          117
+        ],
+        "By": [
+          118
+        ],
+        "integrating": [
+          119
+        ],
+        "perspectives": [
+          120
+        ],
+        "from": [
+          121
+        ],
+        "cognitive": [
+          122
+        ],
+        "psychology": [
+          123
+        ],
+        "speech": [
+          125
+        ],
+        "communication,": [
+          126
+        ],
+        "this": [
+          127
+        ],
+        "provides": [
+          129
+        ],
+        "empirical": [
+          130
+        ],
+        "evidence": [
+          131
+        ],
+        "linking": [
+          132
+        ],
+        "communication": [
+          140
+        ],
+        "contributing": [
+          142
+        ],
+        "theoretical": [
+          145
+        ],
+        "development": [
+          146
+        ],
+        "human-machine": [
+          148
+        ],
+        "communication.": [
+          149
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-15T07:11:24.734988",
+      "created_date": "2026-02-19T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7135053054",
+      "doi": "https://doi.org/10.1145/3776734.3794532",
+      "title": "Robotic Sycophancy: A Scoping Review",
+      "display_name": "Robotic Sycophancy: A Scoping Review",
+      "publication_year": 2026,
+      "publication_date": "2026-03-12",
+      "ids": {
+        "openalex": "https://openalex.org/W7135053054",
+        "doi": "https://doi.org/10.1145/3776734.3794532"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1145/3776734.3794532",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3776734.3794532",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5076375264",
+            "display_name": "Katie Seaborn",
+            "orcid": "https://orcid.org/0000-0002-7812-9096"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I241749",
+              "display_name": "University of Cambridge",
+              "ror": "https://ror.org/013meh722",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I241749"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4400009020",
+              "display_name": "Institute of Science Tokyo",
+              "ror": "https://ror.org/05dqf9946",
+              "country_code": "JP",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4400009020"
+              ]
+            }
+          ],
+          "countries": [
+            "GB",
+            "JP"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Katie Seaborn",
+          "raw_affiliation_strings": [
+            "Institute of Science Tokyo, Tokyo, Japan",
+            "University of Cambridge, Cambridge, United Kingdom"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7812-9096",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Science Tokyo, Tokyo, Japan",
+              "institution_ids": [
+                "https://openalex.org/I4400009020"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Cambridge, Cambridge, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I241749"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5011213382",
+            "display_name": "Özge Nilay Yalçın",
+            "orcid": "https://orcid.org/0000-0002-8898-0466"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I18014758",
+              "display_name": "Simon Fraser University",
+              "ror": "https://ror.org/0213rcc28",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I18014758"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Özge Nilay Yalçın",
+          "raw_affiliation_strings": [
+            "Simon Fraser University, Surrey, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8898-0466",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Simon Fraser University, Surrey, Canada",
+              "institution_ids": [
+                "https://openalex.org/I18014758"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.29548989,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "938",
+        "last_page": "943"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10919",
+        "display_name": "Neurological disorders and treatments",
+        "score": 0.13030000030994415,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2728",
+          "display_name": "Neurology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10919",
+          "display_name": "Neurological disorders and treatments",
+          "score": 0.13030000030994415,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2728",
+            "display_name": "Neurology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10429",
+          "display_name": "EEG and Brain-Computer Interfaces",
+          "score": 0.07320000231266022,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10614",
+          "display_name": "Transcranial Magnetic Stimulation Studies",
+          "score": 0.05480000004172325,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2808",
+            "display_name": "Neurology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/robot",
+          "display_name": "Robot",
+          "score": 0.6500999927520752
+        },
+        {
+          "id": "https://openalex.org/keywords/suite",
+          "display_name": "Suite",
+          "score": 0.5687000155448914
+        },
+        {
+          "id": "https://openalex.org/keywords/robotics",
+          "display_name": "Robotics",
+          "score": 0.5436000227928162
+        },
+        {
+          "id": "https://openalex.org/keywords/bridging",
+          "display_name": "Bridging (networking)",
+          "score": 0.5095999836921692
+        },
+        {
+          "id": "https://openalex.org/keywords/social-robot",
+          "display_name": "Social robot",
+          "score": 0.4758000075817108
+        },
+        {
+          "id": "https://openalex.org/keywords/human–robot-interaction",
+          "display_name": "Human–robot interaction",
+          "score": 0.37950000166893005
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C90509273",
+          "wikidata": "https://www.wikidata.org/wiki/Q11012",
+          "display_name": "Robot",
+          "level": 2,
+          "score": 0.6500999927520752
+        },
+        {
+          "id": "https://openalex.org/C79581498",
+          "wikidata": "https://www.wikidata.org/wiki/Q1367530",
+          "display_name": "Suite",
+          "level": 2,
+          "score": 0.5687000155448914
+        },
+        {
+          "id": "https://openalex.org/C34413123",
+          "wikidata": "https://www.wikidata.org/wiki/Q170978",
+          "display_name": "Robotics",
+          "level": 3,
+          "score": 0.5436000227928162
+        },
+        {
+          "id": "https://openalex.org/C174348530",
+          "wikidata": "https://www.wikidata.org/wiki/Q188635",
+          "display_name": "Bridging (networking)",
+          "level": 2,
+          "score": 0.5095999836921692
+        },
+        {
+          "id": "https://openalex.org/C162947575",
+          "wikidata": "https://www.wikidata.org/wiki/Q2005645",
+          "display_name": "Social robot",
+          "level": 5,
+          "score": 0.4758000075817108
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.4526999890804291
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4494999945163727
+        },
+        {
+          "id": "https://openalex.org/C145460709",
+          "wikidata": "https://www.wikidata.org/wiki/Q859951",
+          "display_name": "Human–robot interaction",
+          "level": 3,
+          "score": 0.37950000166893005
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.37880000472068787
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.36309999227523804
+        },
+        {
+          "id": "https://openalex.org/C120936955",
+          "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+          "display_name": "Empirical research",
+          "level": 2,
+          "score": 0.3465999960899353
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.33379998803138733
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.3328999876976013
+        },
+        {
+          "id": "https://openalex.org/C2780589192",
+          "wikidata": "https://www.wikidata.org/wiki/Q7285140",
+          "display_name": "Raising (metalworking)",
+          "level": 2,
+          "score": 0.28529998660087585
+        },
+        {
+          "id": "https://openalex.org/C182306322",
+          "wikidata": "https://www.wikidata.org/wiki/Q1779371",
+          "display_name": "Order (exchange)",
+          "level": 2,
+          "score": 0.2849999964237213
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.2818000018596649
+        },
+        {
+          "id": "https://openalex.org/C59519942",
+          "wikidata": "https://www.wikidata.org/wiki/Q650665",
+          "display_name": "Drone",
+          "level": 2,
+          "score": 0.26660001277923584
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2614000141620636
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.2556000053882599
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.2524999976158142
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3776734.3794532",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/3776734.3794532",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.5290116667747498
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5741897604",
+          "display_name": null,
+          "funder_award_id": "PRESTO #JPMJPR24I6",
+          "funder_id": "https://openalex.org/F4320334789",
+          "funder_display_name": "Japan Science and Technology Agency"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334789",
+          "display_name": "Japan Science and Technology Agency",
+          "ror": "https://ror.org/00097mb19"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 53,
+      "referenced_works": [
+        "https://openalex.org/W1986829999",
+        "https://openalex.org/W2032568497",
+        "https://openalex.org/W2062212388",
+        "https://openalex.org/W2105321265",
+        "https://openalex.org/W2111633154",
+        "https://openalex.org/W2131799829",
+        "https://openalex.org/W2136407476",
+        "https://openalex.org/W2142225512",
+        "https://openalex.org/W2153738822",
+        "https://openalex.org/W2162111811",
+        "https://openalex.org/W2547813422",
+        "https://openalex.org/W2783040364",
+        "https://openalex.org/W2891378911",
+        "https://openalex.org/W2910557979",
+        "https://openalex.org/W2935088330",
+        "https://openalex.org/W2996884718",
+        "https://openalex.org/W3042067146",
+        "https://openalex.org/W3098131776",
+        "https://openalex.org/W3100983593",
+        "https://openalex.org/W3159367349",
+        "https://openalex.org/W4308902180",
+        "https://openalex.org/W4311808540",
+        "https://openalex.org/W4312342509",
+        "https://openalex.org/W4385571158",
+        "https://openalex.org/W4387892136",
+        "https://openalex.org/W4388090090",
+        "https://openalex.org/W4390833061",
+        "https://openalex.org/W4391105189",
+        "https://openalex.org/W4391335180",
+        "https://openalex.org/W4398160853",
+        "https://openalex.org/W4401043356",
+        "https://openalex.org/W4403346544",
+        "https://openalex.org/W4404112581",
+        "https://openalex.org/W4404518554",
+        "https://openalex.org/W4404534210",
+        "https://openalex.org/W4405073113",
+        "https://openalex.org/W4407719098",
+        "https://openalex.org/W4409719960",
+        "https://openalex.org/W4409736277",
+        "https://openalex.org/W4412625889",
+        "https://openalex.org/W4413240600",
+        "https://openalex.org/W4414603489",
+        "https://openalex.org/W4414816520",
+        "https://openalex.org/W4414971647",
+        "https://openalex.org/W4415315946",
+        "https://openalex.org/W4416018266",
+        "https://openalex.org/W4416261424",
+        "https://openalex.org/W4416969223",
+        "https://openalex.org/W6948038387",
+        "https://openalex.org/W6967210706",
+        "https://openalex.org/W7102695957",
+        "https://openalex.org/W7106159186",
+        "https://openalex.org/W7106295933"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Sycophancy": [
+          0
+        ],
+        "in": [
+          1,
+          25,
+          52,
+          142
+        ],
+        "social": [
+          2,
+          50,
+          70
+        ],
+        "robots": [
+          3,
+          51,
+          71
+        ],
+        "is": [
+          4
+        ],
+        "an": [
+          5
+        ],
+        "emerging": [
+          6
+        ],
+        "threat": [
+          7
+        ],
+        "brought": [
+          8
+        ],
+        "on": [
+          9,
+          33,
+          112,
+          133
+        ],
+        "by": [
+          10,
+          73
+        ],
+        "the": [
+          11,
+          41,
+          54,
+          126,
+          134
+        ],
+        "launch": [
+          12
+        ],
+        "of": [
+          13,
+          59,
+          99,
+          108,
+          117,
+          140
+        ],
+        "ChatGPT": [
+          14
+        ],
+        "and": [
+          15,
+          30,
+          36,
+          49,
+          56,
+          65,
+          80,
+          94,
+          105,
+          119,
+          130,
+          137
+        ],
+        "other": [
+          16
+        ],
+        "powerful": [
+          17
+        ],
+        "large": [
+          18
+        ],
+        "language": [
+          19
+        ],
+        "models": [
+          20
+        ],
+        "(LLMs)": [
+          21
+        ],
+        "that": [
+          22,
+          89
+        ],
+        "can": [
+          23
+        ],
+        "speak": [
+          24
+        ],
+        "a": [
+          26,
+          106
+        ],
+        "near-fluent": [
+          27
+        ],
+        "fashion.": [
+          28
+        ],
+        "Short-": [
+          29
+        ],
+        "long-term": [
+          31
+        ],
+        "findings": [
+          32
+        ],
+        "LLM-powered": [
+          34
+        ],
+        "chatbots": [
+          35
+        ],
+        "conversational": [
+          37
+        ],
+        "agents": [
+          38
+        ],
+        "are": [
+          39
+        ],
+        "raising": [
+          40
+        ],
+        "alarm.": [
+          42
+        ],
+        "With": [
+          43
+        ],
+        "work": [
+          44,
+          132
+        ],
+        "bridging": [
+          45
+        ],
+        "communication-centred": [
+          46
+        ],
+        "LLM": [
+          47
+        ],
+        "use": [
+          48
+        ],
+        "production,": [
+          53
+        ],
+        "deceptive": [
+          55
+        ],
+        "persuasive": [
+          57
+        ],
+        "capabilities": [
+          58
+        ],
+        "LLM-imbued": [
+          60
+        ],
+        "robotic": [
+          61,
+          113
+        ],
+        "companions": [
+          62
+        ],
+        "needs": [
+          63,
+          83
+        ],
+        "urgent": [
+          64
+        ],
+        "critical": [
+          66
+        ],
+        "consideration.": [
+          67
+        ],
+        "Notably,": [
+          68
+        ],
+        "how": [
+          69
+        ],
+        "aided": [
+          72
+        ],
+        "sycophantically-inclined": [
+          74
+        ],
+        "LLMs": [
+          75
+        ],
+        "may": [
+          76
+        ],
+        "overly": [
+          77
+        ],
+        "influence": [
+          78
+        ],
+        "decision-making": [
+          79
+        ],
+        "elicit": [
+          81
+        ],
+        "overtrust": [
+          82
+        ],
+        "interrogation.": [
+          84
+        ],
+        "Using": [
+          85
+        ],
+        "scoping": [
+          86
+        ],
+        "review": [
+          87
+        ],
+        "methodology": [
+          88
+        ],
+        "bridges": [
+          90
+        ],
+        "robotics": [
+          91
+        ],
+        "with": [
+          92
+        ],
+        "AI": [
+          93
+        ],
+        "LLMs,": [
+          95
+        ],
+        "we": [
+          96
+        ],
+        "surface": [
+          97
+        ],
+        "dimensions": [
+          98
+        ],
+        "sycophancy,": [
+          100
+        ],
+        "constructs": [
+          101
+        ],
+        "as": [
+          102
+        ],
+        "research": [
+          103,
+          111
+        ],
+        "targets,": [
+          104
+        ],
+        "suite": [
+          107
+        ],
+        "measures": [
+          109
+        ],
+        "for": [
+          110,
+          128
+        ],
+        "sycophancy.": [
+          114
+        ],
+        "Our": [
+          115
+        ],
+        "analysis": [
+          116
+        ],
+        "historical": [
+          118
+        ],
+        "modern": [
+          120
+        ],
+        "studies": [
+          121
+        ],
+        "(𝑁": [
+          122
+        ],
+        "=": [
+          123
+        ],
+        "23)": [
+          124
+        ],
+        "sets": [
+          125
+        ],
+        "stage": [
+          127
+        ],
+        "empirical": [
+          129
+        ],
+        "theoretical": [
+          131
+        ],
+        "potential": [
+          135
+        ],
+        "misuses": [
+          136
+        ],
+        "unexpected": [
+          138
+        ],
+        "effects": [
+          139
+        ],
+        "sycophancy": [
+          141
+        ],
+        "human–robot": [
+          143
+        ],
+        "interactions.": [
+          144
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-27T14:10:00.468798",
+      "created_date": "2026-02-02T00:00:00"
+    }
+  ],
+  "group_by": []
+}

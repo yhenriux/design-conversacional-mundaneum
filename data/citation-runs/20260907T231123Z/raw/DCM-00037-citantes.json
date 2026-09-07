@@ -1,0 +1,910 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 35,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W2492243454)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W2492243454"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W2492243454&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2488058544",
+      "doi": "https://doi.org/10.1108/oth-04-2016-0014",
+      "title": "How to develop a consortium: conversation and collaboration",
+      "display_name": "How to develop a consortium: conversation and collaboration",
+      "publication_year": 2016,
+      "publication_date": "2016-08-08",
+      "ids": {
+        "openalex": "https://openalex.org/W2488058544",
+        "doi": "https://doi.org/10.1108/oth-04-2016-0014",
+        "mag": "2488058544"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1108/oth-04-2016-0014",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1108/oth-04-2016-0014",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210206589",
+          "display_name": "On the Horizon The International Journal of Learning Futures",
+          "issn_l": "1074-8121",
+          "issn": [
+            "1074-8121",
+            "2054-1708"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319811",
+          "host_organization_name": "Emerald Publishing Limited",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319811"
+          ],
+          "host_organization_lineage_names": [
+            "Emerald Publishing Limited"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "On the Horizon",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5078928355",
+            "display_name": "Eileen E. Schroeder",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183533211",
+              "display_name": "University of Wisconsin–Whitewater",
+              "ror": "https://ror.org/049hrzs50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I183533211"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eileen E. Schroeder",
+          "raw_affiliation_strings": [
+            "Department of Educational Foundations, University of Wisconsin – Whitewater, Whitewater, Wisconsin, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Educational Foundations, University of Wisconsin – Whitewater, Whitewater, Wisconsin, USA",
+              "institution_ids": [
+                "https://openalex.org/I183533211"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5029704529",
+            "display_name": "E. Anne Zarinnia",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183533211",
+              "display_name": "University of Wisconsin–Whitewater",
+              "ror": "https://ror.org/049hrzs50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I183533211"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "E. Anne Zarinnia",
+          "raw_affiliation_strings": [
+            "Department of Educational Foundations, University of Wisconsin – Whitewater, Whitewater, Wisconsin, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Educational Foundations, University of Wisconsin – Whitewater, Whitewater, Wisconsin, USA",
+              "institution_ids": [
+                "https://openalex.org/I183533211"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I183533211"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.08704931,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "24",
+        "issue": "3",
+        "first_page": "235",
+        "last_page": "245"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10712",
+        "display_name": "Library Science and Information Literacy",
+        "score": 0.9944999814033508,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3309",
+          "display_name": "Library and Information Sciences"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10712",
+          "display_name": "Library Science and Information Literacy",
+          "score": 0.9944999814033508,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3309",
+            "display_name": "Library and Information Sciences"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12863",
+          "display_name": "Web and Library Services",
+          "score": 0.9772999882698059,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12500",
+          "display_name": "Reflective Practices in Education",
+          "score": 0.9735999703407288,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.8502369523048401
+        },
+        {
+          "id": "https://openalex.org/keywords/curriculum",
+          "display_name": "Curriculum",
+          "score": 0.6895769834518433
+        },
+        {
+          "id": "https://openalex.org/keywords/bureaucracy",
+          "display_name": "Bureaucracy",
+          "score": 0.6299161911010742
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-shortage",
+          "display_name": "Economic shortage",
+          "score": 0.5886743664741516
+        },
+        {
+          "id": "https://openalex.org/keywords/originality",
+          "display_name": "Originality",
+          "score": 0.5417388677597046
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.49046751856803894
+        },
+        {
+          "id": "https://openalex.org/keywords/value",
+          "display_name": "Value (mathematics)",
+          "score": 0.4786737561225891
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.4394163191318512
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.42678302526474
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.3969353437423706
+        },
+        {
+          "id": "https://openalex.org/keywords/pedagogy",
+          "display_name": "Pedagogy",
+          "score": 0.3692517876625061
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.3361992835998535
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.3334205448627472
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.24156206846237183
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.24004769325256348
+        },
+        {
+          "id": "https://openalex.org/keywords/social-science",
+          "display_name": "Social science",
+          "score": 0.10651096701622009
+        },
+        {
+          "id": "https://openalex.org/keywords/qualitative-research",
+          "display_name": "Qualitative research",
+          "score": 0.10169994831085205
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.8502369523048401
+        },
+        {
+          "id": "https://openalex.org/C47177190",
+          "wikidata": "https://www.wikidata.org/wiki/Q207137",
+          "display_name": "Curriculum",
+          "level": 2,
+          "score": 0.6895769834518433
+        },
+        {
+          "id": "https://openalex.org/C51575053",
+          "wikidata": "https://www.wikidata.org/wiki/Q72468",
+          "display_name": "Bureaucracy",
+          "level": 3,
+          "score": 0.6299161911010742
+        },
+        {
+          "id": "https://openalex.org/C194051981",
+          "wikidata": "https://www.wikidata.org/wiki/Q1337691",
+          "display_name": "Economic shortage",
+          "level": 3,
+          "score": 0.5886743664741516
+        },
+        {
+          "id": "https://openalex.org/C2776950860",
+          "wikidata": "https://www.wikidata.org/wiki/Q2914681",
+          "display_name": "Originality",
+          "level": 3,
+          "score": 0.5417388677597046
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.49046751856803894
+        },
+        {
+          "id": "https://openalex.org/C2776291640",
+          "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+          "display_name": "Value (mathematics)",
+          "level": 2,
+          "score": 0.4786737561225891
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.4394163191318512
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.42678302526474
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3969353437423706
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.3692517876625061
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.3361992835998535
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3334205448627472
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.24156206846237183
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.24004769325256348
+        },
+        {
+          "id": "https://openalex.org/C36289849",
+          "wikidata": "https://www.wikidata.org/wiki/Q34749",
+          "display_name": "Social science",
+          "level": 1,
+          "score": 0.10651096701622009
+        },
+        {
+          "id": "https://openalex.org/C190248442",
+          "wikidata": "https://www.wikidata.org/wiki/Q839486",
+          "display_name": "Qualitative research",
+          "level": 2,
+          "score": 0.10169994831085205
+        },
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C2778137410",
+          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+          "display_name": "Government (linguistics)",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1108/oth-04-2016-0014",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1108/oth-04-2016-0014",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210206589",
+            "display_name": "On the Horizon The International Journal of Learning Futures",
+            "issn_l": "1074-8121",
+            "issn": [
+              "1074-8121",
+              "2054-1708"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319811",
+            "host_organization_name": "Emerald Publishing Limited",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319811"
+            ],
+            "host_organization_lineage_names": [
+              "Emerald Publishing Limited"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "On the Horizon",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.6000000238418579
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W39377320",
+        "https://openalex.org/W158912002",
+        "https://openalex.org/W1501914213",
+        "https://openalex.org/W1523056771",
+        "https://openalex.org/W1605913932",
+        "https://openalex.org/W1806036331",
+        "https://openalex.org/W2227182618",
+        "https://openalex.org/W2492243454",
+        "https://openalex.org/W2494574315",
+        "https://openalex.org/W2494717396",
+        "https://openalex.org/W2506730471",
+        "https://openalex.org/W2993647569"
+      ],
+      "related_works": [
+        "https://openalex.org/W2593155302",
+        "https://openalex.org/W2041415459",
+        "https://openalex.org/W2072812638",
+        "https://openalex.org/W3126095231",
+        "https://openalex.org/W2352855287",
+        "https://openalex.org/W2378906650",
+        "https://openalex.org/W2384288445",
+        "https://openalex.org/W2382526412",
+        "https://openalex.org/W4200071106",
+        "https://openalex.org/W2347474189"
+      ],
+      "abstract_inverted_index": {
+        "Purpose": [
+          0
+        ],
+        "This": [
+          1,
+          37,
+          73
+        ],
+        "paper": [
+          2
+        ],
+        "aims": [
+          3
+        ],
+        "to": [
+          4,
+          28,
+          107,
+          117
+        ],
+        "describe": [
+          5
+        ],
+        "the": [
+          6,
+          30,
+          43,
+          46,
+          69,
+          86,
+          89,
+          99,
+          101,
+          104
+        ],
+        "conversations": [
+          7
+        ],
+        "and": [
+          8,
+          51,
+          53,
+          65,
+          80,
+          91,
+          112,
+          115
+        ],
+        "collaborative": [
+          9,
+          124
+        ],
+        "problem-solving": [
+          10
+        ],
+        "strategies": [
+          11
+        ],
+        "initiated": [
+          12
+        ],
+        "by": [
+          13
+        ],
+        "a": [
+          14,
+          39,
+          60,
+          76,
+          81
+        ],
+        "small": [
+          15
+        ],
+        "group": [
+          16
+        ],
+        "of": [
+          17,
+          24,
+          33,
+          42,
+          45,
+          62,
+          88,
+          98,
+          103
+        ],
+        "faculty": [
+          18
+        ],
+        "working": [
+          19
+        ],
+        "collegially": [
+          20
+        ],
+        "across": [
+          21
+        ],
+        "five": [
+          22
+        ],
+        "University": [
+          23
+        ],
+        "Wisconsin–Whitewater": [
+          25
+        ],
+        "(UW)": [
+          26
+        ],
+        "campuses": [
+          27
+        ],
+        "address": [
+          29
+        ],
+        "state": [
+          31,
+          90
+        ],
+        "shortage": [
+          32
+        ],
+        "school": [
+          34
+        ],
+        "librarians.": [
+          35
+        ],
+        "Design/methodology/approach": [
+          36
+        ],
+        "is": [
+          38
+        ],
+        "case": [
+          40
+        ],
+        "study": [
+          41
+        ],
+        "development": [
+          44,
+          55
+        ],
+        "consortium;": [
+          47,
+          100
+        ],
+        "its": [
+          48,
+          109
+        ],
+        "curriculum": [
+          49,
+          82,
+          111
+        ],
+        "design": [
+          50
+        ],
+        "redesign": [
+          52
+        ],
+        "course": [
+          54,
+          113
+        ],
+        "based": [
+          56
+        ],
+        "on": [
+          57
+        ],
+        "Conversation": [
+          58,
+          105
+        ],
+        "Theory,": [
+          59
+        ],
+        "set": [
+          61
+        ],
+        "common": [
+          63
+        ],
+        "principles;": [
+          64
+        ],
+        "new": [
+          66
+        ],
+        "directions": [
+          67
+        ],
+        "in": [
+          68
+        ],
+        "library": [
+          70
+        ],
+        "field.": [
+          71
+        ],
+        "Findings": [
+          72
+        ],
+        "consortium": [
+          74
+        ],
+        "developed": [
+          75
+        ],
+        "virtual": [
+          77
+        ],
+        "department": [
+          78
+        ],
+        "structure": [
+          79,
+          97
+        ],
+        "that": [
+          83,
+          119
+        ],
+        "has": [
+          84
+        ],
+        "addressed": [
+          85
+        ],
+        "needs": [
+          87
+        ],
+        "overcome": [
+          92
+        ],
+        "bureaucratic": [
+          93
+        ],
+        "hurdles.": [
+          94
+        ],
+        "Originality/value": [
+          95
+        ],
+        "The": [
+          96
+        ],
+        "use": [
+          102
+        ],
+        "Theory": [
+          106
+        ],
+        "guide": [
+          108
+        ],
+        "development,": [
+          110
+        ],
+        "design;": [
+          114
+        ],
+        "solutions": [
+          116
+        ],
+        "problems": [
+          118
+        ],
+        "arose": [
+          120
+        ],
+        "could": [
+          121
+        ],
+        "benefit": [
+          122
+        ],
+        "other": [
+          123
+        ],
+        "efforts.": [
+          125
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-06-26T08:34:08.712188",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

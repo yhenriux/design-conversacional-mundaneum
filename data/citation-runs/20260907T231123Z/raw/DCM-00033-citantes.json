@@ -1,0 +1,1223 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 19,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W3084523377)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W3084523377"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W3084523377&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4391967013",
+      "doi": "https://doi.org/10.1007/978-3-031-53015-9_4",
+      "title": "Digital Twins: On Algorithm-Based Political Participation",
+      "display_name": "Digital Twins: On Algorithm-Based Political Participation",
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4391967013",
+        "doi": "https://doi.org/10.1007/978-3-031-53015-9_4"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-031-53015-9_4",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-031-53015-9_4",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210193543",
+          "display_name": "Philosophy and politics",
+          "issn_l": "2352-8370",
+          "issn": [
+            "2352-8370",
+            "2352-8389"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Philosophy and Politics - Critical Explorations",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5079275052",
+            "display_name": "Domingo García Marzá",
+            "orcid": "https://orcid.org/0000-0002-9605-1771"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10902133",
+              "display_name": "Universitat Jaume I",
+              "ror": "https://ror.org/02ws1xc11",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10902133"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Domingo García-Marzá",
+          "raw_affiliation_strings": [
+            "Universitat Jaume I of Castellón, Castelló de la Plana, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universitat Jaume I of Castellón, Castelló de la Plana, Spain",
+              "institution_ids": [
+                "https://openalex.org/I10902133"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5059397409",
+            "display_name": "Patrici Calvo",
+            "orcid": "https://orcid.org/0000-0002-3228-9019"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I10902133",
+              "display_name": "Universitat Jaume I",
+              "ror": "https://ror.org/02ws1xc11",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I10902133"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Patrici Calvo",
+          "raw_affiliation_strings": [
+            "Universitat Jaume I of Castellón, Castellón de la Plana, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Universitat Jaume I of Castellón, Castellón de la Plana, Spain",
+              "institution_ids": [
+                "https://openalex.org/I10902133"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I10902133"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.4095,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.93658332,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "61",
+        "last_page": "79"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10763",
+        "display_name": "Digital Transformation in Industry",
+        "score": 0.9904999732971191,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2209",
+          "display_name": "Industrial and Manufacturing Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10763",
+          "display_name": "Digital Transformation in Industry",
+          "score": 0.9904999732971191,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2209",
+            "display_name": "Industrial and Manufacturing Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.9778000116348267,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/politics",
+          "display_name": "Politics",
+          "score": 0.6181969046592712
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5097519755363464
+        },
+        {
+          "id": "https://openalex.org/keywords/algorithm",
+          "display_name": "Algorithm",
+          "score": 0.43599557876586914
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.2781168222427368
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.054474055767059326
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.6181969046592712
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5097519755363464
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0.43599557876586914
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.2781168222427368
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.054474055767059326
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-031-53015-9_4",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-031-53015-9_4",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210193543",
+            "display_name": "Philosophy and politics",
+            "issn_l": "2352-8370",
+            "issn": [
+              "2352-8370",
+              "2352-8389"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Philosophy and Politics - Critical Explorations",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.49000000953674316
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W2046074714",
+        "https://openalex.org/W2305785161",
+        "https://openalex.org/W2573660794",
+        "https://openalex.org/W2597150627",
+        "https://openalex.org/W2600408814",
+        "https://openalex.org/W2755214325",
+        "https://openalex.org/W2764072425",
+        "https://openalex.org/W2797953850",
+        "https://openalex.org/W2945357379",
+        "https://openalex.org/W2963799295",
+        "https://openalex.org/W2992635281",
+        "https://openalex.org/W3003895975",
+        "https://openalex.org/W3030666204",
+        "https://openalex.org/W3036994772",
+        "https://openalex.org/W3039288654",
+        "https://openalex.org/W3084523377",
+        "https://openalex.org/W3139261288",
+        "https://openalex.org/W3165914844",
+        "https://openalex.org/W3184569878",
+        "https://openalex.org/W3202263926",
+        "https://openalex.org/W3205366338",
+        "https://openalex.org/W3209398723",
+        "https://openalex.org/W3210205149",
+        "https://openalex.org/W4200551341",
+        "https://openalex.org/W4205688613",
+        "https://openalex.org/W4232839293",
+        "https://openalex.org/W4235643190",
+        "https://openalex.org/W4240996198",
+        "https://openalex.org/W4287332853",
+        "https://openalex.org/W4386371400",
+        "https://openalex.org/W4387440974",
+        "https://openalex.org/W4387966880",
+        "https://openalex.org/W4388728646",
+        "https://openalex.org/W6607622925",
+        "https://openalex.org/W7053570540"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2051487156",
+        "https://openalex.org/W2073681303",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-26T08:34:08.712188",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4400228726",
+      "doi": "https://doi.org/10.69733/clad.ryd.n83.a262",
+      "title": "Gemelos digitales y democracia",
+      "display_name": "Gemelos digitales y democracia",
+      "publication_year": 2022,
+      "publication_date": "2022-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4400228726",
+        "doi": "https://doi.org/10.69733/clad.ryd.n83.a262"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.69733/clad.ryd.n83.a262",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.69733/clad.ryd.n83.a262",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4404662921",
+          "display_name": "Reforma y democracia.",
+          "issn_l": "1315-2378",
+          "issn": [
+            "1315-2378",
+            "2443-4620"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Revista del CLAD Reforma y Democracia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.69733/clad.ryd.n83.a262",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5059397409",
+            "display_name": "Patrici Calvo",
+            "orcid": "https://orcid.org/0000-0002-3228-9019"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Patrici Calvo",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5059397409"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.5194,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.71824169,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": "83",
+        "first_page": "41",
+        "last_page": "70"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10763",
+        "display_name": "Digital Transformation in Industry",
+        "score": 0.9632999897003174,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2209",
+          "display_name": "Industrial and Manufacturing Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10763",
+          "display_name": "Digital Transformation in Industry",
+          "score": 0.9632999897003174,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2209",
+            "display_name": "Industrial and Manufacturing Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14246",
+          "display_name": "E-Learning and Knowledge Management",
+          "score": 0.9340999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1706",
+            "display_name": "Computer Science Applications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/politics",
+          "display_name": "Politics",
+          "score": 0.7396790385246277
+        },
+        {
+          "id": "https://openalex.org/keywords/citizen-journalism",
+          "display_name": "Citizen journalism",
+          "score": 0.706116795539856
+        },
+        {
+          "id": "https://openalex.org/keywords/democracy",
+          "display_name": "Democracy",
+          "score": 0.6725112795829773
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.5004949569702148
+        },
+        {
+          "id": "https://openalex.org/keywords/participatory-democracy",
+          "display_name": "Participatory democracy",
+          "score": 0.4576834738254547
+        },
+        {
+          "id": "https://openalex.org/keywords/technological-change",
+          "display_name": "Technological change",
+          "score": 0.45018327236175537
+        },
+        {
+          "id": "https://openalex.org/keywords/public-relations",
+          "display_name": "Public relations",
+          "score": 0.4142836332321167
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.3899037837982178
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.388568639755249
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2606114149093628
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.22352883219718933
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.1831602156162262
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.12692701816558838
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C94625758",
+          "wikidata": "https://www.wikidata.org/wiki/Q7163",
+          "display_name": "Politics",
+          "level": 2,
+          "score": 0.7396790385246277
+        },
+        {
+          "id": "https://openalex.org/C203663800",
+          "wikidata": "https://www.wikidata.org/wiki/Q848979",
+          "display_name": "Citizen journalism",
+          "level": 2,
+          "score": 0.706116795539856
+        },
+        {
+          "id": "https://openalex.org/C555826173",
+          "wikidata": "https://www.wikidata.org/wiki/Q7174",
+          "display_name": "Democracy",
+          "level": 3,
+          "score": 0.6725112795829773
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.5004949569702148
+        },
+        {
+          "id": "https://openalex.org/C2991749311",
+          "wikidata": "https://www.wikidata.org/wiki/Q310988",
+          "display_name": "Participatory democracy",
+          "level": 4,
+          "score": 0.4576834738254547
+        },
+        {
+          "id": "https://openalex.org/C137996800",
+          "wikidata": "https://www.wikidata.org/wiki/Q762702",
+          "display_name": "Technological change",
+          "level": 2,
+          "score": 0.45018327236175537
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.4142836332321167
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3899037837982178
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.388568639755249
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2606114149093628
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.22352883219718933
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.1831602156162262
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.12692701816558838
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.69733/clad.ryd.n83.a262",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.69733/clad.ryd.n83.a262",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4404662921",
+            "display_name": "Reforma y democracia.",
+            "issn_l": "1315-2378",
+            "issn": [
+              "1315-2378",
+              "2443-4620"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Revista del CLAD Reforma y Democracia",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:repositori.uji.es:10234/205829",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10234/205829",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400303",
+            "display_name": "Repositori UJI (Universitat Jaume I)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I10902133",
+            "host_organization_name": "Universitat Jaume I",
+            "host_organization_lineage": [
+              "https://openalex.org/I10902133"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "public-domain",
+          "license_id": "https://openalex.org/licenses/public-domain",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.69733/clad.ryd.n83.a262",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.69733/clad.ryd.n83.a262",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4404662921",
+          "display_name": "Reforma y democracia.",
+          "issn_l": "1315-2378",
+          "issn": [
+            "1315-2378",
+            "2443-4620"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Revista del CLAD Reforma y Democracia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 30,
+      "referenced_works": [
+        "https://openalex.org/W2046074714",
+        "https://openalex.org/W2482314096",
+        "https://openalex.org/W2521628013",
+        "https://openalex.org/W2597150627",
+        "https://openalex.org/W2600408814",
+        "https://openalex.org/W2755214325",
+        "https://openalex.org/W2788250535",
+        "https://openalex.org/W2791543578",
+        "https://openalex.org/W2911732991",
+        "https://openalex.org/W2945357379",
+        "https://openalex.org/W2958017372",
+        "https://openalex.org/W2963799295",
+        "https://openalex.org/W2992635281",
+        "https://openalex.org/W3007866294",
+        "https://openalex.org/W3036994772",
+        "https://openalex.org/W3039288654",
+        "https://openalex.org/W3084523377",
+        "https://openalex.org/W3139261288",
+        "https://openalex.org/W3165914844",
+        "https://openalex.org/W3184569878",
+        "https://openalex.org/W3205366338",
+        "https://openalex.org/W3205598410",
+        "https://openalex.org/W4213076420",
+        "https://openalex.org/W4230666636",
+        "https://openalex.org/W4232839293",
+        "https://openalex.org/W4236076161",
+        "https://openalex.org/W4255959053",
+        "https://openalex.org/W4294816586",
+        "https://openalex.org/W4294838523",
+        "https://openalex.org/W4309858790"
+      ],
+      "related_works": [
+        "https://openalex.org/W2381548607",
+        "https://openalex.org/W3014891947",
+        "https://openalex.org/W2082914179",
+        "https://openalex.org/W1529116664",
+        "https://openalex.org/W2755986707",
+        "https://openalex.org/W2162221658",
+        "https://openalex.org/W2324557339",
+        "https://openalex.org/W626478983",
+        "https://openalex.org/W2770593952",
+        "https://openalex.org/W3180299633"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "aim": [
+          1
+        ],
+        "of": [
+          2,
+          16,
+          32,
+          57,
+          68,
+          73,
+          81,
+          89,
+          99,
+          129
+        ],
+        "this": [
+          3
+        ],
+        "study": [
+          4
+        ],
+        "is": [
+          5,
+          36
+        ],
+        "to": [
+          6,
+          84,
+          104
+        ],
+        "critically": [
+          7
+        ],
+        "analyze": [
+          8
+        ],
+        "the": [
+          9,
+          14,
+          30,
+          55,
+          60,
+          66,
+          71,
+          79,
+          87,
+          90,
+          97,
+          110,
+          127,
+          135
+        ],
+        "challenges": [
+          10
+        ],
+        "and": [
+          11,
+          39,
+          44,
+          51,
+          70,
+          75,
+          78,
+          107,
+          112,
+          131
+        ],
+        "possibilities": [
+          12
+        ],
+        "underlying": [
+          13
+        ],
+        "application": [
+          15
+        ],
+        "participatory": [
+          17,
+          119
+        ],
+        "processes": [
+          18
+        ],
+        "based": [
+          19,
+          47
+        ],
+        "on": [
+          20,
+          29,
+          48
+        ],
+        "artificial": [
+          21
+        ],
+        "intelligence": [
+          22
+        ],
+        "algorithms": [
+          23
+        ],
+        "in": [
+          24,
+          59
+        ],
+        "politics.": [
+          25
+        ],
+        "It": [
+          26
+        ],
+        "will": [
+          27
+        ],
+        "focus": [
+          28
+        ],
+        "proposal": [
+          31
+        ],
+        "augmented": [
+          33,
+          123
+        ],
+        "democracy": [
+          34,
+          124
+        ],
+        "which": [
+          35
+        ],
+        "being": [
+          37
+        ],
+        "designed": [
+          38
+        ],
+        "developed": [
+          40
+        ],
+        "from": [
+          41,
+          134
+        ],
+        "different": [
+          42,
+          61
+        ],
+        "technological": [
+          43,
+          113
+        ],
+        "academic": [
+          45,
+          111
+        ],
+        "fields": [
+          46
+        ],
+        "digital": [
+          49,
+          138
+        ],
+        "twins": [
+          50
+        ],
+        "design": [
+          52
+        ],
+        "principles.": [
+          53
+        ],
+        "Currently,": [
+          54
+        ],
+        "disaffection": [
+          56
+        ],
+        "citizens": [
+          58
+        ],
+        "political": [
+          62,
+          82,
+          108
+        ],
+        "processes,": [
+          63
+        ],
+        "such": [
+          64,
+          105,
+          121
+        ],
+        "as": [
+          65,
+          122
+        ],
+        "drafting": [
+          67
+        ],
+        "laws": [
+          69
+        ],
+        "implementation": [
+          72
+        ],
+        "strategies": [
+          74
+        ],
+        "public": [
+          76
+        ],
+        "policies,": [
+          77
+        ],
+        "inability": [
+          80
+        ],
+        "representatives": [
+          83
+        ],
+        "fully": [
+          85
+        ],
+        "absorb": [
+          86
+        ],
+        "voice": [
+          88
+        ],
+        "citizens,": [
+          91
+        ],
+        "has": [
+          92,
+          115
+        ],
+        "become": [
+          93
+        ],
+        "a": [
+          94
+        ],
+        "burden": [
+          95
+        ],
+        "for": [
+          96
+        ],
+        "development": [
+          98
+        ],
+        "modern": [
+          100
+        ],
+        "societies.": [
+          101
+        ],
+        "In": [
+          102
+        ],
+        "response": [
+          103
+        ],
+        "social": [
+          106
+        ],
+        "challenges,": [
+          109
+        ],
+        "world": [
+          114
+        ],
+        "come": [
+          116
+        ],
+        "up": [
+          117
+        ],
+        "with": [
+          118
+        ],
+        "proposals": [
+          120
+        ],
+        "that": [
+          125
+        ],
+        "raise": [
+          126
+        ],
+        "possibility": [
+          128
+        ],
+        "adapting": [
+          130
+        ],
+        "applying": [
+          132
+        ],
+        "technology": [
+          133
+        ],
+        "productive": [
+          136
+        ],
+        "industry:": [
+          137
+        ],
+        "twins.": [
+          139
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-02T09:51:11.867554",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

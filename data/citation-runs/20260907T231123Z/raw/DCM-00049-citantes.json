@@ -1,0 +1,686 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 11,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W7119660941)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W7119660941"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W7119660941&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7171132759",
+      "doi": "https://doi.org/10.1080/17404622.2026.2701123",
+      "title": "Improving professional conversation skills through adapted improvisational techniques and AI chatbots",
+      "display_name": "Improving professional conversation skills through adapted improvisational techniques and AI chatbots",
+      "publication_year": 2026,
+      "publication_date": "2026-07-25",
+      "ids": {
+        "openalex": "https://openalex.org/W7171132759",
+        "doi": "https://doi.org/10.1080/17404622.2026.2701123"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/17404622.2026.2701123",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/17404622.2026.2701123",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S126319040",
+          "display_name": "Communication Teacher",
+          "issn_l": "1740-4622",
+          "issn": [
+            "1740-4622",
+            "1740-4630"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Communication Teacher",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103249959",
+            "display_name": "Lindsay C. Clark",
+            "orcid": "https://orcid.org/0000-0001-9189-4406"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I191429286",
+              "display_name": "Sam Houston State University",
+              "ror": "https://ror.org/00yh3cz06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191429286"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Lindsay C. Clark",
+          "raw_affiliation_strings": [
+            "Sam Houston State University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sam Houston State University",
+              "institution_ids": [
+                "https://openalex.org/I191429286"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5143629350",
+            "display_name": "Ashly B. Smith",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I191429286",
+              "display_name": "Sam Houston State University",
+              "ror": "https://ror.org/00yh3cz06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I191429286"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ashly B. Smith",
+          "raw_affiliation_strings": [
+            "Sam Houston State University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sam Houston State University",
+              "institution_ids": [
+                "https://openalex.org/I191429286"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103249959"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I191429286"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.82688525,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "7"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.3546999990940094,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.3546999990940094,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11902",
+          "display_name": "Intelligent Tutoring Systems and Adaptive Learning",
+          "score": 0.027499999850988388,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14240",
+          "display_name": "E-Learning and COVID-19",
+          "score": 0.026100000366568565,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.703499972820282
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.5386000275611877
+        },
+        {
+          "id": "https://openalex.org/keywords/improvisation",
+          "display_name": "Improvisation",
+          "score": 0.3950999975204468
+        },
+        {
+          "id": "https://openalex.org/keywords/audio-equipment",
+          "display_name": "Audio equipment",
+          "score": 0.34200000762939453
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-mediated-communication",
+          "display_name": "Computer-mediated communication",
+          "score": 0.34139999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/teaching-method",
+          "display_name": "Teaching method",
+          "score": 0.334199994802475
+        },
+        {
+          "id": "https://openalex.org/keywords/communication-skills",
+          "display_name": "Communication skills",
+          "score": 0.3246000111103058
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.703499972820282
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.593500018119812
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.5386000275611877
+        },
+        {
+          "id": "https://openalex.org/C125468537",
+          "wikidata": "https://www.wikidata.org/wiki/Q214961",
+          "display_name": "Improvisation",
+          "level": 2,
+          "score": 0.3950999975204468
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.3910999894142151
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.3677999973297119
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.3425000011920929
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.34209999442100525
+        },
+        {
+          "id": "https://openalex.org/C2778488704",
+          "wikidata": "https://www.wikidata.org/wiki/Q15190726",
+          "display_name": "Audio equipment",
+          "level": 2,
+          "score": 0.34200000762939453
+        },
+        {
+          "id": "https://openalex.org/C109778625",
+          "wikidata": "https://www.wikidata.org/wiki/Q796573",
+          "display_name": "Computer-mediated communication",
+          "level": 3,
+          "score": 0.34139999747276306
+        },
+        {
+          "id": "https://openalex.org/C88610354",
+          "wikidata": "https://www.wikidata.org/wiki/Q1813494",
+          "display_name": "Teaching method",
+          "level": 2,
+          "score": 0.334199994802475
+        },
+        {
+          "id": "https://openalex.org/C2988115150",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication skills",
+          "level": 2,
+          "score": 0.3246000111103058
+        },
+        {
+          "id": "https://openalex.org/C522180918",
+          "wikidata": "https://www.wikidata.org/wiki/Q18342738",
+          "display_name": "Public speaking",
+          "level": 2,
+          "score": 0.32339999079704285
+        },
+        {
+          "id": "https://openalex.org/C2780829048",
+          "wikidata": "https://www.wikidata.org/wiki/Q1624720",
+          "display_name": "Conversation analysis",
+          "level": 3,
+          "score": 0.31049999594688416
+        },
+        {
+          "id": "https://openalex.org/C164850336",
+          "wikidata": "https://www.wikidata.org/wiki/Q3685487",
+          "display_name": "Interpersonal communication",
+          "level": 2,
+          "score": 0.27790001034736633
+        },
+        {
+          "id": "https://openalex.org/C51067260",
+          "wikidata": "https://www.wikidata.org/wiki/Q828812",
+          "display_name": "Professional development",
+          "level": 2,
+          "score": 0.27399998903274536
+        },
+        {
+          "id": "https://openalex.org/C16443162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1068473",
+          "display_name": "Educational technology",
+          "level": 2,
+          "score": 0.273499995470047
+        },
+        {
+          "id": "https://openalex.org/C145633318",
+          "wikidata": "https://www.wikidata.org/wiki/Q207125",
+          "display_name": "Nonverbal communication",
+          "level": 2,
+          "score": 0.2694000005722046
+        },
+        {
+          "id": "https://openalex.org/C2781419009",
+          "wikidata": "https://www.wikidata.org/wiki/Q17153102",
+          "display_name": "Professional communication",
+          "level": 2,
+          "score": 0.267300009727478
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/17404622.2026.2701123",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/17404622.2026.2701123",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S126319040",
+            "display_name": "Communication Teacher",
+            "issn_l": "1740-4622",
+            "issn": [
+              "1740-4622",
+              "1740-4630"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Communication Teacher",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5616099834442139,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W4212962060",
+        "https://openalex.org/W4225980948",
+        "https://openalex.org/W4386031198",
+        "https://openalex.org/W4402901003",
+        "https://openalex.org/W4403063148",
+        "https://openalex.org/W4411657574",
+        "https://openalex.org/W7119660941"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          48
+        ],
+        "article": [
+          1
+        ],
+        "introduces": [
+          2
+        ],
+        "an": [
+          3
+        ],
+        "instructional": [
+          4
+        ],
+        "unit": [
+          5,
+          31,
+          49
+        ],
+        "that": [
+          6,
+          26
+        ],
+        "adapts": [
+          7
+        ],
+        "improvisational": [
+          8
+        ],
+        "techniques": [
+          9
+        ],
+        "to": [
+          10,
+          51,
+          61
+        ],
+        "enhance": [
+          11
+        ],
+        "students’": [
+          12,
+          59
+        ],
+        "professional": [
+          13,
+          28,
+          38,
+          64
+        ],
+        "conversation": [
+          14
+        ],
+        "skills": [
+          15
+        ],
+        "through": [
+          16
+        ],
+        "interactions": [
+          17
+        ],
+        "with": [
+          18
+        ],
+        "customized": [
+          19
+        ],
+        "AI-powered": [
+          20
+        ],
+        "chatbots.": [
+          21
+        ],
+        "Useful": [
+          22
+        ],
+        "for": [
+          23
+        ],
+        "communication": [
+          24,
+          53
+        ],
+        "courses": [
+          25
+        ],
+        "emphasize": [
+          27
+        ],
+        "skill-building,": [
+          29
+        ],
+        "the": [
+          30
+        ],
+        "scaffolds": [
+          32
+        ],
+        "impression": [
+          33
+        ],
+        "management,": [
+          34,
+          43
+        ],
+        "listening,": [
+          35
+        ],
+        "turn-taking,": [
+          36
+        ],
+        "and": [
+          37,
+          45,
+          57,
+          68
+        ],
+        "self-presentation.Courses": [
+          39
+        ],
+        "Small-group,": [
+          40
+        ],
+        "business,": [
+          41
+        ],
+        "project": [
+          42
+        ],
+        "professional,": [
+          44
+        ],
+        "organizational": [
+          46
+        ],
+        "communication.Objectives": [
+          47
+        ],
+        "aims": [
+          50
+        ],
+        "reduce": [
+          52
+        ],
+        "apprehension,": [
+          54
+        ],
+        "foster": [
+          55
+        ],
+        "adaptability,": [
+          56
+        ],
+        "improve": [
+          58
+        ],
+        "ability": [
+          60
+        ],
+        "articulate": [
+          62
+        ],
+        "a": [
+          63
+        ],
+        "identity": [
+          65
+        ],
+        "in": [
+          66
+        ],
+        "interviews": [
+          67
+        ],
+        "networking": [
+          69
+        ],
+        "contexts.": [
+          70
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-15T07:11:24.734988",
+      "created_date": "2026-07-26T00:00:00"
+    }
+  ],
+  "group_by": []
+}

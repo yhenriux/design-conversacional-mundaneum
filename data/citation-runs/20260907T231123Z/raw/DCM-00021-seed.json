@@ -1,0 +1,685 @@
+{
+  "id": "https://openalex.org/W4239860512",
+  "doi": "https://doi.org/10.4018/9781599045979.ch001",
+  "title": "Introducing Conversation Design",
+  "display_name": "Introducing Conversation Design",
+  "publication_year": 2011,
+  "publication_date": "2011-01-18",
+  "ids": {
+    "openalex": "https://openalex.org/W4239860512",
+    "doi": "https://doi.org/10.4018/9781599045979.ch001"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4018/9781599045979.ch001",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.4018/9781599045979.ch001",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4306463409",
+      "display_name": "IGI Global eBooks",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310320424",
+      "host_organization_name": "IGI Global",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320424"
+      ],
+      "host_organization_lineage_names": [
+        "IGI Global"
+      ],
+      "type": "ebook platform"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Handbook of Conversation Design for Instructional Applications",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055324184",
+        "display_name": "Rocci Luppicini",
+        "orcid": "https://orcid.org/0000-0003-1962-2697"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I153718931",
+          "display_name": "University of Ottawa",
+          "ror": "https://ror.org/03c4mmv16",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I153718931"
+          ]
+        }
+      ],
+      "countries": [
+        "CA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Rocci Luppicini",
+      "raw_affiliation_strings": [
+        "University of Ottawa, Canada"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Ottawa, Canada",
+          "institution_ids": [
+            "https://openalex.org/I153718931"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5055324184"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I153718931"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.7555,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.88863694,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11148",
+    "display_name": "Language, Metaphor, and Cognition",
+    "score": 0.4749999940395355,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3205",
+      "display_name": "Experimental and Cognitive Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.4749999940395355,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.46000000834465027,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "score": 0.4271000027656555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.9564421772956848
+    },
+    {
+      "id": "https://openalex.org/keywords/multidisciplinary-approach",
+      "display_name": "Multidisciplinary approach",
+      "score": 0.7167449593544006
+    },
+    {
+      "id": "https://openalex.org/keywords/field",
+      "display_name": "Field (mathematics)",
+      "score": 0.5970064401626587
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-ethics",
+      "display_name": "Engineering ethics",
+      "score": 0.5678146481513977
+    },
+    {
+      "id": "https://openalex.org/keywords/work",
+      "display_name": "Work (physics)",
+      "score": 0.46155214309692383
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.3873189091682434
+    },
+    {
+      "id": "https://openalex.org/keywords/management-science",
+      "display_name": "Management science",
+      "score": 0.3326570987701416
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.32846444845199585
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.30026066303253174
+    },
+    {
+      "id": "https://openalex.org/keywords/social-science",
+      "display_name": "Social science",
+      "score": 0.19481396675109863
+    },
+    {
+      "id": "https://openalex.org/keywords/communication",
+      "display_name": "Communication",
+      "score": 0.12331369519233704
+    },
+    {
+      "id": "https://openalex.org/keywords/mechanical-engineering",
+      "display_name": "Mechanical engineering",
+      "score": 0.07628786563873291
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.9564421772956848
+    },
+    {
+      "id": "https://openalex.org/C22467394",
+      "wikidata": "https://www.wikidata.org/wiki/Q849359",
+      "display_name": "Multidisciplinary approach",
+      "level": 2,
+      "score": 0.7167449593544006
+    },
+    {
+      "id": "https://openalex.org/C9652623",
+      "wikidata": "https://www.wikidata.org/wiki/Q190109",
+      "display_name": "Field (mathematics)",
+      "level": 2,
+      "score": 0.5970064401626587
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.5678146481513977
+    },
+    {
+      "id": "https://openalex.org/C18762648",
+      "wikidata": "https://www.wikidata.org/wiki/Q42213",
+      "display_name": "Work (physics)",
+      "level": 2,
+      "score": 0.46155214309692383
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.3873189091682434
+    },
+    {
+      "id": "https://openalex.org/C539667460",
+      "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+      "display_name": "Management science",
+      "level": 1,
+      "score": 0.3326570987701416
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.32846444845199585
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.30026066303253174
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.19481396675109863
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.12331369519233704
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.07628786563873291
+    },
+    {
+      "id": "https://openalex.org/C202444582",
+      "wikidata": "https://www.wikidata.org/wiki/Q837863",
+      "display_name": "Pure mathematics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.4018/9781599045979.ch001",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.4018/9781599045979.ch001",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306463409",
+        "display_name": "IGI Global eBooks",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310320424",
+        "host_organization_name": "IGI Global",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320424"
+        ],
+        "host_organization_lineage_names": [
+          "IGI Global"
+        ],
+        "type": "ebook platform"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Handbook of Conversation Design for Instructional Applications",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W1968552888",
+    "https://openalex.org/W1527532029",
+    "https://openalex.org/W2374116601",
+    "https://openalex.org/W3093134843",
+    "https://openalex.org/W2378167147",
+    "https://openalex.org/W3210777354",
+    "https://openalex.org/W4286508873",
+    "https://openalex.org/W2614173793",
+    "https://openalex.org/W2025237499",
+    "https://openalex.org/W2044536215"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      42
+    ],
+    "chapter": [
+      1,
+      43,
+      83
+    ],
+    "introduces": [
+      2
+    ],
+    "theoretical": [
+      3,
+      66
+    ],
+    "and": [
+      4,
+      17,
+      34,
+      68
+    ],
+    "historical": [
+      5,
+      64
+    ],
+    "groundwork": [
+      6
+    ],
+    "for": [
+      7,
+      94
+    ],
+    "understanding": [
+      8
+    ],
+    "conversation": [
+      9,
+      33,
+      92
+    ],
+    "design": [
+      10,
+      35,
+      93
+    ],
+    "as": [
+      11
+    ],
+    "an": [
+      12
+    ],
+    "emerging": [
+      13,
+      80
+    ],
+    "field": [
+      14
+    ],
+    "of": [
+      15,
+      28,
+      40,
+      48,
+      52,
+      62
+    ],
+    "research": [
+      16
+    ],
+    "practice.": [
+      18
+    ],
+    "Over": [
+      19
+    ],
+    "the": [
+      20,
+      63,
+      76,
+      95
+    ],
+    "last": [
+      21
+    ],
+    "forty": [
+      22
+    ],
+    "years,": [
+      23
+    ],
+    "a": [
+      24,
+      37,
+      45,
+      86
+    ],
+    "growing": [
+      25
+    ],
+    "multidisciplinary": [
+      26
+    ],
+    "body": [
+      27,
+      51
+    ],
+    "work": [
+      29,
+      53
+    ],
+    "has": [
+      30
+    ],
+    "focused": [
+      31
+    ],
+    "on": [
+      32
+    ],
+    "in": [
+      36,
+      91
+    ],
+    "broad": [
+      38
+    ],
+    "range": [
+      39
+    ],
+    "contexts.": [
+      41
+    ],
+    "provides": [
+      44
+    ],
+    "selective": [
+      46
+    ],
+    "overview": [
+      47
+    ],
+    "this": [
+      49,
+      79,
+      104
+    ],
+    "diverse": [
+      50
+    ],
+    "within": [
+      54,
+      78
+    ],
+    "its": [
+      55
+    ],
+    "various": [
+      56
+    ],
+    "specialty": [
+      57
+    ],
+    "areas.": [
+      58
+    ],
+    "A": [
+      59
+    ],
+    "skeletal": [
+      60
+    ],
+    "description": [
+      61
+    ],
+    "background,": [
+      65
+    ],
+    "roots": [
+      67
+    ],
+    "main": [
+      69
+    ],
+    "approaches": [
+      70
+    ],
+    "is": [
+      71
+    ],
+    "offered": [
+      72
+    ],
+    "to": [
+      73,
+      102
+    ],
+    "help": [
+      74
+    ],
+    "situate": [
+      75
+    ],
+    "reader": [
+      77
+    ],
+    "field.": [
+      81
+    ],
+    "The": [
+      82
+    ],
+    "concludes": [
+      84
+    ],
+    "with": [
+      85
+    ],
+    "look": [
+      87
+    ],
+    "at": [
+      88
+    ],
+    "practical": [
+      89
+    ],
+    "applications": [
+      90
+    ],
+    "21st": [
+      96
+    ],
+    "century.Request": [
+      97
+    ],
+    "access": [
+      98
+    ],
+    "from": [
+      99
+    ],
+    "your": [
+      100
+    ],
+    "librarian": [
+      101
+    ],
+    "read": [
+      103
+    ],
+    "chapter's": [
+      105
+    ],
+    "full": [
+      106
+    ],
+    "text.": [
+      107
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2014,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-31T08:31:51.225901",
+  "created_date": "2025-10-10T00:00:00"
+}

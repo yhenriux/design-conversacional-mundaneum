@@ -1,0 +1,2701 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 14,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4404224824)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4404224824"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4404224824&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4409729774",
+      "doi": "https://doi.org/10.3390/app15094687",
+      "title": "Using Large Language Models for Goal-Oriented Dialogue Systems",
+      "display_name": "Using Large Language Models for Goal-Oriented Dialogue Systems",
+      "publication_year": 2025,
+      "publication_date": "2025-04-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4409729774",
+        "doi": "https://doi.org/10.3390/app15094687"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/app15094687",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/app15094687",
+        "pdf_url": "https://www.mdpi.com/2076-3417/15/9/4687/pdf?version=1745418799",
+        "source": {
+          "id": "https://openalex.org/S4210205812",
+          "display_name": "Applied Sciences",
+          "issn_l": "2076-3417",
+          "issn": [
+            "2076-3417"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Sciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2076-3417/15/9/4687/pdf?version=1745418799",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5064536762",
+            "display_name": "Leonid Legashev",
+            "orcid": "https://orcid.org/0000-0001-6351-404X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196486018",
+              "display_name": "Orenburg State University",
+              "ror": "https://ror.org/05b0f8e85",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Leonid Legashev",
+          "raw_affiliation_strings": [
+            "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6351-404X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia",
+              "institution_ids": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050303499",
+            "display_name": "Alexander Shukhman",
+            "orcid": "https://orcid.org/0000-0003-2061-9102"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196486018",
+              "display_name": "Orenburg State University",
+              "ror": "https://ror.org/05b0f8e85",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexander Shukhman",
+          "raw_affiliation_strings": [
+            "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-2061-9102",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia",
+              "institution_ids": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104422925",
+            "display_name": "Vadim R. Badikov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196486018",
+              "display_name": "Orenburg State University",
+              "ror": "https://ror.org/05b0f8e85",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vadim Badikov",
+          "raw_affiliation_strings": [
+            "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia",
+              "institution_ids": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5117276225",
+            "display_name": "Vladislav Kurynov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I196486018",
+              "display_name": "Orenburg State University",
+              "ror": "https://ror.org/05b0f8e85",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Vladislav Kurynov",
+          "raw_affiliation_strings": [
+            "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Institute of Digital Intelligent Technologies, Orenburg State University, Pobedy Pr. 13, Orenburg 460018, Russia",
+              "institution_ids": [
+                "https://openalex.org/I196486018"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5064536762"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I196486018"
+      ],
+      "apc_list": {
+        "value": 2400,
+        "currency": "CHF",
+        "value_usd": 2896
+      },
+      "apc_paid": {
+        "value": 2400,
+        "currency": "CHF",
+        "value_usd": 2896
+      },
+      "fwci": 8.8211,
+      "has_fulltext": true,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.97356898,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "15",
+        "issue": "9",
+        "first_page": "4687",
+        "last_page": "4687"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12031",
+        "display_name": "Speech and dialogue systems",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12031",
+          "display_name": "Speech and dialogue systems",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10028",
+          "display_name": "Topic Modeling",
+          "score": 0.9927999973297119,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10456",
+          "display_name": "Multi-Agent Systems and Negotiation",
+          "score": 0.984000027179718,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5738414525985718
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5738414525985718
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/app15094687",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/app15094687",
+          "pdf_url": "https://www.mdpi.com/2076-3417/15/9/4687/pdf?version=1745418799",
+          "source": {
+            "id": "https://openalex.org/S4210205812",
+            "display_name": "Applied Sciences",
+            "issn_l": "2076-3417",
+            "issn": [
+              "2076-3417"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Sciences",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:70aa41ec677c46849b3e9f97fa8b1cf2",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/70aa41ec677c46849b3e9f97fa8b1cf2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Applied Sciences, Vol 15, Iss 9, p 4687 (2025)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/app15094687",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/app15094687",
+        "pdf_url": "https://www.mdpi.com/2076-3417/15/9/4687/pdf?version=1745418799",
+        "source": {
+          "id": "https://openalex.org/S4210205812",
+          "display_name": "Applied Sciences",
+          "issn_l": "2076-3417",
+          "issn": [
+            "2076-3417"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Sciences",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G8791679058",
+          "display_name": null,
+          "funder_award_id": "23-21-00503",
+          "funder_id": "https://openalex.org/F4320324099",
+          "funder_display_name": "Russian Science Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324099",
+          "display_name": "Russian Science Foundation",
+          "ror": "https://ror.org/03y2gwe85"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4409729774.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4409729774.grobid-xml"
+      },
+      "referenced_works_count": 39,
+      "referenced_works": [
+        "https://openalex.org/W2101105183",
+        "https://openalex.org/W2123301721",
+        "https://openalex.org/W3027879771",
+        "https://openalex.org/W3045703328",
+        "https://openalex.org/W3207535763",
+        "https://openalex.org/W3216332495",
+        "https://openalex.org/W4226162428",
+        "https://openalex.org/W4229011615",
+        "https://openalex.org/W4287075708",
+        "https://openalex.org/W4387316165",
+        "https://openalex.org/W4387846655",
+        "https://openalex.org/W4389010441",
+        "https://openalex.org/W4389520082",
+        "https://openalex.org/W4389524319",
+        "https://openalex.org/W4390490761",
+        "https://openalex.org/W4391136507",
+        "https://openalex.org/W4391305723",
+        "https://openalex.org/W4391494845",
+        "https://openalex.org/W4392908891",
+        "https://openalex.org/W4393035178",
+        "https://openalex.org/W4401042590",
+        "https://openalex.org/W4401555815",
+        "https://openalex.org/W4402669899",
+        "https://openalex.org/W4402670233",
+        "https://openalex.org/W4402800989",
+        "https://openalex.org/W4403074495",
+        "https://openalex.org/W4404047101",
+        "https://openalex.org/W4404224824",
+        "https://openalex.org/W4404685645",
+        "https://openalex.org/W4404765644",
+        "https://openalex.org/W4404927256",
+        "https://openalex.org/W4405185387",
+        "https://openalex.org/W4405282246",
+        "https://openalex.org/W4405292086",
+        "https://openalex.org/W4407362404",
+        "https://openalex.org/W6682631176",
+        "https://openalex.org/W6777615688",
+        "https://openalex.org/W6798494020",
+        "https://openalex.org/W6856439586"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0,
+          53
+        ],
+        "the": [
+          1,
+          38,
+          45,
+          85,
+          97,
+          107,
+          119,
+          127,
+          141,
+          148,
+          161,
+          178,
+          194,
+          200,
+          204,
+          220,
+          226,
+          235,
+          243
+        ],
+        "development": [
+          2,
+          236
+        ],
+        "of": [
+          3,
+          28,
+          47,
+          87,
+          121,
+          129,
+          191,
+          217,
+          237,
+          245
+        ],
+        "goal-oriented": [
+          4,
+          94,
+          153
+        ],
+        "dialogue": [
+          5,
+          42,
+          95,
+          124,
+          136,
+          144,
+          149,
+          166,
+          240
+        ],
+        "systems,": [
+          6
+        ],
+        "neural": [
+          7
+        ],
+        "network": [
+          8
+        ],
+        "topic": [
+          9
+        ],
+        "modeling": [
+          10
+        ],
+        "and": [
+          11,
+          21,
+          69,
+          75,
+          106,
+          164,
+          197,
+          203,
+          223,
+          255
+        ],
+        "clustering": [
+          12
+        ],
+        "methods": [
+          13,
+          89
+        ],
+        "are": [
+          14
+        ],
+        "traditionally": [
+          15
+        ],
+        "used": [
+          16
+        ],
+        "to": [
+          17,
+          35,
+          40,
+          83,
+          117,
+          146
+        ],
+        "extract": [
+          18
+        ],
+        "user": [
+          19
+        ],
+        "intentions": [
+          20
+        ],
+        "operator": [
+          22
+        ],
+        "response": [
+          23
+        ],
+        "scenario": [
+          24
+        ],
+        "blocks.": [
+          25
+        ],
+        "The": [
+          26,
+          79,
+          113,
+          138,
+          155,
+          174
+        ],
+        "emergence": [
+          27
+        ],
+        "generative": [
+          29
+        ],
+        "large": [
+          30,
+          60
+        ],
+        "language": [
+          31,
+          61
+        ],
+        "models": [
+          32,
+          62
+        ],
+        "allows": [
+          33
+        ],
+        "one": [
+          34
+        ],
+        "radically": [
+          36
+        ],
+        "change": [
+          37
+        ],
+        "approach": [
+          39,
+          99,
+          109
+        ],
+        "generate": [
+          41
+        ],
+        "scenarios": [
+          43
+        ],
+        "in": [
+          44,
+          93,
+          151,
+          242,
+          252
+        ],
+        "form": [
+          46
+        ],
+        "a": [
+          48,
+          133,
+          169,
+          187,
+          213
+        ],
+        "graph": [
+          49
+        ],
+        "with": [
+          50,
+          100,
+          132,
+          207
+        ],
+        "context": [
+          51,
+          150
+        ],
+        "preservation.": [
+          52
+        ],
+        "this": [
+          54
+        ],
+        "article": [
+          55
+        ],
+        "we": [
+          56
+        ],
+        "analyzed": [
+          57
+        ],
+        "seven": [
+          58
+        ],
+        "popular": [
+          59
+        ],
+        "on": [
+          63,
+          103,
+          126,
+          135,
+          168,
+          183,
+          209
+        ],
+        "prepared": [
+          64
+        ],
+        "test": [
+          65
+        ],
+        "prompts": [
+          66
+        ],
+        "for": [
+          67,
+          72,
+          90,
+          143,
+          160,
+          193,
+          199,
+          219,
+          225,
+          234
+        ],
+        "Russian": [
+          68
+        ],
+        "English": [
+          70
+        ],
+        "languages": [
+          71
+        ],
+        "intent": [
+          73
+        ],
+        "mining": [
+          74
+        ],
+        "named": [
+          76
+        ],
+        "entity": [
+          77
+        ],
+        "recognition.": [
+          78
+        ],
+        "present": [
+          80
+        ],
+        "study": [
+          81,
+          139
+        ],
+        "aimed": [
+          82
+        ],
+        "investigate": [
+          84
+        ],
+        "effectiveness": [
+          86
+        ],
+        "two": [
+          88,
+          156
+        ],
+        "constructing": [
+          91,
+          152
+        ],
+        "dialogues": [
+          92,
+          185,
+          211
+        ],
+        "systems:": [
+          96
+        ],
+        "heuristic-based": [
+          98
+        ],
+        "additional": [
+          101
+        ],
+        "training": [
+          102,
+          182,
+          208
+        ],
+        "labeled": [
+          104,
+          123,
+          184,
+          210
+        ],
+        "data": [
+          105,
+          125
+        ],
+        "prompt-based": [
+          108
+        ],
+        "without": [
+          110,
+          181
+        ],
+        "such": [
+          111
+        ],
+        "training.": [
+          112
+        ],
+        "primary": [
+          114
+        ],
+        "objective": [
+          115
+        ],
+        "was": [
+          116
+        ],
+        "evaluate": [
+          118
+        ],
+        "impact": [
+          120
+        ],
+        "incorporating": [
+          122
+        ],
+        "quality": [
+          128
+        ],
+        "constructed": [
+          130
+        ],
+        "dialogues,": [
+          131
+        ],
+        "focus": [
+          134
+        ],
+        "context.": [
+          137
+        ],
+        "emphasized": [
+          140
+        ],
+        "need": [
+          142
+        ],
+        "systems": [
+          145,
+          241
+        ],
+        "consider": [
+          147
+        ],
+        "dialogues.": [
+          154
+        ],
+        "approaches": [
+          157
+        ],
+        "were": [
+          158
+        ],
+        "compared": [
+          159
+        ],
+        "MultiWOZ": [
+          162,
+          195,
+          221
+        ],
+        "2.2": [
+          163
+        ],
+        "MANTiS": [
+          165,
+          201,
+          227
+        ],
+        "corpora": [
+          167
+        ],
+        "locally": [
+          170
+        ],
+        "deployed": [
+          171
+        ],
+        "LLaMA": [
+          172
+        ],
+        "model.": [
+          173
+        ],
+        "results": [
+          175
+        ],
+        "showed": [
+          176
+        ],
+        "that": [
+          177,
+          248
+        ],
+        "LlaMA": [
+          179,
+          205
+        ],
+        "model": [
+          180,
+          206
+        ],
+        "achieved": [
+          186,
+          212
+        ],
+        "BERTScore": [
+          188,
+          214
+        ],
+        "metric": [
+          189,
+          215
+        ],
+        "value": [
+          190,
+          216
+        ],
+        "0.75": [
+          192
+        ],
+        "dataset": [
+          196,
+          222
+        ],
+        "0.72": [
+          198
+        ],
+        "dataset,": [
+          202
+        ],
+        "0.85": [
+          218
+        ],
+        "0.82": [
+          224
+        ],
+        "dataset.": [
+          228
+        ],
+        "This": [
+          229
+        ],
+        "finding": [
+          230
+        ],
+        "has": [
+          231
+        ],
+        "practical": [
+          232
+        ],
+        "implications": [
+          233
+        ],
+        "more": [
+          238,
+          253
+        ],
+        "effective": [
+          239
+        ],
+        "field": [
+          244
+        ],
+        "customer": [
+          246
+        ],
+        "service": [
+          247
+        ],
+        "can": [
+          249
+        ],
+        "engage": [
+          250
+        ],
+        "users": [
+          251
+        ],
+        "productive": [
+          254
+        ],
+        "meaningful": [
+          256
+        ],
+        "machine-to-human": [
+          257
+        ],
+        "interactions.": [
+          258
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-25T07:29:55.448023",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7125810590",
+      "doi": "https://doi.org/10.1109/exp.at2565440.2025.11348564",
+      "title": "LLM-Powered Social Robots for an Indoor Navigation Assistant",
+      "display_name": "LLM-Powered Social Robots for an Indoor Navigation Assistant",
+      "publication_year": 2025,
+      "publication_date": "2025-09-03",
+      "ids": {
+        "openalex": "https://openalex.org/W7125810590",
+        "doi": "https://doi.org/10.1109/exp.at2565440.2025.11348564"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1109/exp.at2565440.2025.11348564",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/exp.at2565440.2025.11348564",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 7th Experiment@ International Conference (exp.at'25)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5123907865",
+            "display_name": "Gonçalo Carnaz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gonçalo Carnaz",
+          "raw_affiliation_strings": [
+            "Institute of Systems and Robotics, University of Coimbra,Coimbra,Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Systems and Robotics, University of Coimbra,Coimbra,Portugal",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5123977076",
+            "display_name": "Esmeralda Faria",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Esmeralda Faria",
+          "raw_affiliation_strings": [
+            "Institute of Systems and Robotics, University of Coimbra,Coimbra,Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Systems and Robotics, University of Coimbra,Coimbra,Portugal",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5124016076",
+            "display_name": "Paulo Menezes",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paulo Menezes",
+          "raw_affiliation_strings": [
+            "Institute of Systems and Robotics, University of Coimbra,Dept. of Electrical &#x0026; Computer Eng.,Coimbra,Portugal"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Systems and Robotics, University of Coimbra,Dept. of Electrical &#x0026; Computer Eng.,Coimbra,Portugal",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.60022308,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "115",
+        "last_page": "120"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11714",
+        "display_name": "Multimodal Machine Learning Applications",
+        "score": 0.5077999830245972,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1707",
+          "display_name": "Computer Vision and Pattern Recognition"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11714",
+          "display_name": "Multimodal Machine Learning Applications",
+          "score": 0.5077999830245972,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12031",
+          "display_name": "Speech and dialogue systems",
+          "score": 0.12950000166893005,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10028",
+          "display_name": "Topic Modeling",
+          "score": 0.06939999759197235,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/robot",
+          "display_name": "Robot",
+          "score": 0.6460999846458435
+        },
+        {
+          "id": "https://openalex.org/keywords/social-robot",
+          "display_name": "Social robot",
+          "score": 0.5946000218391418
+        },
+        {
+          "id": "https://openalex.org/keywords/semantics",
+          "display_name": "Semantics (computer science)",
+          "score": 0.5641000270843506
+        },
+        {
+          "id": "https://openalex.org/keywords/human–robot-interaction",
+          "display_name": "Human–robot interaction",
+          "score": 0.43140000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/architecture",
+          "display_name": "Architecture",
+          "score": 0.4221999943256378
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-language",
+          "display_name": "Natural language",
+          "score": 0.4099000096321106
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C90509273",
+          "wikidata": "https://www.wikidata.org/wiki/Q11012",
+          "display_name": "Robot",
+          "level": 2,
+          "score": 0.6460999846458435
+        },
+        {
+          "id": "https://openalex.org/C162947575",
+          "wikidata": "https://www.wikidata.org/wiki/Q2005645",
+          "display_name": "Social robot",
+          "level": 5,
+          "score": 0.5946000218391418
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5902000069618225
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.5787000060081482
+        },
+        {
+          "id": "https://openalex.org/C184337299",
+          "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+          "display_name": "Semantics (computer science)",
+          "level": 2,
+          "score": 0.5641000270843506
+        },
+        {
+          "id": "https://openalex.org/C145460709",
+          "wikidata": "https://www.wikidata.org/wiki/Q859951",
+          "display_name": "Human–robot interaction",
+          "level": 3,
+          "score": 0.43140000104904175
+        },
+        {
+          "id": "https://openalex.org/C123657996",
+          "wikidata": "https://www.wikidata.org/wiki/Q12271",
+          "display_name": "Architecture",
+          "level": 2,
+          "score": 0.4221999943256378
+        },
+        {
+          "id": "https://openalex.org/C195324797",
+          "wikidata": "https://www.wikidata.org/wiki/Q33742",
+          "display_name": "Natural language",
+          "level": 2,
+          "score": 0.4099000096321106
+        },
+        {
+          "id": "https://openalex.org/C130064352",
+          "wikidata": "https://www.wikidata.org/wiki/Q853725",
+          "display_name": "Social relation",
+          "level": 2,
+          "score": 0.3889999985694885
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.3188999891281128
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.2973000109195709
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.2890999913215637
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.27619999647140503
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.26190000772476196
+        },
+        {
+          "id": "https://openalex.org/C2987946170",
+          "wikidata": "https://www.wikidata.org/wiki/Q853725",
+          "display_name": "Social relationship",
+          "level": 2,
+          "score": 0.2578999996185303
+        },
+        {
+          "id": "https://openalex.org/C19966478",
+          "wikidata": "https://www.wikidata.org/wiki/Q4810574",
+          "display_name": "Mobile robot",
+          "level": 3,
+          "score": 0.25290000438690186
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/exp.at2565440.2025.11348564",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/exp.at2565440.2025.11348564",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2025 7th Experiment@ International Conference (exp.at'25)",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.5585287809371948,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G3577688444",
+          "display_name": null,
+          "funder_award_id": "02/C05-i01l2022",
+          "funder_id": "https://openalex.org/F7311471023",
+          "funder_display_name": "NextGenerationEU"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F7311471023",
+          "display_name": "NextGenerationEU",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 15,
+      "referenced_works": [
+        "https://openalex.org/W3013571849",
+        "https://openalex.org/W4289938004",
+        "https://openalex.org/W4389263544",
+        "https://openalex.org/W4390722831",
+        "https://openalex.org/W4392011862",
+        "https://openalex.org/W4392661960",
+        "https://openalex.org/W4392719612",
+        "https://openalex.org/W4396528943",
+        "https://openalex.org/W4401018192",
+        "https://openalex.org/W4402572612",
+        "https://openalex.org/W4402819134",
+        "https://openalex.org/W4404173088",
+        "https://openalex.org/W4404224824",
+        "https://openalex.org/W4405332010",
+        "https://openalex.org/W4405787695"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Social": [
+          0
+        ],
+        "robots": [
+          1,
+          28,
+          97
+        ],
+        "are": [
+          2
+        ],
+        "increasingly": [
+          3
+        ],
+        "being": [
+          4
+        ],
+        "deployed": [
+          5
+        ],
+        "in": [
+          6,
+          130,
+          138
+        ],
+        "indoor": [
+          7,
+          23,
+          57,
+          99,
+          140
+        ],
+        "environments": [
+          8,
+          58
+        ],
+        "such": [
+          9
+        ],
+        "as": [
+          10
+        ],
+        "hospitals": [
+          11
+        ],
+        "or": [
+          12
+        ],
+        "malls,": [
+          13
+        ],
+        "to": [
+          14,
+          22,
+          30,
+          54,
+          61,
+          116,
+          136
+        ],
+        "assist": [
+          15
+        ],
+        "with": [
+          16,
+          75
+        ],
+        "navigation": [
+          17
+        ],
+        "and": [
+          18,
+          40,
+          80,
+          113,
+          121,
+          134
+        ],
+        "give": [
+          19
+        ],
+        "information": [
+          20
+        ],
+        "related": [
+          21,
+          115
+        ],
+        "spaces.": [
+          24
+        ],
+        "Therefore,": [
+          25
+        ],
+        "these": [
+          26
+        ],
+        "social": [
+          27,
+          47,
+          86,
+          96,
+          109
+        ],
+        "need": [
+          29,
+          53,
+          60
+        ],
+        "understand": [
+          31,
+          55
+        ],
+        "the": [
+          32,
+          52,
+          56,
+          72,
+          81,
+          85,
+          91,
+          104,
+          127
+        ],
+        "human": [
+          33
+        ],
+        "questions": [
+          34,
+          76
+        ],
+        "using": [
+          35
+        ],
+        "a": [
+          36,
+          139
+        ],
+        "natural": [
+          37
+        ],
+        "language": [
+          38,
+          65
+        ],
+        "understanding": [
+          39,
+          71
+        ],
+        "generation,": [
+          41
+        ],
+        "making": [
+          42
+        ],
+        "them": [
+          43
+        ],
+        "suitable": [
+          44
+        ],
+        "for": [
+          45,
+          70,
+          98
+        ],
+        "enhancing": [
+          46
+        ],
+        "robots'": [
+          48
+        ],
+        "interaction": [
+          49
+        ],
+        "capabilities,": [
+          50,
+          112
+        ],
+        "also,": [
+          51
+        ],
+        "that": [
+          59
+        ],
+        "be": [
+          62,
+          68
+        ],
+        "mapped.": [
+          63
+        ],
+        "Large": [
+          64
+        ],
+        "models": [
+          66
+        ],
+        "can": [
+          67
+        ],
+        "useful": [
+          69
+        ],
+        "semantics": [
+          73
+        ],
+        "associated": [
+          74
+        ],
+        "asked": [
+          77
+        ],
+        "by": [
+          78,
+          84
+        ],
+        "users": [
+          79,
+          133
+        ],
+        "answers": [
+          82
+        ],
+        "generated": [
+          83
+        ],
+        "robot.": [
+          87
+        ],
+        "This": [
+          88
+        ],
+        "paper": [
+          89
+        ],
+        "explores": [
+          90
+        ],
+        "integration": [
+          92
+        ],
+        "of": [
+          93,
+          106
+        ],
+        "LLMs": [
+          94
+        ],
+        "into": [
+          95
+        ],
+        "location": [
+          100
+        ],
+        "navigation.": [
+          101
+        ],
+        "We": [
+          102
+        ],
+        "describe": [
+          103
+        ],
+        "architecture": [
+          105
+        ],
+        "our": [
+          107
+        ],
+        "LLM-powered": [
+          108
+        ],
+        "robot,": [
+          110
+        ],
+        "its": [
+          111
+        ],
+        "challenges": [
+          114
+        ],
+        "real-time": [
+          117
+        ],
+        "processing,": [
+          118
+        ],
+        "user": [
+          119
+        ],
+        "adaptation,": [
+          120
+        ],
+        "accuracy.": [
+          122
+        ],
+        "A": [
+          123
+        ],
+        "pilot": [
+          124
+        ],
+        "study": [
+          125
+        ],
+        "evaluates": [
+          126
+        ],
+        "robot's": [
+          128
+        ],
+        "efficiency": [
+          129
+        ],
+        "guiding": [
+          131
+        ],
+        "20": [
+          132
+        ],
+        "responding": [
+          135
+        ],
+        "queries": [
+          137
+        ],
+        "environment.": [
+          141
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2026-01-28T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7125964045",
+      "doi": "https://doi.org/10.1109/smc58881.2025.11343491",
+      "title": "Orlock: A Modular Agent for Natural Interaction in Indoor Navigation",
+      "display_name": "Orlock: A Modular Agent for Natural Interaction in Indoor Navigation",
+      "publication_year": 2025,
+      "publication_date": "2025-10-05",
+      "ids": {
+        "openalex": "https://openalex.org/W7125964045",
+        "doi": "https://doi.org/10.1109/smc58881.2025.11343491"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1109/smc58881.2025.11343491",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/smc58881.2025.11343491",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5123907865",
+            "display_name": "Gonçalo Carnaz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gonçalo Carnaz",
+          "raw_affiliation_strings": [
+            "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5124105820",
+            "display_name": "Esmeralda Faria",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Esmeralda Faria",
+          "raw_affiliation_strings": [
+            "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5124128641",
+            "display_name": "Paulo Menezes",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125590",
+              "display_name": "Institute for Systems Engineering and Computers",
+              "ror": "https://ror.org/033wn8m60",
+              "country_code": "PT",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210125590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I76903346",
+              "display_name": "University of Coimbra",
+              "ror": "https://ror.org/04z8k9a98",
+              "country_code": "PT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ],
+          "countries": [
+            "PT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paulo Menezes",
+          "raw_affiliation_strings": [
+            "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Coimbra,Institute of Systems and Robotics,Coimbra,Portugal,3030-790",
+              "institution_ids": [
+                "https://openalex.org/I4210125590",
+                "https://openalex.org/I76903346"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.65918225,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "3400",
+        "last_page": "3405"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11904",
+        "display_name": "Spatial Cognition and Navigation",
+        "score": 0.9857000112533569,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2203",
+          "display_name": "Automotive Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11904",
+          "display_name": "Spatial Cognition and Navigation",
+          "score": 0.9857000112533569,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2203",
+            "display_name": "Automotive Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10789",
+          "display_name": "Interactive and Immersive Displays",
+          "score": 0.001500000013038516,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10888",
+          "display_name": "Augmented Reality Applications",
+          "score": 0.0012000000569969416,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.7134000062942505
+        },
+        {
+          "id": "https://openalex.org/keywords/modular-design",
+          "display_name": "Modular design",
+          "score": 0.663100004196167
+        },
+        {
+          "id": "https://openalex.org/keywords/preference",
+          "display_name": "Preference",
+          "score": 0.6524999737739563
+        },
+        {
+          "id": "https://openalex.org/keywords/orientation",
+          "display_name": "Orientation (vector space)",
+          "score": 0.6373000144958496
+        },
+        {
+          "id": "https://openalex.org/keywords/multimodal-interaction",
+          "display_name": "Multimodal interaction",
+          "score": 0.5831999778747559
+        },
+        {
+          "id": "https://openalex.org/keywords/natural",
+          "display_name": "Natural (archaeology)",
+          "score": 0.578000009059906
+        },
+        {
+          "id": "https://openalex.org/keywords/usability",
+          "display_name": "Usability",
+          "score": 0.4894999861717224
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.7667999863624573
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.7134000062942505
+        },
+        {
+          "id": "https://openalex.org/C101468663",
+          "wikidata": "https://www.wikidata.org/wiki/Q1620158",
+          "display_name": "Modular design",
+          "level": 2,
+          "score": 0.663100004196167
+        },
+        {
+          "id": "https://openalex.org/C2781249084",
+          "wikidata": "https://www.wikidata.org/wiki/Q908656",
+          "display_name": "Preference",
+          "level": 2,
+          "score": 0.6524999737739563
+        },
+        {
+          "id": "https://openalex.org/C16345878",
+          "wikidata": "https://www.wikidata.org/wiki/Q107472979",
+          "display_name": "Orientation (vector space)",
+          "level": 2,
+          "score": 0.6373000144958496
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6097999811172485
+        },
+        {
+          "id": "https://openalex.org/C135641252",
+          "wikidata": "https://www.wikidata.org/wiki/Q738567",
+          "display_name": "Multimodal interaction",
+          "level": 2,
+          "score": 0.5831999778747559
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.578000009059906
+        },
+        {
+          "id": "https://openalex.org/C170130773",
+          "wikidata": "https://www.wikidata.org/wiki/Q216378",
+          "display_name": "Usability",
+          "level": 2,
+          "score": 0.4894999861717224
+        },
+        {
+          "id": "https://openalex.org/C195324797",
+          "wikidata": "https://www.wikidata.org/wiki/Q33742",
+          "display_name": "Natural language",
+          "level": 2,
+          "score": 0.3686000108718872
+        },
+        {
+          "id": "https://openalex.org/C159620131",
+          "wikidata": "https://www.wikidata.org/wiki/Q1938983",
+          "display_name": "Spatial analysis",
+          "level": 2,
+          "score": 0.35569998621940613
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.34389999508857727
+        },
+        {
+          "id": "https://openalex.org/C36464697",
+          "wikidata": "https://www.wikidata.org/wiki/Q451553",
+          "display_name": "Visualization",
+          "level": 2,
+          "score": 0.3084000051021576
+        },
+        {
+          "id": "https://openalex.org/C64754055",
+          "wikidata": "https://www.wikidata.org/wiki/Q7574053",
+          "display_name": "Spatial contextual awareness",
+          "level": 2,
+          "score": 0.2784999907016754
+        },
+        {
+          "id": "https://openalex.org/C2779819341",
+          "wikidata": "https://www.wikidata.org/wiki/Q7574060",
+          "display_name": "Spatial design",
+          "level": 3,
+          "score": 0.2745000123977661
+        },
+        {
+          "id": "https://openalex.org/C194969405",
+          "wikidata": "https://www.wikidata.org/wiki/Q170519",
+          "display_name": "Virtual reality",
+          "level": 2,
+          "score": 0.2651999890804291
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/smc58881.2025.11343491",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/smc58881.2025.11343491",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "score": 0.5015814900398254,
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 13,
+      "referenced_works": [
+        "https://openalex.org/W2405187948",
+        "https://openalex.org/W2964543620",
+        "https://openalex.org/W4389665836",
+        "https://openalex.org/W4392011862",
+        "https://openalex.org/W4392661960",
+        "https://openalex.org/W4401615752",
+        "https://openalex.org/W4402003508",
+        "https://openalex.org/W4402572612",
+        "https://openalex.org/W4402819134",
+        "https://openalex.org/W4404106889",
+        "https://openalex.org/W4404224824",
+        "https://openalex.org/W4405332010",
+        "https://openalex.org/W4407404710"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Providing": [
+          0
+        ],
+        "effective": [
+          1
+        ],
+        "indoor": [
+          2
+        ],
+        "spatial": [
+          3,
+          27,
+          115
+        ],
+        "guidance": [
+          4,
+          116
+        ],
+        "through": [
+          5
+        ],
+        "natural": [
+          6
+        ],
+        "language": [
+          7
+        ],
+        "remains": [
+          8
+        ],
+        "a": [
+          9,
+          19,
+          30,
+          35,
+          83
+        ],
+        "key": [
+          10,
+          60
+        ],
+        "challenge": [
+          11
+        ],
+        "in": [
+          12,
+          102
+        ],
+        "human-computer": [
+          13
+        ],
+        "interaction.": [
+          14
+        ],
+        "This": [
+          15
+        ],
+        "paper": [
+          16
+        ],
+        "presents": [
+          17
+        ],
+        "Orlock,": [
+          18,
+          52
+        ],
+        "virtual": [
+          20
+        ],
+        "agent": [
+          21
+        ],
+        "designed": [
+          22
+        ],
+        "to": [
+          23,
+          42
+        ],
+        "support": [
+          24
+        ],
+        "wayfinding": [
+          25
+        ],
+        "and": [
+          26,
+          69,
+          91,
+          105
+        ],
+        "orientation": [
+          28,
+          103
+        ],
+        "within": [
+          29
+        ],
+        "university": [
+          31
+        ],
+        "building.": [
+          32
+        ],
+        "To": [
+          33
+        ],
+        "ensure": [
+          34
+        ],
+        "consistent": [
+          36
+        ],
+        "baseline,": [
+          37
+        ],
+        "building": [
+          38
+        ],
+        "maps": [
+          39
+        ],
+        "were": [
+          40
+        ],
+        "shown": [
+          41
+        ],
+        "participants": [
+          43,
+          53
+        ],
+        "unfamiliar": [
+          44
+        ],
+        "with": [
+          45,
+          51,
+          82
+        ],
+        "the": [
+          46,
+          74,
+          97
+        ],
+        "space.": [
+          47
+        ],
+        "Following": [
+          48
+        ],
+        "their": [
+          49
+        ],
+        "interaction": [
+          50,
+          101
+        ],
+        "completed": [
+          54
+        ],
+        "an": [
+          55
+        ],
+        "18-item": [
+          56
+        ],
+        "questionnaire": [
+          57
+        ],
+        "covering": [
+          58
+        ],
+        "five": [
+          59
+        ],
+        "dimensions:": [
+          61
+        ],
+        "clarity,": [
+          62
+        ],
+        "usefulness,": [
+          63
+        ],
+        "ease": [
+          64
+        ],
+        "of": [
+          65,
+          99,
+          113
+        ],
+        "interaction,": [
+          66
+        ],
+        "overall": [
+          67
+        ],
+        "satisfaction,": [
+          68,
+          81
+        ],
+        "design": [
+          70,
+          108
+        ],
+        "preferences.": [
+          71
+        ],
+        "Results": [
+          72
+        ],
+        "from": [
+          73
+        ],
+        "7-point": [
+          75
+        ],
+        "Likert-Scale": [
+          76
+        ],
+        "responses": [
+          77
+        ],
+        "indicated": [
+          78
+        ],
+        "generally": [
+          79
+        ],
+        "high": [
+          80
+        ],
+        "clear": [
+          84
+        ],
+        "preference": [
+          85
+        ],
+        "for": [
+          86,
+          110
+        ],
+        "multimodal": [
+          87,
+          100
+        ],
+        "feedback": [
+          88
+        ],
+        "combining": [
+          89
+        ],
+        "visual": [
+          90
+        ],
+        "verbal": [
+          92
+        ],
+        "instructions.": [
+          93
+        ],
+        "These": [
+          94
+        ],
+        "findings": [
+          95
+        ],
+        "highlight": [
+          96
+        ],
+        "importance": [
+          98
+        ],
+        "systems": [
+          104
+        ],
+        "offer": [
+          106
+        ],
+        "practical": [
+          107
+        ],
+        "insights": [
+          109
+        ],
+        "future": [
+          111
+        ],
+        "development": [
+          112
+        ],
+        "intelligent": [
+          114
+        ],
+        "agents.": [
+          117
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2026-01-29T00:00:00"
+    }
+  ],
+  "group_by": []
+}

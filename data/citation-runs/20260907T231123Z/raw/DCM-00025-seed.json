@@ -1,0 +1,729 @@
+{
+  "id": "https://openalex.org/W1986188827",
+  "doi": "https://doi.org/10.1109/32.24717",
+  "title": "A simplification of a conversation design scheme using Petri nets",
+  "display_name": "A simplification of a conversation design scheme using Petri nets",
+  "publication_year": 1989,
+  "publication_date": "1989-05-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1986188827",
+    "doi": "https://doi.org/10.1109/32.24717",
+    "mag": "1986188827"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/32.24717",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/32.24717",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S8351582",
+      "display_name": "IEEE Transactions on Software Engineering",
+      "issn_l": "0098-5589",
+      "issn": [
+        "0098-5589",
+        "1939-3520",
+        "2326-3881"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320439",
+      "host_organization_name": "IEEE Computer Society",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320439",
+        "https://openalex.org/P4310319808"
+      ],
+      "host_organization_lineage_names": [
+        "IEEE Computer Society",
+        "Institute of Electrical and Electronics Engineers"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "IEEE Transactions on Software Engineering",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5100600528",
+        "display_name": "Jie Wu",
+        "orcid": "https://orcid.org/0000-0002-3472-1717"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63772739",
+          "display_name": "Florida Atlantic University",
+          "ror": "https://ror.org/05p8w6387",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63772739"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "J. Wu",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, Florida Atlantic University, Boca Raton, FL, USA",
+        "Dept. of Electr. & Comput. Eng., Florida Atlantic Univ., Boca Raton, FL, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, Florida Atlantic University, Boca Raton, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I63772739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Dept. of Electr. & Comput. Eng., Florida Atlantic Univ., Boca Raton, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I63772739"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5078871025",
+        "display_name": "Eduardo B. Fernández",
+        "orcid": "https://orcid.org/0000-0002-5109-4591"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I63772739",
+          "display_name": "Florida Atlantic University",
+          "ror": "https://ror.org/05p8w6387",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I63772739"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "E.B. Fernandez",
+      "raw_affiliation_strings": [
+        "Department of Electrical and Computer Engineering, Florida Atlantic University, Boca Raton, FL, USA",
+        "Dept. of Electr. & Comput. Eng., Florida Atlantic Univ., Boca Raton, FL, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Electrical and Computer Engineering, Florida Atlantic University, Boca Raton, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I63772739"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Dept. of Electr. & Comput. Eng., Florida Atlantic Univ., Boca Raton, FL, USA",
+          "institution_ids": [
+            "https://openalex.org/I63772739"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I63772739"
+  ],
+  "apc_list": {
+    "value": 2645,
+    "currency": "USD",
+    "value_usd": 2645
+  },
+  "apc_paid": null,
+  "fwci": 0.4771,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.58792157,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": "15",
+    "issue": "5",
+    "first_page": "658",
+    "last_page": "660"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11125",
+    "display_name": "Petri Nets in System Modeling",
+    "score": 0.9801999926567078,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1703",
+      "display_name": "Computational Theory and Mathematics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11125",
+      "display_name": "Petri Nets in System Modeling",
+      "score": 0.9801999926567078,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1703",
+        "display_name": "Computational Theory and Mathematics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10470",
+      "display_name": "Usability and User Interface Design",
+      "score": 0.958299994468689,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10703",
+      "display_name": "Business Process Modeling and Analysis",
+      "score": 0.9567999839782715,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1404",
+        "display_name": "Management Information Systems"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/14",
+        "display_name": "Business, Management and Accounting"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/petri-net",
+      "display_name": "Petri net",
+      "score": 0.9042395353317261
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8047559261322021
+    },
+    {
+      "id": "https://openalex.org/keywords/occam",
+      "display_name": "occam",
+      "score": 0.7662615180015564
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.6511937379837036
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.6239930391311646
+    },
+    {
+      "id": "https://openalex.org/keywords/graph",
+      "display_name": "Graph",
+      "score": 0.5085529088973999
+    },
+    {
+      "id": "https://openalex.org/keywords/table",
+      "display_name": "Table (database)",
+      "score": 0.49112769961357117
+    },
+    {
+      "id": "https://openalex.org/keywords/theoretical-computer-science",
+      "display_name": "Theoretical computer science",
+      "score": 0.4630785882472992
+    },
+    {
+      "id": "https://openalex.org/keywords/state",
+      "display_name": "State (computer science)",
+      "score": 0.46123385429382324
+    },
+    {
+      "id": "https://openalex.org/keywords/occams-razor",
+      "display_name": "Occam's razor",
+      "score": 0.44848430156707764
+    },
+    {
+      "id": "https://openalex.org/keywords/data-mining",
+      "display_name": "Data mining",
+      "score": 0.18581166863441467
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.09827724099159241
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C38677869",
+      "wikidata": "https://www.wikidata.org/wiki/Q724168",
+      "display_name": "Petri net",
+      "level": 2,
+      "score": 0.9042395353317261
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8047559261322021
+    },
+    {
+      "id": "https://openalex.org/C78469957",
+      "wikidata": "https://www.wikidata.org/wiki/Q838062",
+      "display_name": "occam",
+      "level": 2,
+      "score": 0.7662615180015564
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.6511937379837036
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.6239930391311646
+    },
+    {
+      "id": "https://openalex.org/C132525143",
+      "wikidata": "https://www.wikidata.org/wiki/Q141488",
+      "display_name": "Graph",
+      "level": 2,
+      "score": 0.5085529088973999
+    },
+    {
+      "id": "https://openalex.org/C45235069",
+      "wikidata": "https://www.wikidata.org/wiki/Q278425",
+      "display_name": "Table (database)",
+      "level": 2,
+      "score": 0.49112769961357117
+    },
+    {
+      "id": "https://openalex.org/C80444323",
+      "wikidata": "https://www.wikidata.org/wiki/Q2878974",
+      "display_name": "Theoretical computer science",
+      "level": 1,
+      "score": 0.4630785882472992
+    },
+    {
+      "id": "https://openalex.org/C48103436",
+      "wikidata": "https://www.wikidata.org/wiki/Q599031",
+      "display_name": "State (computer science)",
+      "level": 2,
+      "score": 0.46123385429382324
+    },
+    {
+      "id": "https://openalex.org/C64802038",
+      "wikidata": "https://www.wikidata.org/wiki/Q131012",
+      "display_name": "Occam's razor",
+      "level": 2,
+      "score": 0.44848430156707764
+    },
+    {
+      "id": "https://openalex.org/C124101348",
+      "wikidata": "https://www.wikidata.org/wiki/Q172491",
+      "display_name": "Data mining",
+      "level": 1,
+      "score": 0.18581166863441467
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.09827724099159241
+    },
+    {
+      "id": "https://openalex.org/C105795698",
+      "wikidata": "https://www.wikidata.org/wiki/Q12483",
+      "display_name": "Statistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/32.24717",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/32.24717",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S8351582",
+        "display_name": "IEEE Transactions on Software Engineering",
+        "issn_l": "0098-5589",
+        "issn": [
+          "0098-5589",
+          "1939-3520",
+          "2326-3881"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320439",
+        "host_organization_name": "IEEE Computer Society",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320439",
+          "https://openalex.org/P4310319808"
+        ],
+        "host_organization_lineage_names": [
+          "IEEE Computer Society",
+          "Institute of Electrical and Electronics Engineers"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "IEEE Transactions on Software Engineering",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.5099999904632568,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 6,
+  "referenced_works": [
+    "https://openalex.org/W628100629",
+    "https://openalex.org/W1997422861",
+    "https://openalex.org/W2044765978",
+    "https://openalex.org/W2133201251",
+    "https://openalex.org/W2505960745",
+    "https://openalex.org/W3035757797"
+  ],
+  "related_works": [
+    "https://openalex.org/W2949846021",
+    "https://openalex.org/W2951568450",
+    "https://openalex.org/W3023590748",
+    "https://openalex.org/W1731670240",
+    "https://openalex.org/W2966907487",
+    "https://openalex.org/W2140251433",
+    "https://openalex.org/W2020649503",
+    "https://openalex.org/W51126094",
+    "https://openalex.org/W1718449494",
+    "https://openalex.org/W1519727353"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0,
+      38
+    ],
+    "the": [
+      1,
+      5,
+      8,
+      11,
+      16,
+      39,
+      49,
+      64,
+      74,
+      80
+    ],
+    "conversation": [
+      2
+    ],
+    "design": [
+      3
+    ],
+    "procedure,": [
+      4
+    ],
+    "definition": [
+      6
+    ],
+    "of": [
+      7,
+      10,
+      15,
+      54
+    ],
+    "state": [
+      9,
+      76
+    ],
+    "system": [
+      12
+    ],
+    "is": [
+      13,
+      22,
+      46,
+      61,
+      69,
+      79,
+      83
+    ],
+    "one": [
+      14
+    ],
+    "most": [
+      17
+    ],
+    "important": [
+      18
+    ],
+    "aspects.": [
+      19
+    ],
+    "The": [
+      20
+    ],
+    "question": [
+      21
+    ],
+    "how": [
+      23
+    ],
+    "to": [
+      24,
+      32
+    ],
+    "identify": [
+      25
+    ],
+    "transitions": [
+      26
+    ],
+    "in": [
+      27,
+      30
+    ],
+    "Occam": [
+      28
+    ],
+    "programs": [
+      29
+    ],
+    "order": [
+      31
+    ],
+    "express": [
+      33
+    ],
+    "them": [
+      34
+    ],
+    "as": [
+      35
+    ],
+    "Petri": [
+      36,
+      66
+    ],
+    "nets.": [
+      37
+    ],
+    "paper,": [
+      40
+    ],
+    "a": [
+      41
+    ],
+    "simplified": [
+      42
+    ],
+    "transition": [
+      43
+    ],
+    "identification": [
+      44
+    ],
+    "method": [
+      45
+    ],
+    "proposed.": [
+      47
+    ],
+    "Using": [
+      48
+    ],
+    "robot": [
+      50
+    ],
+    "arm": [
+      51
+    ],
+    "control": [
+      52
+    ],
+    "program": [
+      53
+    ],
+    "A.M.": [
+      55
+    ],
+    "Tyrrell": [
+      56
+    ],
+    "and": [
+      57
+    ],
+    "D.J.": [
+      58
+    ],
+    "Holding": [
+      59
+    ],
+    "it": [
+      60
+    ],
+    "shown": [
+      62,
+      85
+    ],
+    "that": [
+      63,
+      86
+    ],
+    "correspondent": [
+      65
+    ],
+    "net": [
+      67
+    ],
+    "graph": [
+      68
+    ],
+    "simpler": [
+      70
+    ],
+    "than": [
+      71
+    ],
+    "theirs,": [
+      72
+    ],
+    "but": [
+      73
+    ],
+    "communication": [
+      75
+    ],
+    "change": [
+      77
+    ],
+    "table": [
+      78
+    ],
+    "same.": [
+      81
+    ],
+    "It": [
+      82
+    ],
+    "also": [
+      84
+    ],
+    "these": [
+      87
+    ],
+    "two": [
+      88
+    ],
+    "methods": [
+      89
+    ],
+    "are": [
+      90
+    ],
+    "equivalent.>": [
+      91
+    ]
+  },
+  "counts_by_year": [],
+  "updated_date": "2026-08-21T09:56:20.448147",
+  "created_date": "2025-10-10T00:00:00"
+}

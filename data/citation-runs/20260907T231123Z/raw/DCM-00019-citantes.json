@@ -1,0 +1,1809 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 15,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W2482792125)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W2482792125"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W2482792125&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W197999406",
+      "doi": "https://doi.org/10.1007/978-1-4614-3185-5_30",
+      "title": "Instructional Message Design: Past, Present, and Future Relevance",
+      "display_name": "Instructional Message Design: Past, Present, and Future Relevance",
+      "publication_year": 2013,
+      "publication_date": "2013-05-22",
+      "ids": {
+        "openalex": "https://openalex.org/W197999406",
+        "doi": "https://doi.org/10.1007/978-1-4614-3185-5_30",
+        "mag": "197999406"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-1-4614-3185-5_30",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-1-4614-3185-5_30",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Handbook of Research on Educational Communications and Technology",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112620137",
+            "display_name": "M. J. Bishop",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I186143895",
+              "display_name": "Lehigh University",
+              "ror": "https://ror.org/012afjb06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I186143895"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M. J. Bishop",
+          "raw_affiliation_strings": [
+            "Teaching, Learning, and Technology Program, College of Education, Lehigh University, Bethlehem, USA",
+            "College of Education, Lehigh                     University"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Teaching, Learning, and Technology Program, College of Education, Lehigh University, Bethlehem, USA",
+              "institution_ids": [
+                "https://openalex.org/I186143895"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Education, Lehigh                     University",
+              "institution_ids": [
+                "https://openalex.org/I186143895"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5112620137"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I186143895"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.2855,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.89639482,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "373",
+        "last_page": "383"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11516",
+        "display_name": "Visual and Cognitive Learning Processes",
+        "score": 0.9891999959945679,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11516",
+          "display_name": "Visual and Cognitive Learning Processes",
+          "score": 0.9891999959945679,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10162",
+          "display_name": "Online and Blended Learning",
+          "score": 0.9872000217437744,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10636",
+          "display_name": "Innovative Teaching and Learning Methods",
+          "score": 0.9807000160217285,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/relevance",
+          "display_name": "Relevance (law)",
+          "score": 0.6835435032844543
+        },
+        {
+          "id": "https://openalex.org/keywords/instructional-design",
+          "display_name": "Instructional design",
+          "score": 0.6679436564445496
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5933656096458435
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.577043890953064
+        },
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.5693899393081665
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.534462571144104
+        },
+        {
+          "id": "https://openalex.org/keywords/learning-theory",
+          "display_name": "Learning theory",
+          "score": 0.4340943992137909
+        },
+        {
+          "id": "https://openalex.org/keywords/relevance-theory",
+          "display_name": "Relevance theory",
+          "score": 0.42489057779312134
+        },
+        {
+          "id": "https://openalex.org/keywords/management-science",
+          "display_name": "Management science",
+          "score": 0.3819054961204529
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.3766101598739624
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-ethics",
+          "display_name": "Engineering ethics",
+          "score": 0.3752312660217285
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.36735785007476807
+        },
+        {
+          "id": "https://openalex.org/keywords/multimedia",
+          "display_name": "Multimedia",
+          "score": 0.32058197259902954
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.25167161226272583
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.20109662413597107
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.16017529368400574
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.09842997789382935
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C158154518",
+          "wikidata": "https://www.wikidata.org/wiki/Q7310970",
+          "display_name": "Relevance (law)",
+          "level": 2,
+          "score": 0.6835435032844543
+        },
+        {
+          "id": "https://openalex.org/C159456220",
+          "wikidata": "https://www.wikidata.org/wiki/Q667334",
+          "display_name": "Instructional design",
+          "level": 2,
+          "score": 0.6679436564445496
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5933656096458435
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.577043890953064
+        },
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.5693899393081665
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.534462571144104
+        },
+        {
+          "id": "https://openalex.org/C92393732",
+          "wikidata": "https://www.wikidata.org/wiki/Q1790374",
+          "display_name": "Learning theory",
+          "level": 2,
+          "score": 0.4340943992137909
+        },
+        {
+          "id": "https://openalex.org/C2776802673",
+          "wikidata": "https://www.wikidata.org/wiki/Q1548396",
+          "display_name": "Relevance theory",
+          "level": 3,
+          "score": 0.42489057779312134
+        },
+        {
+          "id": "https://openalex.org/C539667460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2414942",
+          "display_name": "Management science",
+          "level": 1,
+          "score": 0.3819054961204529
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.3766101598739624
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3752312660217285
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.36735785007476807
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.32058197259902954
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.25167161226272583
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.20109662413597107
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.16017529368400574
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.09842997789382935
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-1-4614-3185-5_30",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-1-4614-3185-5_30",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Handbook of Research on Educational Communications and Technology",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 162,
+      "referenced_works": [
+        "https://openalex.org/W14809360",
+        "https://openalex.org/W26919075",
+        "https://openalex.org/W28692906",
+        "https://openalex.org/W39377320",
+        "https://openalex.org/W75270429",
+        "https://openalex.org/W96307735",
+        "https://openalex.org/W113474961",
+        "https://openalex.org/W115490372",
+        "https://openalex.org/W201552680",
+        "https://openalex.org/W205718564",
+        "https://openalex.org/W267267547",
+        "https://openalex.org/W278516657",
+        "https://openalex.org/W298226154",
+        "https://openalex.org/W357519574",
+        "https://openalex.org/W568410477",
+        "https://openalex.org/W584493555",
+        "https://openalex.org/W593419623",
+        "https://openalex.org/W611090116",
+        "https://openalex.org/W612249010",
+        "https://openalex.org/W801784683",
+        "https://openalex.org/W1480358052",
+        "https://openalex.org/W1485873924",
+        "https://openalex.org/W1493910332",
+        "https://openalex.org/W1521412648",
+        "https://openalex.org/W1522356730",
+        "https://openalex.org/W1522911186",
+        "https://openalex.org/W1530579895",
+        "https://openalex.org/W1532409630",
+        "https://openalex.org/W1535927496",
+        "https://openalex.org/W1544505229",
+        "https://openalex.org/W1549602395",
+        "https://openalex.org/W1551683416",
+        "https://openalex.org/W1553802931",
+        "https://openalex.org/W1558713906",
+        "https://openalex.org/W1560082457",
+        "https://openalex.org/W1563398057",
+        "https://openalex.org/W1582620259",
+        "https://openalex.org/W1582639432",
+        "https://openalex.org/W1587079164",
+        "https://openalex.org/W1597854858",
+        "https://openalex.org/W1598879315",
+        "https://openalex.org/W1602862533",
+        "https://openalex.org/W1752512628",
+        "https://openalex.org/W1773016195",
+        "https://openalex.org/W1790789618",
+        "https://openalex.org/W1876191121",
+        "https://openalex.org/W1878893887",
+        "https://openalex.org/W1941831427",
+        "https://openalex.org/W1963596419",
+        "https://openalex.org/W1963788781",
+        "https://openalex.org/W1965337694",
+        "https://openalex.org/W1969572042",
+        "https://openalex.org/W1971568690",
+        "https://openalex.org/W1973368605",
+        "https://openalex.org/W1974350935",
+        "https://openalex.org/W1978589347",
+        "https://openalex.org/W1994626640",
+        "https://openalex.org/W1995156820",
+        "https://openalex.org/W1999901119",
+        "https://openalex.org/W2002556979",
+        "https://openalex.org/W2004258108",
+        "https://openalex.org/W2013511833",
+        "https://openalex.org/W2014781793",
+        "https://openalex.org/W2015813911",
+        "https://openalex.org/W2015900931",
+        "https://openalex.org/W2019588861",
+        "https://openalex.org/W2025028440",
+        "https://openalex.org/W2035796408",
+        "https://openalex.org/W2041404167",
+        "https://openalex.org/W2042127768",
+        "https://openalex.org/W2043030203",
+        "https://openalex.org/W2043896420",
+        "https://openalex.org/W2046036800",
+        "https://openalex.org/W2052492128",
+        "https://openalex.org/W2055569757",
+        "https://openalex.org/W2066052452",
+        "https://openalex.org/W2071024919",
+        "https://openalex.org/W2071493760",
+        "https://openalex.org/W2071900848",
+        "https://openalex.org/W2074094522",
+        "https://openalex.org/W2075243909",
+        "https://openalex.org/W2076053538",
+        "https://openalex.org/W2099069868",
+        "https://openalex.org/W2101157755",
+        "https://openalex.org/W2103148097",
+        "https://openalex.org/W2116199508",
+        "https://openalex.org/W2125259774",
+        "https://openalex.org/W2149095485",
+        "https://openalex.org/W2159977619",
+        "https://openalex.org/W2160490388",
+        "https://openalex.org/W2163774621",
+        "https://openalex.org/W2164599981",
+        "https://openalex.org/W2185027734",
+        "https://openalex.org/W2222760842",
+        "https://openalex.org/W2232925767",
+        "https://openalex.org/W2317846396",
+        "https://openalex.org/W2321777641",
+        "https://openalex.org/W2330478038",
+        "https://openalex.org/W2337068785",
+        "https://openalex.org/W2396028280",
+        "https://openalex.org/W2416057422",
+        "https://openalex.org/W2480380069",
+        "https://openalex.org/W2482792125",
+        "https://openalex.org/W2484004692",
+        "https://openalex.org/W2484805907",
+        "https://openalex.org/W2487832214",
+        "https://openalex.org/W2489865376",
+        "https://openalex.org/W2499487677",
+        "https://openalex.org/W2501995168",
+        "https://openalex.org/W2506026029",
+        "https://openalex.org/W2735849813",
+        "https://openalex.org/W2773593261",
+        "https://openalex.org/W2898663280",
+        "https://openalex.org/W2935844646",
+        "https://openalex.org/W2969885439",
+        "https://openalex.org/W2972712311",
+        "https://openalex.org/W2978908610",
+        "https://openalex.org/W2993383518",
+        "https://openalex.org/W3003609122",
+        "https://openalex.org/W3005188473",
+        "https://openalex.org/W3005899929",
+        "https://openalex.org/W3099985166",
+        "https://openalex.org/W3107598910",
+        "https://openalex.org/W3108441448",
+        "https://openalex.org/W3128690923",
+        "https://openalex.org/W3138514805",
+        "https://openalex.org/W4207052600",
+        "https://openalex.org/W4234438384",
+        "https://openalex.org/W4234608400",
+        "https://openalex.org/W4235187224",
+        "https://openalex.org/W4237528521",
+        "https://openalex.org/W4237797147",
+        "https://openalex.org/W4239205364",
+        "https://openalex.org/W4241819366",
+        "https://openalex.org/W4242234769",
+        "https://openalex.org/W4243033676",
+        "https://openalex.org/W4245961435",
+        "https://openalex.org/W4249609481",
+        "https://openalex.org/W4255668062",
+        "https://openalex.org/W4256666539",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4290457325",
+        "https://openalex.org/W4293087366",
+        "https://openalex.org/W4294156726",
+        "https://openalex.org/W4298378816",
+        "https://openalex.org/W4298382214",
+        "https://openalex.org/W6600599958",
+        "https://openalex.org/W6604635239",
+        "https://openalex.org/W6615978131",
+        "https://openalex.org/W6623001870",
+        "https://openalex.org/W6633087972",
+        "https://openalex.org/W6635503274",
+        "https://openalex.org/W6641090994",
+        "https://openalex.org/W6648982606",
+        "https://openalex.org/W6654141546",
+        "https://openalex.org/W6721587232",
+        "https://openalex.org/W6722369160",
+        "https://openalex.org/W6792538889",
+        "https://openalex.org/W6806184617",
+        "https://openalex.org/W7019603165",
+        "https://openalex.org/W7066987989",
+        "https://openalex.org/W7073530067"
+      ],
+      "related_works": [
+        "https://openalex.org/W2372858185",
+        "https://openalex.org/W2354070906",
+        "https://openalex.org/W2357922944",
+        "https://openalex.org/W4385744883",
+        "https://openalex.org/W2357723982",
+        "https://openalex.org/W4385780828",
+        "https://openalex.org/W2373137165",
+        "https://openalex.org/W3158111371",
+        "https://openalex.org/W2490398327",
+        "https://openalex.org/W2369219372"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1022445783",
+      "doi": "https://doi.org/10.1007/978-3-319-00927-8_9",
+      "title": "Reconceptualizing Instructional Message Design: Toward the Development of a New Guiding Framework",
+      "display_name": "Reconceptualizing Instructional Message Design: Toward the Development of a New Guiding Framework",
+      "publication_year": 2013,
+      "publication_date": "2013-08-07",
+      "ids": {
+        "openalex": "https://openalex.org/W1022445783",
+        "doi": "https://doi.org/10.1007/978-3-319-00927-8_9",
+        "mag": "1022445783"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-319-00927-8_9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-319-00927-8_9",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Design in Educational Technology",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5112620137",
+            "display_name": "M. J. Bishop",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I186143895",
+              "display_name": "Lehigh University",
+              "ror": "https://ror.org/012afjb06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I186143895"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "M. J. Bishop",
+          "raw_affiliation_strings": [
+            "Lehigh University, Bethlehem, PA, 18015, USA",
+            "Lehigh University,  Bethlehem, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Lehigh University, Bethlehem, PA, 18015, USA",
+              "institution_ids": [
+                "https://openalex.org/I186143895"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Lehigh University,  Bethlehem, USA",
+              "institution_ids": [
+                "https://openalex.org/I186143895"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5112620137"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I186143895"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.4283,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.92929646,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "143",
+        "last_page": "159"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11516",
+        "display_name": "Visual and Cognitive Learning Processes",
+        "score": 0.9959999918937683,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11516",
+          "display_name": "Visual and Cognitive Learning Processes",
+          "score": 0.9959999918937683,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10162",
+          "display_name": "Online and Blended Learning",
+          "score": 0.9641000032424927,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10636",
+          "display_name": "Innovative Teaching and Learning Methods",
+          "score": 0.9639999866485596,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3204",
+            "display_name": "Developmental and Educational Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/psychomotor-learning",
+          "display_name": "Psychomotor learning",
+          "score": 0.5912598371505737
+        },
+        {
+          "id": "https://openalex.org/keywords/presentation",
+          "display_name": "Presentation (obstetrics)",
+          "score": 0.5815061330795288
+        },
+        {
+          "id": "https://openalex.org/keywords/instructional-design",
+          "display_name": "Instructional design",
+          "score": 0.5662431716918945
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.5371955037117004
+        },
+        {
+          "id": "https://openalex.org/keywords/point",
+          "display_name": "Point (geometry)",
+          "score": 0.5030249953269958
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics-education",
+          "display_name": "Mathematics education",
+          "score": 0.47817593812942505
+        },
+        {
+          "id": "https://openalex.org/keywords/accreditation",
+          "display_name": "Accreditation",
+          "score": 0.47367602586746216
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4668835699558258
+        },
+        {
+          "id": "https://openalex.org/keywords/process",
+          "display_name": "Process (computing)",
+          "score": 0.442507803440094
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.4297434687614441
+        },
+        {
+          "id": "https://openalex.org/keywords/pedagogy",
+          "display_name": "Pedagogy",
+          "score": 0.4231570065021515
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3868476152420044
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.3580770492553711
+        },
+        {
+          "id": "https://openalex.org/keywords/multimedia",
+          "display_name": "Multimedia",
+          "score": 0.3406914472579956
+        },
+        {
+          "id": "https://openalex.org/keywords/medical-education",
+          "display_name": "Medical education",
+          "score": 0.12405011057853699
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.07395678758621216
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C164953862",
+          "wikidata": "https://www.wikidata.org/wiki/Q7256440",
+          "display_name": "Psychomotor learning",
+          "level": 3,
+          "score": 0.5912598371505737
+        },
+        {
+          "id": "https://openalex.org/C2777601897",
+          "wikidata": "https://www.wikidata.org/wiki/Q3409113",
+          "display_name": "Presentation (obstetrics)",
+          "level": 2,
+          "score": 0.5815061330795288
+        },
+        {
+          "id": "https://openalex.org/C159456220",
+          "wikidata": "https://www.wikidata.org/wiki/Q667334",
+          "display_name": "Instructional design",
+          "level": 2,
+          "score": 0.5662431716918945
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.5371955037117004
+        },
+        {
+          "id": "https://openalex.org/C28719098",
+          "wikidata": "https://www.wikidata.org/wiki/Q44946",
+          "display_name": "Point (geometry)",
+          "level": 2,
+          "score": 0.5030249953269958
+        },
+        {
+          "id": "https://openalex.org/C145420912",
+          "wikidata": "https://www.wikidata.org/wiki/Q853077",
+          "display_name": "Mathematics education",
+          "level": 1,
+          "score": 0.47817593812942505
+        },
+        {
+          "id": "https://openalex.org/C61521584",
+          "wikidata": "https://www.wikidata.org/wiki/Q705899",
+          "display_name": "Accreditation",
+          "level": 2,
+          "score": 0.47367602586746216
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4668835699558258
+        },
+        {
+          "id": "https://openalex.org/C98045186",
+          "wikidata": "https://www.wikidata.org/wiki/Q205663",
+          "display_name": "Process (computing)",
+          "level": 2,
+          "score": 0.442507803440094
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.4297434687614441
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.4231570065021515
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3868476152420044
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.3580770492553711
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.3406914472579956
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.12405011057853699
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.07395678758621216
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C2524010",
+          "wikidata": "https://www.wikidata.org/wiki/Q8087",
+          "display_name": "Geometry",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C126838900",
+          "wikidata": "https://www.wikidata.org/wiki/Q77604",
+          "display_name": "Radiology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-319-00927-8_9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-319-00927-8_9",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Design in Educational Technology",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 140,
+      "referenced_works": [
+        "https://openalex.org/W17437286",
+        "https://openalex.org/W26919075",
+        "https://openalex.org/W41683454",
+        "https://openalex.org/W75270429",
+        "https://openalex.org/W96307735",
+        "https://openalex.org/W123423841",
+        "https://openalex.org/W197999406",
+        "https://openalex.org/W201552680",
+        "https://openalex.org/W238626781",
+        "https://openalex.org/W261216752",
+        "https://openalex.org/W267267547",
+        "https://openalex.org/W320875191",
+        "https://openalex.org/W357519574",
+        "https://openalex.org/W562051535",
+        "https://openalex.org/W611090116",
+        "https://openalex.org/W612249010",
+        "https://openalex.org/W651444292",
+        "https://openalex.org/W656211683",
+        "https://openalex.org/W801784683",
+        "https://openalex.org/W1480358052",
+        "https://openalex.org/W1489474868",
+        "https://openalex.org/W1493910332",
+        "https://openalex.org/W1522356730",
+        "https://openalex.org/W1530579895",
+        "https://openalex.org/W1535927496",
+        "https://openalex.org/W1546500332",
+        "https://openalex.org/W1551683416",
+        "https://openalex.org/W1562354573",
+        "https://openalex.org/W1563398057",
+        "https://openalex.org/W1575304580",
+        "https://openalex.org/W1581907134",
+        "https://openalex.org/W1587079164",
+        "https://openalex.org/W1589303317",
+        "https://openalex.org/W1593960230",
+        "https://openalex.org/W1602376929",
+        "https://openalex.org/W1660123436",
+        "https://openalex.org/W1684415682",
+        "https://openalex.org/W1763311249",
+        "https://openalex.org/W1876191121",
+        "https://openalex.org/W1878893887",
+        "https://openalex.org/W1941831427",
+        "https://openalex.org/W1971568690",
+        "https://openalex.org/W1974975426",
+        "https://openalex.org/W1983774743",
+        "https://openalex.org/W1983943359",
+        "https://openalex.org/W1991223298",
+        "https://openalex.org/W1994626640",
+        "https://openalex.org/W1997387040",
+        "https://openalex.org/W1999621429",
+        "https://openalex.org/W2000885037",
+        "https://openalex.org/W2005528162",
+        "https://openalex.org/W2006053928",
+        "https://openalex.org/W2015900931",
+        "https://openalex.org/W2025028440",
+        "https://openalex.org/W2029889006",
+        "https://openalex.org/W2037315820",
+        "https://openalex.org/W2039932197",
+        "https://openalex.org/W2041404167",
+        "https://openalex.org/W2043030203",
+        "https://openalex.org/W2046036800",
+        "https://openalex.org/W2068920273",
+        "https://openalex.org/W2069736034",
+        "https://openalex.org/W2071493760",
+        "https://openalex.org/W2072026461",
+        "https://openalex.org/W2076053538",
+        "https://openalex.org/W2077428897",
+        "https://openalex.org/W2085977531",
+        "https://openalex.org/W2089636244",
+        "https://openalex.org/W2112015107",
+        "https://openalex.org/W2123357802",
+        "https://openalex.org/W2125259774",
+        "https://openalex.org/W2125578959",
+        "https://openalex.org/W2132522013",
+        "https://openalex.org/W2133522142",
+        "https://openalex.org/W2139252049",
+        "https://openalex.org/W2160288750",
+        "https://openalex.org/W2160490388",
+        "https://openalex.org/W2167992133",
+        "https://openalex.org/W2168139785",
+        "https://openalex.org/W2179748847",
+        "https://openalex.org/W2185027734",
+        "https://openalex.org/W2220588559",
+        "https://openalex.org/W2222760842",
+        "https://openalex.org/W2232925767",
+        "https://openalex.org/W2263140872",
+        "https://openalex.org/W2290526371",
+        "https://openalex.org/W2328636748",
+        "https://openalex.org/W2334016893",
+        "https://openalex.org/W2337068785",
+        "https://openalex.org/W2479056937",
+        "https://openalex.org/W2482792125",
+        "https://openalex.org/W2484805907",
+        "https://openalex.org/W2499487677",
+        "https://openalex.org/W2506026029",
+        "https://openalex.org/W2506478812",
+        "https://openalex.org/W2577963278",
+        "https://openalex.org/W2797491608",
+        "https://openalex.org/W2802331182",
+        "https://openalex.org/W2898663280",
+        "https://openalex.org/W2935844646",
+        "https://openalex.org/W2993383518",
+        "https://openalex.org/W3003609122",
+        "https://openalex.org/W3005188473",
+        "https://openalex.org/W3099985166",
+        "https://openalex.org/W3107598910",
+        "https://openalex.org/W3108441448",
+        "https://openalex.org/W3128690923",
+        "https://openalex.org/W3138514805",
+        "https://openalex.org/W3169784426",
+        "https://openalex.org/W3208413131",
+        "https://openalex.org/W4210530542",
+        "https://openalex.org/W4210731433",
+        "https://openalex.org/W4235187224",
+        "https://openalex.org/W4239205364",
+        "https://openalex.org/W4240510453",
+        "https://openalex.org/W4242159739",
+        "https://openalex.org/W4251649666",
+        "https://openalex.org/W4252707511",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4293087366",
+        "https://openalex.org/W4294156726",
+        "https://openalex.org/W4297683890",
+        "https://openalex.org/W6623001870",
+        "https://openalex.org/W6633087972",
+        "https://openalex.org/W6648982606",
+        "https://openalex.org/W6649566013",
+        "https://openalex.org/W6667618993",
+        "https://openalex.org/W6667890209",
+        "https://openalex.org/W6672109379",
+        "https://openalex.org/W6684824642",
+        "https://openalex.org/W6688539128",
+        "https://openalex.org/W6741195895",
+        "https://openalex.org/W6792538889",
+        "https://openalex.org/W6806184617",
+        "https://openalex.org/W6842966455",
+        "https://openalex.org/W7007963311",
+        "https://openalex.org/W7034346168",
+        "https://openalex.org/W7065010113",
+        "https://openalex.org/W7073530067",
+        "https://openalex.org/W7075336021"
+      ],
+      "related_works": [
+        "https://openalex.org/W2007960770",
+        "https://openalex.org/W2476517534",
+        "https://openalex.org/W2183187020",
+        "https://openalex.org/W2137540720",
+        "https://openalex.org/W2509459056",
+        "https://openalex.org/W2371811190",
+        "https://openalex.org/W4385407997",
+        "https://openalex.org/W2252873749",
+        "https://openalex.org/W2322909062",
+        "https://openalex.org/W2997485468"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2495452823",
+      "doi": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+      "title": "Thinking More Dynamically about Using Sound to Enhance Learning from Instructional Technologies",
+      "display_name": "Thinking More Dynamically about Using Sound to Enhance Learning from Instructional Technologies",
+      "publication_year": 2014,
+      "publication_date": "2014-05-02",
+      "ids": {
+        "openalex": "https://openalex.org/W2495452823",
+        "doi": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+        "mag": "2495452823"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1093/oxfordhb/9780199797226.013.004",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463708",
+          "display_name": "Oxford University Press eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310311648",
+          "host_organization_name": "Oxford University Press",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310311648",
+            "https://openalex.org/P4310311647"
+          ],
+          "host_organization_lineage_names": [
+            "Oxford University Press",
+            "University of Oxford"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The Oxford Handbook of Interactive Audio",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036163493",
+            "display_name": "Karen A. Collins",
+            "orcid": "https://orcid.org/0000-0001-6588-9574"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Karen Collins",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086060956",
+            "display_name": "Bill Kapralos",
+            "orcid": "https://orcid.org/0000-0003-0434-3847"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Bill Kapralos",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080989841",
+            "display_name": "Holly Tessler",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Holly Tessler",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112620137",
+            "display_name": "M. J. Bishop",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M.J. Bishop",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6564,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.81981348,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11516",
+        "display_name": "Visual and Cognitive Learning Processes",
+        "score": 0.9952999949455261,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11516",
+          "display_name": "Visual and Cognitive Learning Processes",
+          "score": 0.9952999949455261,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10072",
+          "display_name": "Science Education and Pedagogy",
+          "score": 0.9607999920845032,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3304",
+            "display_name": "Education"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13106",
+          "display_name": "Neuroscience, Education and Cognitive Function",
+          "score": 0.9606999754905701,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/sound",
+          "display_name": "Sound (geography)",
+          "score": 0.6600703001022339
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.48751136660575867
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.40298348665237427
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.3731048107147217
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.17859309911727905
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.08837300539016724
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C203718221",
+          "wikidata": "https://www.wikidata.org/wiki/Q491713",
+          "display_name": "Sound (geography)",
+          "level": 2,
+          "score": 0.6600703001022339
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.48751136660575867
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.40298348665237427
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3731048107147217
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.17859309911727905
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.08837300539016724
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1093/oxfordhb/9780199797226.013.004",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1093/oxfordhb/9780199797226.013.004",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463708",
+            "display_name": "Oxford University Press eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310311648",
+            "host_organization_name": "Oxford University Press",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310311648",
+              "https://openalex.org/P4310311647"
+            ],
+            "host_organization_lineage_names": [
+              "Oxford University Press",
+              "University of Oxford"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The Oxford Handbook of Interactive Audio",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Quality Education",
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 71,
+      "referenced_works": [
+        "https://openalex.org/W14809360",
+        "https://openalex.org/W26919075",
+        "https://openalex.org/W48809960",
+        "https://openalex.org/W63464001",
+        "https://openalex.org/W93789812",
+        "https://openalex.org/W115490372",
+        "https://openalex.org/W201552680",
+        "https://openalex.org/W232971164",
+        "https://openalex.org/W350622886",
+        "https://openalex.org/W567036164",
+        "https://openalex.org/W605263502",
+        "https://openalex.org/W612249010",
+        "https://openalex.org/W801784683",
+        "https://openalex.org/W1483155202",
+        "https://openalex.org/W1492445020",
+        "https://openalex.org/W1494287956",
+        "https://openalex.org/W1502981793",
+        "https://openalex.org/W1503480250",
+        "https://openalex.org/W1519522181",
+        "https://openalex.org/W1522392524",
+        "https://openalex.org/W1525490064",
+        "https://openalex.org/W1535927496",
+        "https://openalex.org/W1571144263",
+        "https://openalex.org/W1577674843",
+        "https://openalex.org/W1582639432",
+        "https://openalex.org/W1591261088",
+        "https://openalex.org/W1597739853",
+        "https://openalex.org/W1602376929",
+        "https://openalex.org/W1674066309",
+        "https://openalex.org/W1773016195",
+        "https://openalex.org/W1814179671",
+        "https://openalex.org/W1866954957",
+        "https://openalex.org/W1878893887",
+        "https://openalex.org/W1964538581",
+        "https://openalex.org/W1984314602",
+        "https://openalex.org/W1987072627",
+        "https://openalex.org/W1989474673",
+        "https://openalex.org/W1991223298",
+        "https://openalex.org/W2013020033",
+        "https://openalex.org/W2015347343",
+        "https://openalex.org/W2024762857",
+        "https://openalex.org/W2039537833",
+        "https://openalex.org/W2043896420",
+        "https://openalex.org/W2046036800",
+        "https://openalex.org/W2053915626",
+        "https://openalex.org/W2066052452",
+        "https://openalex.org/W2066785847",
+        "https://openalex.org/W2071493760",
+        "https://openalex.org/W2074091975",
+        "https://openalex.org/W2088974767",
+        "https://openalex.org/W2100254477",
+        "https://openalex.org/W2117342357",
+        "https://openalex.org/W2126153334",
+        "https://openalex.org/W2143560158",
+        "https://openalex.org/W2149095485",
+        "https://openalex.org/W2158232862",
+        "https://openalex.org/W2168139785",
+        "https://openalex.org/W2171301064",
+        "https://openalex.org/W2185027734",
+        "https://openalex.org/W2232925767",
+        "https://openalex.org/W2324956377",
+        "https://openalex.org/W2478203769",
+        "https://openalex.org/W2480380069",
+        "https://openalex.org/W2482792125",
+        "https://openalex.org/W2485752924",
+        "https://openalex.org/W2980912855",
+        "https://openalex.org/W2993383518",
+        "https://openalex.org/W3041214984",
+        "https://openalex.org/W3099985166",
+        "https://openalex.org/W3128690923",
+        "https://openalex.org/W4285719527"
+      ],
+      "related_works": [
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2909726438",
+        "https://openalex.org/W2382290278",
+        "https://openalex.org/W2350741829",
+        "https://openalex.org/W2130043461",
+        "https://openalex.org/W2530322880"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-06-11T09:08:48.828518",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}
