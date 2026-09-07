@@ -1,0 +1,5462 @@
+{
+  "meta": {
+    "count": 9,
+    "db_response_time_ms": 14,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W2727197871)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W2727197871"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W2727197871&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4319313508",
+      "doi": "https://doi.org/10.4018/978-1-6684-6234-8.ch009",
+      "title": "Chatbots for Business and Customer Support",
+      "display_name": "Chatbots for Business and Customer Support",
+      "publication_year": 2023,
+      "publication_date": "2023-02-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4319313508",
+        "doi": "https://doi.org/10.4018/978-1-6684-6234-8.ch009"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.4018/978-1-6684-6234-8.ch009",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4018/978-1-6684-6234-8.ch009",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170953",
+          "display_name": "Advances in web technologies and engineering book series",
+          "issn_l": "2328-2754",
+          "issn": [
+            "2328-2754",
+            "2328-2762"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Web Technologies and Engineering",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101696585",
+            "display_name": "Syed Jawad Hussain Shah",
+            "orcid": "https://orcid.org/0000-0002-7181-2079"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I75421653",
+              "display_name": "University of Missouri–Kansas City",
+              "ror": "https://ror.org/01w0d5g70",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I75421653"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Syed Jawad Hussain Shah",
+          "raw_affiliation_strings": [
+            "University of Missouri-Kansas City, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Missouri-Kansas City, USA",
+              "institution_ids": [
+                "https://openalex.org/I75421653"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5101696585"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I75421653"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.5489,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.95206862,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "212",
+        "last_page": "221"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9987999796867371,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11114",
+          "display_name": "Service and Product Innovation",
+          "score": 0.9682000279426575,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1406",
+            "display_name": "Marketing"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10270",
+          "display_name": "Blockchain Technology Applications and Security",
+          "score": 0.9632999897003174,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/customer-service",
+          "display_name": "Customer service",
+          "score": 0.6175684928894043
+        },
+        {
+          "id": "https://openalex.org/keywords/component",
+          "display_name": "Component (thermodynamics)",
+          "score": 0.5291236639022827
+        },
+        {
+          "id": "https://openalex.org/keywords/function",
+          "display_name": "Function (biology)",
+          "score": 0.518409252166748
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.47250616550445557
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4668349027633667
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.4646344482898712
+        },
+        {
+          "id": "https://openalex.org/keywords/customer-engagement",
+          "display_name": "Customer engagement",
+          "score": 0.4632284641265869
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.4371614456176758
+        },
+        {
+          "id": "https://openalex.org/keywords/customer-advocacy",
+          "display_name": "Customer advocacy",
+          "score": 0.4190520942211151
+        },
+        {
+          "id": "https://openalex.org/keywords/front-line",
+          "display_name": "Front line",
+          "score": 0.41072559356689453
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.410102516412735
+        },
+        {
+          "id": "https://openalex.org/keywords/process-management",
+          "display_name": "Process management",
+          "score": 0.38643282651901245
+        },
+        {
+          "id": "https://openalex.org/keywords/marketing",
+          "display_name": "Marketing",
+          "score": 0.35979217290878296
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.27119553089141846
+        },
+        {
+          "id": "https://openalex.org/keywords/service-quality",
+          "display_name": "Service quality",
+          "score": 0.14591005444526672
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.07798543572425842
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2984334869",
+          "wikidata": "https://www.wikidata.org/wiki/Q1060653",
+          "display_name": "Customer service",
+          "level": 3,
+          "score": 0.6175684928894043
+        },
+        {
+          "id": "https://openalex.org/C168167062",
+          "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+          "display_name": "Component (thermodynamics)",
+          "level": 2,
+          "score": 0.5291236639022827
+        },
+        {
+          "id": "https://openalex.org/C14036430",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+          "display_name": "Function (biology)",
+          "level": 2,
+          "score": 0.518409252166748
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.47250616550445557
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4668349027633667
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.4646344482898712
+        },
+        {
+          "id": "https://openalex.org/C2776915394",
+          "wikidata": "https://www.wikidata.org/wiki/Q5196451",
+          "display_name": "Customer engagement",
+          "level": 3,
+          "score": 0.4632284641265869
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.4371614456176758
+        },
+        {
+          "id": "https://openalex.org/C31367271",
+          "wikidata": "https://www.wikidata.org/wiki/Q5196444",
+          "display_name": "Customer advocacy",
+          "level": 4,
+          "score": 0.4190520942211151
+        },
+        {
+          "id": "https://openalex.org/C2781403576",
+          "wikidata": "https://www.wikidata.org/wiki/Q4384456",
+          "display_name": "Front line",
+          "level": 2,
+          "score": 0.41072559356689453
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.410102516412735
+        },
+        {
+          "id": "https://openalex.org/C195094911",
+          "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+          "display_name": "Process management",
+          "level": 1,
+          "score": 0.38643282651901245
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.35979217290878296
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.27119553089141846
+        },
+        {
+          "id": "https://openalex.org/C140781008",
+          "wikidata": "https://www.wikidata.org/wiki/Q1221081",
+          "display_name": "Service quality",
+          "level": 3,
+          "score": 0.14591005444526672
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.07798543572425842
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C78458016",
+          "wikidata": "https://www.wikidata.org/wiki/Q840400",
+          "display_name": "Evolutionary biology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C518677369",
+          "wikidata": "https://www.wikidata.org/wiki/Q202833",
+          "display_name": "Social media",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/978-1-6684-6234-8.ch009",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4018/978-1-6684-6234-8.ch009",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210170953",
+            "display_name": "Advances in web technologies and engineering book series",
+            "issn_l": "2328-2754",
+            "issn": [
+              "2328-2754",
+              "2328-2762"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in Web Technologies and Engineering",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 18,
+      "referenced_works": [
+        "https://openalex.org/W1604924259",
+        "https://openalex.org/W1969637771",
+        "https://openalex.org/W2272282398",
+        "https://openalex.org/W2474421515",
+        "https://openalex.org/W2611049140",
+        "https://openalex.org/W2622863697",
+        "https://openalex.org/W2693814137",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2741321799",
+        "https://openalex.org/W2790671462",
+        "https://openalex.org/W2801029758",
+        "https://openalex.org/W2967106178",
+        "https://openalex.org/W2974124990",
+        "https://openalex.org/W2999294792",
+        "https://openalex.org/W3180754297",
+        "https://openalex.org/W3207535763",
+        "https://openalex.org/W4205127083",
+        "https://openalex.org/W4303981344"
+      ],
+      "related_works": [
+        "https://openalex.org/W2999235842",
+        "https://openalex.org/W4317348442",
+        "https://openalex.org/W2900821314",
+        "https://openalex.org/W3127746600",
+        "https://openalex.org/W2865970941",
+        "https://openalex.org/W4388796708",
+        "https://openalex.org/W4237541419",
+        "https://openalex.org/W4281662801",
+        "https://openalex.org/W4390971003",
+        "https://openalex.org/W2753140789"
+      ],
+      "abstract_inverted_index": {
+        "Artificial": [
+          0
+        ],
+        "intelligence": [
+          1
+        ],
+        "(AI)-driven": [
+          2
+        ],
+        "chatbots": [
+          3,
+          53
+        ],
+        "have": [
+          4,
+          23
+        ],
+        "established": [
+          5
+        ],
+        "themselves": [
+          6
+        ],
+        "as": [
+          7,
+          54
+        ],
+        "standard": [
+          8
+        ],
+        "front-line": [
+          9
+        ],
+        "solutions": [
+          10
+        ],
+        "for": [
+          11
+        ],
+        "companies": [
+          12
+        ],
+        "looking": [
+          13
+        ],
+        "to": [
+          14,
+          42,
+          65
+        ],
+        "update": [
+          15
+        ],
+        "consumer": [
+          16
+        ],
+        "experiences": [
+          17
+        ],
+        "while": [
+          18
+        ],
+        "maximizing": [
+          19
+        ],
+        "client": [
+          20
+        ],
+        "engagement.": [
+          21
+        ],
+        "Chatbots": [
+          22
+        ],
+        "become": [
+          24
+        ],
+        "a": [
+          25,
+          29,
+          71
+        ],
+        "crucial": [
+          26
+        ],
+        "component": [
+          27
+        ],
+        "of": [
+          28,
+          34,
+          52,
+          60,
+          73
+        ],
+        "company's": [
+          30
+        ],
+        "customer-centric": [
+          31
+        ],
+        "operations": [
+          32
+        ],
+        "because": [
+          33
+        ],
+        "their": [
+          35
+        ],
+        "fast": [
+          36
+        ],
+        "replies,": [
+          37
+        ],
+        "round-the-clock": [
+          38
+        ],
+        "assistance,": [
+          39
+        ],
+        "and": [
+          40,
+          58
+        ],
+        "ability": [
+          41
+        ],
+        "comprehend": [
+          43
+        ],
+        "user": [
+          44
+        ],
+        "inquiries.": [
+          45
+        ],
+        "This": [
+          46
+        ],
+        "chapter": [
+          47
+        ],
+        "will": [
+          48,
+          68
+        ],
+        "describe": [
+          49
+        ],
+        "the": [
+          50,
+          61,
+          74,
+          78
+        ],
+        "function": [
+          51
+        ],
+        "customer": [
+          55
+        ],
+        "service": [
+          56
+        ],
+        "representatives": [
+          57
+        ],
+        "some": [
+          59
+        ],
+        "benefits": [
+          62
+        ],
+        "they": [
+          63
+        ],
+        "offer": [
+          64
+        ],
+        "organizations.": [
+          66
+        ],
+        "There": [
+          67
+        ],
+        "also": [
+          69
+        ],
+        "be": [
+          70
+        ],
+        "discussion": [
+          72
+        ],
+        "present": [
+          75
+        ],
+        "difficulties": [
+          76
+        ],
+        "facing": [
+          77
+        ],
+        "industry": [
+          79
+        ],
+        "in": [
+          80
+        ],
+        "integrating": [
+          81
+        ],
+        "these": [
+          82
+        ],
+        "conversational": [
+          83
+        ],
+        "bots.": [
+          84
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3095388499",
+      "doi": "https://doi.org/10.1145/3419249.3420170",
+      "title": "Tell Me More: Transparency and Time-Fillers to Optimize Chatbots’ Waiting Time Experience",
+      "display_name": "Tell Me More: Transparency and Time-Fillers to Optimize Chatbots’ Waiting Time Experience",
+      "publication_year": 2020,
+      "publication_date": "2020-10-25",
+      "ids": {
+        "openalex": "https://openalex.org/W3095388499",
+        "doi": "https://doi.org/10.1145/3419249.3420170",
+        "mag": "3095388499"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3419249.3420170",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3419249.3420170",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5082850934",
+            "display_name": "Philipp Wintersberger",
+            "orcid": "https://orcid.org/0000-0001-9287-3770"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106192",
+              "display_name": "Technische Hochschule Ingolstadt",
+              "ror": "https://ror.org/02bxzcy64",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Philipp Wintersberger",
+          "raw_affiliation_strings": [
+            "Technische Hochschule Ingolstadt, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Technische Hochschule Ingolstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056807177",
+            "display_name": "Tobias Klotz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801237587",
+              "display_name": "London Centre for Nanotechnology",
+              "ror": "https://ror.org/04ptp8872",
+              "country_code": "GB",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2801237587"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I45129253",
+              "display_name": "University College London",
+              "ror": "https://ror.org/02jx3x895",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tobias Klotz",
+          "raw_affiliation_strings": [
+            "UCL Interaction Centre University College London, United Kingdom"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UCL Interaction Centre University College London, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I2801237587",
+                "https://openalex.org/I45129253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5087073329",
+            "display_name": "Andreas Riener",
+            "orcid": "https://orcid.org/0000-0002-9174-8895"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106192",
+              "display_name": "Technische Hochschule Ingolstadt",
+              "ror": "https://ror.org/02bxzcy64",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andreas Riener",
+          "raw_affiliation_strings": [
+            "Technische Hochschule Ingolstadt, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Technische Hochschule Ingolstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.2646,
+      "has_fulltext": false,
+      "cited_by_count": 21,
+      "citation_normalized_percentile": {
+        "value": 0.84015898,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "6"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10709",
+          "display_name": "Social Robot Interaction and HRI",
+          "score": 0.9878000020980835,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10609",
+          "display_name": "Digital Marketing and Social Media",
+          "score": 0.964900016784668,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/handover",
+          "display_name": "Handover",
+          "score": 0.7647073268890381
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.698540985584259
+        },
+        {
+          "id": "https://openalex.org/keywords/transparency",
+          "display_name": "Transparency (behavior)",
+          "score": 0.6358151435852051
+        },
+        {
+          "id": "https://openalex.org/keywords/queue",
+          "display_name": "Queue",
+          "score": 0.615810751914978
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6078211665153503
+        },
+        {
+          "id": "https://openalex.org/keywords/customer-satisfaction",
+          "display_name": "Customer satisfaction",
+          "score": 0.5527452826499939
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.5319832563400269
+        },
+        {
+          "id": "https://openalex.org/keywords/customer-service",
+          "display_name": "Customer service",
+          "score": 0.49406054615974426
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.25234663486480713
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-network",
+          "display_name": "Computer network",
+          "score": 0.23503345251083374
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.17359966039657593
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-security",
+          "display_name": "Computer security",
+          "score": 0.14038246870040894
+        },
+        {
+          "id": "https://openalex.org/keywords/marketing",
+          "display_name": "Marketing",
+          "score": 0.10539451241493225
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C111852164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1414679",
+          "display_name": "Handover",
+          "level": 2,
+          "score": 0.7647073268890381
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.698540985584259
+        },
+        {
+          "id": "https://openalex.org/C2780233690",
+          "wikidata": "https://www.wikidata.org/wiki/Q535347",
+          "display_name": "Transparency (behavior)",
+          "level": 2,
+          "score": 0.6358151435852051
+        },
+        {
+          "id": "https://openalex.org/C160403385",
+          "wikidata": "https://www.wikidata.org/wiki/Q220543",
+          "display_name": "Queue",
+          "level": 2,
+          "score": 0.615810751914978
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6078211665153503
+        },
+        {
+          "id": "https://openalex.org/C191511416",
+          "wikidata": "https://www.wikidata.org/wiki/Q999278",
+          "display_name": "Customer satisfaction",
+          "level": 2,
+          "score": 0.5527452826499939
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.5319832563400269
+        },
+        {
+          "id": "https://openalex.org/C2984334869",
+          "wikidata": "https://www.wikidata.org/wiki/Q1060653",
+          "display_name": "Customer service",
+          "level": 3,
+          "score": 0.49406054615974426
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.25234663486480713
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.23503345251083374
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.17359966039657593
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.14038246870040894
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.10539451241493225
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3419249.3420170",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/3419249.3420170",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the 11th Nordic Conference on Human-Computer Interaction: Shaping Experiences, Shaping Society",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 44,
+      "referenced_works": [
+        "https://openalex.org/W1590240496",
+        "https://openalex.org/W1962760078",
+        "https://openalex.org/W1969303997",
+        "https://openalex.org/W1975169499",
+        "https://openalex.org/W1987970830",
+        "https://openalex.org/W2005738369",
+        "https://openalex.org/W2014375476",
+        "https://openalex.org/W2068238818",
+        "https://openalex.org/W2072539406",
+        "https://openalex.org/W2076403127",
+        "https://openalex.org/W2079466254",
+        "https://openalex.org/W2081849995",
+        "https://openalex.org/W2086557948",
+        "https://openalex.org/W2109475526",
+        "https://openalex.org/W2136844682",
+        "https://openalex.org/W2141186088",
+        "https://openalex.org/W2148905283",
+        "https://openalex.org/W2152815552",
+        "https://openalex.org/W2156611338",
+        "https://openalex.org/W2320101545",
+        "https://openalex.org/W2416150492",
+        "https://openalex.org/W2523602859",
+        "https://openalex.org/W2606636926",
+        "https://openalex.org/W2611049140",
+        "https://openalex.org/W2611722641",
+        "https://openalex.org/W2635153012",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2762027250",
+        "https://openalex.org/W2763074088",
+        "https://openalex.org/W2765338544",
+        "https://openalex.org/W2773244891",
+        "https://openalex.org/W2795421580",
+        "https://openalex.org/W2808216081",
+        "https://openalex.org/W2893302768",
+        "https://openalex.org/W2894533043",
+        "https://openalex.org/W2919666372",
+        "https://openalex.org/W2941035428",
+        "https://openalex.org/W2941540847",
+        "https://openalex.org/W2942367614",
+        "https://openalex.org/W2942903049",
+        "https://openalex.org/W4236793338",
+        "https://openalex.org/W4239187549",
+        "https://openalex.org/W4239412360",
+        "https://openalex.org/W4292994367"
+      ],
+      "related_works": [
+        "https://openalex.org/W2999235842",
+        "https://openalex.org/W4317348442",
+        "https://openalex.org/W2900821314",
+        "https://openalex.org/W2865970941",
+        "https://openalex.org/W4388796708",
+        "https://openalex.org/W4237541419",
+        "https://openalex.org/W4281662801",
+        "https://openalex.org/W4390971003",
+        "https://openalex.org/W3023956633",
+        "https://openalex.org/W4385792285"
+      ],
+      "abstract_inverted_index": {
+        "In": [
+          0,
+          22,
+          59,
+          77,
+          143
+        ],
+        "customer-chatbot": [
+          1
+        ],
+        "conversations,": [
+          2
+        ],
+        "the": [
+          3,
+          15,
+          23,
+          57,
+          91
+        ],
+        "agents": [
+          4
+        ],
+        "regularly": [
+          5
+        ],
+        "come": [
+          6
+        ],
+        "to": [
+          7,
+          12,
+          17,
+          129,
+          133,
+          152
+        ],
+        "their": [
+          8
+        ],
+        "limit,": [
+          9
+        ],
+        "which": [
+          10
+        ],
+        "requires": [
+          11
+        ],
+        "hand": [
+          13
+        ],
+        "over": [
+          14
+        ],
+        "request": [
+          16
+        ],
+        "a": [
+          18,
+          66,
+          78,
+          102
+        ],
+        "human": [
+          19
+        ],
+        "service": [
+          20,
+          41,
+          47,
+          115
+        ],
+        "representative.": [
+          21
+        ],
+        "case": [
+          24
+        ],
+        "of": [
+          25,
+          56,
+          93
+        ],
+        "unmanaged": [
+          26
+        ],
+        "handovers,": [
+          27
+        ],
+        "customers": [
+          28
+        ],
+        "encounter": [
+          29
+        ],
+        "huge": [
+          30
+        ],
+        "uncertainty": [
+          31
+        ],
+        "while": [
+          32
+        ],
+        "waiting": [
+          33,
+          44,
+          113,
+          138,
+          150
+        ],
+        "and": [
+          34,
+          53,
+          96,
+          98,
+          122,
+          140
+        ],
+        "are": [
+          35
+        ],
+        "often": [
+          36
+        ],
+        "left": [
+          37
+        ],
+        "alone": [
+          38
+        ],
+        "with": [
+          39,
+          81,
+          101
+        ],
+        "unsatisfied": [
+          40
+        ],
+        "inquiries.": [
+          42
+        ],
+        "The": [
+          43
+        ],
+        "time": [
+          45,
+          94,
+          97,
+          139
+        ],
+        "(and": [
+          46
+        ],
+        "experience)": [
+          48
+        ],
+        "might": [
+          49,
+          146
+        ],
+        "result": [
+          50
+        ],
+        "in": [
+          51,
+          149
+        ],
+        "frustration": [
+          52
+        ],
+        "potential": [
+          54
+        ],
+        "loss": [
+          55
+        ],
+        "customer.": [
+          58
+        ],
+        "this": [
+          60
+        ],
+        "paper,": [
+          61
+        ],
+        "we": [
+          62,
+          84
+        ],
+        "discuss": [
+          63
+        ],
+        "results": [
+          64
+        ],
+        "from": [
+          65
+        ],
+        "study": [
+          67,
+          80
+        ],
+        "aimed": [
+          68
+        ],
+        "at": [
+          69
+        ],
+        "turning": [
+          70
+        ],
+        "chatbot": [
+          71
+        ],
+        "handover": [
+          72,
+          87,
+          104
+        ],
+        "routines": [
+          73
+        ],
+        "into": [
+          74
+        ],
+        "positive": [
+          75
+        ],
+        "experiences.": [
+          76
+        ],
+        "lab": [
+          79
+        ],
+        "(n=28)": [
+          82
+        ],
+        "participants,": [
+          83
+        ],
+        "compared": [
+          85
+        ],
+        "two": [
+          86
+        ],
+        "types": [
+          88
+        ],
+        "that": [
+          89,
+          125
+        ],
+        "utilized": [
+          90
+        ],
+        "concepts": [
+          92
+        ],
+        "fillers": [
+          95
+        ],
+        "queue": [
+          99,
+          141
+        ],
+        "information": [
+          100
+        ],
+        "baseline": [
+          103
+        ],
+        "without": [
+          105
+        ],
+        "such": [
+          106
+        ],
+        "countermeasures.": [
+          107
+        ],
+        "Our": [
+          108
+        ],
+        "results,": [
+          109
+        ],
+        "based": [
+          110
+        ],
+        "on": [
+          111
+        ],
+        "subjective": [
+          112
+        ],
+        "experience,": [
+          114
+        ],
+        "quality,": [
+          116
+        ],
+        "as": [
+          117,
+          119
+        ],
+        "well": [
+          118
+        ],
+        "user": [
+          120
+        ],
+        "experience": [
+          121
+        ],
+        "affect": [
+          123
+        ],
+        "confirm": [
+          124
+        ],
+        "digital": [
+          126
+        ],
+        "enterprises": [
+          127
+        ],
+        "have": [
+          128
+        ],
+        "provide": [
+          130
+        ],
+        "maximum": [
+          131
+        ],
+        "transparency": [
+          132
+        ],
+        "customers,": [
+          134
+        ],
+        "e.g.,": [
+          135
+        ],
+        "details": [
+          136
+        ],
+        "about": [
+          137
+        ],
+        "status.": [
+          142
+        ],
+        "addition,": [
+          144
+        ],
+        "they": [
+          145
+        ],
+        "use": [
+          147
+        ],
+        "“time-fillers’’": [
+          148
+        ],
+        "situations": [
+          151
+        ],
+        "further": [
+          153
+        ],
+        "improve": [
+          154
+        ],
+        "customer": [
+          155
+        ],
+        "satisfaction.": [
+          156
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-07-30T17:31:21.811387",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3041007838",
+      "doi": "https://doi.org/10.1007/978-3-030-50506-6_9",
+      "title": "A Conversational Agent as Facilitator: Guiding Groups Through Collaboration Processes",
+      "display_name": "A Conversational Agent as Facilitator: Guiding Groups Through Collaboration Processes",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3041007838",
+        "doi": "https://doi.org/10.1007/978-3-030-50506-6_9",
+        "mag": "3041007838"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-50506-6_9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-50506-6_9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106296714",
+          "display_name": "Lecture notes in computer science",
+          "issn_l": "0302-9743",
+          "issn": [
+            "0302-9743",
+            "1611-3349"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Computer Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5049866566",
+            "display_name": "Navid Tavanapour",
+            "orcid": "https://orcid.org/0000-0002-6787-0188"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Navid Tavanapour",
+          "raw_affiliation_strings": [
+            "University of Hamburg, Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hamburg, Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5056343285",
+            "display_name": "Daphne Theodorakopoulos",
+            "orcid": "https://orcid.org/0009-0008-0827-7449"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daphne Theodorakopoulos",
+          "raw_affiliation_strings": [
+            "University of Hamburg, Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hamburg, Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013096281",
+            "display_name": "Eva Bittner",
+            "orcid": "https://orcid.org/0000-0002-7628-6012"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eva A. C. Bittner",
+          "raw_affiliation_strings": [
+            "University of Hamburg, Hamburg, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Hamburg, Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5049866566"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I159176309"
+      ],
+      "apc_list": {
+        "value": 5000,
+        "currency": "EUR",
+        "value_usd": 5392
+      },
+      "apc_paid": null,
+      "fwci": 0.345,
+      "has_fulltext": false,
+      "cited_by_count": 12,
+      "citation_normalized_percentile": {
+        "value": 0.57382535,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "108",
+        "last_page": "129"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11024",
+          "display_name": "Information Systems Theories and Implementation",
+          "score": 0.9825000166893005,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10970",
+          "display_name": "Team Dynamics and Performance",
+          "score": 0.9814000129699707,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/facilitator",
+          "display_name": "Facilitator",
+          "score": 0.9612482786178589
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.8452568054199219
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.5884965658187866
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.39038845896720886
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.3298024535179138
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.06883472204208374
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776831358",
+          "wikidata": "https://www.wikidata.org/wiki/Q1150166",
+          "display_name": "Facilitator",
+          "level": 2,
+          "score": 0.9612482786178589
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.8452568054199219
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.5884965658187866
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.39038845896720886
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.3298024535179138
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.06883472204208374
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-50506-6_9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-50506-6_9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106296714",
+            "display_name": "Lecture notes in computer science",
+            "issn_l": "0302-9743",
+            "issn": [
+              "0302-9743",
+              "1611-3349"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lecture Notes in Computer Science",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 96,
+      "referenced_works": [
+        "https://openalex.org/W182605",
+        "https://openalex.org/W81610425",
+        "https://openalex.org/W160318044",
+        "https://openalex.org/W182831726",
+        "https://openalex.org/W195631117",
+        "https://openalex.org/W197441874",
+        "https://openalex.org/W561041422",
+        "https://openalex.org/W592716717",
+        "https://openalex.org/W1276866904",
+        "https://openalex.org/W1418763296",
+        "https://openalex.org/W1501419648",
+        "https://openalex.org/W1550251901",
+        "https://openalex.org/W1550605882",
+        "https://openalex.org/W1552845745",
+        "https://openalex.org/W1571152005",
+        "https://openalex.org/W1574142971",
+        "https://openalex.org/W1584556462",
+        "https://openalex.org/W1598198002",
+        "https://openalex.org/W1843043815",
+        "https://openalex.org/W1893918001",
+        "https://openalex.org/W1936883342",
+        "https://openalex.org/W1963935972",
+        "https://openalex.org/W1967311859",
+        "https://openalex.org/W1969569185",
+        "https://openalex.org/W1984037416",
+        "https://openalex.org/W1989739728",
+        "https://openalex.org/W1989844999",
+        "https://openalex.org/W1991015565",
+        "https://openalex.org/W1993481114",
+        "https://openalex.org/W1998453614",
+        "https://openalex.org/W2001829221",
+        "https://openalex.org/W2011834887",
+        "https://openalex.org/W2019130209",
+        "https://openalex.org/W2020471348",
+        "https://openalex.org/W2028773068",
+        "https://openalex.org/W2029591514",
+        "https://openalex.org/W2033834223",
+        "https://openalex.org/W2035145440",
+        "https://openalex.org/W2046676822",
+        "https://openalex.org/W2049662138",
+        "https://openalex.org/W2049692608",
+        "https://openalex.org/W2071219830",
+        "https://openalex.org/W2078469545",
+        "https://openalex.org/W2087431652",
+        "https://openalex.org/W2088568710",
+        "https://openalex.org/W2099521316",
+        "https://openalex.org/W2101165468",
+        "https://openalex.org/W2101900802",
+        "https://openalex.org/W2109279159",
+        "https://openalex.org/W2110710386",
+        "https://openalex.org/W2121640283",
+        "https://openalex.org/W2123285937",
+        "https://openalex.org/W2124566135",
+        "https://openalex.org/W2128602042",
+        "https://openalex.org/W2133928361",
+        "https://openalex.org/W2136409685",
+        "https://openalex.org/W2137111145",
+        "https://openalex.org/W2142413105",
+        "https://openalex.org/W2145257361",
+        "https://openalex.org/W2150675609",
+        "https://openalex.org/W2151020819",
+        "https://openalex.org/W2158270449",
+        "https://openalex.org/W2161466446",
+        "https://openalex.org/W2253551909",
+        "https://openalex.org/W2281858315",
+        "https://openalex.org/W2334541153",
+        "https://openalex.org/W2431703974",
+        "https://openalex.org/W2567237851",
+        "https://openalex.org/W2567635461",
+        "https://openalex.org/W2581904482",
+        "https://openalex.org/W2606724194",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2735575534",
+        "https://openalex.org/W2740237533",
+        "https://openalex.org/W2753303277",
+        "https://openalex.org/W2754021190",
+        "https://openalex.org/W2755801862",
+        "https://openalex.org/W2761896474",
+        "https://openalex.org/W2791760305",
+        "https://openalex.org/W2808963814",
+        "https://openalex.org/W2905970749",
+        "https://openalex.org/W2928158432",
+        "https://openalex.org/W2947966240",
+        "https://openalex.org/W2949818574",
+        "https://openalex.org/W2998827830",
+        "https://openalex.org/W3114284325",
+        "https://openalex.org/W3151678985",
+        "https://openalex.org/W3216878544",
+        "https://openalex.org/W4230897232",
+        "https://openalex.org/W4236521339",
+        "https://openalex.org/W4237823148",
+        "https://openalex.org/W4238296280",
+        "https://openalex.org/W4245236573",
+        "https://openalex.org/W4249246864",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4299988035"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2036724481",
+        "https://openalex.org/W2982596590",
+        "https://openalex.org/W2251957170",
+        "https://openalex.org/W4244650090",
+        "https://openalex.org/W2243039620",
+        "https://openalex.org/W784119765",
+        "https://openalex.org/W2767348847"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3184906676",
+      "doi": "https://doi.org/10.1007/978-3-030-82405-1_1",
+      "title": "KlimaKarl – A Chatbot to Promote Employees’ Climate-Friendly Behavior in an Office Setting",
+      "display_name": "KlimaKarl – A Chatbot to Promote Employees’ Climate-Friendly Behavior in an Office Setting",
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3184906676",
+        "doi": "https://doi.org/10.1007/978-3-030-82405-1_1",
+        "mag": "3184906676"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-82405-1_1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-82405-1_1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106296714",
+          "display_name": "Lecture notes in computer science",
+          "issn_l": "0302-9743",
+          "issn": [
+            "0302-9743",
+            "1611-3349"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Computer Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061310133",
+            "display_name": "Kirsten Hillebrand",
+            "orcid": "https://orcid.org/0000-0001-6631-2945"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I130692619",
+              "display_name": "Bern University of Applied Sciences",
+              "ror": "https://ror.org/02bnkt322",
+              "country_code": "CH",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I130692619"
+              ]
+            }
+          ],
+          "countries": [
+            "CH"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Kirsten Hillebrand",
+          "raw_affiliation_strings": [
+            "Bern University of Applied Sciences, Bern, Switzerland"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6631-2945",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bern University of Applied Sciences, Bern, Switzerland",
+              "institution_ids": [
+                "https://openalex.org/I130692619"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5065640131",
+            "display_name": "Florian Johannsen",
+            "orcid": "https://orcid.org/0000-0003-3175-6954"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210128802",
+              "display_name": "Schmalkalden University of Applied Sciences",
+              "ror": "https://ror.org/02nq4wt82",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210128802"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Florian Johannsen",
+          "raw_affiliation_strings": [
+            "University of Applied Sciences Schmalkalden, Schmalkalden, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3175-6954",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Applied Sciences Schmalkalden, Schmalkalden, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210128802"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5061310133"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I130692619"
+      ],
+      "apc_list": {
+        "value": 5000,
+        "currency": "EUR",
+        "value_usd": 5392
+      },
+      "apc_paid": null,
+      "fwci": 0.9257,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.71933962,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "3",
+        "last_page": "15"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10803",
+        "display_name": "Innovative Human-Technology Interaction",
+        "score": 0.9900000095367432,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1709",
+          "display_name": "Human-Computer Interaction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10803",
+          "display_name": "Innovative Human-Technology Interaction",
+          "score": 0.9900000095367432,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12238",
+          "display_name": "Green IT and Sustainability",
+          "score": 0.9811999797821045,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12607",
+          "display_name": "Personal Information Management and User Behavior",
+          "score": 0.9641000032424927,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.956552267074585
+        },
+        {
+          "id": "https://openalex.org/keywords/sustainability",
+          "display_name": "Sustainability",
+          "score": 0.6339970827102661
+        },
+        {
+          "id": "https://openalex.org/keywords/environmentally-friendly",
+          "display_name": "Environmentally friendly",
+          "score": 0.5945754051208496
+        },
+        {
+          "id": "https://openalex.org/keywords/workforce",
+          "display_name": "Workforce",
+          "score": 0.5927655696868896
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.46082958579063416
+        },
+        {
+          "id": "https://openalex.org/keywords/user-friendly",
+          "display_name": "User Friendly",
+          "score": 0.4257246255874634
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.4222252070903778
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.38116535544395447
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.36708879470825195
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.17544767260551453
+        },
+        {
+          "id": "https://openalex.org/keywords/economics",
+          "display_name": "Economics",
+          "score": 0.09122279286384583
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.08728253841400146
+        },
+        {
+          "id": "https://openalex.org/keywords/economic-growth",
+          "display_name": "Economic growth",
+          "score": 0.07787585258483887
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.956552267074585
+        },
+        {
+          "id": "https://openalex.org/C66204764",
+          "wikidata": "https://www.wikidata.org/wiki/Q219416",
+          "display_name": "Sustainability",
+          "level": 2,
+          "score": 0.6339970827102661
+        },
+        {
+          "id": "https://openalex.org/C171534860",
+          "wikidata": "https://www.wikidata.org/wiki/Q655870",
+          "display_name": "Environmentally friendly",
+          "level": 2,
+          "score": 0.5945754051208496
+        },
+        {
+          "id": "https://openalex.org/C2778139618",
+          "wikidata": "https://www.wikidata.org/wiki/Q13440398",
+          "display_name": "Workforce",
+          "level": 2,
+          "score": 0.5927655696868896
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.46082958579063416
+        },
+        {
+          "id": "https://openalex.org/C61437842",
+          "wikidata": "https://www.wikidata.org/wiki/Q281291",
+          "display_name": "User Friendly",
+          "level": 2,
+          "score": 0.4257246255874634
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.4222252070903778
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.38116535544395447
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.36708879470825195
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.17544767260551453
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.09122279286384583
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.08728253841400146
+        },
+        {
+          "id": "https://openalex.org/C50522688",
+          "wikidata": "https://www.wikidata.org/wiki/Q189833",
+          "display_name": "Economic growth",
+          "level": 1,
+          "score": 0.07787585258483887
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-82405-1_1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-82405-1_1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106296714",
+            "display_name": "Lecture notes in computer science",
+            "issn_l": "0302-9743",
+            "issn": [
+              "0302-9743",
+              "1611-3349"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lecture Notes in Computer Science",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 47,
+      "referenced_works": [
+        "https://openalex.org/W197820850",
+        "https://openalex.org/W201032658",
+        "https://openalex.org/W1276866904",
+        "https://openalex.org/W1526281128",
+        "https://openalex.org/W1539979365",
+        "https://openalex.org/W1574834309",
+        "https://openalex.org/W1631150390",
+        "https://openalex.org/W1989452694",
+        "https://openalex.org/W2001829221",
+        "https://openalex.org/W2034016879",
+        "https://openalex.org/W2055985212",
+        "https://openalex.org/W2077201361",
+        "https://openalex.org/W2098239681",
+        "https://openalex.org/W2121188597",
+        "https://openalex.org/W2121282904",
+        "https://openalex.org/W2136922540",
+        "https://openalex.org/W2145507836",
+        "https://openalex.org/W2151461605",
+        "https://openalex.org/W2160021985",
+        "https://openalex.org/W2161466446",
+        "https://openalex.org/W2217167698",
+        "https://openalex.org/W2479357558",
+        "https://openalex.org/W2519974261",
+        "https://openalex.org/W2547273612",
+        "https://openalex.org/W2588108359",
+        "https://openalex.org/W2589401093",
+        "https://openalex.org/W2615372910",
+        "https://openalex.org/W2620698159",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2766505384",
+        "https://openalex.org/W2783386352",
+        "https://openalex.org/W2794377324",
+        "https://openalex.org/W2806383613",
+        "https://openalex.org/W2896399352",
+        "https://openalex.org/W2904226672",
+        "https://openalex.org/W2908311575",
+        "https://openalex.org/W2914521475",
+        "https://openalex.org/W2915096787",
+        "https://openalex.org/W2917891033",
+        "https://openalex.org/W2965055801",
+        "https://openalex.org/W2990647756",
+        "https://openalex.org/W2994602333",
+        "https://openalex.org/W3120361139",
+        "https://openalex.org/W3138038515",
+        "https://openalex.org/W4235254995",
+        "https://openalex.org/W4236521339",
+        "https://openalex.org/W4239137973"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W2980256150",
+        "https://openalex.org/W2009638532",
+        "https://openalex.org/W2464592215",
+        "https://openalex.org/W2998763265",
+        "https://openalex.org/W2564541416",
+        "https://openalex.org/W3170849129",
+        "https://openalex.org/W2705499918",
+        "https://openalex.org/W2321089636"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4392917409",
+      "doi": "https://doi.org/10.1007/978-3-658-34048-3_89-1",
+      "title": "Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",
+      "display_name": "Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4392917409",
+        "doi": "https://doi.org/10.1007/978-3-658-34048-3_89-1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-658-34048-3_89-1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-658-34048-3_89-1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Handbook of Media and Communication Economics",
+        "raw_type": "book-chapter"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094182394",
+            "display_name": "Tim Prien",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Tim Prien",
+          "raw_affiliation_strings": [
+            "Goldmedia GmbH, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Goldmedia GmbH, Berlin, Germany",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5043643693",
+            "display_name": "Klaus Goldhammer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Klaus Goldhammer",
+          "raw_affiliation_strings": [
+            "Goldmedia GmbH, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Goldmedia GmbH, Berlin, Germany",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094182394"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.1971,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.50344828,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "69"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.9940999746322632,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.9940999746322632,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9861000180244446,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11995",
+          "display_name": "FinTech, Crowdfunding, Digital Finance",
+          "score": 0.9800000190734863,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1404",
+            "display_name": "Management Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.7365771532058716
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.36368000507354736
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.3478959798812866
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.33921000361442566
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.33403530716896057
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.25807666778564453
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.13147088885307312
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.7365771532058716
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.36368000507354736
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.3478959798812866
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.33921000361442566
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.33403530716896057
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.25807666778564453
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.13147088885307312
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-658-34048-3_89-1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-658-34048-3_89-1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Handbook of Media and Communication Economics",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 213,
+      "referenced_works": [
+        "https://openalex.org/W648152870",
+        "https://openalex.org/W1964168965",
+        "https://openalex.org/W1966216407",
+        "https://openalex.org/W1969810892",
+        "https://openalex.org/W1979021834",
+        "https://openalex.org/W1985610876",
+        "https://openalex.org/W1987718081",
+        "https://openalex.org/W2001771035",
+        "https://openalex.org/W2002785199",
+        "https://openalex.org/W2004783872",
+        "https://openalex.org/W2039234396",
+        "https://openalex.org/W2075424814",
+        "https://openalex.org/W2110313598",
+        "https://openalex.org/W2112796928",
+        "https://openalex.org/W2113235751",
+        "https://openalex.org/W2119874156",
+        "https://openalex.org/W2130072181",
+        "https://openalex.org/W2137259803",
+        "https://openalex.org/W2141599568",
+        "https://openalex.org/W2154773184",
+        "https://openalex.org/W2162098965",
+        "https://openalex.org/W2164686541",
+        "https://openalex.org/W2242639205",
+        "https://openalex.org/W2337983557",
+        "https://openalex.org/W2557671501",
+        "https://openalex.org/W2604799547",
+        "https://openalex.org/W2609368436",
+        "https://openalex.org/W2619251116",
+        "https://openalex.org/W2623293810",
+        "https://openalex.org/W2626653630",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2739874095",
+        "https://openalex.org/W2747680751",
+        "https://openalex.org/W2753603513",
+        "https://openalex.org/W2765085847",
+        "https://openalex.org/W2771185695",
+        "https://openalex.org/W2783702558",
+        "https://openalex.org/W2788585320",
+        "https://openalex.org/W2799915114",
+        "https://openalex.org/W2800525135",
+        "https://openalex.org/W2803135671",
+        "https://openalex.org/W2885623676",
+        "https://openalex.org/W2888882606",
+        "https://openalex.org/W2890576255",
+        "https://openalex.org/W2891503716",
+        "https://openalex.org/W2892300143",
+        "https://openalex.org/W2894129055",
+        "https://openalex.org/W2895993994",
+        "https://openalex.org/W2896514942",
+        "https://openalex.org/W2897701541",
+        "https://openalex.org/W2898213711",
+        "https://openalex.org/W2900937406",
+        "https://openalex.org/W2901400554",
+        "https://openalex.org/W2905604475",
+        "https://openalex.org/W2910027323",
+        "https://openalex.org/W2912668665",
+        "https://openalex.org/W2913816498",
+        "https://openalex.org/W2919115771",
+        "https://openalex.org/W2921123283",
+        "https://openalex.org/W2926555354",
+        "https://openalex.org/W2929663722",
+        "https://openalex.org/W2934681535",
+        "https://openalex.org/W2951014126",
+        "https://openalex.org/W2954604981",
+        "https://openalex.org/W2963270767",
+        "https://openalex.org/W2963569233",
+        "https://openalex.org/W2963771763",
+        "https://openalex.org/W2963849010",
+        "https://openalex.org/W2963956589",
+        "https://openalex.org/W2965997714",
+        "https://openalex.org/W2969686025",
+        "https://openalex.org/W2970686438",
+        "https://openalex.org/W2971307358",
+        "https://openalex.org/W2971408993",
+        "https://openalex.org/W2974031746",
+        "https://openalex.org/W2980209480",
+        "https://openalex.org/W2980695516",
+        "https://openalex.org/W2980822584",
+        "https://openalex.org/W2981575922",
+        "https://openalex.org/W2981836045",
+        "https://openalex.org/W2981869278",
+        "https://openalex.org/W2985900875",
+        "https://openalex.org/W2987829780",
+        "https://openalex.org/W2988785632",
+        "https://openalex.org/W2990551193",
+        "https://openalex.org/W2992709555",
+        "https://openalex.org/W2994898777",
+        "https://openalex.org/W2996740930",
+        "https://openalex.org/W2998528801",
+        "https://openalex.org/W3000347607",
+        "https://openalex.org/W3007628835",
+        "https://openalex.org/W3008647068",
+        "https://openalex.org/W3012220842",
+        "https://openalex.org/W3014075637",
+        "https://openalex.org/W3014901735",
+        "https://openalex.org/W3018262553",
+        "https://openalex.org/W3019214726",
+        "https://openalex.org/W3026997957",
+        "https://openalex.org/W3028785460",
+        "https://openalex.org/W3035565536",
+        "https://openalex.org/W3041539254",
+        "https://openalex.org/W3042185737",
+        "https://openalex.org/W3046171011",
+        "https://openalex.org/W3047290399",
+        "https://openalex.org/W3086249591",
+        "https://openalex.org/W3087746116",
+        "https://openalex.org/W3089021530",
+        "https://openalex.org/W3091170644",
+        "https://openalex.org/W3094108208",
+        "https://openalex.org/W3103891289",
+        "https://openalex.org/W3105509656",
+        "https://openalex.org/W3117899829",
+        "https://openalex.org/W3119106131",
+        "https://openalex.org/W3122548859",
+        "https://openalex.org/W3125617370",
+        "https://openalex.org/W3143996866",
+        "https://openalex.org/W3159914619",
+        "https://openalex.org/W3163498617",
+        "https://openalex.org/W3165873599",
+        "https://openalex.org/W3171415707",
+        "https://openalex.org/W3175714707",
+        "https://openalex.org/W3180941233",
+        "https://openalex.org/W3189487616",
+        "https://openalex.org/W3193613366",
+        "https://openalex.org/W3198040634",
+        "https://openalex.org/W3198250510",
+        "https://openalex.org/W3209636687",
+        "https://openalex.org/W3210934046",
+        "https://openalex.org/W3214410405",
+        "https://openalex.org/W3215807322",
+        "https://openalex.org/W3216882927",
+        "https://openalex.org/W3217219798",
+        "https://openalex.org/W4200588694",
+        "https://openalex.org/W4206136597",
+        "https://openalex.org/W4206176706",
+        "https://openalex.org/W4206346145",
+        "https://openalex.org/W4210754925",
+        "https://openalex.org/W4210771885",
+        "https://openalex.org/W4210984920",
+        "https://openalex.org/W4211175651",
+        "https://openalex.org/W4211262707",
+        "https://openalex.org/W4213114223",
+        "https://openalex.org/W4220863497",
+        "https://openalex.org/W4221055068",
+        "https://openalex.org/W4221106847",
+        "https://openalex.org/W4223904523",
+        "https://openalex.org/W4225144386",
+        "https://openalex.org/W4226092533",
+        "https://openalex.org/W4230146834",
+        "https://openalex.org/W4231848987",
+        "https://openalex.org/W4232901144",
+        "https://openalex.org/W4233902317",
+        "https://openalex.org/W4236256639",
+        "https://openalex.org/W4237919441",
+        "https://openalex.org/W4245091085",
+        "https://openalex.org/W4247767351",
+        "https://openalex.org/W4248392253",
+        "https://openalex.org/W4254895593",
+        "https://openalex.org/W4280585119",
+        "https://openalex.org/W4280639885",
+        "https://openalex.org/W4282923724",
+        "https://openalex.org/W4283707603",
+        "https://openalex.org/W4285123894",
+        "https://openalex.org/W4285126457",
+        "https://openalex.org/W4285308163",
+        "https://openalex.org/W4289521493",
+        "https://openalex.org/W4293229829",
+        "https://openalex.org/W4293859197",
+        "https://openalex.org/W4294647307",
+        "https://openalex.org/W4296232857",
+        "https://openalex.org/W4296750408",
+        "https://openalex.org/W4297983321",
+        "https://openalex.org/W4301517024",
+        "https://openalex.org/W4312123994",
+        "https://openalex.org/W4313387553",
+        "https://openalex.org/W4317748910",
+        "https://openalex.org/W4317914416",
+        "https://openalex.org/W4319067556",
+        "https://openalex.org/W4319301677",
+        "https://openalex.org/W4321497156",
+        "https://openalex.org/W4322754941",
+        "https://openalex.org/W4360762369",
+        "https://openalex.org/W4360834818",
+        "https://openalex.org/W4364363895",
+        "https://openalex.org/W4365794116",
+        "https://openalex.org/W4366245724",
+        "https://openalex.org/W4367055466",
+        "https://openalex.org/W4376602153",
+        "https://openalex.org/W4377102410",
+        "https://openalex.org/W4379516502",
+        "https://openalex.org/W4380032197",
+        "https://openalex.org/W4382776959",
+        "https://openalex.org/W4383531988",
+        "https://openalex.org/W4383679937",
+        "https://openalex.org/W4383681451",
+        "https://openalex.org/W4385210960",
+        "https://openalex.org/W4385872039",
+        "https://openalex.org/W4386069954",
+        "https://openalex.org/W4386100686",
+        "https://openalex.org/W4386697160",
+        "https://openalex.org/W4387546931",
+        "https://openalex.org/W4387566778",
+        "https://openalex.org/W4390060956",
+        "https://openalex.org/W4390872117",
+        "https://openalex.org/W4393964637",
+        "https://openalex.org/W6606829685",
+        "https://openalex.org/W6726280463",
+        "https://openalex.org/W6764951997",
+        "https://openalex.org/W6813912821",
+        "https://openalex.org/W6958223023",
+        "https://openalex.org/W7030290986",
+        "https://openalex.org/W7046089707",
+        "https://openalex.org/W7075581398"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2380075625",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W2382290278",
+        "https://openalex.org/W2478288626",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2350741829"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-06T09:10:53.072986",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4403828394",
+      "doi": "https://doi.org/10.1007/978-3-658-39909-2_89",
+      "title": "Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",
+      "display_name": "Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",
+      "publication_year": 2024,
+      "publication_date": "2024-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4403828394",
+        "doi": "https://doi.org/10.1007/978-3-658-39909-2_89"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-658-39909-2_89",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-658-39909-2_89",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Handbook of Media and Communication Economics",
+        "raw_type": "book-chapter"
+      },
+      "type": "review",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5094182394",
+            "display_name": "Tim Prien",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Tim Prien",
+          "raw_affiliation_strings": [
+            "Goldmedia GmbH, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Goldmedia GmbH, Berlin, Germany",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5043643693",
+            "display_name": "Klaus Goldhammer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Klaus Goldhammer",
+          "raw_affiliation_strings": [
+            "Goldmedia GmbH, Berlin, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Goldmedia GmbH, Berlin, Germany",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5094182394"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.099,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.48275862,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "273",
+        "last_page": "341"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10883",
+        "display_name": "Ethics and Social Impacts of AI",
+        "score": 0.9914000034332275,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3311",
+          "display_name": "Safety Research"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.9914000034332275,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11995",
+          "display_name": "FinTech, Crowdfunding, Digital Finance",
+          "score": 0.980400025844574,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1404",
+            "display_name": "Management Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9768999814987183,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/generative-grammar",
+          "display_name": "Generative grammar",
+          "score": 0.7360118627548218
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4251965880393982
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.42003610730171204
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-language-processing",
+          "display_name": "Natural language processing",
+          "score": 0.3450416922569275
+        },
+        {
+          "id": "https://openalex.org/keywords/linguistics",
+          "display_name": "Linguistics",
+          "score": 0.34128573536872864
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.07529684901237488
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.7360118627548218
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4251965880393982
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.42003610730171204
+        },
+        {
+          "id": "https://openalex.org/C204321447",
+          "wikidata": "https://www.wikidata.org/wiki/Q30642",
+          "display_name": "Natural language processing",
+          "level": 1,
+          "score": 0.3450416922569275
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0.34128573536872864
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.07529684901237488
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-658-39909-2_89",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-658-39909-2_89",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Handbook of Media and Communication Economics",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 214,
+      "referenced_works": [
+        "https://openalex.org/W1964168965",
+        "https://openalex.org/W1966216407",
+        "https://openalex.org/W1969810892",
+        "https://openalex.org/W1979021834",
+        "https://openalex.org/W1985610876",
+        "https://openalex.org/W1987718081",
+        "https://openalex.org/W2001771035",
+        "https://openalex.org/W2002785199",
+        "https://openalex.org/W2004783872",
+        "https://openalex.org/W2037413600",
+        "https://openalex.org/W2039234396",
+        "https://openalex.org/W2075424814",
+        "https://openalex.org/W2110313598",
+        "https://openalex.org/W2112796928",
+        "https://openalex.org/W2113235751",
+        "https://openalex.org/W2119874156",
+        "https://openalex.org/W2122410182",
+        "https://openalex.org/W2130072181",
+        "https://openalex.org/W2137259803",
+        "https://openalex.org/W2141599568",
+        "https://openalex.org/W2154773184",
+        "https://openalex.org/W2162098965",
+        "https://openalex.org/W2164686541",
+        "https://openalex.org/W2242639205",
+        "https://openalex.org/W2337983557",
+        "https://openalex.org/W2557671501",
+        "https://openalex.org/W2604799547",
+        "https://openalex.org/W2609368436",
+        "https://openalex.org/W2619251116",
+        "https://openalex.org/W2626653630",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2739874095",
+        "https://openalex.org/W2747680751",
+        "https://openalex.org/W2753603513",
+        "https://openalex.org/W2765085847",
+        "https://openalex.org/W2771185695",
+        "https://openalex.org/W2783702558",
+        "https://openalex.org/W2788585320",
+        "https://openalex.org/W2799915114",
+        "https://openalex.org/W2800525135",
+        "https://openalex.org/W2803135671",
+        "https://openalex.org/W2885623676",
+        "https://openalex.org/W2888882606",
+        "https://openalex.org/W2890576255",
+        "https://openalex.org/W2891503716",
+        "https://openalex.org/W2892300143",
+        "https://openalex.org/W2894129055",
+        "https://openalex.org/W2895993994",
+        "https://openalex.org/W2896514942",
+        "https://openalex.org/W2897701541",
+        "https://openalex.org/W2898213711",
+        "https://openalex.org/W2900937406",
+        "https://openalex.org/W2901400554",
+        "https://openalex.org/W2905604475",
+        "https://openalex.org/W2910027323",
+        "https://openalex.org/W2912668665",
+        "https://openalex.org/W2913816498",
+        "https://openalex.org/W2919115771",
+        "https://openalex.org/W2921123283",
+        "https://openalex.org/W2926555354",
+        "https://openalex.org/W2929663722",
+        "https://openalex.org/W2934681535",
+        "https://openalex.org/W2951014126",
+        "https://openalex.org/W2954604981",
+        "https://openalex.org/W2963270767",
+        "https://openalex.org/W2963569233",
+        "https://openalex.org/W2963771763",
+        "https://openalex.org/W2963849010",
+        "https://openalex.org/W2963956589",
+        "https://openalex.org/W2965997714",
+        "https://openalex.org/W2969686025",
+        "https://openalex.org/W2970686438",
+        "https://openalex.org/W2971307358",
+        "https://openalex.org/W2971408993",
+        "https://openalex.org/W2974031746",
+        "https://openalex.org/W2980209480",
+        "https://openalex.org/W2980695516",
+        "https://openalex.org/W2980822584",
+        "https://openalex.org/W2981575922",
+        "https://openalex.org/W2981836045",
+        "https://openalex.org/W2981869278",
+        "https://openalex.org/W2985900875",
+        "https://openalex.org/W2987829780",
+        "https://openalex.org/W2988785632",
+        "https://openalex.org/W2990551193",
+        "https://openalex.org/W2992709555",
+        "https://openalex.org/W2994898777",
+        "https://openalex.org/W2996740930",
+        "https://openalex.org/W2998528801",
+        "https://openalex.org/W3000347607",
+        "https://openalex.org/W3007628835",
+        "https://openalex.org/W3008647068",
+        "https://openalex.org/W3012220842",
+        "https://openalex.org/W3014075637",
+        "https://openalex.org/W3014901735",
+        "https://openalex.org/W3018262553",
+        "https://openalex.org/W3019214726",
+        "https://openalex.org/W3026997957",
+        "https://openalex.org/W3028785460",
+        "https://openalex.org/W3041539254",
+        "https://openalex.org/W3042185737",
+        "https://openalex.org/W3046171011",
+        "https://openalex.org/W3047290399",
+        "https://openalex.org/W3086249591",
+        "https://openalex.org/W3087746116",
+        "https://openalex.org/W3089021530",
+        "https://openalex.org/W3091170644",
+        "https://openalex.org/W3094108208",
+        "https://openalex.org/W3103891289",
+        "https://openalex.org/W3105509656",
+        "https://openalex.org/W3117899829",
+        "https://openalex.org/W3119106131",
+        "https://openalex.org/W3122548859",
+        "https://openalex.org/W3125617370",
+        "https://openalex.org/W3143996866",
+        "https://openalex.org/W3159914619",
+        "https://openalex.org/W3163498617",
+        "https://openalex.org/W3165873599",
+        "https://openalex.org/W3171415707",
+        "https://openalex.org/W3175714707",
+        "https://openalex.org/W3180941233",
+        "https://openalex.org/W3189487616",
+        "https://openalex.org/W3193613366",
+        "https://openalex.org/W3198040634",
+        "https://openalex.org/W3198250510",
+        "https://openalex.org/W3209636687",
+        "https://openalex.org/W3210934046",
+        "https://openalex.org/W3214410405",
+        "https://openalex.org/W3215807322",
+        "https://openalex.org/W3216882927",
+        "https://openalex.org/W3217219798",
+        "https://openalex.org/W4200588694",
+        "https://openalex.org/W4206136597",
+        "https://openalex.org/W4206176706",
+        "https://openalex.org/W4206346145",
+        "https://openalex.org/W4210754925",
+        "https://openalex.org/W4210771885",
+        "https://openalex.org/W4210984920",
+        "https://openalex.org/W4211175651",
+        "https://openalex.org/W4211262707",
+        "https://openalex.org/W4213114223",
+        "https://openalex.org/W4220863497",
+        "https://openalex.org/W4221055068",
+        "https://openalex.org/W4221106847",
+        "https://openalex.org/W4223904523",
+        "https://openalex.org/W4225144386",
+        "https://openalex.org/W4226092533",
+        "https://openalex.org/W4230146834",
+        "https://openalex.org/W4231848987",
+        "https://openalex.org/W4232901144",
+        "https://openalex.org/W4233902317",
+        "https://openalex.org/W4236256639",
+        "https://openalex.org/W4237919441",
+        "https://openalex.org/W4245091085",
+        "https://openalex.org/W4247767351",
+        "https://openalex.org/W4248392253",
+        "https://openalex.org/W4254895593",
+        "https://openalex.org/W4280585119",
+        "https://openalex.org/W4280639885",
+        "https://openalex.org/W4282923724",
+        "https://openalex.org/W4283707603",
+        "https://openalex.org/W4285123894",
+        "https://openalex.org/W4285126457",
+        "https://openalex.org/W4285308163",
+        "https://openalex.org/W4289521493",
+        "https://openalex.org/W4293229829",
+        "https://openalex.org/W4293859197",
+        "https://openalex.org/W4294647307",
+        "https://openalex.org/W4296232857",
+        "https://openalex.org/W4296750408",
+        "https://openalex.org/W4297983321",
+        "https://openalex.org/W4301517024",
+        "https://openalex.org/W4312123994",
+        "https://openalex.org/W4313387553",
+        "https://openalex.org/W4317748910",
+        "https://openalex.org/W4317914416",
+        "https://openalex.org/W4319067556",
+        "https://openalex.org/W4319301677",
+        "https://openalex.org/W4321497156",
+        "https://openalex.org/W4322754941",
+        "https://openalex.org/W4360762369",
+        "https://openalex.org/W4360834818",
+        "https://openalex.org/W4364363895",
+        "https://openalex.org/W4365794116",
+        "https://openalex.org/W4366245724",
+        "https://openalex.org/W4367055466",
+        "https://openalex.org/W4376602153",
+        "https://openalex.org/W4377102410",
+        "https://openalex.org/W4379516502",
+        "https://openalex.org/W4380032197",
+        "https://openalex.org/W4382776959",
+        "https://openalex.org/W4383531988",
+        "https://openalex.org/W4383679937",
+        "https://openalex.org/W4383681451",
+        "https://openalex.org/W4385210960",
+        "https://openalex.org/W4385872039",
+        "https://openalex.org/W4386069954",
+        "https://openalex.org/W4386100686",
+        "https://openalex.org/W4386697160",
+        "https://openalex.org/W4387546931",
+        "https://openalex.org/W4387566778",
+        "https://openalex.org/W4390060956",
+        "https://openalex.org/W4390872117",
+        "https://openalex.org/W4393964637",
+        "https://openalex.org/W4404658388",
+        "https://openalex.org/W6606829685",
+        "https://openalex.org/W6726280463",
+        "https://openalex.org/W6761915701",
+        "https://openalex.org/W6764951997",
+        "https://openalex.org/W6813912821",
+        "https://openalex.org/W6958223023",
+        "https://openalex.org/W7030290986",
+        "https://openalex.org/W7046089707",
+        "https://openalex.org/W7075581398"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2380075625",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W3204019825"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-04T10:56:28.161419",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3199241280",
+      "doi": "https://doi.org/10.1145/3473856.3474005",
+      "title": "Let’s Chat Internal: User Acceptance of an In-Company Service Desk Chatbot",
+      "display_name": "Let’s Chat Internal: User Acceptance of an In-Company Service Desk Chatbot",
+      "publication_year": 2021,
+      "publication_date": "2021-09-05",
+      "ids": {
+        "openalex": "https://openalex.org/W3199241280",
+        "doi": "https://doi.org/10.1145/3473856.3474005",
+        "mag": "3199241280"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3473856.3474005",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3473856.3474005",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Mensch und Computer 2021",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5085647042",
+            "display_name": "Lena Stütz",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106192",
+              "display_name": "Technische Hochschule Ingolstadt",
+              "ror": "https://ror.org/02bxzcy64",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lena Stütz",
+          "raw_affiliation_strings": [
+            "Technische Hochschule Ingolstadt (THI), Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Technische Hochschule Ingolstadt (THI), Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5087073329",
+            "display_name": "Andreas Riener",
+            "orcid": "https://orcid.org/0000-0002-9174-8895"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106192",
+              "display_name": "Technische Hochschule Ingolstadt",
+              "ror": "https://ror.org/02bxzcy64",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andreas Riener",
+          "raw_affiliation_strings": [
+            "Technische Hochschule Ingolstadt (THI), Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Technische Hochschule Ingolstadt (THI), Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210106192"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210106192"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.11528316,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "557",
+        "last_page": "562"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12392",
+          "display_name": "Sharing Economy and Platforms",
+          "score": 0.9799000024795532,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1406",
+            "display_name": "Marketing"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12607",
+          "display_name": "Personal Information Management and User Behavior",
+          "score": 0.9771999716758728,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.8558370471000671
+        },
+        {
+          "id": "https://openalex.org/keywords/desk",
+          "display_name": "Desk",
+          "score": 0.6760386824607849
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5804426074028015
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.5384988188743591
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.5331422686576843
+        },
+        {
+          "id": "https://openalex.org/keywords/service-desk",
+          "display_name": "Service desk",
+          "score": 0.47853073477745056
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.181454598903656
+        },
+        {
+          "id": "https://openalex.org/keywords/service-design",
+          "display_name": "Service design",
+          "score": 0.12714523077011108
+        },
+        {
+          "id": "https://openalex.org/keywords/service-delivery-framework",
+          "display_name": "Service delivery framework",
+          "score": 0.12010681629180908
+        },
+        {
+          "id": "https://openalex.org/keywords/marketing",
+          "display_name": "Marketing",
+          "score": 0.07714462280273438
+        },
+        {
+          "id": "https://openalex.org/keywords/operating-system",
+          "display_name": "Operating system",
+          "score": 0.05672231316566467
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.8558370471000671
+        },
+        {
+          "id": "https://openalex.org/C2776545233",
+          "wikidata": "https://www.wikidata.org/wiki/Q1064858",
+          "display_name": "Desk",
+          "level": 2,
+          "score": 0.6760386824607849
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5804426074028015
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.5384988188743591
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.5331422686576843
+        },
+        {
+          "id": "https://openalex.org/C6878162",
+          "wikidata": "https://www.wikidata.org/wiki/Q1481411",
+          "display_name": "Service desk",
+          "level": 5,
+          "score": 0.47853073477745056
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.181454598903656
+        },
+        {
+          "id": "https://openalex.org/C61063171",
+          "wikidata": "https://www.wikidata.org/wiki/Q532781",
+          "display_name": "Service design",
+          "level": 4,
+          "score": 0.12714523077011108
+        },
+        {
+          "id": "https://openalex.org/C68595000",
+          "wikidata": "https://www.wikidata.org/wiki/Q2274177",
+          "display_name": "Service delivery framework",
+          "level": 3,
+          "score": 0.12010681629180908
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.07714462280273438
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.05672231316566467
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3473856.3474005",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/3473856.3474005",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Mensch und Computer 2021",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 22,
+      "referenced_works": [
+        "https://openalex.org/W1557992034",
+        "https://openalex.org/W1791587663",
+        "https://openalex.org/W2112042732",
+        "https://openalex.org/W2159306398",
+        "https://openalex.org/W2405187948",
+        "https://openalex.org/W2487652696",
+        "https://openalex.org/W2519974261",
+        "https://openalex.org/W2622863697",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2756029264",
+        "https://openalex.org/W2782257106",
+        "https://openalex.org/W2808216081",
+        "https://openalex.org/W2888047309",
+        "https://openalex.org/W2914239594",
+        "https://openalex.org/W2935711174",
+        "https://openalex.org/W2937273808",
+        "https://openalex.org/W2973163746",
+        "https://openalex.org/W2990055580",
+        "https://openalex.org/W3010879926",
+        "https://openalex.org/W3022161378",
+        "https://openalex.org/W3098259009",
+        "https://openalex.org/W4298277474"
+      ],
+      "related_works": [
+        "https://openalex.org/W140550816",
+        "https://openalex.org/W2358277536",
+        "https://openalex.org/W3110778125",
+        "https://openalex.org/W2023898799",
+        "https://openalex.org/W2036958295",
+        "https://openalex.org/W2622381438",
+        "https://openalex.org/W2781384574",
+        "https://openalex.org/W2373098868",
+        "https://openalex.org/W2037898542",
+        "https://openalex.org/W1875088083"
+      ],
+      "abstract_inverted_index": {
+        "Due": [
+          0
+        ],
+        "to": [
+          1,
+          16,
+          35
+        ],
+        "remote": [
+          2
+        ],
+        "working": [
+          3
+        ],
+        "models,": [
+          4
+        ],
+        "which": [
+          5,
+          25
+        ],
+        "were": [
+          6
+        ],
+        "strengthened": [
+          7
+        ],
+        "by": [
+          8
+        ],
+        "the": [
+          9,
+          27,
+          90,
+          93,
+          101,
+          108
+        ],
+        "COVID-19": [
+          10
+        ],
+        "pandemic,": [
+          11
+        ],
+        "it": [
+          12,
+          77
+        ],
+        "became": [
+          13
+        ],
+        "highly": [
+          14
+        ],
+        "relevant": [
+          15
+        ],
+        "digitalize": [
+          17
+        ],
+        "on-site": [
+          18
+        ],
+        "service": [
+          19,
+          72,
+          110
+        ],
+        "desk": [
+          20,
+          73
+        ],
+        "consultations.": [
+          21
+        ],
+        "Virtual": [
+          22
+        ],
+        "enterprise": [
+          23
+        ],
+        "assistants": [
+          24
+        ],
+        "simplify": [
+          26
+        ],
+        "interaction": [
+          28
+        ],
+        "with": [
+          29,
+          87,
+          114
+        ],
+        "in-company": [
+          30,
+          70
+        ],
+        "services": [
+          31
+        ],
+        "provide": [
+          32
+        ],
+        "similar": [
+          33
+        ],
+        "advantages": [
+          34
+        ],
+        "their": [
+          36,
+          57
+        ],
+        "popular": [
+          37
+        ],
+        "peers": [
+          38
+        ],
+        "in": [
+          39,
+          78,
+          117
+        ],
+        "customer": [
+          40,
+          45
+        ],
+        "service:": [
+          41
+        ],
+        "high": [
+          42
+        ],
+        "availability": [
+          43
+        ],
+        "and": [
+          44,
+          47,
+          51,
+          75,
+          83,
+          111
+        ],
+        "satisfaction,": [
+          46
+        ],
+        "low": [
+          48
+        ],
+        "response": [
+          49
+        ],
+        "time": [
+          50
+        ],
+        "costs.": [
+          52
+        ],
+        "To": [
+          53
+        ],
+        "find": [
+          54
+        ],
+        "out": [
+          55
+        ],
+        "how": [
+          56
+        ],
+        "usage": [
+          58,
+          120
+        ],
+        "affects": [
+          59
+        ],
+        "user": [
+          60,
+          84
+        ],
+        "acceptance": [
+          61,
+          103
+        ],
+        "we": [
+          62
+        ],
+        "developed": [
+          63
+        ],
+        "an": [
+          64,
+          69,
+          79
+        ],
+        "early": [
+          65
+        ],
+        "high-fidelity": [
+          66
+        ],
+        "prototype": [
+          67
+        ],
+        "for": [
+          68
+        ],
+        "UX": [
+          71
+        ],
+        "chatbot": [
+          74
+        ],
+        "evaluated": [
+          76
+        ],
+        "online": [
+          80
+        ],
+        "survey": [
+          81
+        ],
+        "(N=53)": [
+          82
+        ],
+        "study": [
+          85
+        ],
+        "(N=14)": [
+          86
+        ],
+        "employees": [
+          88
+        ],
+        "from": [
+          89,
+          107
+        ],
+        "industry": [
+          91
+        ],
+        "using": [
+          92
+        ],
+        "Technology": [
+          94
+        ],
+        "Acceptance": [
+          95
+        ],
+        "Model.": [
+          96
+        ],
+        "The": [
+          97
+        ],
+        "results": [
+          98
+        ],
+        "show": [
+          99
+        ],
+        "that": [
+          100
+        ],
+        "prototype’s": [
+          102
+        ],
+        "does": [
+          104
+        ],
+        "not": [
+          105
+        ],
+        "differ": [
+          106
+        ],
+        "classical": [
+          109
+        ],
+        "prior": [
+          112
+        ],
+        "experiences": [
+          113
+        ],
+        "textual": [
+          115
+        ],
+        "chatbots": [
+          116
+        ],
+        "a": [
+          118,
+          127
+        ],
+        "private": [
+          119,
+          128
+        ],
+        "context": [
+          121
+        ],
+        "but": [
+          122
+        ],
+        "was": [
+          123
+        ],
+        "rated": [
+          124
+        ],
+        "higher": [
+          125
+        ],
+        "than": [
+          126
+        ],
+        "sample": [
+          129
+        ],
+        "bot.": [
+          130
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-30T17:31:21.811387",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3151101782",
+      "doi": "https://doi.org/10.1007/978-3-658-29367-3_9",
+      "title": "Chatbots und virtuelle Assistenten im 360-Grad-Netzwerk: Hochwertige Customer Experience durch nutzerzentriertes Design",
+      "display_name": "Chatbots und virtuelle Assistenten im 360-Grad-Netzwerk: Hochwertige Customer Experience durch nutzerzentriertes Design",
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3151101782",
+        "doi": "https://doi.org/10.1007/978-3-658-29367-3_9",
+        "mag": "3151101782"
+      },
+      "language": "de",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-658-29367-3_9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-658-29367-3_9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210200894",
+          "display_name": "FOM-Edition",
+          "issn_l": "2625-7114",
+          "issn": [
+            "2625-7114",
+            "2625-7122"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "FOM-Edition",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5017364347",
+            "display_name": "Maximilian Halstrup",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801697266",
+              "display_name": "FOM University of Applied Sciences for Economics and Management",
+              "ror": "https://ror.org/05m3vpd98",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I2801697266"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Maximilian Halstrup",
+          "raw_affiliation_strings": [
+            "FOM Hochschule für Oekonomie & Management, Münster, Deutschland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FOM Hochschule für Oekonomie & Management, Münster, Deutschland",
+              "institution_ids": [
+                "https://openalex.org/I2801697266"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5017364347"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I2801697266"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.08498415,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "167",
+        "last_page": "190"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12885",
+        "display_name": "Digital Innovation in Industries",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1405",
+          "display_name": "Management of Technology and Innovation"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/14",
+          "display_name": "Business, Management and Accounting"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12885",
+          "display_name": "Digital Innovation in Industries",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1405",
+            "display_name": "Management of Technology and Innovation"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10648",
+          "display_name": "Virtual Reality Applications and Impacts",
+          "score": 0.9663000106811523,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14074",
+          "display_name": "Persona Design and Applications",
+          "score": 0.9329000115394592,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.36418378353118896
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.34317922592163086
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.36418378353118896
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.34317922592163086
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-658-29367-3_9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-658-29367-3_9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210200894",
+            "display_name": "FOM-Edition",
+            "issn_l": "2625-7114",
+            "issn": [
+              "2625-7114",
+              "2625-7122"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "FOM-Edition",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W98530390",
+        "https://openalex.org/W582315782",
+        "https://openalex.org/W1498270624",
+        "https://openalex.org/W1538391393",
+        "https://openalex.org/W2045048510",
+        "https://openalex.org/W2088006551",
+        "https://openalex.org/W2709381070",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2808274575",
+        "https://openalex.org/W2907963366",
+        "https://openalex.org/W4236159332",
+        "https://openalex.org/W4243596231",
+        "https://openalex.org/W6600841794",
+        "https://openalex.org/W6635470008",
+        "https://openalex.org/W6661649281",
+        "https://openalex.org/W6822783292"
+      ],
+      "related_works": [
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2912137438",
+        "https://openalex.org/W2803307177",
+        "https://openalex.org/W1494974852",
+        "https://openalex.org/W1030430500",
+        "https://openalex.org/W2346533055",
+        "https://openalex.org/W3214635344",
+        "https://openalex.org/W3166162583",
+        "https://openalex.org/W1930884650",
+        "https://openalex.org/W3140991623"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3207490725",
+      "doi": "https://doi.org/10.1007/978-3-030-80737-5_16",
+      "title": "Other Relevant Smart Technologies: From Advanced Manufacturing Solutions to Smart Factory",
+      "display_name": "Other Relevant Smart Technologies: From Advanced Manufacturing Solutions to Smart Factory",
+      "publication_year": 2021,
+      "publication_date": "2021-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3207490725",
+        "doi": "https://doi.org/10.1007/978-3-030-80737-5_16",
+        "mag": "3207490725"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-80737-5_16",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-80737-5_16",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210236352",
+          "display_name": "SIDREA series in accounting and business administration",
+          "issn_l": "2662-9879",
+          "issn": [
+            "2662-9879",
+            "2662-9887"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SIDREA Series in Accounting and Business Administration",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5082816457",
+            "display_name": "Silvia Testarmata",
+            "orcid": "https://orcid.org/0000-0002-2448-1481"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124295",
+              "display_name": "University Niccolò Cusano",
+              "ror": "https://ror.org/032c3ae16",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210124295"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Silvia Testarmata",
+          "raw_affiliation_strings": [
+            "Niccolò Cusano University, Rome, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niccolò Cusano University, Rome, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210124295"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5055420199",
+            "display_name": "Mirella Ciaburri",
+            "orcid": "https://orcid.org/0000-0001-5742-5294"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124295",
+              "display_name": "University Niccolò Cusano",
+              "ror": "https://ror.org/032c3ae16",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210124295"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mirella Ciaburri",
+          "raw_affiliation_strings": [
+            "Niccolò Cusano University, Rome, Italy"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Niccolò Cusano University, Rome, Italy",
+              "institution_ids": [
+                "https://openalex.org/I4210124295"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5082816457"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210124295"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.2654225,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "213",
+        "last_page": "224"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10763",
+        "display_name": "Digital Transformation in Industry",
+        "score": 0.9983000159263611,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2209",
+          "display_name": "Industrial and Manufacturing Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10763",
+          "display_name": "Digital Transformation in Industry",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2209",
+            "display_name": "Industrial and Manufacturing Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10273",
+          "display_name": "IoT and Edge/Fog Computing",
+          "score": 0.9301000237464905,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1705",
+            "display_name": "Computer Networks and Communications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/industry-4.0",
+          "display_name": "Industry 4.0",
+          "score": 0.7473304271697998
+        },
+        {
+          "id": "https://openalex.org/keywords/factory",
+          "display_name": "Factory (object-oriented programming)",
+          "score": 0.4781970977783203
+        },
+        {
+          "id": "https://openalex.org/keywords/emerging-technologies",
+          "display_name": "Emerging technologies",
+          "score": 0.47578752040863037
+        },
+        {
+          "id": "https://openalex.org/keywords/cloud-computing",
+          "display_name": "Cloud computing",
+          "score": 0.4504920542240143
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-manufacturing",
+          "display_name": "Smart manufacturing",
+          "score": 0.4422210454940796
+        },
+        {
+          "id": "https://openalex.org/keywords/industrial-revolution",
+          "display_name": "Industrial Revolution",
+          "score": 0.4413207471370697
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4070097506046295
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.36089521646499634
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering-management",
+          "display_name": "Engineering management",
+          "score": 0.35820287466049194
+        },
+        {
+          "id": "https://openalex.org/keywords/knowledge-management",
+          "display_name": "Knowledge management",
+          "score": 0.33668240904808044
+        },
+        {
+          "id": "https://openalex.org/keywords/manufacturing-engineering",
+          "display_name": "Manufacturing engineering",
+          "score": 0.31021177768707275
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.1338675618171692
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777986313",
+          "wikidata": "https://www.wikidata.org/wiki/Q1661989",
+          "display_name": "Industry 4.0",
+          "level": 2,
+          "score": 0.7473304271697998
+        },
+        {
+          "id": "https://openalex.org/C40149104",
+          "wikidata": "https://www.wikidata.org/wiki/Q5620977",
+          "display_name": "Factory (object-oriented programming)",
+          "level": 2,
+          "score": 0.4781970977783203
+        },
+        {
+          "id": "https://openalex.org/C207267971",
+          "wikidata": "https://www.wikidata.org/wiki/Q120208",
+          "display_name": "Emerging technologies",
+          "level": 2,
+          "score": 0.47578752040863037
+        },
+        {
+          "id": "https://openalex.org/C79974875",
+          "wikidata": "https://www.wikidata.org/wiki/Q483639",
+          "display_name": "Cloud computing",
+          "level": 2,
+          "score": 0.4504920542240143
+        },
+        {
+          "id": "https://openalex.org/C2988642114",
+          "wikidata": "https://www.wikidata.org/wiki/Q25112020",
+          "display_name": "Smart manufacturing",
+          "level": 2,
+          "score": 0.4422210454940796
+        },
+        {
+          "id": "https://openalex.org/C517468935",
+          "wikidata": "https://www.wikidata.org/wiki/Q2269",
+          "display_name": "Industrial Revolution",
+          "level": 2,
+          "score": 0.4413207471370697
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4070097506046295
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.36089521646499634
+        },
+        {
+          "id": "https://openalex.org/C110354214",
+          "wikidata": "https://www.wikidata.org/wiki/Q6314146",
+          "display_name": "Engineering management",
+          "level": 1,
+          "score": 0.35820287466049194
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.33668240904808044
+        },
+        {
+          "id": "https://openalex.org/C117671659",
+          "wikidata": "https://www.wikidata.org/wiki/Q11049265",
+          "display_name": "Manufacturing engineering",
+          "level": 1,
+          "score": 0.31021177768707275
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.1338675618171692
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C149635348",
+          "wikidata": "https://www.wikidata.org/wiki/Q193040",
+          "display_name": "Embedded system",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-80737-5_16",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-80737-5_16",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210236352",
+            "display_name": "SIDREA series in accounting and business administration",
+            "issn_l": "2662-9879",
+            "issn": [
+              "2662-9879",
+              "2662-9887"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SIDREA Series in Accounting and Business Administration",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 37,
+      "referenced_works": [
+        "https://openalex.org/W1560042744",
+        "https://openalex.org/W1782215331",
+        "https://openalex.org/W1974272106",
+        "https://openalex.org/W2013709400",
+        "https://openalex.org/W2055627578",
+        "https://openalex.org/W2106813800",
+        "https://openalex.org/W2135062463",
+        "https://openalex.org/W2273400342",
+        "https://openalex.org/W2474335672",
+        "https://openalex.org/W2566728633",
+        "https://openalex.org/W2594509124",
+        "https://openalex.org/W2727197871",
+        "https://openalex.org/W2765719552",
+        "https://openalex.org/W2790284307",
+        "https://openalex.org/W2792054443",
+        "https://openalex.org/W2806160566",
+        "https://openalex.org/W2888041766",
+        "https://openalex.org/W2908311575",
+        "https://openalex.org/W2950988128",
+        "https://openalex.org/W2970520611",
+        "https://openalex.org/W2987004916",
+        "https://openalex.org/W2989041184",
+        "https://openalex.org/W3004848853",
+        "https://openalex.org/W3017967995",
+        "https://openalex.org/W3021264318",
+        "https://openalex.org/W3022900863",
+        "https://openalex.org/W3027672271",
+        "https://openalex.org/W3036435246",
+        "https://openalex.org/W3044262460",
+        "https://openalex.org/W3046930498",
+        "https://openalex.org/W3087879977",
+        "https://openalex.org/W3092823986",
+        "https://openalex.org/W3094127673",
+        "https://openalex.org/W3102291162",
+        "https://openalex.org/W4297081765",
+        "https://openalex.org/W4361016261",
+        "https://openalex.org/W4385492281"
+      ],
+      "related_works": [
+        "https://openalex.org/W2915585365",
+        "https://openalex.org/W3095709909",
+        "https://openalex.org/W3018215545",
+        "https://openalex.org/W4315783066",
+        "https://openalex.org/W2605859962",
+        "https://openalex.org/W3184091693",
+        "https://openalex.org/W2954215131",
+        "https://openalex.org/W4387261294",
+        "https://openalex.org/W2970339841",
+        "https://openalex.org/W2789411814"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

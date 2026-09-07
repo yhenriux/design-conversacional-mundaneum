@@ -1,0 +1,1080 @@
+{
+  "id": "https://openalex.org/W2795703048",
+  "doi": "https://doi.org/10.1145/3170427.3170619",
+  "title": "Voice-based Conversational UX Studies and Design",
+  "display_name": "Voice-based Conversational UX Studies and Design",
+  "publication_year": 2018,
+  "publication_date": "2018-04-20",
+  "ids": {
+    "openalex": "https://openalex.org/W2795703048",
+    "doi": "https://doi.org/10.1145/3170427.3170619",
+    "mag": "2795703048"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3170427.3170619",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3170427.3170619",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5020860057",
+        "display_name": "Stuart Reeves",
+        "orcid": "https://orcid.org/0000-0001-7145-3320"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stuart Reeves",
+      "raw_affiliation_strings": [
+        "University of Nottingham, Nottingham, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Nottingham, Nottingham, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5063697388",
+        "display_name": "Martin Porcheron",
+        "orcid": "https://orcid.org/0000-0003-3814-7174"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Martin Porcheron",
+      "raw_affiliation_strings": [
+        "University of Nottingham, Nottingham, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Nottingham, Nottingham, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5091627990",
+        "display_name": "Joel E. Fischer",
+        "orcid": "https://orcid.org/0000-0001-8878-2454"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I142263535",
+          "display_name": "University of Nottingham",
+          "ror": "https://ror.org/01ee9ar58",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Joel E. Fischer",
+      "raw_affiliation_strings": [
+        "University of Nottingham, Nottingham, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Nottingham, Nottingham, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I142263535"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057612173",
+        "display_name": "Heloísa Candello",
+        "orcid": "https://orcid.org/0000-0002-0365-8057"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210113516",
+          "display_name": "IBM Research - Brazil",
+          "ror": "https://ror.org/01fxqdx25",
+          "country_code": "BR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1341412227",
+            "https://openalex.org/I4210113516",
+            "https://openalex.org/I4210114115"
+          ]
+        }
+      ],
+      "countries": [
+        "BR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Heloisa Candello",
+      "raw_affiliation_strings": [
+        "IBM Research -- Brazil, Sao Paulo, Brazil"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IBM Research -- Brazil, Sao Paulo, Brazil",
+          "institution_ids": [
+            "https://openalex.org/I4210113516"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5102978968",
+        "display_name": "Donald McMillan",
+        "orcid": "https://orcid.org/0000-0002-1392-5737"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161593684",
+          "display_name": "Stockholm University",
+          "ror": "https://ror.org/05f0yaq80",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Donald McMillan",
+      "raw_affiliation_strings": [
+        "Stockholm University, Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Stockholm University, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046005613",
+        "display_name": "Moira McGregor",
+        "orcid": "https://orcid.org/0000-0002-8194-0955"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I161593684",
+          "display_name": "Stockholm University",
+          "ror": "https://ror.org/05f0yaq80",
+          "country_code": "SE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ],
+      "countries": [
+        "SE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Moira McGregor",
+      "raw_affiliation_strings": [
+        "Stockholm University, Stockholm, Sweden"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Stockholm University, Stockholm, Sweden",
+          "institution_ids": [
+            "https://openalex.org/I161593684"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5075524542",
+        "display_name": "Robert J. Moore",
+        "orcid": "https://orcid.org/0000-0002-5636-9822"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210085935",
+          "display_name": "IBM Research - Almaden",
+          "ror": "https://ror.org/005w8dd04",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1341412227",
+            "https://openalex.org/I4210085935",
+            "https://openalex.org/I4210114115"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Robert J. Moore",
+      "raw_affiliation_strings": [
+        "IBM Research - Almaden, San Jose, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IBM Research - Almaden, San Jose, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210085935"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5013373933",
+        "display_name": "Rein Ove Sikveland",
+        "orcid": "https://orcid.org/0000-0002-6322-5800"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I143804889",
+          "display_name": "Loughborough University",
+          "ror": "https://ror.org/04vg4w365",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I143804889"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Rein Sikveland",
+      "raw_affiliation_strings": [
+        "Loughborough University, Loughborough, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Loughborough University, Loughborough, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I143804889"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5029562752",
+        "display_name": "Alex Taylor",
+        "orcid": "https://orcid.org/0000-0001-6311-3967"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I180825142",
+          "display_name": "City, University of London",
+          "ror": "https://ror.org/04489at23",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I124357947",
+            "https://openalex.org/I180825142"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Alex S. Taylor",
+      "raw_affiliation_strings": [
+        "City, University of London, London, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "City, University of London, London, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I180825142"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5101554800",
+        "display_name": "Julia Velkovska",
+        "orcid": "https://orcid.org/0009-0009-2388-6418"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19370010",
+          "display_name": "Orange (France)",
+          "ror": "https://ror.org/035j0tq82",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I19370010"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Julia Velkovska",
+      "raw_affiliation_strings": [
+        "Orange Labs, Paris, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Orange Labs, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I19370010"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5046152071",
+        "display_name": "Moustafa Zouinar",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I19370010",
+          "display_name": "Orange (France)",
+          "ror": "https://ror.org/035j0tq82",
+          "country_code": "FR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I19370010"
+          ]
+        }
+      ],
+      "countries": [
+        "FR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Moustafa Zouinar",
+      "raw_affiliation_strings": [
+        "Orange Labs, Paris, France"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Orange Labs, Paris, France",
+          "institution_ids": [
+            "https://openalex.org/I19370010"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 7,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 1.3582,
+  "has_fulltext": false,
+  "cited_by_count": 22,
+  "citation_normalized_percentile": {
+    "value": 0.85895635,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "8"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.9966999888420105,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6648261547088623
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.6005041003227234
+    },
+    {
+      "id": "https://openalex.org/keywords/user-experience-design",
+      "display_name": "User experience design",
+      "score": 0.5036765933036804
+    },
+    {
+      "id": "https://openalex.org/keywords/interaction-design",
+      "display_name": "Interaction design",
+      "score": 0.434251606464386
+    },
+    {
+      "id": "https://openalex.org/keywords/empirical-research",
+      "display_name": "Empirical research",
+      "score": 0.4271397888660431
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6648261547088623
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.6005041003227234
+    },
+    {
+      "id": "https://openalex.org/C201025465",
+      "wikidata": "https://www.wikidata.org/wiki/Q11248500",
+      "display_name": "User experience design",
+      "level": 2,
+      "score": 0.5036765933036804
+    },
+    {
+      "id": "https://openalex.org/C13854087",
+      "wikidata": "https://www.wikidata.org/wiki/Q1061656",
+      "display_name": "Interaction design",
+      "level": 2,
+      "score": 0.434251606464386
+    },
+    {
+      "id": "https://openalex.org/C120936955",
+      "wikidata": "https://www.wikidata.org/wiki/Q2155640",
+      "display_name": "Empirical research",
+      "level": 2,
+      "score": 0.4271397888660431
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C111472728",
+      "wikidata": "https://www.wikidata.org/wiki/Q9471",
+      "display_name": "Epistemology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3170427.3170619",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3170427.3170619",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Extended Abstracts of the 2018 CHI Conference on Human Factors in Computing Systems",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.6100000143051147,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [
+    {
+      "id": "https://openalex.org/G4434080624",
+      "display_name": null,
+      "funder_award_id": "EP/G065802/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    },
+    {
+      "id": "https://openalex.org/G7856825579",
+      "display_name": null,
+      "funder_award_id": "EP/M02315X/1",
+      "funder_id": "https://openalex.org/F4320334627",
+      "funder_display_name": "Engineering and Physical Sciences Research Council"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320334627",
+      "display_name": "Engineering and Physical Sciences Research Council",
+      "ror": "https://ror.org/0439y7842"
+    }
+  ],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 16,
+  "referenced_works": [
+    "https://openalex.org/W263211373",
+    "https://openalex.org/W1796112755",
+    "https://openalex.org/W1996139460",
+    "https://openalex.org/W2004513044",
+    "https://openalex.org/W2057563799",
+    "https://openalex.org/W2404769241",
+    "https://openalex.org/W2405187948",
+    "https://openalex.org/W2510136697",
+    "https://openalex.org/W2567237851",
+    "https://openalex.org/W2581904482",
+    "https://openalex.org/W2588101742",
+    "https://openalex.org/W2588723544",
+    "https://openalex.org/W2611556044",
+    "https://openalex.org/W2611722641",
+    "https://openalex.org/W2614052113",
+    "https://openalex.org/W2787712888"
+  ],
+  "related_works": [
+    "https://openalex.org/W4224032630",
+    "https://openalex.org/W3163321199",
+    "https://openalex.org/W2320068085",
+    "https://openalex.org/W4293198839",
+    "https://openalex.org/W2045235295",
+    "https://openalex.org/W2971404056",
+    "https://openalex.org/W2012552426",
+    "https://openalex.org/W4249874437",
+    "https://openalex.org/W3042490037",
+    "https://openalex.org/W2043774331"
+  ],
+  "abstract_inverted_index": {
+    "Voice": [
+      0
+    ],
+    "User": [
+      1
+    ],
+    "Interfaces": [
+      2
+    ],
+    "are": [
+      3,
+      129
+    ],
+    "becoming": [
+      4
+    ],
+    "ubiquitously": [
+      5
+    ],
+    "available,": [
+      6
+    ],
+    "providing": [
+      7
+    ],
+    "unprecedented": [
+      8
+    ],
+    "opportunities": [
+      9
+    ],
+    "to": [
+      10,
+      28,
+      35,
+      38,
+      56,
+      81,
+      88,
+      108,
+      114,
+      122
+    ],
+    "advance": [
+      11
+    ],
+    "our": [
+      12
+    ],
+    "understanding": [
+      13
+    ],
+    "of": [
+      14,
+      21,
+      69,
+      91,
+      100,
+      104,
+      134
+    ],
+    "voice": [
+      15,
+      32,
+      70,
+      135
+    ],
+    "interaction": [
+      16
+    ],
+    "in": [
+      17,
+      31,
+      72,
+      131
+    ],
+    "a": [
+      18
+    ],
+    "burgeoning": [
+      19
+    ],
+    "array": [
+      20
+    ],
+    "practices": [
+      22
+    ],
+    "and": [
+      23,
+      34,
+      46,
+      58,
+      62,
+      74,
+      118
+    ],
+    "settings.": [
+      24
+    ],
+    "We": [
+      25,
+      79
+    ],
+    "invite": [
+      26
+    ],
+    "participants": [
+      27
+    ],
+    "contribute": [
+      29
+    ],
+    "work-in-progress": [
+      30
+    ],
+    "interaction,": [
+      33
+    ],
+    "come": [
+      36
+    ],
+    "together": [
+      37
+    ],
+    "reflect": [
+      39
+    ],
+    "on": [
+      40,
+      83
+    ],
+    "related": [
+      41
+    ],
+    "methodological": [
+      42
+    ],
+    "matters,": [
+      43
+    ],
+    "social": [
+      44
+    ],
+    "uses,": [
+      45
+    ],
+    "design": [
+      47,
+      77,
+      133
+    ],
+    "issues.": [
+      48
+    ],
+    "This": [
+      49
+    ],
+    "one-day": [
+      50
+    ],
+    "workshop": [
+      51
+    ],
+    "will": [
+      52,
+      106
+    ],
+    "be": [
+      53,
+      112
+    ],
+    "geared": [
+      54
+    ],
+    "specifically": [
+      55
+    ],
+    "present": [
+      57
+    ],
+    "discuss": [
+      59
+    ],
+    "methodologies": [
+      60
+    ],
+    "for,": [
+      61
+    ],
+    "data": [
+      63
+    ],
+    "emerging": [
+      64,
+      76
+    ],
+    "from,": [
+      65
+    ],
+    "ongoing": [
+      66
+    ],
+    "empirical": [
+      67
+    ],
+    "studies": [
+      68,
+      96
+    ],
+    "interfaces": [
+      71
+    ],
+    "use": [
+      73
+    ],
+    "connected": [
+      75
+    ],
+    "insights.": [
+      78
+    ],
+    "seek": [
+      80
+    ],
+    "draw": [
+      82
+    ],
+    "participants'": [
+      84
+    ],
+    "(alongside": [
+      85
+    ],
+    "organisers')": [
+      86
+    ],
+    "contributions": [
+      87
+    ],
+    "explore": [
+      89
+    ],
+    "ways": [
+      90
+    ],
+    "operationalising": [
+      92
+    ],
+    "findings": [
+      93
+    ],
+    "from": [
+      94
+    ],
+    "such": [
+      95
+    ],
+    "for": [
+      97
+    ],
+    "the": [
+      98,
+      132
+    ],
+    "purposes": [
+      99
+    ],
+    "design.": [
+      101
+    ],
+    "As": [
+      102
+    ],
+    "part": [
+      103
+    ],
+    "this,": [
+      105
+    ],
+    "try": [
+      107
+    ],
+    "identify": [
+      109
+    ],
+    "what": [
+      110
+    ],
+    "can": [
+      111
+    ],
+    "done": [
+      113
+    ],
+    "improve": [
+      115
+    ],
+    "user": [
+      116
+    ],
+    "experience": [
+      117
+    ],
+    "consider": [
+      119
+    ],
+    "creative": [
+      120
+    ],
+    "approaches": [
+      121
+    ],
+    "how": [
+      123
+    ],
+    "we": [
+      124
+    ],
+    "might": [
+      125
+    ],
+    "ameliorate": [
+      126
+    ],
+    "challenges": [
+      127
+    ],
+    "that": [
+      128
+    ],
+    "faced": [
+      130
+    ],
+    "UIs.": [
+      136
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-07-29T14:22:42.915294",
+  "created_date": "2025-10-10T00:00:00"
+}

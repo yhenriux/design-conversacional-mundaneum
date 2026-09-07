@@ -1,0 +1,472 @@
+{
+  "id": "https://openalex.org/W2889877402",
+  "doi": "https://doi.org/10.1007/978-3-319-95579-7_9",
+  "title": "A Natural Conversation Framework for Conversational UX Design",
+  "display_name": "A Natural Conversation Framework for Conversational UX Design",
+  "publication_year": 2018,
+  "publication_date": "2018-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2889877402",
+    "doi": "https://doi.org/10.1007/978-3-319-95579-7_9",
+    "mag": "2889877402"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-319-95579-7_9",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-319-95579-7_9",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210187768",
+      "display_name": "Human-computer interaction series",
+      "issn_l": "1571-5035",
+      "issn": [
+        "1571-5035",
+        "2524-4477"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319965",
+      "host_organization_name": "Springer Nature",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Human–Computer Interaction Series",
+    "raw_type": "book-chapter"
+  },
+  "type": "book-chapter",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5075524542",
+        "display_name": "Robert J. Moore",
+        "orcid": "https://orcid.org/0000-0002-5636-9822"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210085935",
+          "display_name": "IBM Research - Almaden",
+          "ror": "https://ror.org/005w8dd04",
+          "country_code": "US",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1341412227",
+            "https://openalex.org/I4210085935",
+            "https://openalex.org/I4210114115"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Robert J. Moore",
+      "raw_affiliation_strings": [
+        "IBM Research-Almaden, San Jose, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "IBM Research-Almaden, San Jose, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I4210085935"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5075524542"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I4210085935"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.4039,
+  "has_fulltext": false,
+  "cited_by_count": 18,
+  "citation_normalized_percentile": {
+    "value": 0.96613747,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "181",
+    "last_page": "204"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12031",
+    "display_name": "Speech and dialogue systems",
+    "score": 0.9980000257492065,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9980000257492065,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10383",
+      "display_name": "Language, Discourse, Communication Strategies",
+      "score": 0.9973999857902527,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1203",
+        "display_name": "Language and Linguistics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/12",
+        "display_name": "Arts and Humanities"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.988099992275238,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.8644207119941711
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.7464443445205688
+    },
+    {
+      "id": "https://openalex.org/keywords/chatbot",
+      "display_name": "Chatbot",
+      "score": 0.6551932096481323
+    },
+    {
+      "id": "https://openalex.org/keywords/ibm",
+      "display_name": "IBM",
+      "score": 0.6246513724327087
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.5733599662780762
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language",
+      "display_name": "Natural language",
+      "score": 0.5599119067192078
+    },
+    {
+      "id": "https://openalex.org/keywords/natural",
+      "display_name": "Natural (archaeology)",
+      "score": 0.4709927439689636
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-understanding",
+      "display_name": "Natural language understanding",
+      "score": 0.4273698925971985
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-processing",
+      "display_name": "Natural language processing",
+      "score": 0.34816300868988037
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.19716474413871765
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.8644207119941711
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.7464443445205688
+    },
+    {
+      "id": "https://openalex.org/C2779041454",
+      "wikidata": "https://www.wikidata.org/wiki/Q870780",
+      "display_name": "Chatbot",
+      "level": 2,
+      "score": 0.6551932096481323
+    },
+    {
+      "id": "https://openalex.org/C70388272",
+      "wikidata": "https://www.wikidata.org/wiki/Q5968558",
+      "display_name": "IBM",
+      "level": 2,
+      "score": 0.6246513724327087
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.5733599662780762
+    },
+    {
+      "id": "https://openalex.org/C195324797",
+      "wikidata": "https://www.wikidata.org/wiki/Q33742",
+      "display_name": "Natural language",
+      "level": 2,
+      "score": 0.5599119067192078
+    },
+    {
+      "id": "https://openalex.org/C2776608160",
+      "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+      "display_name": "Natural (archaeology)",
+      "level": 2,
+      "score": 0.4709927439689636
+    },
+    {
+      "id": "https://openalex.org/C2779439875",
+      "wikidata": "https://www.wikidata.org/wiki/Q1078276",
+      "display_name": "Natural language understanding",
+      "level": 3,
+      "score": 0.4273698925971985
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.34816300868988037
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.19716474413871765
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C171250308",
+      "wikidata": "https://www.wikidata.org/wiki/Q11468",
+      "display_name": "Nanotechnology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C192562407",
+      "wikidata": "https://www.wikidata.org/wiki/Q228736",
+      "display_name": "Materials science",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C95457728",
+      "wikidata": "https://www.wikidata.org/wiki/Q309",
+      "display_name": "History",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-319-95579-7_9",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-319-95579-7_9",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210187768",
+        "display_name": "Human-computer interaction series",
+        "issn_l": "1571-5035",
+        "issn": [
+          "1571-5035",
+          "2524-4477"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319965",
+        "host_organization_name": "Springer Nature",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Human–Computer Interaction Series",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.7900000214576721
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W263211373",
+    "https://openalex.org/W1219741494",
+    "https://openalex.org/W1976729764",
+    "https://openalex.org/W1980298376",
+    "https://openalex.org/W1997372575",
+    "https://openalex.org/W2068687198",
+    "https://openalex.org/W2153190547",
+    "https://openalex.org/W2331655103",
+    "https://openalex.org/W2498260772",
+    "https://openalex.org/W4212955756",
+    "https://openalex.org/W4248634141"
+  ],
+  "related_works": [
+    "https://openalex.org/W2750213978",
+    "https://openalex.org/W3200957432",
+    "https://openalex.org/W3203916972",
+    "https://openalex.org/W4212804285",
+    "https://openalex.org/W4223576922",
+    "https://openalex.org/W4390449165",
+    "https://openalex.org/W4386324614",
+    "https://openalex.org/W4386790411",
+    "https://openalex.org/W4289529888",
+    "https://openalex.org/W2955076648"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 4
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-08-04T08:18:43.703281",
+  "created_date": "2025-10-10T00:00:00"
+}

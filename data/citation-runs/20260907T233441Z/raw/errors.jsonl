@@ -1,0 +1,10 @@
+{"seed": "DCM-00102", "reference": "https://openalex.org/W4212955756", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00104", "reference": "https://openalex.org/W4212955756", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00106", "reference": "https://openalex.org/W4212955756", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00108", "reference": "https://openalex.org/W4212955756", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00109", "reference": "https://openalex.org/W3103136653", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00109", "reference": "https://openalex.org/W4212955756", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00111", "reference": "https://openalex.org/W3130880317", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00111", "reference": "https://openalex.org/W3160782978", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00111", "reference": "https://openalex.org/W6783783664", "error": "<HTTPError 404: 'Not Found'>"}
+{"seed": "DCM-00111", "reference": "https://openalex.org/W6873558470", "error": "<HTTPError 404: 'Not Found'>"}
