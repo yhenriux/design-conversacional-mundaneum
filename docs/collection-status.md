@@ -2,26 +2,26 @@
 
 Atualizado em 7 de setembro de 2026.
 
-Nesta rodada, o OpenAlex concluiu a resolução dos 1.380 DOIs que estavam na fila. Foram localizados 87 endereços de PDF em 78 estudos. O Semantic Scholar acrescentou 76 endereços, dos quais 8 retornaram arquivos PDF nesta tentativa.
+Nas rodadas recentes, a expansão por citações e a busca institucional brasileira ampliaram o inventário. O estado abaixo corresponde ao último resumo do corpus mestre.
 
 Esta etapa reúne obras e tenta localizar arquivos de acesso aberto. Não há leitura integral, validação bibliográfica final ou análise temática neste ciclo.
 
 | Indicador | Quantidade |
 |---|---:|
-| Obras únicas descobertas | 6.173 |
-| Registros com DOI | 5.595 |
-| Endereços de PDF identificados | 4.415 |
+| Obras únicas descobertas | 7.160 |
+| Registros com DOI | 6.507 |
+| Endereços de PDF identificados | 4.633 |
 | Arquivos recebidos | 2.299 |
-| Obras sem arquivo recebido | 3.876 |
-| Transferências sem PDF válido | 2.358 |
-| Registros sem DOI | 156 |
-| Registros com DOI, mas sem endereço de PDF | 1.358 |
+| Obras sem arquivo recebido | 4.829 |
+| Transferências sem PDF válido | 2.393 |
+| Registros sem DOI | 217 |
+| Registros com DOI, mas sem endereço de PDF | 2.066 |
 | URLs pendentes de tentativa no inventário atual | 0 |
 
 ## Pendências de coleta
 
-1. Resolver endereços para os 1.358 registros com DOI sem URL direta.
-2. Repetir a recuperação das 2.360 tentativas que não retornaram PDF.
+1. Resolver endereços para os 2.066 registros com DOI sem URL direta.
+2. Repetir a recuperação das 2.393 tentativas que não retornaram PDF.
 3. Localizar arquivos para obras descobertas sem endereço eletrônico.
 4. Ampliar buscas em repositórios brasileiros de todas as regiões.
 5. Executar rotinas específicas para francês, alemão, italiano, mandarim, japonês e coreano.
