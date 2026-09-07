@@ -55,6 +55,8 @@ Além das vinte rotas globais, o ciclo de exaustão documental usa fontes federa
 
 Esses endpoints foram identificados em documentação pública. A confirmação de disponibilidade de PDF continua sendo feita registro a registro, sem presumir que todo item de um agregador possua texto completo.
 
+Em 7 de setembro de 2026, a requisição `Identify` à BDTD retornou uma página de verificação do Oasisbr, em vez de XML OAI-PMH. A rota permanece catalogada, mas a colheita automatizada será retomada somente quando o serviço responder sem esse bloqueio; não serão usados mecanismos para contorná-lo.
+
 Na BDTD, o portal nacional aponta para o texto completo hospedado pela instituição de defesa. Por isso, a recuperação deve seguir o link institucional, registrar a instituição, o estado e o repositório de origem, e só aceitar o arquivo depois da validação bibliográfica.
 
 ## Ordem de conexão
