@@ -5,7 +5,7 @@ Preserva candidatos separados do corpus mestre: toda referência citada ou citan
 precisa novamente passar por deduplicação e pelo portão ontológico.
 """
 from __future__ import annotations
-import argparse,csv,json,re,urllib.parse,urllib.request
+import argparse,csv,json,re,time,urllib.error,urllib.parse,urllib.request
 from datetime import datetime,timezone
 from pathlib import Path
 
@@ -16,11 +16,16 @@ def rows(path):
  with path.open(encoding="utf-8-sig",newline="") as h:return list(csv.DictReader(h))
 def fetch(url):
  req=urllib.request.Request(url,headers={"User-Agent":UA,"Accept":"application/json"})
- with urllib.request.urlopen(req,timeout=60) as r:return json.loads(r.read())
+ for attempt in range(4):
+  try:
+   with urllib.request.urlopen(req,timeout=60) as r:return json.loads(r.read())
+  except urllib.error.HTTPError as exc:
+   if exc.code != 429 or attempt == 3: raise
+   time.sleep(float(exc.headers.get("Retry-After", min(60, 10 * (2 ** attempt)))))
 def record(work,relation,seed):
  return {"seed_corpus_id":seed["corpus_id"],"seed_title":seed["title"],"relation":relation,"openalex_id":work.get("id","") ,"doi":work.get("doi","") or "","title":work.get("title","") or "","year":work.get("publication_year","") or "","type":work.get("type","") or "","cited_by_count":work.get("cited_by_count",0),"landing_url":((work.get("primary_location") or {}).get("landing_page_url") or ""),"pdf_url":((work.get("best_oa_location") or {}).get("pdf_url") or ""),"discovery_status":"pendente-de-deduplicacao-e-portao-ontologico"}
 def main():
- p=argparse.ArgumentParser();p.add_argument("--limit-seeds",type=int,default=50);p.add_argument("--seed-offset",type=int,default=0);p.add_argument("--citing-per-seed",type=int,default=50);p.add_argument("--references-per-seed",type=int,default=25,help="Limite explícito por ciclo; ciclos posteriores percorrem sementes adicionais.");a=p.parse_args()
+ p=argparse.ArgumentParser();p.add_argument("--limit-seeds",type=int,default=50);p.add_argument("--seed-offset",type=int,default=0);p.add_argument("--citing-per-seed",type=int,default=50);p.add_argument("--references-per-seed",type=int,default=25);p.add_argument("--sleep",type=float,default=1.5,help="Intervalo entre sementes para respeitar limites da API.");a=p.parse_args()
  corpus=rows(ROOT/"data/corpus/master-corpus.csv")
  seeds=[r for r in corpus if r.get('ontology_score')=='4' and r['doi']][a.seed_offset:a.seed_offset+a.limit_seeds]
  out=[];seen=set();run_id=datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
@@ -43,6 +48,7 @@ def main():
     if key not in seen:seen.add(key);out.append(record(item,"citante",seed))
   except Exception as exc:
    print(f"erro {seed['corpus_id']}: {exc}")
+  time.sleep(a.sleep)
  target=ROOT/"data/citation-runs"/run_id;fields=list(out[0]) if out else ["seed_corpus_id","seed_title","relation","openalex_id","doi","title","year","type","cited_by_count","landing_url","pdf_url","discovery_status"]
  with (target/"candidates.csv").open("w",encoding="utf-8-sig",newline="") as h:
   w=csv.DictWriter(h,fieldnames=fields);w.writeheader();w.writerows(out)
