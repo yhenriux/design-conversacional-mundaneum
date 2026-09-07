@@ -1,0 +1,938 @@
+{
+  "id": "https://openalex.org/W4411717273",
+  "doi": "https://doi.org/10.1177/14780771251352930",
+  "title": "AI-enhanced conversational design process for the development of structural AirWebs",
+  "display_name": "AI-enhanced conversational design process for the development of structural AirWebs",
+  "publication_year": 2025,
+  "publication_date": "2025-06-27",
+  "ids": {
+    "openalex": "https://openalex.org/W4411717273",
+    "doi": "https://doi.org/10.1177/14780771251352930"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1177/14780771251352930",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/14780771251352930",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/14780771251352930?download=true",
+    "source": {
+      "id": "https://openalex.org/S10544101",
+      "display_name": "International Journal of Architectural Computing",
+      "issn_l": "1478-0771",
+      "issn": [
+        "1478-0771",
+        "2048-3988"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Architectural Computing",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/14780771251352930?download=true",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5006254815",
+        "display_name": "Juan Carlos Dall’Asta",
+        "orcid": "https://orcid.org/0000-0002-8600-2757"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69356397",
+          "display_name": "Xi’an Jiaotong-Liverpool University",
+          "ror": "https://ror.org/03zmrmn05",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Juan Carlos Dall’Asta",
+      "raw_affiliation_strings": [
+        "Xi’An Jiaotong-Liverpool University",
+        "Xi’An Jiaotong-Liverpool University, Suzhou, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8600-2757",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Xi’An Jiaotong-Liverpool University",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Xi’An Jiaotong-Liverpool University, Suzhou, China",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5062360698",
+        "display_name": "Giancarlo Di Marco",
+        "orcid": "https://orcid.org/0000-0001-6339-7517"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69356397",
+          "display_name": "Xi’an Jiaotong-Liverpool University",
+          "ror": "https://ror.org/03zmrmn05",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Giancarlo Di Marco",
+      "raw_affiliation_strings": [
+        "Xi’An Jiaotong-Liverpool University",
+        "Xi’An Jiaotong-Liverpool University, Suzhou, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6339-7517",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Xi’An Jiaotong-Liverpool University",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Xi’An Jiaotong-Liverpool University, Suzhou, China",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5006254815"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I69356397"
+  ],
+  "apc_list": {
+    "value": 4150,
+    "currency": "USD",
+    "value_usd": 4150
+  },
+  "apc_paid": null,
+  "fwci": 0.4598,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.60409659,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "23",
+    "issue": "4",
+    "first_page": "872",
+    "last_page": "887"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11006",
+    "display_name": "BIM and Construction Integration",
+    "score": 0.9939000010490417,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2215",
+      "display_name": "Building and Construction"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11006",
+      "display_name": "BIM and Construction Integration",
+      "score": 0.9939000010490417,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "score": 0.9891999959945679,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11159",
+      "display_name": "Manufacturing Process and Optimization",
+      "score": 0.9631999731063843,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2209",
+        "display_name": "Industrial and Manufacturing Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.6127575635910034
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.45101526379585266
+    },
+    {
+      "id": "https://openalex.org/keywords/design-process",
+      "display_name": "Design process",
+      "score": 0.4433507025241852
+    },
+    {
+      "id": "https://openalex.org/keywords/development",
+      "display_name": "Development (topology)",
+      "score": 0.4360581636428833
+    },
+    {
+      "id": "https://openalex.org/keywords/architectural-engineering",
+      "display_name": "Architectural engineering",
+      "score": 0.39372938871383667
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-drawing",
+      "display_name": "Engineering drawing",
+      "score": 0.3828597664833069
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.38236933946609497
+    },
+    {
+      "id": "https://openalex.org/keywords/systems-engineering",
+      "display_name": "Systems engineering",
+      "score": 0.37767383456230164
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.18362465500831604
+    },
+    {
+      "id": "https://openalex.org/keywords/work-in-process",
+      "display_name": "Work in process",
+      "score": 0.17861619591712952
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-management",
+      "display_name": "Operations management",
+      "score": 0.1235266923904419
+    },
+    {
+      "id": "https://openalex.org/keywords/mathematics",
+      "display_name": "Mathematics",
+      "score": 0.1161070168018341
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.6127575635910034
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.45101526379585266
+    },
+    {
+      "id": "https://openalex.org/C48262172",
+      "wikidata": "https://www.wikidata.org/wiki/Q16908765",
+      "display_name": "Design process",
+      "level": 3,
+      "score": 0.4433507025241852
+    },
+    {
+      "id": "https://openalex.org/C2776542497",
+      "wikidata": "https://www.wikidata.org/wiki/Q5266672",
+      "display_name": "Development (topology)",
+      "level": 2,
+      "score": 0.4360581636428833
+    },
+    {
+      "id": "https://openalex.org/C170154142",
+      "wikidata": "https://www.wikidata.org/wiki/Q150737",
+      "display_name": "Architectural engineering",
+      "level": 1,
+      "score": 0.39372938871383667
+    },
+    {
+      "id": "https://openalex.org/C199639397",
+      "wikidata": "https://www.wikidata.org/wiki/Q1788588",
+      "display_name": "Engineering drawing",
+      "level": 1,
+      "score": 0.3828597664833069
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.38236933946609497
+    },
+    {
+      "id": "https://openalex.org/C201995342",
+      "wikidata": "https://www.wikidata.org/wiki/Q682496",
+      "display_name": "Systems engineering",
+      "level": 1,
+      "score": 0.37767383456230164
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.18362465500831604
+    },
+    {
+      "id": "https://openalex.org/C174998907",
+      "wikidata": "https://www.wikidata.org/wiki/Q357662",
+      "display_name": "Work in process",
+      "level": 2,
+      "score": 0.17861619591712952
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.1235266923904419
+    },
+    {
+      "id": "https://openalex.org/C33923547",
+      "wikidata": "https://www.wikidata.org/wiki/Q395",
+      "display_name": "Mathematics",
+      "level": 0,
+      "score": 0.1161070168018341
+    },
+    {
+      "id": "https://openalex.org/C134306372",
+      "wikidata": "https://www.wikidata.org/wiki/Q7754",
+      "display_name": "Mathematical analysis",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1177/14780771251352930",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1177/14780771251352930",
+      "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/14780771251352930?download=true",
+      "source": {
+        "id": "https://openalex.org/S10544101",
+        "display_name": "International Journal of Architectural Computing",
+        "issn_l": "1478-0771",
+        "issn": [
+          "1478-0771",
+          "2048-3988"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320017",
+        "host_organization_name": "SAGE Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320017"
+        ],
+        "host_organization_lineage_names": [
+          "SAGE Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "International Journal of Architectural Computing",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1177/14780771251352930",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1177/14780771251352930",
+    "pdf_url": "https://journals.sagepub.com/doi/pdf/10.1177/14780771251352930?download=true",
+    "source": {
+      "id": "https://openalex.org/S10544101",
+      "display_name": "International Journal of Architectural Computing",
+      "issn_l": "1478-0771",
+      "issn": [
+        "1478-0771",
+        "2048-3988"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320017",
+      "host_organization_name": "SAGE Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320017"
+      ],
+      "host_organization_lineage_names": [
+        "SAGE Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "International Journal of Architectural Computing",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320324032",
+      "display_name": "Xi’an Jiaotong-Liverpool University",
+      "ror": "https://ror.org/03zmrmn05"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4411717273.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4411717273.grobid-xml"
+  },
+  "referenced_works_count": 14,
+  "referenced_works": [
+    "https://openalex.org/W576200315",
+    "https://openalex.org/W645928450",
+    "https://openalex.org/W659108335",
+    "https://openalex.org/W2010793828",
+    "https://openalex.org/W2142692705",
+    "https://openalex.org/W2144487372",
+    "https://openalex.org/W2914677814",
+    "https://openalex.org/W2955890172",
+    "https://openalex.org/W4236469263",
+    "https://openalex.org/W4377241837",
+    "https://openalex.org/W4388700152",
+    "https://openalex.org/W4392113204",
+    "https://openalex.org/W4407669275",
+    "https://openalex.org/W6858545937"
+  ],
+  "related_works": [
+    "https://openalex.org/W2311528424",
+    "https://openalex.org/W75003721",
+    "https://openalex.org/W4403485586",
+    "https://openalex.org/W4399184054",
+    "https://openalex.org/W775120146",
+    "https://openalex.org/W2206506570",
+    "https://openalex.org/W2359991082",
+    "https://openalex.org/W2138645650",
+    "https://openalex.org/W4378192351",
+    "https://openalex.org/W2292928716"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      65
+    ],
+    "research": [
+      1
+    ],
+    "proposes": [
+      2
+    ],
+    "a": [
+      3,
+      41,
+      54,
+      68,
+      102
+    ],
+    "conversational": [
+      4,
+      104
+    ],
+    "design": [
+      5,
+      12,
+      38,
+      115
+    ],
+    "process": [
+      6,
+      39
+    ],
+    "integrating": [
+      7
+    ],
+    "AI,": [
+      8,
+      130
+    ],
+    "biomimicry,": [
+      9,
+      129
+    ],
+    "and": [
+      10,
+      20,
+      25,
+      34,
+      60,
+      92,
+      109,
+      127,
+      131
+    ],
+    "computational": [
+      11,
+      87,
+      132
+    ],
+    "to": [
+      13,
+      48
+    ],
+    "develop": [
+      14
+    ],
+    "Structural": [
+      15
+    ],
+    "AirWebs": [
+      16
+    ],
+    ".": [
+      17
+    ],
+    "AI-generated": [
+      18
+    ],
+    "patterns": [
+      19
+    ],
+    "parametric": [
+      21
+    ],
+    "tools": [
+      22,
+      133
+    ],
+    "iteratively": [
+      23
+    ],
+    "refine": [
+      24
+    ],
+    "simulate": [
+      26
+    ],
+    "geometries": [
+      27
+    ],
+    "inspired": [
+      28
+    ],
+    "by": [
+      29,
+      117
+    ],
+    "spiderweb": [
+      30
+    ],
+    "mechanics,": [
+      31
+    ],
+    "ensuring": [
+      32
+    ],
+    "structural": [
+      33
+    ],
+    "material": [
+      35
+    ],
+    "efficiency.": [
+      36
+    ],
+    "The": [
+      37,
+      99,
+      111
+    ],
+    "followed": [
+      40
+    ],
+    "progressive": [
+      42
+    ],
+    "sequence": [
+      43
+    ],
+    "of": [
+      44,
+      57,
+      62
+    ],
+    "experiments,": [
+      45
+    ],
+    "from": [
+      46
+    ],
+    "simpler": [
+      47
+    ],
+    "more": [
+      49
+    ],
+    "complex": [
+      50
+    ],
+    "patterns,": [
+      51
+    ],
+    "allowing": [
+      52
+    ],
+    "for": [
+      53
+    ],
+    "better": [
+      55
+    ],
+    "understanding": [
+      56
+    ],
+    "the": [
+      58,
+      78,
+      107
+    ],
+    "potential": [
+      59
+    ],
+    "limitations": [
+      61
+    ],
+    "image-based": [
+      63
+    ],
+    "simulations.": [
+      64
+    ],
+    "dialogue": [
+      66
+    ],
+    "materialises": [
+      67
+    ],
+    "15": [
+      69
+    ],
+    "×": [
+      70,
+      72
+    ],
+    "5": [
+      71,
+      73
+    ],
+    "m": [
+      74
+    ],
+    "aluminium": [
+      75
+    ],
+    "framework": [
+      76
+    ],
+    "suspending": [
+      77
+    ],
+    "morphemes": [
+      79
+    ],
+    ",": [
+      80
+    ],
+    "laser-engraved": [
+      81
+    ],
+    "acrylic": [
+      82
+    ],
+    "panels,": [
+      83
+    ],
+    "via": [
+      84
+    ],
+    "steel": [
+      85
+    ],
+    "cables:": [
+      86
+    ],
+    "simulation": [
+      88
+    ],
+    "optimises": [
+      89
+    ],
+    "cable": [
+      90
+    ],
+    "tensioning": [
+      91
+    ],
+    "panel": [
+      93
+    ],
+    "alignment,": [
+      94
+    ],
+    "mirroring": [
+      95
+    ],
+    "spider": [
+      96
+    ],
+    "silk’s": [
+      97
+    ],
+    "resilience.": [
+      98
+    ],
+    "workflow": [
+      100
+    ],
+    "exemplifies": [
+      101
+    ],
+    "collaborative,": [
+      103
+    ],
+    "exchange": [
+      105
+    ],
+    "between": [
+      106
+    ],
+    "designer": [
+      108
+    ],
+    "technology.": [
+      110
+    ],
+    "prototype": [
+      112
+    ],
+    "transcends": [
+      113
+    ],
+    "static": [
+      114
+    ],
+    "norms": [
+      116
+    ],
+    "embedding": [
+      118
+    ],
+    "iterative": [
+      119
+    ],
+    "feedback,": [
+      120
+    ],
+    "embodying": [
+      121
+    ],
+    "ecological": [
+      122
+    ],
+    "intelligence": [
+      123
+    ],
+    "through": [
+      124
+    ],
+    "adaptive": [
+      125
+    ],
+    "architecture,": [
+      126
+    ],
+    "demonstrating": [
+      128
+    ],
+    "as": [
+      134
+    ],
+    "co-creators.": [
+      135
+    ],
+    "It": [
+      136
+    ],
+    "redefines": [
+      137
+    ],
+    "sustainable": [
+      138
+    ],
+    "innovation,": [
+      139
+    ],
+    "proving": [
+      140
+    ],
+    "how": [
+      141
+    ],
+    "technology-augmented": [
+      142
+    ],
+    "biomimetic": [
+      143
+    ],
+    "workflows": [
+      144
+    ],
+    "yield": [
+      145
+    ],
+    "scalable,": [
+      146
+    ],
+    "responsive": [
+      147
+    ],
+    "solutions": [
+      148
+    ],
+    "that": [
+      149
+    ],
+    "harmonise": [
+      150
+    ],
+    "environmental": [
+      151
+    ],
+    "sensitivity": [
+      152
+    ],
+    "with": [
+      153
+    ],
+    "technical": [
+      154
+    ],
+    "precision.": [
+      155
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-24T07:32:12.397491",
+  "created_date": "2025-10-10T00:00:00"
+}

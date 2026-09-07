@@ -1,0 +1,795 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 27,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W1582647493)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W1582647493"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W1582647493&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4366985436",
+      "doi": "https://doi.org/10.1057/s41264-023-00230-y",
+      "title": "Factors affecting user trust and intention in adopting chatbots: the moderating role of technology anxiety in insurtech",
+      "display_name": "Factors affecting user trust and intention in adopting chatbots: the moderating role of technology anxiety in insurtech",
+      "publication_year": 2023,
+      "publication_date": "2023-04-25",
+      "ids": {
+        "openalex": "https://openalex.org/W4366985436",
+        "doi": "https://doi.org/10.1057/s41264-023-00230-y"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1057/s41264-023-00230-y",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1057/s41264-023-00230-y",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S126354654",
+          "display_name": "Journal of Financial Services Marketing",
+          "issn_l": "1363-0539",
+          "issn": [
+            "1363-0539",
+            "1479-1846"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319702",
+          "host_organization_name": "Palgrave Macmillan",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319702",
+            "https://openalex.org/P4310319964"
+          ],
+          "host_organization_lineage_names": [
+            "Palgrave Macmillan",
+            "Macmillan Publishers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Financial Services Marketing",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5061156799",
+            "display_name": "Massilva Dekkal",
+            "orcid": "https://orcid.org/0000-0002-3818-7144"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159129438",
+              "display_name": "Université du Québec à Montréal",
+              "ror": "https://ror.org/002rjbv21",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I49663120"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Massilva Dekkal",
+          "raw_affiliation_strings": [
+            "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada",
+              "institution_ids": [
+                "https://openalex.org/I159129438"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076612359",
+            "display_name": "Manon Arcand",
+            "orcid": "https://orcid.org/0000-0002-8340-5606"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159129438",
+              "display_name": "Université du Québec à Montréal",
+              "ror": "https://ror.org/002rjbv21",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I49663120"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Manon Arcand",
+          "raw_affiliation_strings": [
+            "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8340-5606",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada",
+              "institution_ids": [
+                "https://openalex.org/I159129438"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013153472",
+            "display_name": "Sandrine Prom Tep",
+            "orcid": "https://orcid.org/0000-0002-7501-1981"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159129438",
+              "display_name": "Université du Québec à Montréal",
+              "ror": "https://ror.org/002rjbv21",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I49663120"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sandrine Prom Tep",
+          "raw_affiliation_strings": [
+            "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada",
+              "institution_ids": [
+                "https://openalex.org/I159129438"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5058709514",
+            "display_name": "Lova Rajaobelina",
+            "orcid": "https://orcid.org/0000-0003-3953-9428"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159129438",
+              "display_name": "Université du Québec à Montréal",
+              "ror": "https://ror.org/002rjbv21",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I49663120"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lova Rajaobelina",
+          "raw_affiliation_strings": [
+            "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada",
+              "institution_ids": [
+                "https://openalex.org/I159129438"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5057133970",
+            "display_name": "Line Ricard",
+            "orcid": "https://orcid.org/0000-0003-0145-842X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I159129438",
+              "display_name": "Université du Québec à Montréal",
+              "ror": "https://ror.org/002rjbv21",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159129438",
+                "https://openalex.org/I49663120"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Line Ricard",
+          "raw_affiliation_strings": [
+            "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, University of Quebec in Montreal, Case postale 8888, succ. Centre-ville, Montreal, QC, H3C 3P8, Canada",
+              "institution_ids": [
+                "https://openalex.org/I159129438"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5076612359"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I159129438"
+      ],
+      "apc_list": {
+        "value": 2990,
+        "currency": "USD",
+        "value_usd": 2990
+      },
+      "apc_paid": null,
+      "fwci": 30.5071,
+      "has_fulltext": false,
+      "cited_by_count": 69,
+      "citation_normalized_percentile": {
+        "value": 0.9954687,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "29",
+        "issue": "3",
+        "first_page": "699",
+        "last_page": "728"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10068",
+        "display_name": "Technology Adoption and User Behaviour",
+        "score": 0.9980999827384949,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1802",
+          "display_name": "Information Systems and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10068",
+          "display_name": "Technology Adoption and User Behaviour",
+          "score": 0.9980999827384949,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10609",
+          "display_name": "Digital Marketing and Social Media",
+          "score": 0.9976999759674072,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11995",
+          "display_name": "FinTech, Crowdfunding, Digital Finance",
+          "score": 0.9945999979972839,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1404",
+            "display_name": "Management Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/14",
+            "display_name": "Business, Management and Accounting"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.8080495595932007
+        },
+        {
+          "id": "https://openalex.org/keywords/personalization",
+          "display_name": "Personalization",
+          "score": 0.7459571957588196
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.49084025621414185
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.4831685423851013
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4721018373966217
+        },
+        {
+          "id": "https://openalex.org/keywords/anxiety",
+          "display_name": "Anxiety",
+          "score": 0.4468100965023041
+        },
+        {
+          "id": "https://openalex.org/keywords/marketing",
+          "display_name": "Marketing",
+          "score": 0.4179733693599701
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-privacy",
+          "display_name": "Internet privacy",
+          "score": 0.3666648268699646
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.13104957342147827
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.12497323751449585
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.8080495595932007
+        },
+        {
+          "id": "https://openalex.org/C183003079",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000371",
+          "display_name": "Personalization",
+          "level": 2,
+          "score": 0.7459571957588196
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.49084025621414185
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.4831685423851013
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4721018373966217
+        },
+        {
+          "id": "https://openalex.org/C558461103",
+          "wikidata": "https://www.wikidata.org/wiki/Q154430",
+          "display_name": "Anxiety",
+          "level": 2,
+          "score": 0.4468100965023041
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.4179733693599701
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.3666648268699646
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.13104957342147827
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.12497323751449585
+        },
+        {
+          "id": "https://openalex.org/C118552586",
+          "wikidata": "https://www.wikidata.org/wiki/Q7867",
+          "display_name": "Psychiatry",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1057/s41264-023-00230-y",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1057/s41264-023-00230-y",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S126354654",
+            "display_name": "Journal of Financial Services Marketing",
+            "issn_l": "1363-0539",
+            "issn": [
+              "1363-0539",
+              "1479-1846"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319702",
+            "host_organization_name": "Palgrave Macmillan",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319702",
+              "https://openalex.org/P4310319964"
+            ],
+            "host_organization_lineage_names": [
+              "Palgrave Macmillan",
+              "Macmillan Publishers"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Financial Services Marketing",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:RePEc:pal:jofsma:v:29:y:2024:i:3:d:10.1057_s41264-023-00230-y",
+          "is_oa": false,
+          "landing_page_url": "http://link.springer.com/10.1057/s41264-023-00230-y",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401271",
+            "display_name": "RePEc: Research Papers in Economics",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I77793887",
+            "host_organization_name": "Federal Reserve Bank of St. Louis",
+            "host_organization_lineage": [
+              "https://openalex.org/I77793887"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320334617",
+          "display_name": "Social Sciences and Humanities Research Council of Canada",
+          "ror": "https://ror.org/04j5jqy92"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 161,
+      "referenced_works": [
+        "https://openalex.org/W1511558225",
+        "https://openalex.org/W1574235309",
+        "https://openalex.org/W1582647493",
+        "https://openalex.org/W1746336329",
+        "https://openalex.org/W1788719434",
+        "https://openalex.org/W1791587663",
+        "https://openalex.org/W1849190772",
+        "https://openalex.org/W1923944066",
+        "https://openalex.org/W1970811284",
+        "https://openalex.org/W1971425934",
+        "https://openalex.org/W1974866703",
+        "https://openalex.org/W1975224424",
+        "https://openalex.org/W1975694814",
+        "https://openalex.org/W1984827951",
+        "https://openalex.org/W1987364024",
+        "https://openalex.org/W1990340317",
+        "https://openalex.org/W1994114890",
+        "https://openalex.org/W2006351456",
+        "https://openalex.org/W2024428061",
+        "https://openalex.org/W2026467038",
+        "https://openalex.org/W2027336168",
+        "https://openalex.org/W2030741364",
+        "https://openalex.org/W2033943395",
+        "https://openalex.org/W2056434135",
+        "https://openalex.org/W2071666535",
+        "https://openalex.org/W2078492049",
+        "https://openalex.org/W2081123608",
+        "https://openalex.org/W2085709099",
+        "https://openalex.org/W2093548531",
+        "https://openalex.org/W2094694112",
+        "https://openalex.org/W2098482696",
+        "https://openalex.org/W2104709233",
+        "https://openalex.org/W2104882046",
+        "https://openalex.org/W2105846236",
+        "https://openalex.org/W2120789618",
+        "https://openalex.org/W2135907989",
+        "https://openalex.org/W2136058926",
+        "https://openalex.org/W2142418121",
+        "https://openalex.org/W2148730950",
+        "https://openalex.org/W2150238850",
+        "https://openalex.org/W2159112121",
+        "https://openalex.org/W2163241745",
+        "https://openalex.org/W2170312589",
+        "https://openalex.org/W2173765169",
+        "https://openalex.org/W2191820515",
+        "https://openalex.org/W2274495500",
+        "https://openalex.org/W2281858315",
+        "https://openalex.org/W2345282207",
+        "https://openalex.org/W2522025855",
+        "https://openalex.org/W2561824495",
+        "https://openalex.org/W2571213079",
+        "https://openalex.org/W2573906289",
+        "https://openalex.org/W2575831860",
+        "https://openalex.org/W2609337954",
+        "https://openalex.org/W2612123378",
+        "https://openalex.org/W2622684336",
+        "https://openalex.org/W2743040281",
+        "https://openalex.org/W2744123632",
+        "https://openalex.org/W2755801862",
+        "https://openalex.org/W2762448255",
+        "https://openalex.org/W2766505384",
+        "https://openalex.org/W2799463528",
+        "https://openalex.org/W2803723329",
+        "https://openalex.org/W2806410959",
+        "https://openalex.org/W2806569034",
+        "https://openalex.org/W2891577900",
+        "https://openalex.org/W2893302768",
+        "https://openalex.org/W2898356931",
+        "https://openalex.org/W2900107703",
+        "https://openalex.org/W2901066322",
+        "https://openalex.org/W2903298341",
+        "https://openalex.org/W2913916101",
+        "https://openalex.org/W2920375850",
+        "https://openalex.org/W2920759707",
+        "https://openalex.org/W2921105016",
+        "https://openalex.org/W2939803556",
+        "https://openalex.org/W2940884072",
+        "https://openalex.org/W2941314763",
+        "https://openalex.org/W2954849019",
+        "https://openalex.org/W2973537858",
+        "https://openalex.org/W2974124990",
+        "https://openalex.org/W2981622154",
+        "https://openalex.org/W2984986004",
+        "https://openalex.org/W2986577019",
+        "https://openalex.org/W2993333240",
+        "https://openalex.org/W2994929888",
+        "https://openalex.org/W2995401182",
+        "https://openalex.org/W3005365983",
+        "https://openalex.org/W3012220842",
+        "https://openalex.org/W3013003011",
+        "https://openalex.org/W3015869497",
+        "https://openalex.org/W3020352755",
+        "https://openalex.org/W3022161378",
+        "https://openalex.org/W3023956633",
+        "https://openalex.org/W3024875053",
+        "https://openalex.org/W3031856734",
+        "https://openalex.org/W3036081459",
+        "https://openalex.org/W3039317679",
+        "https://openalex.org/W3085789143",
+        "https://openalex.org/W3093994428",
+        "https://openalex.org/W3096526014",
+        "https://openalex.org/W3098131776",
+        "https://openalex.org/W3102980059",
+        "https://openalex.org/W3110798165",
+        "https://openalex.org/W3119308304",
+        "https://openalex.org/W3119553947",
+        "https://openalex.org/W3121262514",
+        "https://openalex.org/W3122287309",
+        "https://openalex.org/W3122705134",
+        "https://openalex.org/W3123477036",
+        "https://openalex.org/W3125508849",
+        "https://openalex.org/W3126405950",
+        "https://openalex.org/W3128985839",
+        "https://openalex.org/W3132244519",
+        "https://openalex.org/W3135781724",
+        "https://openalex.org/W3144406692",
+        "https://openalex.org/W3151427199",
+        "https://openalex.org/W3153816950",
+        "https://openalex.org/W3154387289",
+        "https://openalex.org/W3161124226",
+        "https://openalex.org/W3161690828",
+        "https://openalex.org/W3164564970",
+        "https://openalex.org/W3172597447",
+        "https://openalex.org/W3180941233",
+        "https://openalex.org/W3182242133",
+        "https://openalex.org/W3182263854",
+        "https://openalex.org/W3184313572",
+        "https://openalex.org/W3186662945",
+        "https://openalex.org/W3186812494",
+        "https://openalex.org/W3189029216",
+        "https://openalex.org/W3190759903",
+        "https://openalex.org/W3196796127",
+        "https://openalex.org/W3199186123",
+        "https://openalex.org/W3199205423",
+        "https://openalex.org/W3205179123",
+        "https://openalex.org/W3214788502",
+        "https://openalex.org/W3215970451",
+        "https://openalex.org/W4200236940",
+        "https://openalex.org/W4210516688",
+        "https://openalex.org/W4210766544",
+        "https://openalex.org/W4220731660",
+        "https://openalex.org/W4224925569",
+        "https://openalex.org/W4229375993",
+        "https://openalex.org/W4233882810",
+        "https://openalex.org/W4234404016",
+        "https://openalex.org/W4235678817",
+        "https://openalex.org/W4254499267",
+        "https://openalex.org/W4280622019",
+        "https://openalex.org/W4283794373",
+        "https://openalex.org/W4289181454",
+        "https://openalex.org/W4295210883",
+        "https://openalex.org/W4304172392",
+        "https://openalex.org/W4310136327",
+        "https://openalex.org/W4315781024",
+        "https://openalex.org/W4318000869",
+        "https://openalex.org/W4318818169",
+        "https://openalex.org/W4382201071",
+        "https://openalex.org/W4413569892",
+        "https://openalex.org/W6664679449",
+        "https://openalex.org/W6788119825",
+        "https://openalex.org/W6905987105"
+      ],
+      "related_works": [
+        "https://openalex.org/W4383501580",
+        "https://openalex.org/W4214931137",
+        "https://openalex.org/W4387007686",
+        "https://openalex.org/W4313813117",
+        "https://openalex.org/W4382052417",
+        "https://openalex.org/W3192088754",
+        "https://openalex.org/W3084631705",
+        "https://openalex.org/W3176146353",
+        "https://openalex.org/W4293646425",
+        "https://openalex.org/W4379781060"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 26
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-09-02T07:38:04.252551",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,331 @@
+{
+  "id": "https://openalex.org/W4412055639",
+  "doi": "https://doi.org/10.1145/3719160.3737640",
+  "title": "Designing Dialogic Disclaimers: Principles for Ethical Conversational Design in LLM Interfaces",
+  "display_name": "Designing Dialogic Disclaimers: Principles for Ethical Conversational Design in LLM Interfaces",
+  "publication_year": 2025,
+  "publication_date": "2025-07-05",
+  "ids": {
+    "openalex": "https://openalex.org/W4412055639",
+    "doi": "https://doi.org/10.1145/3719160.3737640"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3719160.3737640",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3719160.3737640",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 7th ACM Conference on Conversational User Interfaces",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5103084380",
+        "display_name": "T. C. Cheng",
+        "orcid": "https://orcid.org/0009-0004-8427-2632"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I57206974",
+          "display_name": "New York University",
+          "ror": "https://ror.org/0190ak572",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Theodore H Cheng",
+      "raw_affiliation_strings": [
+        "New York University, New York City, New York, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0004-8427-2632",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "New York University, New York City, New York, USA",
+          "institution_ids": [
+            "https://openalex.org/I57206974"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5103084380"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I57206974"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.346,
+  "has_fulltext": false,
+  "cited_by_count": 2,
+  "citation_normalized_percentile": {
+    "value": 0.91930994,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "5"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10215",
+    "display_name": "Semantic Web and Ontologies",
+    "score": 0.8799999952316284,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10215",
+      "display_name": "Semantic Web and Ontologies",
+      "score": 0.8799999952316284,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12028",
+      "display_name": "Knowledge Management and Sharing",
+      "score": 0.8539000153541565,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3315",
+        "display_name": "Communication"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10456",
+      "display_name": "Multi-Agent Systems and Negotiation",
+      "score": 0.8235999941825867,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/dialogic",
+      "display_name": "Dialogic",
+      "score": 0.9045684337615967
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5438849925994873
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.4317437410354614
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering-ethics",
+      "display_name": "Engineering ethics",
+      "score": 0.3546491265296936
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.269642174243927
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.26692044734954834
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.10610774159431458
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778679518",
+      "wikidata": "https://www.wikidata.org/wiki/Q3025969",
+      "display_name": "Dialogic",
+      "level": 2,
+      "score": 0.9045684337615967
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5438849925994873
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.4317437410354614
+    },
+    {
+      "id": "https://openalex.org/C55587333",
+      "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+      "display_name": "Engineering ethics",
+      "level": 1,
+      "score": 0.3546491265296936
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.269642174243927
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.26692044734954834
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.10610774159431458
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3719160.3737640",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3719160.3737640",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the 7th ACM Conference on Conversational User Interfaces",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 14,
+  "referenced_works": [
+    "https://openalex.org/W4247489260",
+    "https://openalex.org/W4380136115",
+    "https://openalex.org/W4390529402",
+    "https://openalex.org/W4393229380",
+    "https://openalex.org/W4396218845",
+    "https://openalex.org/W4396832937",
+    "https://openalex.org/W4396913006",
+    "https://openalex.org/W4401042541",
+    "https://openalex.org/W4402426751",
+    "https://openalex.org/W4403434583",
+    "https://openalex.org/W4403786250",
+    "https://openalex.org/W4404780875",
+    "https://openalex.org/W4405470299",
+    "https://openalex.org/W4411145153"
+  ],
+  "related_works": [
+    "https://openalex.org/W4391375266",
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W2748952813",
+    "https://openalex.org/W1594190590",
+    "https://openalex.org/W1977121405",
+    "https://openalex.org/W2565553584",
+    "https://openalex.org/W3010786488",
+    "https://openalex.org/W4309302281",
+    "https://openalex.org/W1258526905",
+    "https://openalex.org/W1966479879"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    }
+  ],
+  "updated_date": "2026-07-29T14:22:42.915294",
+  "created_date": "2025-10-10T00:00:00"
+}

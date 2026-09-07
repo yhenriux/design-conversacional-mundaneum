@@ -1,0 +1,2410 @@
+{
+  "meta": {
+    "count": 4,
+    "db_response_time_ms": 18,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4214657737)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4214657737"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4214657737&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4388983878",
+      "doi": "https://doi.org/10.1007/978-3-031-48306-6_32",
+      "title": "And How Enjoyable? Converting a User Experience Evaluation Questionnaire into a Voice Conversation",
+      "display_name": "And How Enjoyable? Converting a User Experience Evaluation Questionnaire into a Voice Conversation",
+      "publication_year": 2023,
+      "publication_date": "2023-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4388983878",
+        "doi": "https://doi.org/10.1007/978-3-031-48306-6_32"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-031-48306-6_32",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-031-48306-6_32",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210169156",
+          "display_name": "Lecture notes in networks and systems",
+          "issn_l": "2367-3370",
+          "issn": [
+            "2367-3370",
+            "2367-3389"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319972",
+          "host_organization_name": "Springer International Publishing",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319972",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer International Publishing",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Networks and Systems",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013324211",
+            "display_name": "Ignacio Díaz-Oreiro",
+            "orcid": "https://orcid.org/0000-0002-4760-8705"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ignacio Díaz-Oreiro",
+          "raw_affiliation_strings": [
+            "University of Costa Rica, San Jose, 11501, Costa Rica",
+            "University of Costa Rica, San Jose, Costa Rica"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4760-8705",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, 11501, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077112756",
+            "display_name": "Gustavo López",
+            "orcid": "https://orcid.org/0000-0003-0510-8857"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gustavo López",
+          "raw_affiliation_strings": [
+            "University of Costa Rica, San Jose, 11501, Costa Rica",
+            "University of Costa Rica, San Jose, Costa Rica"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0510-8857",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, 11501, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5071179841",
+            "display_name": "Luis A. Guerrero",
+            "orcid": "https://orcid.org/0000-0003-3989-979X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luis A. Guerrero",
+          "raw_affiliation_strings": [
+            "University of Costa Rica, San Jose, 11501, Costa Rica",
+            "University of Costa Rica, San Jose, Costa Rica"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3989-979X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, 11501, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Costa Rica, San Jose, Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013324211"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I31944674"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.4311,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.61123675,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 96
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "310",
+        "last_page": "321"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9998000264167786,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12031",
+          "display_name": "Speech and dialogue systems",
+          "score": 0.9987000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10709",
+          "display_name": "Social Robot Interaction and HRI",
+          "score": 0.9927999973297119,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/implementation",
+          "display_name": "Implementation",
+          "score": 0.8301835060119629
+        },
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.7337250709533691
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.7029666900634766
+        },
+        {
+          "id": "https://openalex.org/keywords/popularity",
+          "display_name": "Popularity",
+          "score": 0.679212749004364
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.6344559192657471
+        },
+        {
+          "id": "https://openalex.org/keywords/user-experience-design",
+          "display_name": "User experience design",
+          "score": 0.5912215709686279
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanism",
+          "display_name": "Mechanism (biology)",
+          "score": 0.5669023990631104
+        },
+        {
+          "id": "https://openalex.org/keywords/quality",
+          "display_name": "Quality (philosophy)",
+          "score": 0.5324208736419678
+        },
+        {
+          "id": "https://openalex.org/keywords/multimedia",
+          "display_name": "Multimedia",
+          "score": 0.4876607656478882
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.22513052821159363
+        },
+        {
+          "id": "https://openalex.org/keywords/software-engineering",
+          "display_name": "Software engineering",
+          "score": 0.11772891879081726
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.10215714573860168
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.07015782594680786
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C26713055",
+          "wikidata": "https://www.wikidata.org/wiki/Q245962",
+          "display_name": "Implementation",
+          "level": 2,
+          "score": 0.8301835060119629
+        },
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.7337250709533691
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.7029666900634766
+        },
+        {
+          "id": "https://openalex.org/C2780586970",
+          "wikidata": "https://www.wikidata.org/wiki/Q1357284",
+          "display_name": "Popularity",
+          "level": 2,
+          "score": 0.679212749004364
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.6344559192657471
+        },
+        {
+          "id": "https://openalex.org/C201025465",
+          "wikidata": "https://www.wikidata.org/wiki/Q11248500",
+          "display_name": "User experience design",
+          "level": 2,
+          "score": 0.5912215709686279
+        },
+        {
+          "id": "https://openalex.org/C89611455",
+          "wikidata": "https://www.wikidata.org/wiki/Q6804646",
+          "display_name": "Mechanism (biology)",
+          "level": 2,
+          "score": 0.5669023990631104
+        },
+        {
+          "id": "https://openalex.org/C2779530757",
+          "wikidata": "https://www.wikidata.org/wiki/Q1207505",
+          "display_name": "Quality (philosophy)",
+          "level": 2,
+          "score": 0.5324208736419678
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.4876607656478882
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.22513052821159363
+        },
+        {
+          "id": "https://openalex.org/C115903868",
+          "wikidata": "https://www.wikidata.org/wiki/Q80993",
+          "display_name": "Software engineering",
+          "level": 1,
+          "score": 0.11772891879081726
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.10215714573860168
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.07015782594680786
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-031-48306-6_32",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-031-48306-6_32",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210169156",
+            "display_name": "Lecture notes in networks and systems",
+            "issn_l": "2367-3370",
+            "issn": [
+              "2367-3370",
+              "2367-3389"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319972",
+            "host_organization_name": "Springer International Publishing",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319972",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer International Publishing",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lecture Notes in Networks and Systems",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "pmh:oai:null:10669/102980",
+          "is_oa": false,
+          "landing_page_url": "https://kerwa.ucr.ac.cr/items/a75b680a-eb2a-47be-8e12-e0a0dd59e191/request-a-copy?bitstream=5f8e1bcb-2cac-44b4-a5f2-7ba273088b9a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400069",
+            "display_name": "Investigative News in Education (Universidad de Costa Rica)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I198243066",
+            "host_organization_name": "Universidad Nacional",
+            "host_organization_lineage": [
+              "https://openalex.org/I198243066"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Proceedings of the 15th International Conference on Ubiquitous Computing & Ambient Intelligence (UCAmI 2023). (pp. 310–321) Switzerland: Springer",
+          "raw_type": "capítulo de libro"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
+          "score": 0.7900000214576721
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 20,
+      "referenced_works": [
+        "https://openalex.org/W95067517",
+        "https://openalex.org/W146785667",
+        "https://openalex.org/W1860602549",
+        "https://openalex.org/W1926036632",
+        "https://openalex.org/W1984766163",
+        "https://openalex.org/W2066493507",
+        "https://openalex.org/W2943124083",
+        "https://openalex.org/W3032132261",
+        "https://openalex.org/W3084548155",
+        "https://openalex.org/W3090793022",
+        "https://openalex.org/W3159189175",
+        "https://openalex.org/W3186135750",
+        "https://openalex.org/W3197077292",
+        "https://openalex.org/W4214657737",
+        "https://openalex.org/W4214752181",
+        "https://openalex.org/W4304842758",
+        "https://openalex.org/W4309619903",
+        "https://openalex.org/W4315780275",
+        "https://openalex.org/W4319072793",
+        "https://openalex.org/W4323650772"
+      ],
+      "related_works": [
+        "https://openalex.org/W2368605798",
+        "https://openalex.org/W2348524959",
+        "https://openalex.org/W2518037665",
+        "https://openalex.org/W2368049389",
+        "https://openalex.org/W2384861574",
+        "https://openalex.org/W2952704802",
+        "https://openalex.org/W4294565801",
+        "https://openalex.org/W2142306706",
+        "https://openalex.org/W2477036161",
+        "https://openalex.org/W308652608"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-08T07:41:36.138363",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4404295025",
+      "doi": "https://doi.org/10.1109/amitic62658.2024.10747632",
+      "title": "Smart Speakers and Intelligent Personal Assistants: Experiences, Perspectives, and UX Evaluation",
+      "display_name": "Smart Speakers and Intelligent Personal Assistants: Experiences, Perspectives, and UX Evaluation",
+      "publication_year": 2024,
+      "publication_date": "2024-09-25",
+      "ids": {
+        "openalex": "https://openalex.org/W4404295025",
+        "doi": "https://doi.org/10.1109/amitic62658.2024.10747632"
+      },
+      "language": "es",
+      "primary_location": {
+        "id": "doi:10.1109/amitic62658.2024.10747632",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/amitic62658.2024.10747632",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "2024 IEEE VII Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC)",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5000880594",
+            "display_name": "Luis Quesada",
+            "orcid": "https://orcid.org/0000-0002-5612-0699"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luis Quesada",
+          "raw_affiliation_strings": [
+            "University of Costa Rica,San Jos&#x00E9;,Costa Rica"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica,San Jos&#x00E9;,Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5077112756",
+            "display_name": "Gustavo López",
+            "orcid": "https://orcid.org/0000-0003-0510-8857"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gustavo López",
+          "raw_affiliation_strings": [
+            "University of Costa Rica,San Jos&#x00E9;,Costa Rica"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica,San Jos&#x00E9;,Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013324211",
+            "display_name": "Ignacio Díaz-Oreiro",
+            "orcid": "https://orcid.org/0000-0002-4760-8705"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ignacio Diaz-Oreiro",
+          "raw_affiliation_strings": [
+            "University of Costa Rica,San Jos&#x00E9;,Costa Rica"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica,San Jos&#x00E9;,Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5039667514",
+            "display_name": "José A. Brenes",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I31944674",
+              "display_name": "Universidad de Costa Rica",
+              "ror": "https://ror.org/02yzgww51",
+              "country_code": "CR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ],
+          "countries": [
+            "CR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "José Antonio Brenes",
+          "raw_affiliation_strings": [
+            "University of Costa Rica,San Jos&#x00E9;,Costa Rica"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Costa Rica,San Jos&#x00E9;,Costa Rica",
+              "institution_ids": [
+                "https://openalex.org/I31944674"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I31944674"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.21175321,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "8"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.8744000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.8744000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12031",
+          "display_name": "Speech and dialogue systems",
+          "score": 0.8066999912261963,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6301249265670776
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.6049627065658569
+        },
+        {
+          "id": "https://openalex.org/keywords/multimedia",
+          "display_name": "Multimedia",
+          "score": 0.3901381492614746
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.32721006870269775
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6301249265670776
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.6049627065658569
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.3901381492614746
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.32721006870269775
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1109/amitic62658.2024.10747632",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/amitic62658.2024.10747632",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "2024 IEEE VII Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC)",
+          "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:kerwa.ucr.ac.cr:10669/102232",
+          "is_oa": false,
+          "landing_page_url": "https://www.kerwa.ucr.ac.cr/items/ccef8cd9-8e75-4837-b7e0-99872f8f49fe/request-a-copy?bitstream=24406df3-fc42-439c-9fe3-bd5d5a660751",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400069",
+            "display_name": "Investigative News in Education (Universidad de Costa Rica)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I198243066",
+            "host_organization_name": "Universidad Nacional",
+            "host_organization_lineage": [
+              "https://openalex.org/I198243066"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "VII Congreso Internacional en Inteligencia Ambiental, Ingeniería de Software y Salud Electrónica y Móvil (AmITIC)",
+          "raw_type": "contribución de congreso"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320323217",
+          "display_name": "Universidad de Costa Rica",
+          "ror": "https://ror.org/02yzgww51"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 27,
+      "referenced_works": [
+        "https://openalex.org/W55838498",
+        "https://openalex.org/W1997237275",
+        "https://openalex.org/W2071575120",
+        "https://openalex.org/W2086967486",
+        "https://openalex.org/W2089713526",
+        "https://openalex.org/W2141189151",
+        "https://openalex.org/W2154686027",
+        "https://openalex.org/W2604424230",
+        "https://openalex.org/W2615447524",
+        "https://openalex.org/W2713640100",
+        "https://openalex.org/W2761959164",
+        "https://openalex.org/W2783089003",
+        "https://openalex.org/W2792058569",
+        "https://openalex.org/W2797920662",
+        "https://openalex.org/W2885351631",
+        "https://openalex.org/W2889031479",
+        "https://openalex.org/W2909187144",
+        "https://openalex.org/W2910545160",
+        "https://openalex.org/W2942476074",
+        "https://openalex.org/W2989993779",
+        "https://openalex.org/W2991493991",
+        "https://openalex.org/W2991646573",
+        "https://openalex.org/W3125973482",
+        "https://openalex.org/W4214657737",
+        "https://openalex.org/W4309554171",
+        "https://openalex.org/W4388983878",
+        "https://openalex.org/W6602272250"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2390279801",
+        "https://openalex.org/W4391913857",
+        "https://openalex.org/W2358668433",
+        "https://openalex.org/W4396701345",
+        "https://openalex.org/W2376932109",
+        "https://openalex.org/W2001405890",
+        "https://openalex.org/W4396696052"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0
+        ],
+        "paper": [
+          1
+        ],
+        "consolidates": [
+          2
+        ],
+        "the": [
+          3,
+          69,
+          128,
+          134,
+          158
+        ],
+        "efforts": [
+          4
+        ],
+        "of": [
+          5,
+          58,
+          71,
+          127,
+          147,
+          162
+        ],
+        "our": [
+          6
+        ],
+        "research": [
+          7
+        ],
+        "group": [
+          8
+        ],
+        "in": [
+          9,
+          156
+        ],
+        "designing": [
+          10
+        ],
+        "and": [
+          11,
+          18,
+          29,
+          68,
+          99,
+          125,
+          137,
+          154
+        ],
+        "developing": [
+          12
+        ],
+        "voice": [
+          13,
+          91,
+          129,
+          163
+        ],
+        "applications": [
+          14
+        ],
+        "for": [
+          15,
+          45,
+          52,
+          60,
+          65
+        ],
+        "smart": [
+          16,
+          66,
+          72
+        ],
+        "speakers": [
+          17,
+          73
+        ],
+        "intelligent": [
+          19,
+          116
+        ],
+        "personal": [
+          20,
+          117
+        ],
+        "assistants": [
+          21
+        ],
+        "(such": [
+          22
+        ],
+        "as": [
+          23,
+          74
+        ],
+        "Amazon": [
+          24
+        ],
+        "Alexa,": [
+          25
+        ],
+        "Google": [
+          26
+        ],
+        "Assistant,": [
+          27
+        ],
+        "Siri,": [
+          28
+        ],
+        "Cortana)": [
+          30
+        ],
+        "over": [
+          31,
+          140
+        ],
+        "recent": [
+          32
+        ],
+        "years.": [
+          33
+        ],
+        "We": [
+          34
+        ],
+        "present": [
+          35,
+          144
+        ],
+        "six": [
+          36
+        ],
+        "case": [
+          37,
+          81
+        ],
+        "studies:": [
+          38
+        ],
+        "a": [
+          39,
+          53,
+          56,
+          62,
+          145
+        ],
+        "career": [
+          40
+        ],
+        "guidance": [
+          41
+        ],
+        "system,": [
+          42
+        ],
+        "an": [
+          43,
+          48
+        ],
+        "application": [
+          44,
+          92
+        ],
+        "educational": [
+          46
+        ],
+        "fairs,": [
+          47
+        ],
+        "appointment": [
+          49
+        ],
+        "booking": [
+          50
+        ],
+        "system": [
+          51,
+          64
+        ],
+        "dentist's": [
+          54
+        ],
+        "office,": [
+          55
+        ],
+        "set": [
+          57
+        ],
+        "games": [
+          59
+        ],
+        "seniors,": [
+          61
+        ],
+        "notification": [
+          63
+        ],
+        "farming,": [
+          67
+        ],
+        "use": [
+          70
+        ],
+        "mechanisms": [
+          75
+        ],
+        "to": [
+          76,
+          108,
+          143
+        ],
+        "evaluate": [
+          77
+        ],
+        "user": [
+          78,
+          159
+        ],
+        "experience.": [
+          79
+        ],
+        "These": [
+          80,
+          119
+        ],
+        "studies": [
+          82
+        ],
+        "encompass": [
+          83
+        ],
+        "various": [
+          84
+        ],
+        "contexts,": [
+          85
+        ],
+        "each": [
+          86
+        ],
+        "requiring": [
+          87
+        ],
+        "unique": [
+          88
+        ],
+        "approaches.": [
+          89
+        ],
+        "Each": [
+          90
+        ],
+        "was": [
+          93
+        ],
+        "individually": [
+          94
+        ],
+        "evaluated": [
+          95
+        ],
+        "using": [
+          96
+        ],
+        "standardized": [
+          97
+        ],
+        "questionnaires": [
+          98
+        ],
+        "customized": [
+          100
+        ],
+        "surveys.": [
+          101
+        ],
+        "Additionally,": [
+          102
+        ],
+        "we": [
+          103,
+          132
+        ],
+        "conducted": [
+          104
+        ],
+        "two": [
+          105
+        ],
+        "parallel": [
+          106
+        ],
+        "evaluations": [
+          107,
+          120
+        ],
+        "address": [
+          109
+        ],
+        "key": [
+          110
+        ],
+        "questions": [
+          111
+        ],
+        "about": [
+          112
+        ],
+        "human": [
+          113
+        ],
+        "interaction": [
+          114
+        ],
+        "with": [
+          115
+        ],
+        "assistants.": [
+          118
+        ],
+        "involved": [
+          121
+        ],
+        "both": [
+          122
+        ],
+        "expert": [
+          123
+        ],
+        "groups": [
+          124
+        ],
+        "end-users": [
+          126
+        ],
+        "applications.": [
+          130,
+          164
+        ],
+        "Finally,": [
+          131
+        ],
+        "synthesize": [
+          133
+        ],
+        "knowledge,": [
+          135
+        ],
+        "experiences,": [
+          136
+        ],
+        "perspectives": [
+          138
+        ],
+        "gathered": [
+          139
+        ],
+        "these": [
+          141
+        ],
+        "years": [
+          142
+        ],
+        "list": [
+          146
+        ],
+        "lessons": [
+          148
+        ],
+        "learned,": [
+          149
+        ],
+        "aimed": [
+          150
+        ],
+        "at": [
+          151
+        ],
+        "guiding": [
+          152
+        ],
+        "researchers": [
+          153
+        ],
+        "developers": [
+          155
+        ],
+        "enhancing": [
+          157
+        ],
+        "experience": [
+          160
+        ],
+        "(UX)": [
+          161
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4410776179",
+      "doi": "https://doi.org/10.1007/978-3-031-93861-0_10",
+      "title": "The Hitchhiker’s Guide to Conversational Interfaces: Exploring Affordances and Signifiers Through a Theoretical Framework",
+      "display_name": "The Hitchhiker’s Guide to Conversational Interfaces: Exploring Affordances and Signifiers Through a Theoretical Framework",
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4410776179",
+        "doi": "https://doi.org/10.1007/978-3-031-93861-0_10"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-031-93861-0_10",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-031-93861-0_10",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106296714",
+          "display_name": "Lecture notes in computer science",
+          "issn_l": "0302-9743",
+          "issn": [
+            "0302-9743",
+            "1611-3349"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Computer Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026914398",
+            "display_name": "Luis Martín Sánchez-Adame",
+            "orcid": "https://orcid.org/0000-0002-2387-8153"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210139820",
+              "display_name": "Universidad de Norteamérica",
+              "ror": "https://ror.org/03m69ak30",
+              "country_code": "MX",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210139820"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4405258481",
+              "display_name": "Facultad de Estudios Superiores Acatlán",
+              "ror": "https://ror.org/00qxc1v02",
+              "country_code": "MX",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4405258481",
+                "https://openalex.org/I8961855"
+              ]
+            }
+          ],
+          "countries": [
+            "MX"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Luis Martín Sánchez-Adame",
+          "raw_affiliation_strings": [
+            "Design and Building Division, FES-Acatlán, UNAM, Av. Jardines de San Mateo s/n, Sta. Cruz Acatlán, Naucalpan de Juárez, 53150, Mexico City, State of Mexico, Mexico"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2387-8153",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Design and Building Division, FES-Acatlán, UNAM, Av. Jardines de San Mateo s/n, Sta. Cruz Acatlán, Naucalpan de Juárez, 53150, Mexico City, State of Mexico, Mexico",
+              "institution_ids": [
+                "https://openalex.org/I4210139820",
+                "https://openalex.org/I4405258481"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5053717317",
+            "display_name": "Sonia Mendoza",
+            "orcid": "https://orcid.org/0000-0002-4897-7756"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I68368234",
+              "display_name": "Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional",
+              "ror": "https://ror.org/009eqmr18",
+              "country_code": "MX",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I59361560",
+                "https://openalex.org/I68368234"
+              ]
+            }
+          ],
+          "countries": [
+            "MX"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sonia Mendoza",
+          "raw_affiliation_strings": [
+            "Computer Science Department, CINVESTAV-IPN, Av. Instituto Politécnico Nacional 2508, San Pedro Zacatenco, Gustavo A. Madero, 07360, Mexico City, Mexico"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4897-7756",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Computer Science Department, CINVESTAV-IPN, Av. Instituto Politécnico Nacional 2508, San Pedro Zacatenco, Gustavo A. Madero, 07360, Mexico City, Mexico",
+              "institution_ids": [
+                "https://openalex.org/I68368234"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5053717317"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I68368234"
+      ],
+      "apc_list": {
+        "value": 5000,
+        "currency": "EUR",
+        "value_usd": 5392
+      },
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.07102022,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "148",
+        "last_page": "162"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10709",
+          "display_name": "Social Robot Interaction and HRI",
+          "score": 0.9948999881744385,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12031",
+          "display_name": "Speech and dialogue systems",
+          "score": 0.9916999936103821,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/affordance",
+          "display_name": "Affordance",
+          "score": 0.921882152557373
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.8441691398620605
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.6219952702522278
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.42192721366882324
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.054626673460006714
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C194995250",
+          "wikidata": "https://www.wikidata.org/wiki/Q531136",
+          "display_name": "Affordance",
+          "level": 2,
+          "score": 0.921882152557373
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.8441691398620605
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.6219952702522278
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.42192721366882324
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.054626673460006714
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-031-93861-0_10",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-031-93861-0_10",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106296714",
+            "display_name": "Lecture notes in computer science",
+            "issn_l": "0302-9743",
+            "issn": [
+              "0302-9743",
+              "1611-3349"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lecture Notes in Computer Science",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
+          "score": 0.4000000059604645
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 24,
+      "referenced_works": [
+        "https://openalex.org/W2067340400",
+        "https://openalex.org/W2129975158",
+        "https://openalex.org/W2405187948",
+        "https://openalex.org/W2751379218",
+        "https://openalex.org/W2765338544",
+        "https://openalex.org/W2766505384",
+        "https://openalex.org/W2787712888",
+        "https://openalex.org/W2918497321",
+        "https://openalex.org/W2936032126",
+        "https://openalex.org/W3030250000",
+        "https://openalex.org/W3042563542",
+        "https://openalex.org/W3043785994",
+        "https://openalex.org/W3216700993",
+        "https://openalex.org/W4214657737",
+        "https://openalex.org/W4225958576",
+        "https://openalex.org/W4243432123",
+        "https://openalex.org/W4288359812",
+        "https://openalex.org/W4310081343",
+        "https://openalex.org/W4388817857",
+        "https://openalex.org/W4389000941",
+        "https://openalex.org/W4395082161",
+        "https://openalex.org/W4402096118",
+        "https://openalex.org/W4402621485",
+        "https://openalex.org/W4406299756"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W1972718289",
+        "https://openalex.org/W1791514435",
+        "https://openalex.org/W2346831895",
+        "https://openalex.org/W2248634132",
+        "https://openalex.org/W3049116993",
+        "https://openalex.org/W2417026147",
+        "https://openalex.org/W3089455568"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4415467786",
+      "doi": "https://doi.org/10.1007/978-3-032-09117-8_10",
+      "title": "Assessing Privacy-Friendly Local Open-Source Voice Annotation for Participants with Parkinson’s Disease",
+      "display_name": "Assessing Privacy-Friendly Local Open-Source Voice Annotation for Participants with Parkinson’s Disease",
+      "publication_year": 2025,
+      "publication_date": "2025-10-23",
+      "ids": {
+        "openalex": "https://openalex.org/W4415467786",
+        "doi": "https://doi.org/10.1007/978-3-032-09117-8_10"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-032-09117-8_10",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-032-09117-8_10",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764900261",
+          "display_name": "Communications in computer and information science",
+          "issn_l": "1865-0929",
+          "issn": [
+            "1865-0929",
+            "1865-0937"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Communications in Computer and Information Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "https://research-information.bris.ac.uk/en/publications/e9e7151b-0b71-4832-974d-05713a6122a8",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5048041586",
+            "display_name": "Emma L. Tonkin",
+            "orcid": "https://orcid.org/0000-0001-7405-4982"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36234482",
+              "display_name": "University of Bristol",
+              "ror": "https://ror.org/0524sp257",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I36234482"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Emma L. Tonkin",
+          "raw_affiliation_strings": [
+            "Digital Health, University of Bristol, Bristol, UK",
+            "University of Bristol, Bristol, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7405-4982",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Digital Health, University of Bristol, Bristol, UK",
+              "institution_ids": [
+                "https://openalex.org/I36234482"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Bristol, Bristol, UK",
+              "institution_ids": [
+                "https://openalex.org/I36234482"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5015718427",
+            "display_name": "Gregory J. L. Tourte",
+            "orcid": "https://orcid.org/0000-0002-2819-392X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gregory J. L. Tourte",
+          "raw_affiliation_strings": [
+            "Advanced Research Computing, University of Oxford, Oxford, UK",
+            "University of Oxford, Oxford, UK"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2819-392X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Advanced Research Computing, University of Oxford, Oxford, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Oxford, Oxford, UK",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5048041586"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I36234482"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.31292719,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "159",
+        "last_page": "176"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10863",
+        "display_name": "Voice and Speech Disorders",
+        "score": 0.987500011920929,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2737",
+          "display_name": "Physiology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/27",
+          "display_name": "Medicine"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/4",
+          "display_name": "Health Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10863",
+          "display_name": "Voice and Speech Disorders",
+          "score": 0.987500011920929,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2737",
+            "display_name": "Physiology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12207",
+          "display_name": "Assistive Technology in Communication and Mobility",
+          "score": 0.9343000054359436,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3609",
+            "display_name": "Occupational Therapy"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13155",
+          "display_name": "Digital Communication and Language",
+          "score": 0.9333999752998352,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/modality",
+          "display_name": "Modality (human–computer interaction)",
+          "score": 0.7128999829292297
+        },
+        {
+          "id": "https://openalex.org/keywords/benchmark",
+          "display_name": "Benchmark (surveying)",
+          "score": 0.697700023651123
+        },
+        {
+          "id": "https://openalex.org/keywords/annotation",
+          "display_name": "Annotation",
+          "score": 0.6466000080108643
+        },
+        {
+          "id": "https://openalex.org/keywords/component",
+          "display_name": "Component (thermodynamics)",
+          "score": 0.567799985408783
+        },
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.5651999711990356
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780226545",
+          "wikidata": "https://www.wikidata.org/wiki/Q6888030",
+          "display_name": "Modality (human–computer interaction)",
+          "level": 2,
+          "score": 0.7128999829292297
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.7081999778747559
+        },
+        {
+          "id": "https://openalex.org/C185798385",
+          "wikidata": "https://www.wikidata.org/wiki/Q1161707",
+          "display_name": "Benchmark (surveying)",
+          "level": 2,
+          "score": 0.697700023651123
+        },
+        {
+          "id": "https://openalex.org/C2776321320",
+          "wikidata": "https://www.wikidata.org/wiki/Q857525",
+          "display_name": "Annotation",
+          "level": 2,
+          "score": 0.6466000080108643
+        },
+        {
+          "id": "https://openalex.org/C168167062",
+          "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+          "display_name": "Component (thermodynamics)",
+          "level": 2,
+          "score": 0.567799985408783
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.5651999711990356
+        },
+        {
+          "id": "https://openalex.org/C2779134260",
+          "wikidata": "https://www.wikidata.org/wiki/Q12136",
+          "display_name": "Disease",
+          "level": 2,
+          "score": 0.4050000011920929
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3720000088214874
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.3659000098705292
+        },
+        {
+          "id": "https://openalex.org/C204321447",
+          "wikidata": "https://www.wikidata.org/wiki/Q30642",
+          "display_name": "Natural language processing",
+          "level": 1,
+          "score": 0.32030001282691956
+        },
+        {
+          "id": "https://openalex.org/C23123220",
+          "wikidata": "https://www.wikidata.org/wiki/Q816826",
+          "display_name": "Information retrieval",
+          "level": 1,
+          "score": 0.30720001459121704
+        },
+        {
+          "id": "https://openalex.org/C28490314",
+          "wikidata": "https://www.wikidata.org/wiki/Q189436",
+          "display_name": "Speech recognition",
+          "level": 1,
+          "score": 0.29600000381469727
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.29190000891685486
+        },
+        {
+          "id": "https://openalex.org/C2522767166",
+          "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+          "display_name": "Data science",
+          "level": 1,
+          "score": 0.2842999994754791
+        },
+        {
+          "id": "https://openalex.org/C133462117",
+          "wikidata": "https://www.wikidata.org/wiki/Q4929239",
+          "display_name": "Data collection",
+          "level": 2,
+          "score": 0.2791999876499176
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0.25600001215934753
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-032-09117-8_10",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-032-09117-8_10",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764900261",
+            "display_name": "Communications in computer and information science",
+            "issn_l": "1865-0929",
+            "issn": [
+              "1865-0929",
+              "1865-0937"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Communications in Computer and Information Science",
+          "raw_type": "book-chapter"
+        },
+        {
+          "id": "pmh:oai:research-information.bris.ac.uk:openaire/e9e7151b-0b71-4832-974d-05713a6122a8",
+          "is_oa": true,
+          "landing_page_url": "https://research-information.bris.ac.uk/en/publications/e9e7151b-0b71-4832-974d-05713a6122a8",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400895",
+            "display_name": "Bristol Research (University of Bristol)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I36234482",
+            "host_organization_name": "University of Bristol",
+            "host_organization_lineage": [
+              "https://openalex.org/I36234482"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "contributionToPeriodical"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:research-information.bris.ac.uk:openaire/e9e7151b-0b71-4832-974d-05713a6122a8",
+        "is_oa": true,
+        "landing_page_url": "https://research-information.bris.ac.uk/en/publications/e9e7151b-0b71-4832-974d-05713a6122a8",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306400895",
+          "display_name": "Bristol Research (University of Bristol)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I36234482",
+          "host_organization_name": "University of Bristol",
+          "host_organization_lineage": [
+            "https://openalex.org/I36234482"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "contributionToPeriodical"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 42,
+      "referenced_works": [
+        "https://openalex.org/W38194800",
+        "https://openalex.org/W1232419225",
+        "https://openalex.org/W1978702620",
+        "https://openalex.org/W2009845708",
+        "https://openalex.org/W2104062451",
+        "https://openalex.org/W2132813884",
+        "https://openalex.org/W2140978740",
+        "https://openalex.org/W2157736168",
+        "https://openalex.org/W2168148556",
+        "https://openalex.org/W2296350496",
+        "https://openalex.org/W2338695627",
+        "https://openalex.org/W2403044103",
+        "https://openalex.org/W2464977649",
+        "https://openalex.org/W2610998961",
+        "https://openalex.org/W2782202893",
+        "https://openalex.org/W2782618767",
+        "https://openalex.org/W2786711895",
+        "https://openalex.org/W2953312633",
+        "https://openalex.org/W2959015652",
+        "https://openalex.org/W2998603316",
+        "https://openalex.org/W3023714623",
+        "https://openalex.org/W3028805174",
+        "https://openalex.org/W3116788364",
+        "https://openalex.org/W3135729278",
+        "https://openalex.org/W3145397526",
+        "https://openalex.org/W3159016082",
+        "https://openalex.org/W3172374561",
+        "https://openalex.org/W3197142850",
+        "https://openalex.org/W3198974142",
+        "https://openalex.org/W3210749297",
+        "https://openalex.org/W4214657737",
+        "https://openalex.org/W4224311623",
+        "https://openalex.org/W4226418308",
+        "https://openalex.org/W4295955444",
+        "https://openalex.org/W4309565039",
+        "https://openalex.org/W4312530056",
+        "https://openalex.org/W4387697250",
+        "https://openalex.org/W4393165545",
+        "https://openalex.org/W4396833739",
+        "https://openalex.org/W4402111790",
+        "https://openalex.org/W4404769982",
+        "https://openalex.org/W4409746660"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-09-06T09:10:53.072986",
+      "created_date": "2025-10-23T00:00:00"
+    }
+  ],
+  "group_by": []
+}

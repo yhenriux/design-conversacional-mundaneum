@@ -1,0 +1,1011 @@
+{
+  "id": "https://openalex.org/W4200118972",
+  "doi": "https://doi.org/10.1109/icaicta53211.2021.9640258",
+  "title": "Designing Embodied Virtual Agent in E-commerce System Recommendations using Conversational Design Interaction",
+  "display_name": "Designing Embodied Virtual Agent in E-commerce System Recommendations using Conversational Design Interaction",
+  "publication_year": 2021,
+  "publication_date": "2021-09-29",
+  "ids": {
+    "openalex": "https://openalex.org/W4200118972",
+    "doi": "https://doi.org/10.1109/icaicta53211.2021.9640258"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1109/icaicta53211.2021.9640258",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1109/icaicta53211.2021.9640258",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "2021 8th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA)",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5055655353",
+        "display_name": "Nadya Anastasia",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134635517",
+          "display_name": "Bandung Institute of Technology",
+          "ror": "https://ror.org/00apj8t60",
+          "country_code": "ID",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ],
+      "countries": [
+        "ID"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Nadya Anastasia",
+      "raw_affiliation_strings": [
+        "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia",
+          "institution_ids": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5015001316",
+        "display_name": "Harlili",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134635517",
+          "display_name": "Bandung Institute of Technology",
+          "ror": "https://ror.org/00apj8t60",
+          "country_code": "ID",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ],
+      "countries": [
+        "ID"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Harlili",
+      "raw_affiliation_strings": [
+        "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia",
+          "institution_ids": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5041115880",
+        "display_name": "Lenny Putri Yulianti",
+        "orcid": "https://orcid.org/0000-0001-5724-4362"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I134635517",
+          "display_name": "Bandung Institute of Technology",
+          "ror": "https://ror.org/00apj8t60",
+          "country_code": "ID",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ],
+      "countries": [
+        "ID"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lenny Putri Yulianti",
+      "raw_affiliation_strings": [
+        "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Electrical Engineering and Informatics, U-CoE AI-VLB, Institut Teknologi Bandung, Bandung, Indonesia",
+          "institution_ids": [
+            "https://openalex.org/I134635517"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I134635517"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2931,
+  "has_fulltext": false,
+  "cited_by_count": 4,
+  "citation_normalized_percentile": {
+    "value": 0.55562881,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 96
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "6"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9613999724388123,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9613999724388123,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10609",
+      "display_name": "Digital Marketing and Social Media",
+      "score": 0.9538999795913696,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9466999769210815,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/embodied-cognition",
+      "display_name": "Embodied cognition",
+      "score": 0.7876834869384766
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6998457312583923
+    },
+    {
+      "id": "https://openalex.org/keywords/dialog-system",
+      "display_name": "Dialog system",
+      "score": 0.6806265711784363
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.6795852184295654
+    },
+    {
+      "id": "https://openalex.org/keywords/embodied-agent",
+      "display_name": "Embodied agent",
+      "score": 0.6121788024902344
+    },
+    {
+      "id": "https://openalex.org/keywords/interaction-design",
+      "display_name": "Interaction design",
+      "score": 0.5665732026100159
+    },
+    {
+      "id": "https://openalex.org/keywords/virtual-agent",
+      "display_name": "Virtual agent",
+      "score": 0.5063029527664185
+    },
+    {
+      "id": "https://openalex.org/keywords/e-commerce",
+      "display_name": "E-commerce",
+      "score": 0.45865413546562195
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.3392270803451538
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.26836860179901123
+    },
+    {
+      "id": "https://openalex.org/keywords/dialog-box",
+      "display_name": "Dialog box",
+      "score": 0.10925358533859253
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.10734394192695618
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C100609095",
+      "wikidata": "https://www.wikidata.org/wiki/Q1335050",
+      "display_name": "Embodied cognition",
+      "level": 2,
+      "score": 0.7876834869384766
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6998457312583923
+    },
+    {
+      "id": "https://openalex.org/C190954187",
+      "wikidata": "https://www.wikidata.org/wiki/Q5270587",
+      "display_name": "Dialog system",
+      "level": 3,
+      "score": 0.6806265711784363
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.6795852184295654
+    },
+    {
+      "id": "https://openalex.org/C103683099",
+      "wikidata": "https://www.wikidata.org/wiki/Q5370102",
+      "display_name": "Embodied agent",
+      "level": 3,
+      "score": 0.6121788024902344
+    },
+    {
+      "id": "https://openalex.org/C13854087",
+      "wikidata": "https://www.wikidata.org/wiki/Q1061656",
+      "display_name": "Interaction design",
+      "level": 2,
+      "score": 0.5665732026100159
+    },
+    {
+      "id": "https://openalex.org/C2983409430",
+      "wikidata": "https://www.wikidata.org/wiki/Q7935065",
+      "display_name": "Virtual agent",
+      "level": 2,
+      "score": 0.5063029527664185
+    },
+    {
+      "id": "https://openalex.org/C78597825",
+      "wikidata": "https://www.wikidata.org/wiki/Q484847",
+      "display_name": "E-commerce",
+      "level": 2,
+      "score": 0.45865413546562195
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.3392270803451538
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.26836860179901123
+    },
+    {
+      "id": "https://openalex.org/C173853756",
+      "wikidata": "https://www.wikidata.org/wiki/Q86915",
+      "display_name": "Dialog box",
+      "level": 2,
+      "score": 0.10925358533859253
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.10734394192695618
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1109/icaicta53211.2021.9640258",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1109/icaicta53211.2021.9640258",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "2021 8th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA)",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 16,
+  "referenced_works": [
+    "https://openalex.org/W1648931199",
+    "https://openalex.org/W1659431435",
+    "https://openalex.org/W1993868861",
+    "https://openalex.org/W1997981273",
+    "https://openalex.org/W2071342046",
+    "https://openalex.org/W2105257501",
+    "https://openalex.org/W2163294405",
+    "https://openalex.org/W2281858315",
+    "https://openalex.org/W2314598940",
+    "https://openalex.org/W2621392942",
+    "https://openalex.org/W2891810147",
+    "https://openalex.org/W2916171207",
+    "https://openalex.org/W2942671448",
+    "https://openalex.org/W2964543620",
+    "https://openalex.org/W2980951591",
+    "https://openalex.org/W3006383147"
+  ],
+  "related_works": [
+    "https://openalex.org/W2109842910",
+    "https://openalex.org/W2567635461",
+    "https://openalex.org/W2941344574",
+    "https://openalex.org/W2808396954",
+    "https://openalex.org/W2742181818",
+    "https://openalex.org/W199838966",
+    "https://openalex.org/W1604338104",
+    "https://openalex.org/W1514700423",
+    "https://openalex.org/W2731120799",
+    "https://openalex.org/W3161951294"
+  ],
+  "abstract_inverted_index": {
+    "System": [
+      0
+    ],
+    "recommendation": [
+      1,
+      24,
+      52,
+      217
+    ],
+    "is": [
+      2,
+      71,
+      96,
+      188,
+      207
+    ],
+    "currently": [
+      3
+    ],
+    "on": [
+      4,
+      12,
+      129
+    ],
+    "the": [
+      5,
+      39,
+      55,
+      72,
+      117,
+      138,
+      160,
+      169,
+      224
+    ],
+    "rise:": [
+      6
+    ],
+    "more": [
+      7,
+      9,
+      17,
+      97
+    ],
+    "and": [
+      8,
+      43,
+      92,
+      101,
+      153,
+      156,
+      198,
+      234
+    ],
+    "e-commerce": [
+      10,
+      64,
+      84,
+      123,
+      149,
+      212
+    ],
+    "rely": [
+      11
+    ],
+    "this": [
+      13,
+      58,
+      186,
+      205
+    ],
+    "feature": [
+      14
+    ],
+    "to": [
+      15,
+      19,
+      34,
+      78,
+      116,
+      232
+    ],
+    "give": [
+      16,
+      154
+    ],
+    "privilege": [
+      18
+    ],
+    "their": [
+      20,
+      215
+    ],
+    "users.": [
+      21
+    ],
+    "However,": [
+      22
+    ],
+    "system": [
+      23,
+      51,
+      59
+    ],
+    "still": [
+      25
+    ],
+    "faces": [
+      26,
+      66
+    ],
+    "a": [
+      27,
+      141,
+      189
+    ],
+    "lot": [
+      28
+    ],
+    "of": [
+      29,
+      45,
+      57,
+      74,
+      104,
+      109,
+      119,
+      140,
+      162,
+      185,
+      204
+    ],
+    "problems": [
+      30,
+      132
+    ],
+    "that": [
+      31,
+      177
+    ],
+    "can": [
+      32,
+      147
+    ],
+    "lead": [
+      33,
+      115
+    ],
+    "its": [
+      35
+    ],
+    "downfall.": [
+      36
+    ],
+    "For": [
+      37
+    ],
+    "instance,": [
+      38
+    ],
+    "cold": [
+      40
+    ],
+    "start": [
+      41
+    ],
+    "problem": [
+      42
+    ],
+    "lack": [
+      44,
+      73
+    ],
+    "privacy": [
+      46
+    ],
+    "for": [
+      47,
+      228
+    ],
+    "user’s": [
+      48,
+      120,
+      163
+    ],
+    "data": [
+      49,
+      164
+    ],
+    "in": [
+      50,
+      83,
+      137,
+      180,
+      210
+    ],
+    "will": [
+      53,
+      127
+    ],
+    "make": [
+      54
+    ],
+    "quality": [
+      56
+    ],
+    "lesser": [
+      60
+    ],
+    "than": [
+      61
+    ],
+    "ever.": [
+      62
+    ],
+    "Moreover,": [
+      63
+    ],
+    "also": [
+      65
+    ],
+    "another": [
+      67
+    ],
+    "significant": [
+      68
+    ],
+    "issue": [
+      69
+    ],
+    "which": [
+      70
+    ],
+    "social": [
+      75
+    ],
+    "presence.": [
+      76
+    ],
+    "Compared": [
+      77
+    ],
+    "offline": [
+      79
+    ],
+    "shopping,": [
+      80
+    ],
+    "online": [
+      81
+    ],
+    "shopping": [
+      82
+    ],
+    "may": [
+      85,
+      114
+    ],
+    "be": [
+      86
+    ],
+    "seen": [
+      87
+    ],
+    "as": [
+      88,
+      94,
+      165,
+      167
+    ],
+    "lacking": [
+      89
+    ],
+    "human": [
+      90
+    ],
+    "presence": [
+      91
+    ],
+    "sociability": [
+      93
+    ],
+    "it": [
+      95
+    ],
+    "impersonal,": [
+      98
+    ],
+    "cold,": [
+      99
+    ],
+    "automated,": [
+      100
+    ],
+    "generally": [
+      102
+    ],
+    "devoid": [
+      103
+    ],
+    "face-to-face": [
+      105
+    ],
+    "interactions.": [
+      106
+    ],
+    "Hence,": [
+      107
+    ],
+    "all": [
+      108
+    ],
+    "those": [
+      110,
+      131
+    ],
+    "issues": [
+      111
+    ],
+    "mentioned": [
+      112
+    ],
+    "above": [
+      113
+    ],
+    "regression": [
+      118
+    ],
+    "trust": [
+      121
+    ],
+    "toward": [
+      122
+    ],
+    "itself.": [
+      124
+    ],
+    "This": [
+      125,
+      144,
+      219
+    ],
+    "study": [
+      126
+    ],
+    "focus": [
+      128
+    ],
+    "solving": [
+      130
+    ],
+    "using": [
+      133,
+      194,
+      223
+    ],
+    "conversational": [
+      134
+    ],
+    "design": [
+      135
+    ],
+    "interaction": [
+      136
+    ],
+    "form": [
+      139
+    ],
+    "Virtual": [
+      142,
+      145
+    ],
+    "Agent.": [
+      143
+    ],
+    "Agent": [
+      146
+    ],
+    "help": [
+      148,
+      168
+    ],
+    "gather": [
+      150
+    ],
+    "user": [
+      151,
+      170,
+      235
+    ],
+    "preferences": [
+      152
+    ],
+    "clear": [
+      155
+    ],
+    "direct": [
+      157
+    ],
+    "information": [
+      158
+    ],
+    "regarding": [
+      159
+    ],
+    "use": [
+      161,
+      233
+    ],
+    "well": [
+      166
+    ],
+    "find": [
+      171
+    ],
+    "products,": [
+      172
+    ],
+    "promo,": [
+      173
+    ],
+    "or": [
+      174
+    ],
+    "similar": [
+      175
+    ],
+    "products": [
+      176
+    ],
+    "they": [
+      178
+    ],
+    "seek": [
+      179
+    ],
+    "e-commerce.": [
+      181
+    ],
+    "The": [
+      182,
+      202
+    ],
+    "final": [
+      183
+    ],
+    "result": [
+      184
+    ],
+    "solution": [
+      187,
+      206
+    ],
+    "high": [
+      190
+    ],
+    "fidelity": [
+      191
+    ],
+    "prototype": [
+      192,
+      220
+    ],
+    "designed": [
+      193
+    ],
+    "User-Centered": [
+      195
+    ],
+    "Design": [
+      196
+    ],
+    "Methodology": [
+      197
+    ],
+    "Natural": [
+      199
+    ],
+    "Conversational": [
+      200
+    ],
+    "Framework.": [
+      201
+    ],
+    "implementation": [
+      203
+    ],
+    "carried": [
+      208
+    ],
+    "out": [
+      209
+    ],
+    "Shopee": [
+      211
+    ],
+    "by": [
+      213
+    ],
+    "modifying": [
+      214
+    ],
+    "product": [
+      216
+    ],
+    "system.": [
+      218
+    ],
+    "was": [
+      221
+    ],
+    "measured": [
+      222
+    ],
+    "usability": [
+      225,
+      229
+    ],
+    "testing": [
+      226
+    ],
+    "method": [
+      227
+    ],
+    "goals": [
+      230,
+      237
+    ],
+    "efficient": [
+      231
+    ],
+    "experience": [
+      236
+    ],
+    "helpful.": [
+      238
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-29T14:22:42.915294",
+  "created_date": "2025-10-10T00:00:00"
+}

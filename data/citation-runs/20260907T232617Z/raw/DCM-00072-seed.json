@@ -1,0 +1,536 @@
+{
+  "id": "https://openalex.org/W1582647493",
+  "doi": "https://doi.org/10.1007/978-3-540-24641-1_2",
+  "title": "Conversational Design as a Paradigm for User Interaction on Mobile Devices",
+  "display_name": "Conversational Design as a Paradigm for User Interaction on Mobile Devices",
+  "publication_year": 2004,
+  "publication_date": "2004-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W1582647493",
+    "doi": "https://doi.org/10.1007/978-3-540-24641-1_2",
+    "mag": "1582647493"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-540-24641-1_2",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1007/978-3-540-24641-1_2",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S106296714",
+      "display_name": "Lecture notes in computer science",
+      "issn_l": "0302-9743",
+      "issn": [
+        "0302-9743",
+        "1611-3349"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Lecture Notes in Computer Science",
+    "raw_type": "book-chapter"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5109042243",
+        "display_name": "Mun-Kew Leong",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I3005327000",
+          "display_name": "Institute for Infocomm Research",
+          "ror": "https://ror.org/053rfa017",
+          "country_code": "SG",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I115228651",
+            "https://openalex.org/I3005327000",
+            "https://openalex.org/I91275662"
+          ]
+        }
+      ],
+      "countries": [
+        "SG"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mun-Kew Leong",
+      "raw_affiliation_strings": [
+        "Institute for Infocomm Research (I2R), 21 Heng Mui Keng Terrace, Singapore, 119613"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Institute for Infocomm Research (I2R), 21 Heng Mui Keng Terrace, Singapore, 119613",
+          "institution_ids": [
+            "https://openalex.org/I3005327000"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5109042243"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I3005327000"
+  ],
+  "apc_list": {
+    "value": 5000,
+    "currency": "EUR",
+    "value_usd": 5392
+  },
+  "apc_paid": null,
+  "fwci": 0.0,
+  "has_fulltext": false,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.07831715,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 90,
+    "max": 94
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "11",
+    "last_page": "27"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10470",
+    "display_name": "Usability and User Interface Design",
+    "score": 0.9969000220298767,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1709",
+      "display_name": "Human-Computer Interaction"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10470",
+      "display_name": "Usability and User Interface Design",
+      "score": 0.9969000220298767,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9968000054359436,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10456",
+      "display_name": "Multi-Agent Systems and Negotiation",
+      "score": 0.9894000291824341,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.8384361267089844
+    },
+    {
+      "id": "https://openalex.org/keywords/grice",
+      "display_name": "Grice",
+      "score": 0.7706437110900879
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.7553632259368896
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.7229474782943726
+    },
+    {
+      "id": "https://openalex.org/keywords/user-interface",
+      "display_name": "User interface",
+      "score": 0.609458327293396
+    },
+    {
+      "id": "https://openalex.org/keywords/perspective",
+      "display_name": "Perspective (graphical)",
+      "score": 0.5998361110687256
+    },
+    {
+      "id": "https://openalex.org/keywords/mobile-phone",
+      "display_name": "Mobile phone",
+      "score": 0.5286824107170105
+    },
+    {
+      "id": "https://openalex.org/keywords/interface",
+      "display_name": "Interface (matter)",
+      "score": 0.4881516098976135
+    },
+    {
+      "id": "https://openalex.org/keywords/user-interface-design",
+      "display_name": "User interface design",
+      "score": 0.4733721613883972
+    },
+    {
+      "id": "https://openalex.org/keywords/mobile-device",
+      "display_name": "Mobile device",
+      "score": 0.4253087043762207
+    },
+    {
+      "id": "https://openalex.org/keywords/user-experience-design",
+      "display_name": "User experience design",
+      "score": 0.27589595317840576
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.2113308310508728
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.14902475476264954
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.12313348054885864
+    },
+    {
+      "id": "https://openalex.org/keywords/telecommunications",
+      "display_name": "Telecommunications",
+      "score": 0.1078786849975586
+    },
+    {
+      "id": "https://openalex.org/keywords/pragmatics",
+      "display_name": "Pragmatics",
+      "score": 0.07213607430458069
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.06234046816825867
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.8384361267089844
+    },
+    {
+      "id": "https://openalex.org/C2777415597",
+      "wikidata": "https://www.wikidata.org/wiki/Q1546243",
+      "display_name": "Grice",
+      "level": 3,
+      "score": 0.7706437110900879
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.7553632259368896
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.7229474782943726
+    },
+    {
+      "id": "https://openalex.org/C89505385",
+      "wikidata": "https://www.wikidata.org/wiki/Q47146",
+      "display_name": "User interface",
+      "level": 2,
+      "score": 0.609458327293396
+    },
+    {
+      "id": "https://openalex.org/C12713177",
+      "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+      "display_name": "Perspective (graphical)",
+      "level": 2,
+      "score": 0.5998361110687256
+    },
+    {
+      "id": "https://openalex.org/C2777421447",
+      "wikidata": "https://www.wikidata.org/wiki/Q17517",
+      "display_name": "Mobile phone",
+      "level": 2,
+      "score": 0.5286824107170105
+    },
+    {
+      "id": "https://openalex.org/C113843644",
+      "wikidata": "https://www.wikidata.org/wiki/Q901882",
+      "display_name": "Interface (matter)",
+      "level": 4,
+      "score": 0.4881516098976135
+    },
+    {
+      "id": "https://openalex.org/C149229913",
+      "wikidata": "https://www.wikidata.org/wiki/Q135707",
+      "display_name": "User interface design",
+      "level": 3,
+      "score": 0.4733721613883972
+    },
+    {
+      "id": "https://openalex.org/C186967261",
+      "wikidata": "https://www.wikidata.org/wiki/Q5082128",
+      "display_name": "Mobile device",
+      "level": 2,
+      "score": 0.4253087043762207
+    },
+    {
+      "id": "https://openalex.org/C201025465",
+      "wikidata": "https://www.wikidata.org/wiki/Q11248500",
+      "display_name": "User experience design",
+      "level": 2,
+      "score": 0.27589595317840576
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.2113308310508728
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.14902475476264954
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.12313348054885864
+    },
+    {
+      "id": "https://openalex.org/C76155785",
+      "wikidata": "https://www.wikidata.org/wiki/Q418",
+      "display_name": "Telecommunications",
+      "level": 1,
+      "score": 0.1078786849975586
+    },
+    {
+      "id": "https://openalex.org/C11693617",
+      "wikidata": "https://www.wikidata.org/wiki/Q181839",
+      "display_name": "Pragmatics",
+      "level": 2,
+      "score": 0.07213607430458069
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.06234046816825867
+    },
+    {
+      "id": "https://openalex.org/C129307140",
+      "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+      "display_name": "Maximum bubble pressure method",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C157915830",
+      "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+      "display_name": "Bubble",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-540-24641-1_2",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1007/978-3-540-24641-1_2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S106296714",
+        "display_name": "Lecture notes in computer science",
+        "issn_l": "0302-9743",
+        "issn": [
+          "0302-9743",
+          "1611-3349"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Lecture Notes in Computer Science",
+      "raw_type": "book-chapter"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 20,
+  "referenced_works": [
+    "https://openalex.org/W44010021",
+    "https://openalex.org/W84962541",
+    "https://openalex.org/W93658413",
+    "https://openalex.org/W216945601",
+    "https://openalex.org/W240853882",
+    "https://openalex.org/W751470531",
+    "https://openalex.org/W1424744123",
+    "https://openalex.org/W1589781773",
+    "https://openalex.org/W1590505486",
+    "https://openalex.org/W1991194336",
+    "https://openalex.org/W2003197958",
+    "https://openalex.org/W2021291367",
+    "https://openalex.org/W2045025420",
+    "https://openalex.org/W2101833337",
+    "https://openalex.org/W2118398801",
+    "https://openalex.org/W2129264276",
+    "https://openalex.org/W2131043532",
+    "https://openalex.org/W4229723427",
+    "https://openalex.org/W4235073904",
+    "https://openalex.org/W4301357669"
+  ],
+  "related_works": [
+    "https://openalex.org/W76932175",
+    "https://openalex.org/W3048212026",
+    "https://openalex.org/W2161684601",
+    "https://openalex.org/W4250782453",
+    "https://openalex.org/W2389032065",
+    "https://openalex.org/W2485879046",
+    "https://openalex.org/W2369660886",
+    "https://openalex.org/W2106608991",
+    "https://openalex.org/W2097677915",
+    "https://openalex.org/W2034322234"
+  ],
+  "abstract_inverted_index": null,
+  "counts_by_year": [
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-04T08:18:43.703281",
+  "created_date": "2025-10-10T00:00:00"
+}

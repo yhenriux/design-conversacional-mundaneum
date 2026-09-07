@@ -1,0 +1,1055 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 12,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W7128738706)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W7128738706"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W7128738706&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7169611332",
+      "doi": "https://doi.org/10.3390/buildings16142845",
+      "title": "AI Adoption and Engineering Project Designers’ Green Creativity in Construction Industry: A Dual-Path Moderated Mediation Model",
+      "display_name": "AI Adoption and Engineering Project Designers’ Green Creativity in Construction Industry: A Dual-Path Moderated Mediation Model",
+      "publication_year": 2026,
+      "publication_date": "2026-07-17",
+      "ids": {
+        "openalex": "https://openalex.org/W7169611332",
+        "doi": "https://doi.org/10.3390/buildings16142845"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/buildings16142845",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/buildings16142845",
+        "pdf_url": "https://www.mdpi.com/2075-5309/16/14/2845/pdf?version=1784272654",
+        "source": {
+          "id": "https://openalex.org/S4210191137",
+          "display_name": "Buildings",
+          "issn_l": "2075-5309",
+          "issn": [
+            "2075-5309"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Buildings",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://www.mdpi.com/2075-5309/16/14/2845/pdf?version=1784272654",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5141071067",
+            "display_name": "Yiming Qi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134687103",
+              "display_name": "Nanjing Tech University",
+              "ror": "https://ror.org/03sd35x91",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yiming Qi",
+          "raw_affiliation_strings": [
+            "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China",
+              "institution_ids": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008295613",
+            "display_name": "Sen Xu",
+            "orcid": "https://orcid.org/0000-0003-0044-3226"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134687103",
+              "display_name": "Nanjing Tech University",
+              "ror": "https://ror.org/03sd35x91",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sen Xu",
+          "raw_affiliation_strings": [
+            "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0044-3226",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China",
+              "institution_ids": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5063634379",
+            "display_name": "June Cheng",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134687103",
+              "display_name": "Nanjing Tech University",
+              "ror": "https://ror.org/03sd35x91",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiajia Cheng",
+          "raw_affiliation_strings": [
+            "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Economics and Management, Nanjing Tech University, Nanjing 211800, China",
+              "institution_ids": [
+                "https://openalex.org/I134687103"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5008295613"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134687103"
+      ],
+      "apc_list": {
+        "value": 2600,
+        "currency": "CHF",
+        "value_usd": 3137
+      },
+      "apc_paid": {
+        "value": 2600,
+        "currency": "CHF",
+        "value_usd": 3137
+      },
+      "fwci": 0.0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.79388774,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "16",
+        "issue": "14",
+        "first_page": "2845",
+        "last_page": "2845"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11079",
+        "display_name": "Creativity in Education and Neuroscience",
+        "score": 0.12849999964237213,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3205",
+          "display_name": "Experimental and Cognitive Psychology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/32",
+          "display_name": "Psychology"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11079",
+          "display_name": "Creativity in Education and Neuroscience",
+          "score": 0.12849999964237213,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3205",
+            "display_name": "Experimental and Cognitive Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10395",
+          "display_name": "Construction Project Management and Performance",
+          "score": 0.06159999966621399,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1803",
+            "display_name": "Management Science and Operations Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10672",
+          "display_name": "Design Education and Practice",
+          "score": 0.04179999977350235,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/creativity",
+          "display_name": "Creativity",
+          "score": 0.8289999961853027
+        },
+        {
+          "id": "https://openalex.org/keywords/mediation",
+          "display_name": "Mediation",
+          "score": 0.6747999787330627
+        },
+        {
+          "id": "https://openalex.org/keywords/moderated-mediation",
+          "display_name": "Moderated mediation",
+          "score": 0.550000011920929
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.42309999465942383
+        },
+        {
+          "id": "https://openalex.org/keywords/resource",
+          "display_name": "Resource (disambiguation)",
+          "score": 0.4228000044822693
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-equation-modeling",
+          "display_name": "Structural equation modeling",
+          "score": 0.2879999876022339
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C11012388",
+          "wikidata": "https://www.wikidata.org/wiki/Q170658",
+          "display_name": "Creativity",
+          "level": 2,
+          "score": 0.8289999961853027
+        },
+        {
+          "id": "https://openalex.org/C179420905",
+          "wikidata": "https://www.wikidata.org/wiki/Q223871",
+          "display_name": "Mediation",
+          "level": 2,
+          "score": 0.6747999787330627
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.5794000029563904
+        },
+        {
+          "id": "https://openalex.org/C24614281",
+          "wikidata": "https://www.wikidata.org/wiki/Q17086331",
+          "display_name": "Moderated mediation",
+          "level": 2,
+          "score": 0.550000011920929
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.45489999651908875
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.42309999465942383
+        },
+        {
+          "id": "https://openalex.org/C206345919",
+          "wikidata": "https://www.wikidata.org/wiki/Q20380951",
+          "display_name": "Resource (disambiguation)",
+          "level": 2,
+          "score": 0.4228000044822693
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.4058000147342682
+        },
+        {
+          "id": "https://openalex.org/C71104824",
+          "wikidata": "https://www.wikidata.org/wiki/Q1476639",
+          "display_name": "Structural equation modeling",
+          "level": 2,
+          "score": 0.2879999876022339
+        },
+        {
+          "id": "https://openalex.org/C34972735",
+          "wikidata": "https://www.wikidata.org/wiki/Q2920267",
+          "display_name": "Engineering design process",
+          "level": 2,
+          "score": 0.2736000120639801
+        },
+        {
+          "id": "https://openalex.org/C121217528",
+          "wikidata": "https://www.wikidata.org/wiki/Q523256",
+          "display_name": "Sustainable design",
+          "level": 3,
+          "score": 0.2727000117301941
+        },
+        {
+          "id": "https://openalex.org/C36503486",
+          "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+          "display_name": "Domain (mathematical analysis)",
+          "level": 2,
+          "score": 0.2718999981880188
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.2685999870300293
+        },
+        {
+          "id": "https://openalex.org/C62354387",
+          "wikidata": "https://www.wikidata.org/wiki/Q875399",
+          "display_name": "Boundary (topology)",
+          "level": 2,
+          "score": 0.263700008392334
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.2535000145435333
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/buildings16142845",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/buildings16142845",
+          "pdf_url": "https://www.mdpi.com/2075-5309/16/14/2845/pdf?version=1784272654",
+          "source": {
+            "id": "https://openalex.org/S4210191137",
+            "display_name": "Buildings",
+            "issn_l": "2075-5309",
+            "issn": [
+              "2075-5309"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Buildings",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:ed66d4776b8541a9afae2d7d0155cd02",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/ed66d4776b8541a9afae2d7d0155cd02",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Buildings, Vol 16, Iss 14, p 2845 (2026)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/buildings16142845",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/buildings16142845",
+        "pdf_url": "https://www.mdpi.com/2075-5309/16/14/2845/pdf?version=1784272654",
+        "source": {
+          "id": "https://openalex.org/S4210191137",
+          "display_name": "Buildings",
+          "issn_l": "2075-5309",
+          "issn": [
+            "2075-5309"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Buildings",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.47346624732017517,
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7169611332.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7169611332.grobid-xml"
+      },
+      "referenced_works_count": 81,
+      "referenced_works": [
+        "https://openalex.org/W1557085122",
+        "https://openalex.org/W1739373361",
+        "https://openalex.org/W1902610065",
+        "https://openalex.org/W1968742416",
+        "https://openalex.org/W2001810891",
+        "https://openalex.org/W2021930444",
+        "https://openalex.org/W2048606101",
+        "https://openalex.org/W2049388993",
+        "https://openalex.org/W2069904709",
+        "https://openalex.org/W2072500831",
+        "https://openalex.org/W2094562281",
+        "https://openalex.org/W2099958353",
+        "https://openalex.org/W2104513260",
+        "https://openalex.org/W2106096361",
+        "https://openalex.org/W2112702781",
+        "https://openalex.org/W2116544216",
+        "https://openalex.org/W2117278087",
+        "https://openalex.org/W2136578557",
+        "https://openalex.org/W2169406915",
+        "https://openalex.org/W2172273046",
+        "https://openalex.org/W2352065276",
+        "https://openalex.org/W2416335275",
+        "https://openalex.org/W2531656869",
+        "https://openalex.org/W2562290388",
+        "https://openalex.org/W2585292421",
+        "https://openalex.org/W2625774310",
+        "https://openalex.org/W2905811773",
+        "https://openalex.org/W4200319681",
+        "https://openalex.org/W4211017739",
+        "https://openalex.org/W4220717900",
+        "https://openalex.org/W4221108455",
+        "https://openalex.org/W4248161867",
+        "https://openalex.org/W4285387515",
+        "https://openalex.org/W4313426910",
+        "https://openalex.org/W4321766561",
+        "https://openalex.org/W4387518856",
+        "https://openalex.org/W4391172743",
+        "https://openalex.org/W4392139906",
+        "https://openalex.org/W4393186998",
+        "https://openalex.org/W4396956495",
+        "https://openalex.org/W4398169762",
+        "https://openalex.org/W4400366200",
+        "https://openalex.org/W4401297752",
+        "https://openalex.org/W4401554340",
+        "https://openalex.org/W4402130995",
+        "https://openalex.org/W4403236198",
+        "https://openalex.org/W4403329084",
+        "https://openalex.org/W4403366056",
+        "https://openalex.org/W4404919865",
+        "https://openalex.org/W4406099705",
+        "https://openalex.org/W4407108594",
+        "https://openalex.org/W4407857705",
+        "https://openalex.org/W4410031341",
+        "https://openalex.org/W4410215513",
+        "https://openalex.org/W4410234081",
+        "https://openalex.org/W4411413627",
+        "https://openalex.org/W4411470405",
+        "https://openalex.org/W4411546722",
+        "https://openalex.org/W4411832151",
+        "https://openalex.org/W4411987450",
+        "https://openalex.org/W4412902546",
+        "https://openalex.org/W4413735513",
+        "https://openalex.org/W4414017794",
+        "https://openalex.org/W4414939510",
+        "https://openalex.org/W4415217994",
+        "https://openalex.org/W4415219308",
+        "https://openalex.org/W4415515973",
+        "https://openalex.org/W4415763085",
+        "https://openalex.org/W4415766348",
+        "https://openalex.org/W4415887542",
+        "https://openalex.org/W4416128676",
+        "https://openalex.org/W4416204771",
+        "https://openalex.org/W4416757276",
+        "https://openalex.org/W7117756431",
+        "https://openalex.org/W7125957946",
+        "https://openalex.org/W7128738706",
+        "https://openalex.org/W7128905345",
+        "https://openalex.org/W7135034530",
+        "https://openalex.org/W7140527846",
+        "https://openalex.org/W7153219057",
+        "https://openalex.org/W7154858575"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Green": [
+          0
+        ],
+        "creativity": [
+          1,
+          47,
+          98
+        ],
+        "is": [
+          2,
+          107,
+          134
+        ],
+        "critical": [
+          3
+        ],
+        "for": [
+          4,
+          163
+        ],
+        "achieving": [
+          5
+        ],
+        "green": [
+          6,
+          46,
+          54,
+          97,
+          155
+        ],
+        "outcomes": [
+          7
+        ],
+        "in": [
+          8,
+          35,
+          53,
+          153,
+          166
+        ],
+        "engineering": [
+          9,
+          55,
+          126,
+          156,
+          168
+        ],
+        "project": [
+          10,
+          127
+        ],
+        "design,": [
+          11
+        ],
+        "where": [
+          12
+        ],
+        "designers": [
+          13,
+          128
+        ],
+        "must": [
+          14
+        ],
+        "address": [
+          15
+        ],
+        "environmental": [
+          16
+        ],
+        "goals": [
+          17
+        ],
+        "under": [
+          18,
+          99
+        ],
+        "constraints": [
+          19
+        ],
+        "of": [
+          20,
+          31,
+          41,
+          60,
+          85,
+          124,
+          147
+        ],
+        "cost,": [
+          21
+        ],
+        "functionality,": [
+          22
+        ],
+        "and": [
+          23,
+          67,
+          77,
+          88
+        ],
+        "technical": [
+          24
+        ],
+        "feasibility.": [
+          25
+        ],
+        "Consistent": [
+          26
+        ],
+        "with": [
+          27,
+          74
+        ],
+        "the": [
+          28,
+          38,
+          100,
+          116,
+          130,
+          138,
+          148,
+          154
+        ],
+        "increasing": [
+          29
+        ],
+        "application": [
+          30
+        ],
+        "artificial": [
+          32
+        ],
+        "intelligence": [
+          33
+        ],
+        "(AI)": [
+          34
+        ],
+        "design": [
+          36,
+          169
+        ],
+        "practices,": [
+          37
+        ],
+        "psychological": [
+          39,
+          78
+        ],
+        "impact": [
+          40,
+          152
+        ],
+        "AI": [
+          42,
+          93
+        ],
+        "adoption": [
+          43,
+          94
+        ],
+        "on": [
+          44,
+          58
+        ],
+        "designers’": [
+          45,
+          96
+        ],
+        "has": [
+          48
+        ],
+        "been": [
+          49
+        ],
+        "a": [
+          50,
+          69,
+          110
+        ],
+        "central": [
+          51
+        ],
+        "issue": [
+          52
+        ],
+        "designs.": [
+          56
+        ],
+        "Drawing": [
+          57
+        ],
+        "conservation": [
+          59
+        ],
+        "resources": [
+          61
+        ],
+        "(COR)": [
+          62
+        ],
+        "theory,": [
+          63
+        ],
+        "this": [
+          64
+        ],
+        "study": [
+          65
+        ],
+        "theorizes": [
+          66
+        ],
+        "tests": [
+          68
+        ],
+        "dual-path": [
+          70
+        ],
+        "moderated": [
+          71
+        ],
+        "mediation": [
+          72
+        ],
+        "model,": [
+          73
+        ],
+        "job": [
+          75
+        ],
+        "engagement": [
+          76
+        ],
+        "detachment": [
+          79
+        ],
+        "as": [
+          80,
+          109
+        ],
+        "two": [
+          81
+        ],
+        "parallel": [
+          82
+        ],
+        "mediating": [
+          83,
+          117
+        ],
+        "pathways": [
+          84,
+          118
+        ],
+        "resource": [
+          86,
+          102
+        ],
+        "enhancement": [
+          87
+        ],
+        "maintenance,": [
+          89
+        ],
+        "respectively,": [
+          90
+        ],
+        "through": [
+          91
+        ],
+        "which": [
+          92
+        ],
+        "influences": [
+          95
+        ],
+        "“immersion–recovery”": [
+          101
+        ],
+        "mechanism.": [
+          103
+        ],
+        "Furthermore,": [
+          104
+        ],
+        "inclusive": [
+          105
+        ],
+        "leadership": [
+          106,
+          164
+        ],
+        "set": [
+          108
+        ],
+        "key": [
+          111
+        ],
+        "boundary": [
+          112
+        ],
+        "condition": [
+          113
+        ],
+        "to": [
+          114,
+          136
+        ],
+        "moderate": [
+          115
+        ],
+        "above.": [
+          119
+        ],
+        "A": [
+          120
+        ],
+        "multi-wave": [
+          121
+        ],
+        "online": [
+          122
+        ],
+        "survey": [
+          123
+        ],
+        "312": [
+          125
+        ],
+        "from": [
+          129
+        ],
+        "Chinese": [
+          131
+        ],
+        "construction": [
+          132
+        ],
+        "industry": [
+          133
+        ],
+        "employed": [
+          135
+        ],
+        "examine": [
+          137
+        ],
+        "hypotheses.": [
+          139
+        ],
+        "These": [
+          140
+        ],
+        "findings": [
+          141
+        ],
+        "not": [
+          142
+        ],
+        "only": [
+          143
+        ],
+        "extend": [
+          144
+        ],
+        "theoretical": [
+          145
+        ],
+        "understanding": [
+          146
+        ],
+        "mechanisms": [
+          149
+        ],
+        "underlying": [
+          150
+        ],
+        "AI’s": [
+          151
+        ],
+        "domain": [
+          157
+        ],
+        "but": [
+          158
+        ],
+        "also": [
+          159
+        ],
+        "provide": [
+          160
+        ],
+        "new": [
+          161
+        ],
+        "insights": [
+          162
+        ],
+        "practices": [
+          165
+        ],
+        "complex": [
+          167
+        ],
+        "contexts.": [
+          170
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-23T07:36:19.812096",
+      "created_date": "2026-07-18T00:00:00"
+    }
+  ],
+  "group_by": []
+}

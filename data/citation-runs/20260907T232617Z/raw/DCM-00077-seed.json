@@ -1,0 +1,977 @@
+{
+  "id": "https://openalex.org/W3133294354",
+  "doi": "https://doi.org/10.1145/3441000.3441046",
+  "title": "Communicating Service Offers in a Conversational User Interface",
+  "display_name": "Communicating Service Offers in a Conversational User Interface",
+  "publication_year": 2020,
+  "publication_date": "2020-12-02",
+  "ids": {
+    "openalex": "https://openalex.org/W3133294354",
+    "doi": "https://doi.org/10.1145/3441000.3441046",
+    "mag": "3133294354"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3441000.3441046",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3441000.3441046",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "32nd Australian Conference on Human-Computer Interaction",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083563920",
+        "display_name": "Asbjørn Følstad",
+        "orcid": "https://orcid.org/0000-0003-2763-0996"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Asbjørn Følstad",
+      "raw_affiliation_strings": [
+        "SINTEF, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SINTEF, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5037781335",
+        "display_name": "Ragnhild Halvorsrud",
+        "orcid": "https://orcid.org/0000-0002-3774-4287"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I173888879",
+          "display_name": "SINTEF",
+          "ror": "https://ror.org/01f677e56",
+          "country_code": "NO",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4387930215",
+          "display_name": "SINTEF Digital",
+          "ror": "https://ror.org/028m52w57",
+          "country_code": null,
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I173888879",
+            "https://openalex.org/I4387930215"
+          ]
+        }
+      ],
+      "countries": [
+        "NO"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Ragnhild Halvorsrud",
+      "raw_affiliation_strings": [
+        "SINTEF Digital, Norway"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "SINTEF Digital, Norway",
+          "institution_ids": [
+            "https://openalex.org/I173888879",
+            "https://openalex.org/I4387930215"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.345,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": {
+    "value": 0.61734018,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "671",
+    "last_page": "676"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9998999834060669,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9998999834060669,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10609",
+      "display_name": "Digital Marketing and Social Media",
+      "score": 0.9805999994277954,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10803",
+      "display_name": "Innovative Human-Technology Interaction",
+      "score": 0.9789999723434448,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/proactivity",
+      "display_name": "Proactivity",
+      "score": 0.9445747137069702
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.7415480613708496
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6963950395584106
+    },
+    {
+      "id": "https://openalex.org/keywords/service",
+      "display_name": "Service (business)",
+      "score": 0.6325588226318359
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.587894082069397
+    },
+    {
+      "id": "https://openalex.org/keywords/service-design",
+      "display_name": "Service design",
+      "score": 0.5623133182525635
+    },
+    {
+      "id": "https://openalex.org/keywords/compromise",
+      "display_name": "Compromise",
+      "score": 0.5502382516860962
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.5341948866844177
+    },
+    {
+      "id": "https://openalex.org/keywords/interface",
+      "display_name": "Interface (matter)",
+      "score": 0.47479647397994995
+    },
+    {
+      "id": "https://openalex.org/keywords/preference",
+      "display_name": "Preference",
+      "score": 0.44635212421417236
+    },
+    {
+      "id": "https://openalex.org/keywords/service-delivery-framework",
+      "display_name": "Service delivery framework",
+      "score": 0.4450063705444336
+    },
+    {
+      "id": "https://openalex.org/keywords/perception",
+      "display_name": "Perception",
+      "score": 0.4446912407875061
+    },
+    {
+      "id": "https://openalex.org/keywords/exploratory-research",
+      "display_name": "Exploratory research",
+      "score": 0.44310593605041504
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.35458803176879883
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-privacy",
+      "display_name": "Internet privacy",
+      "score": 0.32865166664123535
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.17323601245880127
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.10143545269966125
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.0805639922618866
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C142944206",
+      "wikidata": "https://www.wikidata.org/wiki/Q1786137",
+      "display_name": "Proactivity",
+      "level": 2,
+      "score": 0.9445747137069702
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.7415480613708496
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6963950395584106
+    },
+    {
+      "id": "https://openalex.org/C2780378061",
+      "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+      "display_name": "Service (business)",
+      "level": 2,
+      "score": 0.6325588226318359
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.587894082069397
+    },
+    {
+      "id": "https://openalex.org/C61063171",
+      "wikidata": "https://www.wikidata.org/wiki/Q532781",
+      "display_name": "Service design",
+      "level": 4,
+      "score": 0.5623133182525635
+    },
+    {
+      "id": "https://openalex.org/C46355384",
+      "wikidata": "https://www.wikidata.org/wiki/Q726686",
+      "display_name": "Compromise",
+      "level": 2,
+      "score": 0.5502382516860962
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.5341948866844177
+    },
+    {
+      "id": "https://openalex.org/C113843644",
+      "wikidata": "https://www.wikidata.org/wiki/Q901882",
+      "display_name": "Interface (matter)",
+      "level": 4,
+      "score": 0.47479647397994995
+    },
+    {
+      "id": "https://openalex.org/C2781249084",
+      "wikidata": "https://www.wikidata.org/wiki/Q908656",
+      "display_name": "Preference",
+      "level": 2,
+      "score": 0.44635212421417236
+    },
+    {
+      "id": "https://openalex.org/C68595000",
+      "wikidata": "https://www.wikidata.org/wiki/Q2274177",
+      "display_name": "Service delivery framework",
+      "level": 3,
+      "score": 0.4450063705444336
+    },
+    {
+      "id": "https://openalex.org/C26760741",
+      "wikidata": "https://www.wikidata.org/wiki/Q160402",
+      "display_name": "Perception",
+      "level": 2,
+      "score": 0.4446912407875061
+    },
+    {
+      "id": "https://openalex.org/C85973986",
+      "wikidata": "https://www.wikidata.org/wiki/Q1091731",
+      "display_name": "Exploratory research",
+      "level": 2,
+      "score": 0.44310593605041504
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.35458803176879883
+    },
+    {
+      "id": "https://openalex.org/C108827166",
+      "wikidata": "https://www.wikidata.org/wiki/Q175975",
+      "display_name": "Internet privacy",
+      "level": 1,
+      "score": 0.32865166664123535
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.17323601245880127
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.10143545269966125
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.0805639922618866
+    },
+    {
+      "id": "https://openalex.org/C162853370",
+      "wikidata": "https://www.wikidata.org/wiki/Q39809",
+      "display_name": "Marketing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C129307140",
+      "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+      "display_name": "Maximum bubble pressure method",
+      "level": 3,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C86803240",
+      "wikidata": "https://www.wikidata.org/wiki/Q420",
+      "display_name": "Biology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C169760540",
+      "wikidata": "https://www.wikidata.org/wiki/Q207011",
+      "display_name": "Neuroscience",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C157915830",
+      "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+      "display_name": "Bubble",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C175444787",
+      "wikidata": "https://www.wikidata.org/wiki/Q39072",
+      "display_name": "Microeconomics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C19165224",
+      "wikidata": "https://www.wikidata.org/wiki/Q23404",
+      "display_name": "Anthropology",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C173608175",
+      "wikidata": "https://www.wikidata.org/wiki/Q232661",
+      "display_name": "Parallel computing",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C162324750",
+      "wikidata": "https://www.wikidata.org/wiki/Q8134",
+      "display_name": "Economics",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3441000.3441046",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3441000.3441046",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "32nd Australian Conference on Human-Computer Interaction",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 14,
+  "referenced_works": [
+    "https://openalex.org/W2058024276",
+    "https://openalex.org/W2066746339",
+    "https://openalex.org/W2766505384",
+    "https://openalex.org/W2789650693",
+    "https://openalex.org/W2796265406",
+    "https://openalex.org/W2900107703",
+    "https://openalex.org/W2900756739",
+    "https://openalex.org/W2938704773",
+    "https://openalex.org/W2942367614",
+    "https://openalex.org/W2985914904",
+    "https://openalex.org/W3022161378",
+    "https://openalex.org/W3151685851",
+    "https://openalex.org/W4211048027",
+    "https://openalex.org/W6999557345"
+  ],
+  "related_works": [
+    "https://openalex.org/W2922886323",
+    "https://openalex.org/W2133079869",
+    "https://openalex.org/W2269539645",
+    "https://openalex.org/W2301887030",
+    "https://openalex.org/W2808736867",
+    "https://openalex.org/W1507972240",
+    "https://openalex.org/W4243713506",
+    "https://openalex.org/W2549510740",
+    "https://openalex.org/W2802344883",
+    "https://openalex.org/W4220762673"
+  ],
+  "abstract_inverted_index": {
+    "The": [
+      0
+    ],
+    "increased": [
+      1
+    ],
+    "interest": [
+      2
+    ],
+    "in": [
+      3,
+      31,
+      77
+    ],
+    "chatbots": [
+      4
+    ],
+    "accentuates": [
+      5
+    ],
+    "the": [
+      6,
+      32,
+      73,
+      78,
+      91,
+      96
+    ],
+    "importance": [
+      7
+    ],
+    "of": [
+      8,
+      34,
+      53,
+      80,
+      111,
+      120
+    ],
+    "conversational": [
+      9,
+      13,
+      101
+    ],
+    "design.": [
+      10
+    ],
+    "A": [
+      11
+    ],
+    "key": [
+      12
+    ],
+    "design": [
+      14
+    ],
+    "challenge": [
+      15
+    ],
+    "concerns": [
+      16
+    ],
+    "how": [
+      17
+    ],
+    "to": [
+      18,
+      23,
+      45,
+      85,
+      95,
+      106,
+      127
+    ],
+    "communicate": [
+      19,
+      46
+    ],
+    "available": [
+      20,
+      47
+    ],
+    "service": [
+      21,
+      36,
+      48,
+      81,
+      112
+    ],
+    "offers": [
+      22,
+      82,
+      113
+    ],
+    "users.": [
+      24
+    ],
+    "We": [
+      25,
+      55
+    ],
+    "present": [
+      26
+    ],
+    "an": [
+      27
+    ],
+    "exploratory": [
+      28
+    ],
+    "study,": [
+      29
+    ],
+    "conducted": [
+      30
+    ],
+    "context": [
+      33
+    ],
+    "financial": [
+      35
+    ],
+    "provision.": [
+      37
+    ],
+    "Here,": [
+      38
+    ],
+    "we": [
+      39,
+      137
+    ],
+    "first": [
+      40
+    ],
+    "detailed": [
+      41
+    ],
+    "four": [
+      42,
+      74
+    ],
+    "alternative": [
+      43
+    ],
+    "approaches": [
+      44
+    ],
+    "offers,": [
+      49
+    ],
+    "reflecting": [
+      50
+    ],
+    "different": [
+      51
+    ],
+    "levels": [
+      52
+    ],
+    "proactivity.": [
+      54
+    ],
+    "then": [
+      56
+    ],
+    "gathered": [
+      57
+    ],
+    "feedback": [
+      58
+    ],
+    "on": [
+      59,
+      134
+    ],
+    "user": [
+      60
+    ],
+    "preference": [
+      61
+    ],
+    "through": [
+      62
+    ],
+    "interviews": [
+      63
+    ],
+    "with": [
+      64,
+      70,
+      130
+    ],
+    "17": [
+      65
+    ],
+    "users": [
+      66
+    ],
+    "following": [
+      67
+    ],
+    "their": [
+      68
+    ],
+    "interactions": [
+      69
+    ],
+    "prototypes": [
+      71
+    ],
+    "representing": [
+      72
+    ],
+    "approaches.": [
+      75
+    ],
+    "Proactivity": [
+      76
+    ],
+    "communication": [
+      79,
+      110
+    ],
+    "was": [
+      83
+    ],
+    "found": [
+      84
+    ],
+    "be": [
+      86,
+      128
+    ],
+    "potentially": [
+      87
+    ],
+    "valuable,": [
+      88
+    ],
+    "provided": [
+      89
+    ],
+    "that": [
+      90
+    ],
+    "offer": [
+      92
+    ],
+    "is": [
+      93,
+      104
+    ],
+    "relevant": [
+      94
+    ],
+    "conversation,": [
+      97
+    ],
+    "do": [
+      98
+    ],
+    "not": [
+      99
+    ],
+    "compromise": [
+      100
+    ],
+    "efficiency,": [
+      102
+    ],
+    "and": [
+      103,
+      122,
+      142,
+      144
+    ],
+    "easy": [
+      105
+    ],
+    "discard.": [
+      107
+    ],
+    "However,": [
+      108
+    ],
+    "proactive": [
+      109
+    ],
+    "may": [
+      114
+    ],
+    "also": [
+      115
+    ],
+    "entail": [
+      116
+    ],
+    "challenges": [
+      117
+    ],
+    "concerning": [
+      118
+    ],
+    "perceptions": [
+      119
+    ],
+    "privacy": [
+      121
+    ],
+    "invasiveness,": [
+      123
+    ],
+    "and,": [
+      124
+    ],
+    "hence,": [
+      125
+    ],
+    "needs": [
+      126
+    ],
+    "designed": [
+      129
+    ],
+    "great": [
+      131
+    ],
+    "care.": [
+      132
+    ],
+    "Based": [
+      133
+    ],
+    "our": [
+      135
+    ],
+    "findings,": [
+      136
+    ],
+    "summarize": [
+      138
+    ],
+    "implications": [
+      139
+    ],
+    "for": [
+      140,
+      147
+    ],
+    "theory": [
+      141
+    ],
+    "practice": [
+      143
+    ],
+    "propose": [
+      145
+    ],
+    "directions": [
+      146
+    ],
+    "future": [
+      148
+    ],
+    "research.": [
+      149
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-29T14:22:42.915294",
+  "created_date": "2025-10-10T00:00:00"
+}

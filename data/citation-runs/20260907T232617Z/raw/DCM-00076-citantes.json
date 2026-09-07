@@ -1,0 +1,1301 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 12,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4394678729)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4394678729"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4394678729&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4416425160",
+      "doi": "https://doi.org/10.1016/j.jss.2025.112685",
+      "title": "Automated end-to-end testing for conversational agents",
+      "display_name": "Automated end-to-end testing for conversational agents",
+      "publication_year": 2025,
+      "publication_date": "2025-11-20",
+      "ids": {
+        "openalex": "https://openalex.org/W4416425160",
+        "doi": "https://doi.org/10.1016/j.jss.2025.112685"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.jss.2025.112685",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jss.2025.112685",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S37879656",
+          "display_name": "Journal of Systems and Software",
+          "issn_l": "0164-1212",
+          "issn": [
+            "0164-1212",
+            "1873-1228"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Systems and Software",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "datacite"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.jss.2025.112685",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5007371727",
+            "display_name": "Juan de Lara",
+            "orcid": "https://orcid.org/0000-0001-9425-6362"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63634437",
+              "display_name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Juan de Lara",
+          "raw_affiliation_strings": [
+            "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9425-6362",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110074130",
+            "display_name": "Andrea Pozzo",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63634437",
+              "display_name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alejandro del Pozzo",
+          "raw_affiliation_strings": [
+            "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0001-3386-162X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040491852",
+            "display_name": "Esther Guerra",
+            "orcid": "https://orcid.org/0000-0002-2818-2278"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I63634437",
+              "display_name": "Universidad Autónoma de Madrid",
+              "ror": "https://ror.org/01cby8j38",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Esther Guerra",
+          "raw_affiliation_strings": [
+            "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-2818-2278",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Modelling & Software Engineering Research Group Universidad Autónoma de Madrid, Madrid, Spain",
+              "institution_ids": [
+                "https://openalex.org/I63634437"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5056580832",
+            "display_name": "Jesús Sánchez Cuadrado",
+            "orcid": "https://orcid.org/0000-0001-9755-5616"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I80180929",
+              "display_name": "Universidad de Murcia",
+              "ror": "https://ror.org/03p3aeb86",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I80180929"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jesús Sánchez Cuadrado",
+          "raw_affiliation_strings": [
+            "Models & Languages Lab Universidad de Murcia, Murcia, Spain"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9755-5616",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Models & Languages Lab Universidad de Murcia, Murcia, Spain",
+              "institution_ids": [
+                "https://openalex.org/I80180929"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5007371727"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I63634437"
+      ],
+      "apc_list": {
+        "value": 3820,
+        "currency": "USD",
+        "value_usd": 3820
+      },
+      "apc_paid": {
+        "value": 3820,
+        "currency": "USD",
+        "value_usd": 3820
+      },
+      "fwci": 2.0873,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.89809314,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "233",
+        "issue": null,
+        "first_page": "112685",
+        "last_page": "112685"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.7930999994277954,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.7930999994277954,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10028",
+          "display_name": "Topic Modeling",
+          "score": 0.03240000084042549,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12026",
+          "display_name": "Explainable Artificial Intelligence (XAI)",
+          "score": 0.014700000174343586,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.9223999977111816
+        },
+        {
+          "id": "https://openalex.org/keywords/correctness",
+          "display_name": "Correctness",
+          "score": 0.902899980545044
+        },
+        {
+          "id": "https://openalex.org/keywords/oracle",
+          "display_name": "Oracle",
+          "score": 0.8084999918937683
+        },
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.6401000022888184
+        },
+        {
+          "id": "https://openalex.org/keywords/dialog-system",
+          "display_name": "Dialog system",
+          "score": 0.5741999745368958
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-language",
+          "display_name": "Natural language",
+          "score": 0.5443000197410583
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.9223999977111816
+        },
+        {
+          "id": "https://openalex.org/C55439883",
+          "wikidata": "https://www.wikidata.org/wiki/Q360812",
+          "display_name": "Correctness",
+          "level": 2,
+          "score": 0.902899980545044
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.8170999884605408
+        },
+        {
+          "id": "https://openalex.org/C55166926",
+          "wikidata": "https://www.wikidata.org/wiki/Q2892946",
+          "display_name": "Oracle",
+          "level": 2,
+          "score": 0.8084999918937683
+        },
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.6401000022888184
+        },
+        {
+          "id": "https://openalex.org/C190954187",
+          "wikidata": "https://www.wikidata.org/wiki/Q5270587",
+          "display_name": "Dialog system",
+          "level": 3,
+          "score": 0.5741999745368958
+        },
+        {
+          "id": "https://openalex.org/C195324797",
+          "wikidata": "https://www.wikidata.org/wiki/Q33742",
+          "display_name": "Natural language",
+          "level": 2,
+          "score": 0.5443000197410583
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.4593000113964081
+        },
+        {
+          "id": "https://openalex.org/C2777904410",
+          "wikidata": "https://www.wikidata.org/wiki/Q7397",
+          "display_name": "Software",
+          "level": 2,
+          "score": 0.38909998536109924
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.3675999939441681
+        },
+        {
+          "id": "https://openalex.org/C204321447",
+          "wikidata": "https://www.wikidata.org/wiki/Q30642",
+          "display_name": "Natural language processing",
+          "level": 1,
+          "score": 0.33169999718666077
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.31459999084472656
+        },
+        {
+          "id": "https://openalex.org/C39890363",
+          "wikidata": "https://www.wikidata.org/wiki/Q36108",
+          "display_name": "Generative grammar",
+          "level": 2,
+          "score": 0.2989000082015991
+        },
+        {
+          "id": "https://openalex.org/C2780957641",
+          "wikidata": "https://www.wikidata.org/wiki/Q1999796",
+          "display_name": "Spell",
+          "level": 2,
+          "score": 0.27079999446868896
+        },
+        {
+          "id": "https://openalex.org/C5894958",
+          "wikidata": "https://www.wikidata.org/wiki/Q2297769",
+          "display_name": "Software agent",
+          "level": 2,
+          "score": 0.26589998602867126
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.26269999146461487
+        },
+        {
+          "id": "https://openalex.org/C2777267654",
+          "wikidata": "https://www.wikidata.org/wiki/Q3519023",
+          "display_name": "Test (biology)",
+          "level": 2,
+          "score": 0.25040000677108765
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.jss.2025.112685",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.jss.2025.112685",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S37879656",
+            "display_name": "Journal of Systems and Software",
+            "issn_l": "0164-1212",
+            "issn": [
+              "0164-1212",
+              "1873-1228"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Systems and Software",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "doi:10.5281/zenodo.21300117",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.21300117",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
+        },
+        {
+          "id": "doi:10.5281/zenodo.21300118",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.5281/zenodo.21300118",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400562",
+            "display_name": "Zenodo (CERN European Organization for Nuclear Research)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I67311998",
+            "host_organization_name": "European Organization for Nuclear Research",
+            "host_organization_lineage": [
+              "https://openalex.org/I67311998"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": "JournalArticle"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.jss.2025.112685",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.jss.2025.112685",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S37879656",
+          "display_name": "Journal of Systems and Software",
+          "issn_l": "0164-1212",
+          "issn": [
+            "0164-1212",
+            "1873-1228"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Systems and Software",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1064373649",
+          "display_name": null,
+          "funder_award_id": "RED2022-134647-T",
+          "funder_id": "https://openalex.org/F4320315062",
+          "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+        },
+        {
+          "id": "https://openalex.org/G5048383831",
+          "display_name": null,
+          "funder_award_id": "TED2021-129381B-C22",
+          "funder_id": "https://openalex.org/F4320315062",
+          "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+        },
+        {
+          "id": "https://openalex.org/G563314778",
+          "display_name": null,
+          "funder_award_id": "PID2021- 122270OB-I00",
+          "funder_id": "https://openalex.org/F4320315062",
+          "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+        },
+        {
+          "id": "https://openalex.org/G6604876142",
+          "display_name": null,
+          "funder_award_id": "PID2024-155231OB-I00",
+          "funder_id": "https://openalex.org/F4320315062",
+          "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+        },
+        {
+          "id": "https://openalex.org/G7605157535",
+          "display_name": null,
+          "funder_award_id": "TED2021-129381B-C21",
+          "funder_id": "https://openalex.org/F4320315062",
+          "funder_display_name": "Ministerio de Ciencia, Innovación y Universidades"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320315062",
+          "display_name": "Ministerio de Ciencia, Innovación y Universidades",
+          "ror": null
+        },
+        {
+          "id": "https://openalex.org/F4320322930",
+          "display_name": "Ministerio de Ciencia e Innovación",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W2039133058",
+        "https://openalex.org/W2049695835",
+        "https://openalex.org/W2120045257",
+        "https://openalex.org/W2324595780",
+        "https://openalex.org/W2903744551",
+        "https://openalex.org/W3005639702",
+        "https://openalex.org/W3134864076",
+        "https://openalex.org/W3157483947",
+        "https://openalex.org/W4221017503",
+        "https://openalex.org/W4295210883",
+        "https://openalex.org/W4389675247",
+        "https://openalex.org/W4394678729"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          151
+        ],
+        "advances": [
+          1
+        ],
+        "in": [
+          2,
+          47,
+          170,
+          199,
+          233
+        ],
+        "generative": [
+          3
+        ],
+        "artificial": [
+          4
+        ],
+        "intelligence,": [
+          5
+        ],
+        "especially": [
+          6
+        ],
+        "Large": [
+          7
+        ],
+        "Language": [
+          8
+        ],
+        "Models": [
+          9
+        ],
+        "(LLMs),": [
+          10
+        ],
+        "have": [
+          11
+        ],
+        "prompted": [
+          12
+        ],
+        "the": [
+          13,
+          118,
+          148,
+          167,
+          182,
+          225,
+          234
+        ],
+        "proliferation": [
+          14
+        ],
+        "of": [
+          15,
+          190,
+          196,
+          224
+        ],
+        "conversational": [
+          16,
+          68,
+          97
+        ],
+        "agents": [
+          17
+        ],
+        "(or": [
+          18
+        ],
+        "chatbots).": [
+          19
+        ],
+        "These": [
+          20
+        ],
+        "can": [
+          21,
+          153
+        ],
+        "be": [
+          22
+        ],
+        "general-purpose": [
+          23
+        ],
+        "–": [
+          24,
+          27,
+          33
+        ],
+        "like": [
+          25,
+          34
+        ],
+        "ChatGPT": [
+          26
+        ],
+        "or": [
+          28,
+          37
+        ],
+        "tailored": [
+          29
+        ],
+        "to": [
+          30,
+          54,
+          67,
+          137
+        ],
+        "specific": [
+          31
+        ],
+        "tasks": [
+          32
+        ],
+        "buying": [
+          35
+        ],
+        "tickets": [
+          36,
+          160
+        ],
+        "obtaining": [
+          38
+        ],
+        "customer": [
+          39
+        ],
+        "support.": [
+          40
+        ],
+        "Although": [
+          41
+        ],
+        "chatbots": [
+          42,
+          207,
+          236
+        ],
+        "play": [
+          43
+        ],
+        "a": [
+          44,
+          103,
+          113,
+          134
+        ],
+        "significant": [
+          45
+        ],
+        "role": [
+          46
+        ],
+        "today’s": [
+          48
+        ],
+        "software": [
+          49
+        ],
+        "ecosystem,": [
+          50
+        ],
+        "they": [
+          51
+        ],
+        "are": [
+          52
+        ],
+        "hard": [
+          53
+        ],
+        "test:": [
+          55
+        ],
+        "defining": [
+          56
+        ],
+        "meaningful,": [
+          57
+        ],
+        "thorough": [
+          58
+        ],
+        "tests": [
+          59
+        ],
+        "is": [
+          60,
+          70,
+          73,
+          82
+        ],
+        "time-consuming,": [
+          61
+        ],
+        "and": [
+          62,
+          125,
+          139,
+          144,
+          163,
+          172,
+          193,
+          212,
+          222,
+          228
+        ],
+        "setting": [
+          63,
+          122
+        ],
+        "an": [
+          64,
+          92,
+          123,
+          184,
+          194
+        ],
+        "oracle": [
+          65
+        ],
+        "flexible": [
+          66
+        ],
+        "variations": [
+          69
+        ],
+        "challenging.": [
+          71
+        ],
+        "This": [
+          72,
+          179
+        ],
+        "aggravated": [
+          74
+        ],
+        "when": [
+          75
+        ],
+        "testing": [
+          76,
+          94,
+          188
+        ],
+        "LLM-based": [
+          77
+        ],
+        "chatbots,": [
+          78
+        ],
+        "as": [
+          79
+        ],
+        "their": [
+          80,
+          191
+        ],
+        "conversation": [
+          81
+        ],
+        "natural": [
+          83
+        ],
+        "but": [
+          84
+        ],
+        "unpredictable.": [
+          85
+        ],
+        "To": [
+          86
+        ],
+        "alleviate": [
+          87
+        ],
+        "this": [
+          88
+        ],
+        "problem,": [
+          89
+        ],
+        "we": [
+          90
+        ],
+        "present": [
+          91
+        ],
+        "end-to-end": [
+          93
+        ],
+        "approach": [
+          95
+        ],
+        "for": [
+          96,
+          117
+        ],
+        "agents,": [
+          98
+        ],
+        "comprising": [
+          99
+        ],
+        "two": [
+          100
+        ],
+        "components.": [
+          101
+        ],
+        "First,": [
+          102
+        ],
+        "highly": [
+          104
+        ],
+        "customisable": [
+          105
+        ],
+        "user": [
+          106
+        ],
+        "simulator": [
+          107
+        ],
+        "that": [
+          108
+        ],
+        "generates": [
+          109
+        ],
+        "meaningful": [
+          110
+        ],
+        "conversations": [
+          111
+        ],
+        "with": [
+          112,
+          208
+        ],
+        "chatbot": [
+          114,
+          168
+        ],
+        "under": [
+          115
+        ],
+        "test,": [
+          116
+        ],
+        "given": [
+          119
+        ],
+        "goals": [
+          120
+        ],
+        "(e.g.,": [
+          121,
+          128,
+          157,
+          166
+        ],
+        "appointment)": [
+          124
+        ],
+        "communication": [
+          126
+        ],
+        "styles": [
+          127,
+          165
+        ],
+        "long/short": [
+          129
+        ],
+        "phrases,": [
+          130
+        ],
+        "spelling": [
+          131
+        ],
+        "mistakes).": [
+          132
+        ],
+        "Second,": [
+          133
+        ],
+        "domain-specific": [
+          135
+        ],
+        "language": [
+          136
+        ],
+        "specify": [
+          138
+        ],
+        "check": [
+          140
+        ],
+        "correctness": [
+          141,
+          156,
+          241
+        ],
+        "conditions": [
+          142,
+          152
+        ],
+        "(assertions": [
+          143
+        ],
+        "metamorphic": [
+          145
+        ],
+        "relations)": [
+          146
+        ],
+        "on": [
+          147,
+          206,
+          213
+        ],
+        "generated": [
+          149
+        ],
+        "conversations.": [
+          150
+        ],
+        "assess": [
+          154
+        ],
+        "functional": [
+          155,
+          231
+        ],
+        "booking": [
+          158
+        ],
+        "more": [
+          159
+        ],
+        "costs": [
+          161
+        ],
+        "more)": [
+          162
+        ],
+        "interaction": [
+          164
+        ],
+        "responds": [
+          169
+        ],
+        "English": [
+          171
+        ],
+        "does": [
+          173
+        ],
+        "not": [
+          174
+        ],
+        "deviate": [
+          175
+        ],
+        "from": [
+          176
+        ],
+        "certain": [
+          177
+        ],
+        "topics).": [
+          178
+        ],
+        "paper": [
+          180
+        ],
+        "describes": [
+          181
+        ],
+        "approach,": [
+          183
+        ],
+        "implementation": [
+          185
+        ],
+        "enabling": [
+          186
+        ],
+        "chatbots’": [
+          187
+        ],
+        "independently": [
+          189
+        ],
+        "technology,": [
+          192
+        ],
+        "evaluation": [
+          195
+        ],
+        "its": [
+          197
+        ],
+        "effectiveness": [
+          198
+        ],
+        "finding": [
+          200
+        ],
+        "defects.": [
+          201
+        ],
+        "We": [
+          202
+        ],
+        "tested": [
+          203
+        ],
+        "our": [
+          204
+        ],
+        "tool": [
+          205,
+          218
+        ],
+        "artificially": [
+          209
+        ],
+        "injected": [
+          210,
+          226
+        ],
+        "errors,": [
+          211,
+          227
+        ],
+        "third-party,": [
+          214
+        ],
+        "real-world": [
+          215,
+          235
+        ],
+        "chatbots.": [
+          216
+        ],
+        "Our": [
+          217
+        ],
+        "detected": [
+          219
+        ],
+        "between": [
+          220
+        ],
+        "81.25%": [
+          221
+        ],
+        "100%": [
+          223
+        ],
+        "identified": [
+          229
+        ],
+        "actual": [
+          230
+        ],
+        "issues": [
+          232
+        ],
+        "by": [
+          237
+        ],
+        "applying": [
+          238
+        ],
+        "manually": [
+          239
+        ],
+        "defined": [
+          240
+        ],
+        "rules.": [
+          242
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-03T10:48:47.769340",
+      "created_date": "2025-11-20T00:00:00"
+    }
+  ],
+  "group_by": []
+}

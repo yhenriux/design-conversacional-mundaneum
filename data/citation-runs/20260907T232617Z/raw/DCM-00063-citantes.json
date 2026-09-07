@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 12,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W7154026252)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W7154026252"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W7154026252&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7154011472",
+      "doi": "https://doi.org/10.1145/3772318.3809042",
+      "title": "10.1145/3772318.3809042",
+      "display_name": "10.1145/3772318.3809042",
+      "publication_year": 2000,
+      "publication_date": "2000-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W7154011472",
+        "doi": "https://doi.org/10.1145/3772318.3809042"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/3772318.3809042",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/3772318.3809042",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210212300",
+          "display_name": "Time to knit",
+          "issn_l": "0849-6757",
+          "issn": [
+            "0849-6757"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4320800644",
+          "host_organization_name": "Japan Neurosurgical Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4320800644"
+          ],
+          "host_organization_lineage_names": [
+            "Japan Neurosurgical Society"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "CrossRef Listing of Deleted DOIs",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.73683747,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "1",
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10906",
+        "display_name": "AI-based Problem Solving and Planning",
+        "score": 0.8533999919891357,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10906",
+          "display_name": "AI-based Problem Solving and Planning",
+          "score": 0.8533999919891357,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11010",
+          "display_name": "Logic, Reasoning, and Knowledge",
+          "score": 0.05050000175833702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11596",
+          "display_name": "Constraint Satisfaction and Optimization",
+          "score": 0.03830000013113022,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1705",
+            "display_name": "Computer Networks and Communications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/session",
+          "display_name": "Session (web analytics)",
+          "score": 0.8165000081062317
+        },
+        {
+          "id": "https://openalex.org/keywords/sensemaking",
+          "display_name": "Sensemaking",
+          "score": 0.684499979019165
+        },
+        {
+          "id": "https://openalex.org/keywords/debriefing",
+          "display_name": "Debriefing",
+          "score": 0.27900001406669617
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.2775000035762787
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779182362",
+          "wikidata": "https://www.wikidata.org/wiki/Q17126187",
+          "display_name": "Session (web analytics)",
+          "level": 2,
+          "score": 0.8165000081062317
+        },
+        {
+          "id": "https://openalex.org/C2780554381",
+          "wikidata": "https://www.wikidata.org/wiki/Q2063340",
+          "display_name": "Sensemaking",
+          "level": 2,
+          "score": 0.684499979019165
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4893999993801117
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4377000033855438
+        },
+        {
+          "id": "https://openalex.org/C75630572",
+          "wikidata": "https://www.wikidata.org/wiki/Q538904",
+          "display_name": "Applied psychology",
+          "level": 1,
+          "score": 0.31439998745918274
+        },
+        {
+          "id": "https://openalex.org/C202695956",
+          "wikidata": "https://www.wikidata.org/wiki/Q2669680",
+          "display_name": "Debriefing",
+          "level": 2,
+          "score": 0.27900001406669617
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.2775000035762787
+        },
+        {
+          "id": "https://openalex.org/C509550671",
+          "wikidata": "https://www.wikidata.org/wiki/Q126945",
+          "display_name": "Medical education",
+          "level": 1,
+          "score": 0.27480000257492065
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.2628999948501587
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.23659999668598175
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3772318.3809042",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/3772318.3809042",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210212300",
+            "display_name": "Time to knit",
+            "issn_l": "0849-6757",
+            "issn": [
+              "0849-6757"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4320800644",
+            "host_organization_name": "Japan Neurosurgical Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4320800644"
+            ],
+            "host_organization_lineage_names": [
+              "Japan Neurosurgical Society"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "CrossRef Listing of Deleted DOIs",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W7127916371",
+        "https://openalex.org/W7154019849",
+        "https://openalex.org/W7154026252",
+        "https://openalex.org/W7154046076",
+        "https://openalex.org/W7154082476",
+        "https://openalex.org/W7154084312",
+        "https://openalex.org/W7154141732"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2026-04-14T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7164513436",
+      "doi": "https://doi.org/10.1145/3802974.3809477",
+      "title": "EduReview: An AI–assisted Risk Aware Design Critique System for K–12 Products",
+      "display_name": "EduReview: An AI–assisted Risk Aware Design Critique System for K–12 Products",
+      "publication_year": 2026,
+      "publication_date": "2026-06-12",
+      "ids": {
+        "openalex": "https://openalex.org/W7164513436",
+        "doi": "https://doi.org/10.1145/3802974.3809477"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1145/3802974.3809477",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3802974.3809477",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1145/3802974.3809477",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5138505364",
+            "display_name": "Qianyu Liang",
+            "orcid": "https://orcid.org/0009-0008-2643-7442"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210104238",
+              "display_name": "Building Engineering and Science Talent",
+              "ror": "https://ror.org/00rkxnb56",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210104238"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Qianyu Liang",
+          "raw_affiliation_strings": [
+            "TAL Education Group, San Jose, California, USA"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0008-2643-7442",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TAL Education Group, San Jose, California, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210104238"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5138505364"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210104238"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.76239147,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "518",
+        "last_page": "522"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10672",
+        "display_name": "Design Education and Practice",
+        "score": 0.3142000138759613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10672",
+          "display_name": "Design Education and Practice",
+          "score": 0.3142000138759613,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.07180000096559525,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10533",
+          "display_name": "Teaching and Learning Programming",
+          "score": 0.04149999842047691,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1706",
+            "display_name": "Computer Science Applications"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/product",
+          "display_name": "Product (mathematics)",
+          "score": 0.2624000012874603
+        },
+        {
+          "id": "https://openalex.org/keywords/risk-management",
+          "display_name": "Risk management",
+          "score": 0.26080000400543213
+        },
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.2590000033378601
+        },
+        {
+          "id": "https://openalex.org/keywords/perspective",
+          "display_name": "Perspective (graphical)",
+          "score": 0.2483000010251999
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.24619999527931213
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5016000270843506
+        },
+        {
+          "id": "https://openalex.org/C112930515",
+          "wikidata": "https://www.wikidata.org/wiki/Q4389547",
+          "display_name": "Risk analysis (engineering)",
+          "level": 1,
+          "score": 0.43880000710487366
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.3082999885082245
+        },
+        {
+          "id": "https://openalex.org/C90673727",
+          "wikidata": "https://www.wikidata.org/wiki/Q901718",
+          "display_name": "Product (mathematics)",
+          "level": 2,
+          "score": 0.2624000012874603
+        },
+        {
+          "id": "https://openalex.org/C32896092",
+          "wikidata": "https://www.wikidata.org/wiki/Q189447",
+          "display_name": "Risk management",
+          "level": 2,
+          "score": 0.26080000400543213
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.2590000033378601
+        },
+        {
+          "id": "https://openalex.org/C38652104",
+          "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+          "display_name": "Computer security",
+          "level": 1,
+          "score": 0.2531000077724457
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.2483000010251999
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.24619999527931213
+        },
+        {
+          "id": "https://openalex.org/C2778348673",
+          "wikidata": "https://www.wikidata.org/wiki/Q739302",
+          "display_name": "Production (economics)",
+          "level": 2,
+          "score": 0.24279999732971191
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3802974.3809477",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1145/3802974.3809477",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1145/3802974.3809477",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3802974.3809477",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Companion Publication of the 2026 ACM Designing Interactive Systems Conference",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W2084814989",
+        "https://openalex.org/W2166275120",
+        "https://openalex.org/W2585378523",
+        "https://openalex.org/W2897154134",
+        "https://openalex.org/W3001248429",
+        "https://openalex.org/W3123649662",
+        "https://openalex.org/W3133702157",
+        "https://openalex.org/W3161930379",
+        "https://openalex.org/W3199697034",
+        "https://openalex.org/W4297140955",
+        "https://openalex.org/W4366816788",
+        "https://openalex.org/W7154026252"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Generative": [
+          0
+        ],
+        "AI": [
+          1,
+          42,
+          120
+        ],
+        "is": [
+          2,
+          67
+        ],
+        "increasingly": [
+          3
+        ],
+        "used": [
+          4
+        ],
+        "in": [
+          5,
+          144
+        ],
+        "K-12": [
+          6
+        ],
+        "educational": [
+          7
+        ],
+        "product": [
+          8
+        ],
+        "design,": [
+          9
+        ],
+        "yet": [
+          10
+        ],
+        "many": [
+          11
+        ],
+        "AI-assisted": [
+          12,
+          142
+        ],
+        "critique": [
+          13,
+          143
+        ],
+        "tools": [
+          14
+        ],
+        "prioritize": [
+          15
+        ],
+        "usability": [
+          16
+        ],
+        "and": [
+          17,
+          38,
+          82,
+          112,
+          128
+        ],
+        "efficiency": [
+          18
+        ],
+        "over": [
+          19
+        ],
+        "reflection": [
+          20
+        ],
+        "on": [
+          21,
+          92,
+          141
+        ],
+        "child": [
+          22,
+          58
+        ],
+        "specific": [
+          23
+        ],
+        "risks.": [
+          24
+        ],
+        "Designing": [
+          25
+        ],
+        "for": [
+          26
+        ],
+        "minors": [
+          27
+        ],
+        "involves": [
+          28
+        ],
+        "responsibilities": [
+          29
+        ],
+        "related": [
+          30
+        ],
+        "to": [
+          31,
+          98
+        ],
+        "developmental": [
+          32
+        ],
+        "appropriateness,": [
+          33
+        ],
+        "privacy": [
+          34
+        ],
+        "governance,": [
+          35
+        ],
+        "emotional": [
+          36
+        ],
+        "safety,": [
+          37
+        ],
+        "the": [
+          39,
+          95
+        ],
+        "framing": [
+          40
+        ],
+        "of": [
+          41,
+          102
+        ],
+        "authority.": [
+          43
+        ],
+        "We": [
+          44
+        ],
+        "introduce": [
+          45
+        ],
+        "EduReview,": [
+          46
+        ],
+        "a": [
+          47,
+          70,
+          113,
+          138
+        ],
+        "system": [
+          48,
+          96
+        ],
+        "that": [
+          49,
+          74,
+          118
+        ],
+        "explores": [
+          50
+        ],
+        "how": [
+          51
+        ],
+        "automated": [
+          52
+        ],
+        "feedback": [
+          53
+        ],
+        "can": [
+          54,
+          122
+        ],
+        "be": [
+          55
+        ],
+        "structured": [
+          56,
+          119
+        ],
+        "around": [
+          57
+        ],
+        "centered": [
+          59
+        ],
+        "risk": [
+          60,
+          72,
+          145
+        ],
+        "considerations": [
+          61
+        ],
+        "rather": [
+          62
+        ],
+        "than": [
+          63,
+          89
+        ],
+        "surface": [
+          64,
+          124
+        ],
+        "optimization.": [
+          65
+        ],
+        "EduReview": [
+          66
+        ],
+        "informed": [
+          68
+        ],
+        "by": [
+          69
+        ],
+        "tiered": [
+          71
+        ],
+        "framework": [
+          73
+        ],
+        "highlights": [
+          75
+        ],
+        "structural": [
+          76,
+          126
+        ],
+        "concerns": [
+          77
+        ],
+        "such": [
+          78
+        ],
+        "as": [
+          79
+        ],
+        "data": [
+          80
+        ],
+        "transparency": [
+          81
+        ],
+        "authority": [
+          83
+        ],
+        "boundaries": [
+          84
+        ],
+        "alongside": [
+          85
+        ],
+        "interaction": [
+          86
+        ],
+        "refinements.": [
+          87
+        ],
+        "Rather": [
+          88
+        ],
+        "focusing": [
+          90
+        ],
+        "solely": [
+          91
+        ],
+        "accelerating": [
+          93
+        ],
+        "production,": [
+          94
+        ],
+        "aims": [
+          97
+        ],
+        "support": [
+          99
+        ],
+        "reflective": [
+          100
+        ],
+        "consideration": [
+          101
+        ],
+        "normative": [
+          103
+        ],
+        "tensions": [
+          104
+        ],
+        "during": [
+          105
+        ],
+        "early": [
+          106
+        ],
+        "design": [
+          107,
+          139
+        ],
+        "stages.": [
+          108
+        ],
+        "Preliminary": [
+          109
+        ],
+        "expert": [
+          110
+        ],
+        "assessments": [
+          111
+        ],
+        "small": [
+          114
+        ],
+        "novice": [
+          115
+        ],
+        "study": [
+          116
+        ],
+        "suggest": [
+          117
+        ],
+        "critiques": [
+          121
+        ],
+        "help": [
+          123
+        ],
+        "overlooked": [
+          125
+        ],
+        "risks": [
+          127
+        ],
+        "prompt": [
+          129
+        ],
+        "revisions": [
+          130
+        ],
+        "beyond": [
+          131
+        ],
+        "interface": [
+          132
+        ],
+        "level": [
+          133
+        ],
+        "adjustments.": [
+          134
+        ],
+        "These": [
+          135
+        ],
+        "findings": [
+          136
+        ],
+        "contribute": [
+          137
+        ],
+        "perspective": [
+          140
+        ],
+        "sensitive": [
+          146
+        ],
+        "domains.": [
+          147
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2026-06-13T00:00:00"
+    }
+  ],
+  "group_by": []
+}

@@ -1,0 +1,1643 @@
+{
+  "meta": {
+    "count": 2,
+    "db_response_time_ms": 8,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4412055639)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4412055639"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4412055639&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7166157687",
+      "doi": "https://doi.org/10.1007/s43681-026-01233-w",
+      "title": "Grounding the right to refuse AI chatbot use in higher education",
+      "display_name": "Grounding the right to refuse AI chatbot use in higher education",
+      "publication_year": 2026,
+      "publication_date": "2026-06-26",
+      "ids": {
+        "openalex": "https://openalex.org/W7166157687",
+        "doi": "https://doi.org/10.1007/s43681-026-01233-w"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s43681-026-01233-w",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s43681-026-01233-w",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170699",
+          "display_name": "AI and Ethics",
+          "issn_l": "2730-5953",
+          "issn": [
+            "2730-5953",
+            "2730-5961"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319965",
+          "host_organization_name": "Springer Nature",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AI and Ethics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5139390868",
+            "display_name": "Timothy Daly",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I182627622",
+              "display_name": "Université Sorbonne Nouvelle",
+              "ror": "https://ror.org/03z6jp965",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182627622"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210098121",
+              "display_name": "Facultad Latinoamericana de Ciencias Sociales Sede Argentina",
+              "ror": "https://ror.org/00xp3z794",
+              "country_code": "AR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210098121"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4389425355",
+              "display_name": "Sciences, Normes, Démocratie",
+              "ror": "https://ror.org/033eqsk67",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4389425355"
+              ]
+            }
+          ],
+          "countries": [
+            "AR",
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Timothy Daly",
+          "raw_affiliation_strings": [
+            "Bioethics Program, Facultad Latinoamericana de Ciencias Sociales, Buenos Aires, Argentina",
+            "CNRS UMR 8011, Science Norms Democracy, Sorbonne University, Paris, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bioethics Program, Facultad Latinoamericana de Ciencias Sociales, Buenos Aires, Argentina",
+              "institution_ids": [
+                "https://openalex.org/I4210098121"
+              ]
+            },
+            {
+              "raw_affiliation_string": "CNRS UMR 8011, Science Norms Democracy, Sorbonne University, Paris, France",
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I182627622",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4389425355"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5139390868"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I182627622",
+        "https://openalex.org/I39804081",
+        "https://openalex.org/I4210098121",
+        "https://openalex.org/I4389425355"
+      ],
+      "apc_list": {
+        "value": 3190,
+        "currency": "USD",
+        "value_usd": 3190
+      },
+      "apc_paid": null,
+      "fwci": 6.5896,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.97063024,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": "4",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.7900999784469604,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.7900999784469604,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11636",
+          "display_name": "Artificial Intelligence in Healthcare and Education",
+          "score": 0.07680000364780426,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2718",
+            "display_name": "Health Informatics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/27",
+            "display_name": "Medicine"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.048500001430511475,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.8557000160217285
+        },
+        {
+          "id": "https://openalex.org/keywords/premise",
+          "display_name": "Premise",
+          "score": 0.6406999826431274
+        },
+        {
+          "id": "https://openalex.org/keywords/duty",
+          "display_name": "Duty",
+          "score": 0.5716999769210815
+        },
+        {
+          "id": "https://openalex.org/keywords/higher-education",
+          "display_name": "Higher education",
+          "score": 0.49880000948905945
+        },
+        {
+          "id": "https://openalex.org/keywords/obligation",
+          "display_name": "Obligation",
+          "score": 0.4377000033855438
+        },
+        {
+          "id": "https://openalex.org/keywords/position",
+          "display_name": "Position (finance)",
+          "score": 0.38089999556541443
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.8557000160217285
+        },
+        {
+          "id": "https://openalex.org/C2778023277",
+          "wikidata": "https://www.wikidata.org/wiki/Q321703",
+          "display_name": "Premise",
+          "level": 2,
+          "score": 0.6406999826431274
+        },
+        {
+          "id": "https://openalex.org/C2779103253",
+          "wikidata": "https://www.wikidata.org/wiki/Q878070",
+          "display_name": "Duty",
+          "level": 2,
+          "score": 0.5716999769210815
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.5074999928474426
+        },
+        {
+          "id": "https://openalex.org/C120912362",
+          "wikidata": "https://www.wikidata.org/wiki/Q136822",
+          "display_name": "Higher education",
+          "level": 2,
+          "score": 0.49880000948905945
+        },
+        {
+          "id": "https://openalex.org/C2778447849",
+          "wikidata": "https://www.wikidata.org/wiki/Q2648051",
+          "display_name": "Obligation",
+          "level": 2,
+          "score": 0.4377000033855438
+        },
+        {
+          "id": "https://openalex.org/C198082294",
+          "wikidata": "https://www.wikidata.org/wiki/Q3399648",
+          "display_name": "Position (finance)",
+          "level": 2,
+          "score": 0.38089999556541443
+        },
+        {
+          "id": "https://openalex.org/C55587333",
+          "wikidata": "https://www.wikidata.org/wiki/Q1133029",
+          "display_name": "Engineering ethics",
+          "level": 1,
+          "score": 0.3725999891757965
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.3698999881744385
+        },
+        {
+          "id": "https://openalex.org/C2777107957",
+          "wikidata": "https://www.wikidata.org/wiki/Q2648051",
+          "display_name": "Moral obligation",
+          "level": 2,
+          "score": 0.353300005197525
+        },
+        {
+          "id": "https://openalex.org/C19417346",
+          "wikidata": "https://www.wikidata.org/wiki/Q7922",
+          "display_name": "Pedagogy",
+          "level": 1,
+          "score": 0.34940001368522644
+        },
+        {
+          "id": "https://openalex.org/C2780510313",
+          "wikidata": "https://www.wikidata.org/wiki/Q178706",
+          "display_name": "Institution",
+          "level": 2,
+          "score": 0.34299999475479126
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.3257000148296356
+        },
+        {
+          "id": "https://openalex.org/C57996006",
+          "wikidata": "https://www.wikidata.org/wiki/Q6909105",
+          "display_name": "Moral disengagement",
+          "level": 2,
+          "score": 0.3237000107765198
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.2994999885559082
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0.2743000090122223
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.26570001244544983
+        },
+        {
+          "id": "https://openalex.org/C2991943351",
+          "wikidata": "https://www.wikidata.org/wiki/Q1062949",
+          "display_name": "Moral education",
+          "level": 2,
+          "score": 0.2644999921321869
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.2639999985694885
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.26269999146461487
+        },
+        {
+          "id": "https://openalex.org/C2778773596",
+          "wikidata": "https://www.wikidata.org/wiki/Q5317586",
+          "display_name": "Duty to protect",
+          "level": 3,
+          "score": 0.2606000006198883
+        },
+        {
+          "id": "https://openalex.org/C200113983",
+          "wikidata": "https://www.wikidata.org/wiki/Q48324",
+          "display_name": "Morality",
+          "level": 2,
+          "score": 0.2515999972820282
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s43681-026-01233-w",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s43681-026-01233-w",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210170699",
+            "display_name": "AI and Ethics",
+            "issn_l": "2730-5953",
+            "issn": [
+              "2730-5953",
+              "2730-5961"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319965",
+            "host_organization_name": "Springer Nature",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "AI and Ethics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Peace, Justice and strong institutions",
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.4082346558570862
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 67,
+      "referenced_works": [
+        "https://openalex.org/W2002235070",
+        "https://openalex.org/W2007366526",
+        "https://openalex.org/W2049480502",
+        "https://openalex.org/W2282022578",
+        "https://openalex.org/W2327682760",
+        "https://openalex.org/W2343832013",
+        "https://openalex.org/W2503156317",
+        "https://openalex.org/W2809828859",
+        "https://openalex.org/W3001867136",
+        "https://openalex.org/W3033183016",
+        "https://openalex.org/W3125783110",
+        "https://openalex.org/W4243906228",
+        "https://openalex.org/W4252454769",
+        "https://openalex.org/W4285729085",
+        "https://openalex.org/W4290744457",
+        "https://openalex.org/W4303647719",
+        "https://openalex.org/W4313357222",
+        "https://openalex.org/W4324109433",
+        "https://openalex.org/W4324157321",
+        "https://openalex.org/W4391278536",
+        "https://openalex.org/W4391991212",
+        "https://openalex.org/W4394856167",
+        "https://openalex.org/W4396796749",
+        "https://openalex.org/W4399356563",
+        "https://openalex.org/W4400578758",
+        "https://openalex.org/W4403383897",
+        "https://openalex.org/W4404347568",
+        "https://openalex.org/W4404908538",
+        "https://openalex.org/W4405317449",
+        "https://openalex.org/W4406403843",
+        "https://openalex.org/W4407052190",
+        "https://openalex.org/W4408302787",
+        "https://openalex.org/W4411926083",
+        "https://openalex.org/W4411948293",
+        "https://openalex.org/W4411990041",
+        "https://openalex.org/W4412055639",
+        "https://openalex.org/W4412175231",
+        "https://openalex.org/W4412437676",
+        "https://openalex.org/W4413300281",
+        "https://openalex.org/W4413410538",
+        "https://openalex.org/W4413450847",
+        "https://openalex.org/W4415033376",
+        "https://openalex.org/W4415088218",
+        "https://openalex.org/W4415137654",
+        "https://openalex.org/W4415156384",
+        "https://openalex.org/W4415405351",
+        "https://openalex.org/W4415927941",
+        "https://openalex.org/W4416374622",
+        "https://openalex.org/W4417269815",
+        "https://openalex.org/W4417290827",
+        "https://openalex.org/W4417449885",
+        "https://openalex.org/W4417474777",
+        "https://openalex.org/W6947846282",
+        "https://openalex.org/W7092312717",
+        "https://openalex.org/W7117302975",
+        "https://openalex.org/W7119000423",
+        "https://openalex.org/W7124140759",
+        "https://openalex.org/W7124828011",
+        "https://openalex.org/W7126029612",
+        "https://openalex.org/W7127126679",
+        "https://openalex.org/W7128592265",
+        "https://openalex.org/W7128737646",
+        "https://openalex.org/W7129622914",
+        "https://openalex.org/W7140705274",
+        "https://openalex.org/W7153125291",
+        "https://openalex.org/W7160254914",
+        "https://openalex.org/W7160633337"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-01T08:31:24.195828",
+      "created_date": "2026-06-27T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7169830965",
+      "doi": "https://doi.org/10.1145/3816046.3816306",
+      "title": "From Interlocutor to Cognitive Extension: Brain-Computer Interface as a Step Beyond Dialogue in Conversational AI",
+      "display_name": "From Interlocutor to Cognitive Extension: Brain-Computer Interface as a Step Beyond Dialogue in Conversational AI",
+      "publication_year": 2026,
+      "publication_date": "2026-07-21",
+      "ids": {
+        "openalex": "https://openalex.org/W7169830965",
+        "doi": "https://doi.org/10.1145/3816046.3816306"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.1145/3816046.3816306",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3816046.3816306",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.1145/3816046.3816306",
+        "any_repository_has_fulltext": null
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5118763539",
+            "display_name": "Lucija Mihić Zidar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I51783024",
+              "display_name": "Brandenburg University of Technology Cottbus-Senftenberg",
+              "ror": "https://ror.org/02wxx3e24",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I51783024"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lucija Mihić Zidar",
+          "raw_affiliation_strings": [
+            "Chair of Neuroadaptive Human-Computer Interaction, Brandenburg University of Technology Cottbus-Senftenberg, Cottbus, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-3655-0922",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chair of Neuroadaptive Human-Computer Interaction, Brandenburg University of Technology Cottbus-Senftenberg, Cottbus, Germany",
+              "institution_ids": [
+                "https://openalex.org/I51783024"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111506918",
+            "display_name": "P. Bhatia",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210155959",
+              "display_name": "Berliner Energieagentur (Germany)",
+              "ror": "https://ror.org/05ey8y327",
+              "country_code": "DE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210155959"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Praneel Bhatia",
+          "raw_affiliation_strings": [
+            "Zander Labs, Berlin, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0009-7319-3812",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Zander Labs, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210155959"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050516806",
+            "display_name": "Philipp Wicke",
+            "orcid": "https://orcid.org/0000-0001-9891-5353"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210155959",
+              "display_name": "Berliner Energieagentur (Germany)",
+              "ror": "https://ror.org/05ey8y327",
+              "country_code": "DE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210155959"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Philipp Wicke",
+          "raw_affiliation_strings": [
+            "Zander Labs, Berlin, Germany"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-9891-5353",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Zander Labs, Berlin, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210155959"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1",
+        "last_page": "5"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": null,
+      "topics": [],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/embodied-cognition",
+          "display_name": "Embodied cognition",
+          "score": 0.762499988079071
+        },
+        {
+          "id": "https://openalex.org/keywords/cognition",
+          "display_name": "Cognition",
+          "score": 0.7239000201225281
+        },
+        {
+          "id": "https://openalex.org/keywords/metaphor",
+          "display_name": "Metaphor",
+          "score": 0.6732000112533569
+        },
+        {
+          "id": "https://openalex.org/keywords/situated",
+          "display_name": "Situated",
+          "score": 0.6118999719619751
+        },
+        {
+          "id": "https://openalex.org/keywords/function",
+          "display_name": "Function (biology)",
+          "score": 0.4672999978065491
+        },
+        {
+          "id": "https://openalex.org/keywords/interface",
+          "display_name": "Interface (matter)",
+          "score": 0.46639999747276306
+        },
+        {
+          "id": "https://openalex.org/keywords/constraint",
+          "display_name": "Constraint (computer-aided design)",
+          "score": 0.45019999146461487
+        },
+        {
+          "id": "https://openalex.org/keywords/situated-cognition",
+          "display_name": "Situated cognition",
+          "score": 0.37279999256134033
+        },
+        {
+          "id": "https://openalex.org/keywords/equivalence",
+          "display_name": "Equivalence (formal languages)",
+          "score": 0.3646000027656555
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C100609095",
+          "wikidata": "https://www.wikidata.org/wiki/Q1335050",
+          "display_name": "Embodied cognition",
+          "level": 2,
+          "score": 0.762499988079071
+        },
+        {
+          "id": "https://openalex.org/C169900460",
+          "wikidata": "https://www.wikidata.org/wiki/Q2200417",
+          "display_name": "Cognition",
+          "level": 2,
+          "score": 0.7239000201225281
+        },
+        {
+          "id": "https://openalex.org/C2778311575",
+          "wikidata": "https://www.wikidata.org/wiki/Q18534",
+          "display_name": "Metaphor",
+          "level": 2,
+          "score": 0.6732000112533569
+        },
+        {
+          "id": "https://openalex.org/C132829578",
+          "wikidata": "https://www.wikidata.org/wiki/Q581151",
+          "display_name": "Situated",
+          "level": 2,
+          "score": 0.6118999719619751
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.5927000045776367
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.48170000314712524
+        },
+        {
+          "id": "https://openalex.org/C14036430",
+          "wikidata": "https://www.wikidata.org/wiki/Q3736076",
+          "display_name": "Function (biology)",
+          "level": 2,
+          "score": 0.4672999978065491
+        },
+        {
+          "id": "https://openalex.org/C113843644",
+          "wikidata": "https://www.wikidata.org/wiki/Q901882",
+          "display_name": "Interface (matter)",
+          "level": 4,
+          "score": 0.46639999747276306
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.45500001311302185
+        },
+        {
+          "id": "https://openalex.org/C180747234",
+          "wikidata": "https://www.wikidata.org/wiki/Q23373",
+          "display_name": "Cognitive psychology",
+          "level": 1,
+          "score": 0.45159998536109924
+        },
+        {
+          "id": "https://openalex.org/C2776036281",
+          "wikidata": "https://www.wikidata.org/wiki/Q48769818",
+          "display_name": "Constraint (computer-aided design)",
+          "level": 2,
+          "score": 0.45019999146461487
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.44760000705718994
+        },
+        {
+          "id": "https://openalex.org/C80944243",
+          "wikidata": "https://www.wikidata.org/wiki/Q7532125",
+          "display_name": "Situated cognition",
+          "level": 3,
+          "score": 0.37279999256134033
+        },
+        {
+          "id": "https://openalex.org/C2780069185",
+          "wikidata": "https://www.wikidata.org/wiki/Q7977945",
+          "display_name": "Equivalence (formal languages)",
+          "level": 2,
+          "score": 0.3646000027656555
+        },
+        {
+          "id": "https://openalex.org/C151913843",
+          "wikidata": "https://www.wikidata.org/wiki/Q3454555",
+          "display_name": "Dominance (genetics)",
+          "level": 3,
+          "score": 0.36399999260902405
+        },
+        {
+          "id": "https://openalex.org/C192327766",
+          "wikidata": "https://www.wikidata.org/wiki/Q1038799",
+          "display_name": "Cognitive robotics",
+          "level": 3,
+          "score": 0.3628999888896942
+        },
+        {
+          "id": "https://openalex.org/C17037162",
+          "wikidata": "https://www.wikidata.org/wiki/Q7551870",
+          "display_name": "Socially distributed cognition",
+          "level": 3,
+          "score": 0.3517000079154968
+        },
+        {
+          "id": "https://openalex.org/C86658582",
+          "wikidata": "https://www.wikidata.org/wiki/Q1432778",
+          "display_name": "Social cognition",
+          "level": 3,
+          "score": 0.35030001401901245
+        },
+        {
+          "id": "https://openalex.org/C61641136",
+          "wikidata": "https://www.wikidata.org/wiki/Q1107019",
+          "display_name": "Cognitive load",
+          "level": 3,
+          "score": 0.328000009059906
+        },
+        {
+          "id": "https://openalex.org/C2986342778",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Cognitive systems",
+          "level": 3,
+          "score": 0.3188000023365021
+        },
+        {
+          "id": "https://openalex.org/C2776402256",
+          "wikidata": "https://www.wikidata.org/wiki/Q2633818",
+          "display_name": "Conceptual metaphor",
+          "level": 3,
+          "score": 0.3070000112056732
+        },
+        {
+          "id": "https://openalex.org/C169903001",
+          "wikidata": "https://www.wikidata.org/wiki/Q3264987",
+          "display_name": "Reciprocity (cultural anthropology)",
+          "level": 2,
+          "score": 0.30230000615119934
+        },
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.2955000102519989
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.2833000123500824
+        },
+        {
+          "id": "https://openalex.org/C36503486",
+          "wikidata": "https://www.wikidata.org/wiki/Q11235244",
+          "display_name": "Domain (mathematical analysis)",
+          "level": 2,
+          "score": 0.27709999680519104
+        },
+        {
+          "id": "https://openalex.org/C511192102",
+          "wikidata": "https://www.wikidata.org/wiki/Q5156948",
+          "display_name": "Comprehension",
+          "level": 2,
+          "score": 0.2766000032424927
+        },
+        {
+          "id": "https://openalex.org/C2781067378",
+          "wikidata": "https://www.wikidata.org/wiki/Q17027399",
+          "display_name": "Interpretability",
+          "level": 2,
+          "score": 0.2565000057220459
+        },
+        {
+          "id": "https://openalex.org/C2776352735",
+          "wikidata": "https://www.wikidata.org/wiki/Q2313343",
+          "display_name": "Turn-taking",
+          "level": 3,
+          "score": 0.2540999948978424
+        },
+        {
+          "id": "https://openalex.org/C89505385",
+          "wikidata": "https://www.wikidata.org/wiki/Q47146",
+          "display_name": "User interface",
+          "level": 2,
+          "score": 0.25369998812675476
+        },
+        {
+          "id": "https://openalex.org/C89267518",
+          "wikidata": "https://www.wikidata.org/wiki/Q179488",
+          "display_name": "Psycholinguistics",
+          "level": 3,
+          "score": 0.25279998779296875
+        },
+        {
+          "id": "https://openalex.org/C24726157",
+          "wikidata": "https://www.wikidata.org/wiki/Q23407",
+          "display_name": "Philosophy of mind",
+          "level": 3,
+          "score": 0.2506999969482422
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/3816046.3816306",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1145/3816046.3816306",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1145/3816046.3816306",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1145/3816046.3816306",
+        "pdf_url": null,
+        "source": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W393180982",
+        "https://openalex.org/W2021291367",
+        "https://openalex.org/W2026292399",
+        "https://openalex.org/W2105799497",
+        "https://openalex.org/W2127096471",
+        "https://openalex.org/W2141373701",
+        "https://openalex.org/W2528432012",
+        "https://openalex.org/W2566961903",
+        "https://openalex.org/W2806835609",
+        "https://openalex.org/W2898063841",
+        "https://openalex.org/W4288359812",
+        "https://openalex.org/W4384406040",
+        "https://openalex.org/W4389523717",
+        "https://openalex.org/W4399062176",
+        "https://openalex.org/W4400396841",
+        "https://openalex.org/W4400396852",
+        "https://openalex.org/W4400397478",
+        "https://openalex.org/W4400397487",
+        "https://openalex.org/W4400397492",
+        "https://openalex.org/W4400397511",
+        "https://openalex.org/W4410507481",
+        "https://openalex.org/W4411234851",
+        "https://openalex.org/W4412046193",
+        "https://openalex.org/W4412046620",
+        "https://openalex.org/W4412046628",
+        "https://openalex.org/W4412055576",
+        "https://openalex.org/W4412055621",
+        "https://openalex.org/W4412055639",
+        "https://openalex.org/W4412055642",
+        "https://openalex.org/W4412055654",
+        "https://openalex.org/W4412055679",
+        "https://openalex.org/W4412055691",
+        "https://openalex.org/W4412055797",
+        "https://openalex.org/W4415214222"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Much": [
+          0
+        ],
+        "of": [
+          1,
+          28,
+          78,
+          91,
+          126,
+          148
+        ],
+        "CUI": [
+          2
+        ],
+        "research": [
+          3
+        ],
+        "still": [
+          4
+        ],
+        "treats": [
+          5
+        ],
+        "the": [
+          6,
+          26,
+          29,
+          79,
+          88,
+          98,
+          117,
+          123,
+          204
+        ],
+        "system": [
+          7
+        ],
+        "as": [
+          8,
+          71,
+          76,
+          111,
+          142,
+          145
+        ],
+        "an": [
+          9,
+          154
+        ],
+        "interlocutor:": [
+          10
+        ],
+        "a": [
+          11,
+          34,
+          40
+        ],
+        "conversational": [
+          12,
+          156
+        ],
+        "other": [
+          13
+        ],
+        "that": [
+          14,
+          25,
+          136,
+          173
+        ],
+        "should": [
+          15,
+          138
+        ],
+        "appear": [
+          16
+        ],
+        "trustworthy,": [
+          17
+        ],
+        "helpful,": [
+          18
+        ],
+        "and": [
+          19,
+          60,
+          100,
+          166
+        ],
+        "socially": [
+          20
+        ],
+        "adept.": [
+          21
+        ],
+        "This": [
+          22
+        ],
+        "paper": [
+          23
+        ],
+        "argues": [
+          24
+        ],
+        "dominance": [
+          27
+        ],
+        "interlocutor": [
+          30
+        ],
+        "metaphor": [
+          31
+        ],
+        "has": [
+          32
+        ],
+        "become": [
+          33
+        ],
+        "constraint": [
+          35
+        ],
+        "because": [
+          36
+        ],
+        "it": [
+          37
+        ],
+        "strictly": [
+          38
+        ],
+        "preserves": [
+          39
+        ],
+        "self-other": [
+          41
+        ],
+        "boundary.": [
+          42
+        ],
+        "Conversational": [
+          43
+        ],
+        "AI": [
+          44
+        ],
+        "is": [
+          45,
+          196
+        ],
+        "increasingly": [
+          46
+        ],
+        "used": [
+          47
+        ],
+        "not": [
+          48,
+          96,
+          141,
+          197
+        ],
+        "only": [
+          49
+        ],
+        "for": [
+          50
+        ],
+        "dialogue,": [
+          51,
+          92
+        ],
+        "but": [
+          52,
+          93,
+          144,
+          200
+        ],
+        "to": [
+          53,
+          163,
+          185,
+          187
+        ],
+        "externalize": [
+          54
+        ],
+        "tentative": [
+          55
+        ],
+        "thoughts,": [
+          56
+        ],
+        "offload": [
+          57
+        ],
+        "cognitive": [
+          58,
+          81,
+          146,
+          190
+        ],
+        "work,": [
+          59
+        ],
+        "support": [
+          61,
+          167
+        ],
+        "ongoing": [
+          62
+        ],
+        "reasoning.": [
+          63
+        ],
+        "In": [
+          64
+        ],
+        "practice,": [
+          65
+        ],
+        "these": [
+          66
+        ],
+        "systems": [
+          67,
+          159
+        ],
+        "often": [
+          68
+        ],
+        "function": [
+          69
+        ],
+        "less": [
+          70
+        ],
+        "independent": [
+          72,
+          155
+        ],
+        "external": [
+          73
+        ],
+        "interlocutors": [
+          74
+        ],
+        "than": [
+          75,
+          121,
+          152
+        ],
+        "components": [
+          77
+        ],
+        "user’s": [
+          80
+        ],
+        "process.": [
+          82
+        ],
+        "Large": [
+          83
+        ],
+        "language": [
+          84
+        ],
+        "models": [
+          85
+        ],
+        "can": [
+          86
+        ],
+        "imitate": [
+          87
+        ],
+        "surface": [
+          89
+        ],
+        "patterns": [
+          90
+        ],
+        "they": [
+          94,
+          181
+        ],
+        "do": [
+          95
+        ],
+        "share": [
+          97
+        ],
+        "embodied": [
+          99
+        ],
+        "situated": [
+          101
+        ],
+        "conditions": [
+          102
+        ],
+        "through": [
+          103
+        ],
+        "which": [
+          104
+        ],
+        "speakers": [
+          105
+        ],
+        "establish": [
+          106
+        ],
+        "meaning.": [
+          107
+        ],
+        "Designing": [
+          108
+        ],
+        "CUIs": [
+          109,
+          137,
+          184
+        ],
+        "primarily": [
+          110
+        ],
+        "artificial": [
+          112
+        ],
+        "partners": [
+          113
+        ],
+        "therefore": [
+          114
+        ],
+        "risks": [
+          115
+        ],
+        "optimizing": [
+          116
+        ],
+        "social": [
+          118
+        ],
+        "illusion": [
+          119
+        ],
+        "rather": [
+          120
+        ],
+        "addressing": [
+          122
+        ],
+        "deeper": [
+          124
+        ],
+        "problem": [
+          125
+        ],
+        "grounding.": [
+          127
+        ],
+        "Drawing": [
+          128
+        ],
+        "on": [
+          129
+        ],
+        "extended": [
+          130
+        ],
+        "cognition": [
+          131,
+          165
+        ],
+        "theory,": [
+          132
+        ],
+        "this": [
+          133
+        ],
+        "provocation": [
+          134
+        ],
+        "suggests": [
+          135
+        ],
+        "be": [
+          139
+        ],
+        "understood": [
+          140
+        ],
+        "quasi-persons": [
+          143
+        ],
+        "extensions": [
+          147
+        ],
+        "their": [
+          149
+        ],
+        "users.": [
+          150
+        ],
+        "Rather": [
+          151
+        ],
+        "simulating": [
+          153
+        ],
+        "mind,": [
+          157
+        ],
+        "such": [
+          158
+        ],
+        "would": [
+          160
+        ],
+        "couple": [
+          161
+        ],
+        "directly": [
+          162
+        ],
+        "human": [
+          164,
+          205
+        ],
+        "thinking": [
+          168
+        ],
+        "from": [
+          169
+        ],
+        "within.": [
+          170
+        ],
+        "We": [
+          171
+        ],
+        "propose": [
+          172
+        ],
+        "passive": [
+          174
+        ],
+        "brain-computer": [
+          175
+        ],
+        "interfaces": [
+          176
+        ],
+        "offer": [
+          177
+        ],
+        "one": [
+          178
+        ],
+        "possible": [
+          179
+        ],
+        "route:": [
+          180
+        ],
+        "could": [
+          182
+        ],
+        "allow": [
+          183
+        ],
+        "adapt": [
+          186
+        ],
+        "signals": [
+          188
+        ],
+        "like": [
+          189
+        ],
+        "effort": [
+          191
+        ],
+        "or": [
+          192
+        ],
+        "agreement.": [
+          193
+        ],
+        "The": [
+          194
+        ],
+        "aim": [
+          195
+        ],
+        "greater": [
+          198
+        ],
+        "human-likeness,": [
+          199
+        ],
+        "tighter": [
+          201
+        ],
+        "coupling": [
+          202
+        ],
+        "with": [
+          203
+        ],
+        "mind.": [
+          206
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-07-22T06:00:27.337203",
+      "created_date": "2026-07-22T00:00:00"
+    }
+  ],
+  "group_by": []
+}

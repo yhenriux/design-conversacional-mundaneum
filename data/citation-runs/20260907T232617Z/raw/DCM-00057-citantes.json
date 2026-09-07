@@ -1,0 +1,6227 @@
+{
+  "meta": {
+    "count": 8,
+    "db_response_time_ms": 24,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W1556089943)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W1556089943"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W1556089943&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W2172016924",
+      "doi": "https://doi.org/10.1109/proc.1974.9450",
+      "title": "The art of natural graphic man—Machine conversation",
+      "display_name": "The art of natural graphic man—Machine conversation",
+      "publication_year": 1974,
+      "publication_date": "1974-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2172016924",
+        "doi": "https://doi.org/10.1109/proc.1974.9450",
+        "mag": "2172016924"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1109/proc.1974.9450",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/proc.1974.9450",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S68686220",
+          "display_name": "Proceedings of the IEEE",
+          "issn_l": "0018-9219",
+          "issn": [
+            "0018-9219",
+            "1558-2256"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319808",
+          "host_organization_name": "Institute of Electrical and Electronics Engineers",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the IEEE",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077494833",
+            "display_name": "James D. Foley",
+            "orcid": "https://orcid.org/0000-0002-9372-8329"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I137902535",
+              "display_name": "North Carolina State University",
+              "ror": "https://ror.org/04tj63d06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I137902535"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J.D. Foley",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, North Carolina State University, Chapel Hill, NC, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, North Carolina State University, Chapel Hill, NC, USA",
+              "institution_ids": [
+                "https://openalex.org/I137902535"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5002222867",
+            "display_name": "Victor L. Wallace",
+            "orcid": "https://orcid.org/0009-0003-7772-017X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I137902535",
+              "display_name": "North Carolina State University",
+              "ror": "https://ror.org/04tj63d06",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I137902535"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "V.L. Wallace",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, North Carolina State University, Chapel Hill, NC, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, North Carolina State University, Chapel Hill, NC, USA",
+              "institution_ids": [
+                "https://openalex.org/I137902535"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I137902535"
+      ],
+      "apc_list": {
+        "value": 2645,
+        "currency": "USD",
+        "value_usd": 2645
+      },
+      "apc_paid": null,
+      "fwci": 17.8823,
+      "has_fulltext": false,
+      "cited_by_count": 286,
+      "citation_normalized_percentile": {
+        "value": 0.99272487,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "62",
+        "issue": "4",
+        "first_page": "462",
+        "last_page": "471"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10888",
+        "display_name": "Augmented Reality Applications",
+        "score": 0.9980000257492065,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1707",
+          "display_name": "Computer Vision and Pattern Recognition"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10888",
+          "display_name": "Augmented Reality Applications",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10789",
+          "display_name": "Interactive and Immersive Displays",
+          "score": 0.9934999942779541,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12290",
+          "display_name": "Human Motion and Animation",
+          "score": 0.9884999990463257,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/conversation",
+          "display_name": "Conversation",
+          "score": 0.9320353269577026
+        },
+        {
+          "id": "https://openalex.org/keywords/structuring",
+          "display_name": "Structuring",
+          "score": 0.7833051681518555
+        },
+        {
+          "id": "https://openalex.org/keywords/action",
+          "display_name": "Action (physics)",
+          "score": 0.7216217517852783
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6737310886383057
+        },
+        {
+          "id": "https://openalex.org/keywords/natural",
+          "display_name": "Natural (archaeology)",
+          "score": 0.6465244889259338
+        },
+        {
+          "id": "https://openalex.org/keywords/perspective",
+          "display_name": "Perspective (graphical)",
+          "score": 0.6332627534866333
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.5683449506759644
+        },
+        {
+          "id": "https://openalex.org/keywords/syntax",
+          "display_name": "Syntax",
+          "score": 0.5147316455841064
+        },
+        {
+          "id": "https://openalex.org/keywords/cognitive-science",
+          "display_name": "Cognitive science",
+          "score": 0.398433655500412
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.343500018119812
+        },
+        {
+          "id": "https://openalex.org/keywords/communication",
+          "display_name": "Communication",
+          "score": 0.2520256042480469
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.22549206018447876
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2777200299",
+          "wikidata": "https://www.wikidata.org/wiki/Q52943",
+          "display_name": "Conversation",
+          "level": 2,
+          "score": 0.9320353269577026
+        },
+        {
+          "id": "https://openalex.org/C2775945657",
+          "wikidata": "https://www.wikidata.org/wiki/Q381442",
+          "display_name": "Structuring",
+          "level": 2,
+          "score": 0.7833051681518555
+        },
+        {
+          "id": "https://openalex.org/C2780791683",
+          "wikidata": "https://www.wikidata.org/wiki/Q846785",
+          "display_name": "Action (physics)",
+          "level": 2,
+          "score": 0.7216217517852783
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6737310886383057
+        },
+        {
+          "id": "https://openalex.org/C2776608160",
+          "wikidata": "https://www.wikidata.org/wiki/Q4785462",
+          "display_name": "Natural (archaeology)",
+          "level": 2,
+          "score": 0.6465244889259338
+        },
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.6332627534866333
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.5683449506759644
+        },
+        {
+          "id": "https://openalex.org/C60048249",
+          "wikidata": "https://www.wikidata.org/wiki/Q37437",
+          "display_name": "Syntax",
+          "level": 2,
+          "score": 0.5147316455841064
+        },
+        {
+          "id": "https://openalex.org/C188147891",
+          "wikidata": "https://www.wikidata.org/wiki/Q147638",
+          "display_name": "Cognitive science",
+          "level": 1,
+          "score": 0.398433655500412
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.343500018119812
+        },
+        {
+          "id": "https://openalex.org/C46312422",
+          "wikidata": "https://www.wikidata.org/wiki/Q11024",
+          "display_name": "Communication",
+          "level": 1,
+          "score": 0.2520256042480469
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.22549206018447876
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C10138342",
+          "wikidata": "https://www.wikidata.org/wiki/Q43015",
+          "display_name": "Finance",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/proc.1974.9450",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/proc.1974.9450",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S68686220",
+            "display_name": "Proceedings of the IEEE",
+            "issn_l": "0018-9219",
+            "issn": [
+              "0018-9219",
+              "1558-2256"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319808",
+            "host_organization_name": "Institute of Electrical and Electronics Engineers",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319808"
+            ],
+            "host_organization_lineage_names": [
+              "Institute of Electrical and Electronics Engineers"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the IEEE",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5099999904632568,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 33,
+      "referenced_works": [
+        "https://openalex.org/W1497232222",
+        "https://openalex.org/W1499300689",
+        "https://openalex.org/W1505128234",
+        "https://openalex.org/W1524679748",
+        "https://openalex.org/W1530436944",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1565189847",
+        "https://openalex.org/W1598007807",
+        "https://openalex.org/W1961635001",
+        "https://openalex.org/W1975470983",
+        "https://openalex.org/W1981080013",
+        "https://openalex.org/W1989079570",
+        "https://openalex.org/W2000487773",
+        "https://openalex.org/W2003913732",
+        "https://openalex.org/W2016565875",
+        "https://openalex.org/W2057240051",
+        "https://openalex.org/W2060734788",
+        "https://openalex.org/W2066319145",
+        "https://openalex.org/W2089666999",
+        "https://openalex.org/W2090635047",
+        "https://openalex.org/W2114311231",
+        "https://openalex.org/W2119679667",
+        "https://openalex.org/W2133677306",
+        "https://openalex.org/W2134659752",
+        "https://openalex.org/W2154352757",
+        "https://openalex.org/W2740799926",
+        "https://openalex.org/W2971177002",
+        "https://openalex.org/W3022367189",
+        "https://openalex.org/W3161899354",
+        "https://openalex.org/W4240597158",
+        "https://openalex.org/W6605846946",
+        "https://openalex.org/W6633739661",
+        "https://openalex.org/W6641149704"
+      ],
+      "related_works": [
+        "https://openalex.org/W1968552888",
+        "https://openalex.org/W4251394462",
+        "https://openalex.org/W1580673008",
+        "https://openalex.org/W2374116601",
+        "https://openalex.org/W3093134843",
+        "https://openalex.org/W1511346092",
+        "https://openalex.org/W1527532029",
+        "https://openalex.org/W2378167147",
+        "https://openalex.org/W3210777354",
+        "https://openalex.org/W2772323916"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "design": [
+          1,
+          40,
+          53
+        ],
+        "of": [
+          2,
+          19,
+          28,
+          41,
+          52,
+          64,
+          75
+        ],
+        "interactive": [
+          3
+        ],
+        "graphic": [
+          4
+        ],
+        "systems": [
+          5,
+          43
+        ],
+        "whose": [
+          6
+        ],
+        "aim": [
+          7
+        ],
+        "is": [
+          8,
+          59
+        ],
+        "good": [
+          9
+        ],
+        "symbiosis": [
+          10
+        ],
+        "between": [
+          11,
+          32
+        ],
+        "man": [
+          12
+        ],
+        "and": [
+          13,
+          37,
+          73
+        ],
+        "machine": [
+          14
+        ],
+        "involves": [
+          15
+        ],
+        "numerous": [
+          16
+        ],
+        "factors.": [
+          17
+        ],
+        "Many": [
+          18
+        ],
+        "those": [
+          20
+        ],
+        "factors": [
+          21
+        ],
+        "can": [
+          22
+        ],
+        "be": [
+          23
+        ],
+        "judged": [
+          24
+        ],
+        "from": [
+          25
+        ],
+        "the": [
+          26
+        ],
+        "perspective": [
+          27
+        ],
+        "natural": [
+          29
+        ],
+        "spoken": [
+          30
+        ],
+        "conversation": [
+          31
+        ],
+        "two": [
+          33
+        ],
+        "people.": [
+          34
+        ],
+        "Guiding": [
+          35
+        ],
+        "rules": [
+          36
+        ],
+        "principles": [
+          38
+        ],
+        "for": [
+          39,
+          49,
+          55
+        ],
+        "such": [
+          42
+        ],
+        "are": [
+          44
+        ],
+        "presented": [
+          45
+        ],
+        "as": [
+          46
+        ],
+        "a": [
+          47,
+          50
+        ],
+        "framework": [
+          48
+        ],
+        "survey": [
+          51
+        ],
+        "techniques": [
+          54
+        ],
+        "man-machine": [
+          56
+        ],
+        "conversation.": [
+          57
+        ],
+        "Attention": [
+          58
+        ],
+        "especially": [
+          60
+        ],
+        "focused": [
+          61
+        ],
+        "on": [
+          62
+        ],
+        "ideas": [
+          63
+        ],
+        "action": [
+          65,
+          71
+        ],
+        "syntax": [
+          66
+        ],
+        "structuring,": [
+          67
+        ],
+        "logical": [
+          68
+        ],
+        "equivalences": [
+          69
+        ],
+        "among": [
+          70
+        ],
+        "devices,": [
+          72
+        ],
+        "avoidance": [
+          74
+        ],
+        "psychological": [
+          76
+        ],
+        "blocks": [
+          77
+        ],
+        "to": [
+          78
+        ],
+        "communication.": [
+          79
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 47
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1990175024",
+      "doi": "https://doi.org/10.1145/2470654.2466246",
+      "title": "Benevolent deception in human computer interaction",
+      "display_name": "Benevolent deception in human computer interaction",
+      "publication_year": 2013,
+      "publication_date": "2013-04-27",
+      "ids": {
+        "openalex": "https://openalex.org/W1990175024",
+        "doi": "https://doi.org/10.1145/2470654.2466246",
+        "mag": "1990175024"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/2470654.2466246",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/2470654.2466246",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5064931337",
+            "display_name": "Eytan Adar",
+            "orcid": "https://orcid.org/0000-0003-1911-836X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I27837315",
+              "display_name": "University of Michigan",
+              "ror": "https://ror.org/00jmfr291",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eytan Adar",
+          "raw_affiliation_strings": [
+            "University of Michigan, Ann Arbor, Michigan, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Michigan, Ann Arbor, Michigan, USA",
+              "institution_ids": [
+                "https://openalex.org/I27837315"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040526518",
+            "display_name": "Desney Tan",
+            "orcid": "https://orcid.org/0000-0003-2176-159X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1290206253",
+              "display_name": "Microsoft (United States)",
+              "ror": "https://ror.org/00d0nc645",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1290206253"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Desney S. Tan",
+          "raw_affiliation_strings": [
+            "Microsoft Research, Redmond, Washington, USA",
+            "Microsoft Research , Redmond , Washington , USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Microsoft Research, Redmond, Washington, USA",
+              "institution_ids": [
+                "https://openalex.org/I1290206253"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Microsoft Research , Redmond , Washington , USA",
+              "institution_ids": [
+                "https://openalex.org/I1290206253"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5032417423",
+            "display_name": "Jaime Teevan",
+            "orcid": "https://orcid.org/0000-0002-2786-0209"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1290206253",
+              "display_name": "Microsoft (United States)",
+              "ror": "https://ror.org/00d0nc645",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I1290206253"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jaime Teevan",
+          "raw_affiliation_strings": [
+            "Microsoft Research, Redmond, Washington, USA",
+            "Microsoft Research , Redmond , Washington , USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Microsoft Research, Redmond, Washington, USA",
+              "institution_ids": [
+                "https://openalex.org/I1290206253"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Microsoft Research , Redmond , Washington , USA",
+              "institution_ids": [
+                "https://openalex.org/I1290206253"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 5.1042,
+      "has_fulltext": false,
+      "cited_by_count": 91,
+      "citation_normalized_percentile": {
+        "value": 0.96315121,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 93,
+        "max": 100
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "1863",
+        "last_page": "1872"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10803",
+        "display_name": "Innovative Human-Technology Interaction",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1709",
+          "display_name": "Human-Computer Interaction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10803",
+          "display_name": "Innovative Human-Technology Interaction",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11045",
+          "display_name": "Privacy, Security, and Data Protection",
+          "score": 0.9955999851226807,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11800",
+          "display_name": "User Authentication and Security Systems",
+          "score": 0.9952999949455261,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/deception",
+          "display_name": "Deception",
+          "score": 0.9720340967178345
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6139106154441833
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.5620821118354797
+        },
+        {
+          "id": "https://openalex.org/keywords/value",
+          "display_name": "Value (mathematics)",
+          "score": 0.5593203902244568
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.4647570848464966
+        },
+        {
+          "id": "https://openalex.org/keywords/internet-privacy",
+          "display_name": "Internet privacy",
+          "score": 0.3463653326034546
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.30260640382766724
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.28336870670318604
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779267917",
+          "wikidata": "https://www.wikidata.org/wiki/Q170028",
+          "display_name": "Deception",
+          "level": 2,
+          "score": 0.9720340967178345
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6139106154441833
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.5620821118354797
+        },
+        {
+          "id": "https://openalex.org/C2776291640",
+          "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+          "display_name": "Value (mathematics)",
+          "level": 2,
+          "score": 0.5593203902244568
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.4647570848464966
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.3463653326034546
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.30260640382766724
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.28336870670318604
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1145/2470654.2466246",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/2470654.2466246",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Proceedings of the SIGCHI Conference on Human Factors in Computing Systems",
+          "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.303.677",
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.303.677",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://research.microsoft.com/en-us/um/people/desney/publications/CHI2013-Deception.pdf",
+          "raw_type": "text"
+        },
+        {
+          "id": "pmh:oai:CiteSeerX.psu:10.1.1.723.316",
+          "is_oa": false,
+          "landing_page_url": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.723.316",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "http://www.inf.ed.ac.uk/teaching/courses/cdi1/papers/adar2013.pdf",
+          "raw_type": "text"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8100000023841858,
+          "display_name": "Peace, Justice and strong institutions",
+          "id": "https://metadata.un.org/sdg/16"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 36,
+      "referenced_works": [
+        "https://openalex.org/W154550395",
+        "https://openalex.org/W357231428",
+        "https://openalex.org/W1492766192",
+        "https://openalex.org/W1512483161",
+        "https://openalex.org/W1534254774",
+        "https://openalex.org/W1542305406",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1841352775",
+        "https://openalex.org/W1965680579",
+        "https://openalex.org/W1986173274",
+        "https://openalex.org/W1998515403",
+        "https://openalex.org/W2000969683",
+        "https://openalex.org/W2008411947",
+        "https://openalex.org/W2012724889",
+        "https://openalex.org/W2016721335",
+        "https://openalex.org/W2029709911",
+        "https://openalex.org/W2044772184",
+        "https://openalex.org/W2052417512",
+        "https://openalex.org/W2054623009",
+        "https://openalex.org/W2055453545",
+        "https://openalex.org/W2058258470",
+        "https://openalex.org/W2092795326",
+        "https://openalex.org/W2103854406",
+        "https://openalex.org/W2108743797",
+        "https://openalex.org/W2112278606",
+        "https://openalex.org/W2112709014",
+        "https://openalex.org/W2113427031",
+        "https://openalex.org/W2140365936",
+        "https://openalex.org/W2152127494",
+        "https://openalex.org/W2159266703",
+        "https://openalex.org/W2241115804",
+        "https://openalex.org/W2296358589",
+        "https://openalex.org/W2312754933",
+        "https://openalex.org/W2892140408",
+        "https://openalex.org/W2913265986",
+        "https://openalex.org/W6629224167"
+      ],
+      "related_works": [
+        "https://openalex.org/W2165717120",
+        "https://openalex.org/W2039390456",
+        "https://openalex.org/W2948663225",
+        "https://openalex.org/W2029954793",
+        "https://openalex.org/W1992683634",
+        "https://openalex.org/W4295295666",
+        "https://openalex.org/W1978059949",
+        "https://openalex.org/W2512387791",
+        "https://openalex.org/W70044515",
+        "https://openalex.org/W2128448209"
+      ],
+      "abstract_inverted_index": {
+        "Though": [
+          0
+        ],
+        "it": [
+          1
+        ],
+        "has": [
+          2,
+          36
+        ],
+        "been": [
+          3
+        ],
+        "asserted": [
+          4
+        ],
+        "that": [
+          5,
+          90,
+          101,
+          112
+        ],
+        "\"good": [
+          6
+        ],
+        "design": [
+          7
+        ],
+        "is": [
+          8,
+          50,
+          138
+        ],
+        "honest\",": [
+          9
+        ],
+        "[42]": [
+          10
+        ],
+        "deception": [
+          11,
+          25,
+          49,
+          63
+        ],
+        "exists": [
+          12
+        ],
+        "throughout": [
+          13
+        ],
+        "human-computer": [
+          14
+        ],
+        "interaction": [
+          15
+        ],
+        "research": [
+          16,
+          34,
+          115
+        ],
+        "and": [
+          17,
+          44,
+          82,
+          99,
+          108
+        ],
+        "practice.": [
+          18
+        ],
+        "Because": [
+          19
+        ],
+        "of": [
+          20,
+          60,
+          97,
+          136
+        ],
+        "the": [
+          21,
+          33,
+          58,
+          67,
+          72
+        ],
+        "stigma": [
+          22
+        ],
+        "associated": [
+          23
+        ],
+        "with": [
+          24,
+          94,
+          106
+        ],
+        "-": [
+          26,
+          32
+        ],
+        "in": [
+          27,
+          47,
+          85,
+          122
+        ],
+        "many": [
+          28
+        ],
+        "cases": [
+          29
+        ],
+        "rightfully": [
+          30
+        ],
+        "so": [
+          31
+        ],
+        "community": [
+          35
+        ],
+        "focused": [
+          37
+        ],
+        "its": [
+          38
+        ],
+        "energy": [
+          39
+        ],
+        "on": [
+          40
+        ],
+        "eradicating": [
+          41
+        ],
+        "malicious": [
+          42
+        ],
+        "deception,": [
+          43,
+          62
+        ],
+        "ignored": [
+          45
+        ],
+        "instances": [
+          46
+        ],
+        "which": [
+          48
+        ],
+        "positively": [
+          51
+        ],
+        "employed.": [
+          52
+        ],
+        "In": [
+          53
+        ],
+        "this": [
+          54,
+          91
+        ],
+        "paper": [
+          55,
+          125
+        ],
+        "we": [
+          56
+        ],
+        "present": [
+          57
+        ],
+        "notion": [
+          59
+        ],
+        "benevolent": [
+          61
+        ],
+        "aimed": [
+          64
+        ],
+        "at": [
+          65
+        ],
+        "benefitting": [
+          66
+        ],
+        "user": [
+          68
+        ],
+        "as": [
+          69,
+          71,
+          119
+        ],
+        "well": [
+          70
+        ],
+        "developer.": [
+          73
+        ],
+        "We": [
+          74,
+          88
+        ],
+        "frame": [
+          75
+        ],
+        "our": [
+          76
+        ],
+        "discussion": [
+          77
+        ],
+        "using": [
+          78
+        ],
+        "a": [
+          79,
+          95
+        ],
+        "criminology-inspired": [
+          80
+        ],
+        "model": [
+          81
+        ],
+        "ground": [
+          83
+        ],
+        "components": [
+          84
+        ],
+        "various": [
+          86
+        ],
+        "examples.": [
+          87
+        ],
+        "assert": [
+          89
+        ],
+        "provides": [
+          92
+        ],
+        "us": [
+          93,
+          105
+        ],
+        "set": [
+          96
+        ],
+        "tools": [
+          98
+        ],
+        "principles": [
+          100
+        ],
+        "not": [
+          102
+        ],
+        "only": [
+          103
+        ],
+        "helps": [
+          104
+        ],
+        "system": [
+          107
+        ],
+        "interface": [
+          109
+        ],
+        "design,": [
+          110
+        ],
+        "but": [
+          111
+        ],
+        "opens": [
+          113
+        ],
+        "new": [
+          114
+        ],
+        "areas.": [
+          116
+        ],
+        "After": [
+          117
+        ],
+        "all,": [
+          118
+        ],
+        "Cockton": [
+          120
+        ],
+        "claims": [
+          121
+        ],
+        "his": [
+          123
+        ],
+        "2004": [
+          124
+        ],
+        "\"Value-Centered": [
+          126
+        ],
+        "HCI\"": [
+          127
+        ],
+        "[13],": [
+          128
+        ],
+        "\"Traditional": [
+          129
+        ],
+        "disciplines": [
+          130
+        ],
+        "have": [
+          131
+        ],
+        "delivered": [
+          132
+        ],
+        "truth.": [
+          133
+        ],
+        "The": [
+          134
+        ],
+        "goal": [
+          135
+        ],
+        "HCI": [
+          137
+        ],
+        "to": [
+          139
+        ],
+        "deliver": [
+          140
+        ],
+        "value.\"": [
+          141
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 20
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-09-04T10:56:28.161419",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4206549434",
+      "doi": "https://doi.org/10.1145/957197.804734",
+      "title": "The semantics of graphic input devices",
+      "display_name": "The semantics of graphic input devices",
+      "publication_year": 1976,
+      "publication_date": "1976-04-26",
+      "ids": {
+        "openalex": "https://openalex.org/W4206549434",
+        "doi": "https://doi.org/10.1145/957197.804734"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/957197.804734",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/957197.804734",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S131921510",
+          "display_name": "ACM SIGGRAPH Computer Graphics",
+          "issn_l": "0097-8930",
+          "issn": [
+            "0097-8930",
+            "1558-4569"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316775",
+          "host_organization_name": "ACM SIGGRAPH",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316775"
+          ],
+          "host_organization_lineage_names": [
+            "ACM SIGGRAPH"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACM SIGGRAPH Computer Graphics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002222867",
+            "display_name": "Victor L. Wallace",
+            "orcid": "https://orcid.org/0009-0003-7772-017X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114027177",
+              "display_name": "University of North Carolina at Chapel Hill",
+              "ror": "https://ror.org/0130frc33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Victor L. Wallace",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of North Carolina, Chapel Hill, NC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of North Carolina, Chapel Hill, NC",
+              "institution_ids": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002222867"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114027177"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.7353,
+      "has_fulltext": false,
+      "cited_by_count": 52,
+      "citation_normalized_percentile": {
+        "value": 0.93465169,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 99,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "1",
+        "first_page": "61",
+        "last_page": "65"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11687",
+        "display_name": "Teleoperation and Haptic Systems",
+        "score": 0.8844000101089478,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11687",
+          "display_name": "Teleoperation and Haptic Systems",
+          "score": 0.8844000101089478,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10904",
+          "display_name": "Embedded Systems Design Techniques",
+          "score": 0.869700014591217,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1708",
+            "display_name": "Hardware and Architecture"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13382",
+          "display_name": "Robotics and Automated Systems",
+          "score": 0.8521000146865845,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/software-portability",
+          "display_name": "Software portability",
+          "score": 0.8170815706253052
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.799629271030426
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.6579962968826294
+        },
+        {
+          "id": "https://openalex.org/keywords/semantics",
+          "display_name": "Semantics (computer science)",
+          "score": 0.6479807496070862
+        },
+        {
+          "id": "https://openalex.org/keywords/adaptability",
+          "display_name": "Adaptability",
+          "score": 0.640833854675293
+        },
+        {
+          "id": "https://openalex.org/keywords/terminal",
+          "display_name": "Terminal (telecommunication)",
+          "score": 0.5096979141235352
+        },
+        {
+          "id": "https://openalex.org/keywords/graphics",
+          "display_name": "Graphics",
+          "score": 0.5015773773193359
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.4750135838985443
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.4664672613143921
+        },
+        {
+          "id": "https://openalex.org/keywords/programming-language",
+          "display_name": "Programming language",
+          "score": 0.4533386528491974
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-graphics",
+          "display_name": "Computer graphics (images)",
+          "score": 0.25572681427001953
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-network",
+          "display_name": "Computer network",
+          "score": 0.07621452212333679
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C63000827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3080428",
+          "display_name": "Software portability",
+          "level": 2,
+          "score": 0.8170815706253052
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.799629271030426
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.6579962968826294
+        },
+        {
+          "id": "https://openalex.org/C184337299",
+          "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+          "display_name": "Semantics (computer science)",
+          "level": 2,
+          "score": 0.6479807496070862
+        },
+        {
+          "id": "https://openalex.org/C177606310",
+          "wikidata": "https://www.wikidata.org/wiki/Q5674297",
+          "display_name": "Adaptability",
+          "level": 2,
+          "score": 0.640833854675293
+        },
+        {
+          "id": "https://openalex.org/C2779664074",
+          "wikidata": "https://www.wikidata.org/wiki/Q3518405",
+          "display_name": "Terminal (telecommunication)",
+          "level": 2,
+          "score": 0.5096979141235352
+        },
+        {
+          "id": "https://openalex.org/C21442007",
+          "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+          "display_name": "Graphics",
+          "level": 2,
+          "score": 0.5015773773193359
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.4750135838985443
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.4664672613143921
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.4533386528491974
+        },
+        {
+          "id": "https://openalex.org/C121684516",
+          "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+          "display_name": "Computer graphics (images)",
+          "level": 1,
+          "score": 0.25572681427001953
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.07621452212333679
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C136264566",
+          "wikidata": "https://www.wikidata.org/wiki/Q159810",
+          "display_name": "Economy",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/957197.804734",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/957197.804734",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S131921510",
+            "display_name": "ACM SIGGRAPH Computer Graphics",
+            "issn_l": "0097-8930",
+            "issn": [
+              "0097-8930",
+              "1558-4569"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316775",
+            "host_organization_name": "ACM SIGGRAPH",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316775"
+            ],
+            "host_organization_lineage_names": [
+              "ACM SIGGRAPH"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACM SIGGRAPH Computer Graphics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1975470983",
+        "https://openalex.org/W2119679667",
+        "https://openalex.org/W2172016924",
+        "https://openalex.org/W6605846946",
+        "https://openalex.org/W6629881484",
+        "https://openalex.org/W6641149704"
+      ],
+      "related_works": [
+        "https://openalex.org/W2357124094",
+        "https://openalex.org/W107105315",
+        "https://openalex.org/W2387399993",
+        "https://openalex.org/W2389739210",
+        "https://openalex.org/W2348924972",
+        "https://openalex.org/W4367156293",
+        "https://openalex.org/W1584537303",
+        "https://openalex.org/W4388155270",
+        "https://openalex.org/W1872724644",
+        "https://openalex.org/W2365736347"
+      ],
+      "abstract_inverted_index": {
+        "All": [
+          0
+        ],
+        "input": [
+          1,
+          19,
+          34
+        ],
+        "devices": [
+          2,
+          67
+        ],
+        "for": [
+          3
+        ],
+        "interactive": [
+          4,
+          33
+        ],
+        "computer": [
+          5
+        ],
+        "graphics": [
+          6
+        ],
+        "can": [
+          7,
+          35
+        ],
+        "be": [
+          8,
+          36
+        ],
+        "effectively": [
+          9
+        ],
+        "modelled": [
+          10
+        ],
+        "in": [
+          11
+        ],
+        "programs": [
+          12
+        ],
+        "by": [
+          13
+        ],
+        "a": [
+          14,
+          62
+        ],
+        "small": [
+          15
+        ],
+        "number": [
+          16
+        ],
+        "of": [
+          17,
+          26,
+          32,
+          39,
+          43,
+          49,
+          59,
+          65
+        ],
+        "virtual": [
+          18,
+          28,
+          66
+        ],
+        "devices.": [
+          20,
+          45
+        ],
+        "By": [
+          21
+        ],
+        "specifying": [
+          22
+        ],
+        "an": [
+          23
+        ],
+        "appropriate": [
+          24
+        ],
+        "set": [
+          25,
+          64
+        ],
+        "such": [
+          27
+        ],
+        "devices,": [
+          29
+        ],
+        "the": [
+          30,
+          40,
+          44,
+          47
+        ],
+        "semantics": [
+          31
+        ],
+        "defined": [
+          37
+        ],
+        "independently": [
+          38
+        ],
+        "physical": [
+          41
+        ],
+        "form": [
+          42
+        ],
+        "In": [
+          46
+        ],
+        "service": [
+          48
+        ],
+        "program": [
+          50
+        ],
+        "portability,": [
+          51
+        ],
+        "human": [
+          52
+        ],
+        "factors": [
+          53
+        ],
+        "adaptability,": [
+          54
+        ],
+        "economy,": [
+          55
+        ],
+        "and": [
+          56
+        ],
+        "maximal": [
+          57
+        ],
+        "use": [
+          58
+        ],
+        "terminal": [
+          60
+        ],
+        "capability,": [
+          61
+        ],
+        "sufficient": [
+          63
+        ],
+        "is": [
+          68
+        ],
+        "described.": [
+          69
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2022,
+          "cited_by_count": 25
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3041547727",
+      "doi": "https://doi.org/10.1007/978-3-030-50252-2_14",
+      "title": "The Effect of Sensory Feedback on Time Perception of Interface Indicator from Age Difference",
+      "display_name": "The Effect of Sensory Feedback on Time Perception of Interface Indicator from Age Difference",
+      "publication_year": 2020,
+      "publication_date": "2020-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3041547727",
+        "doi": "https://doi.org/10.1007/978-3-030-50252-2_14",
+        "mag": "3041547727"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/978-3-030-50252-2_14",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/978-3-030-50252-2_14",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106296714",
+          "display_name": "Lecture notes in computer science",
+          "issn_l": "0302-9743",
+          "issn": [
+            "0302-9743",
+            "1611-3349"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Lecture Notes in Computer Science",
+        "raw_type": "book-chapter"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5111686840",
+            "display_name": "Shuo-Fang Liu",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91807558",
+              "display_name": "National Cheng Kung University",
+              "ror": "https://ror.org/01b8kcc49",
+              "country_code": "TW",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ],
+          "countries": [
+            "TW"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Shuo-Fang Liu",
+          "raw_affiliation_strings": [
+            "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China",
+              "institution_ids": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5113609522",
+            "display_name": "Yu-Wei Tseng",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91807558",
+              "display_name": "National Cheng Kung University",
+              "ror": "https://ror.org/01b8kcc49",
+              "country_code": "TW",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ],
+          "countries": [
+            "TW"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yu-Wei Tseng",
+          "raw_affiliation_strings": [
+            "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China",
+              "institution_ids": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5050150444",
+            "display_name": "Ching‐Fen Chang",
+            "orcid": "https://orcid.org/0000-0002-5650-035X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91807558",
+              "display_name": "National Cheng Kung University",
+              "ror": "https://ror.org/01b8kcc49",
+              "country_code": "TW",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ],
+          "countries": [
+            "TW"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ching-Fen Chang",
+          "raw_affiliation_strings": [
+            "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Industrial Design, National Cheng-Kung University, No.1, University Road, Tainan City, 701, Taiwan, Republic of China",
+              "institution_ids": [
+                "https://openalex.org/I91807558"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5113609522"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I91807558"
+      ],
+      "apc_list": {
+        "value": 5000,
+        "currency": "EUR",
+        "value_usd": 5392
+      },
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.06864241,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "184",
+        "last_page": "196"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10803",
+        "display_name": "Innovative Human-Technology Interaction",
+        "score": 0.9957000017166138,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1709",
+          "display_name": "Human-Computer Interaction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10803",
+          "display_name": "Innovative Human-Technology Interaction",
+          "score": 0.9957000017166138,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10914",
+          "display_name": "Tactile and Sensory Interactions",
+          "score": 0.9944999814033508,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12496",
+          "display_name": "Color perception and design",
+          "score": 0.9904999732971191,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/haptic-technology",
+          "display_name": "Haptic technology",
+          "score": 0.8643183708190918
+        },
+        {
+          "id": "https://openalex.org/keywords/perception",
+          "display_name": "Perception",
+          "score": 0.696719765663147
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.6890653371810913
+        },
+        {
+          "id": "https://openalex.org/keywords/haptic-perception",
+          "display_name": "Haptic perception",
+          "score": 0.5730189085006714
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.5256927013397217
+        },
+        {
+          "id": "https://openalex.org/keywords/preference",
+          "display_name": "Preference",
+          "score": 0.508979320526123
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.46650025248527527
+        },
+        {
+          "id": "https://openalex.org/keywords/interface",
+          "display_name": "Interface (matter)",
+          "score": 0.46458226442337036
+        },
+        {
+          "id": "https://openalex.org/keywords/simulation",
+          "display_name": "Simulation",
+          "score": 0.38381022214889526
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.2565654516220093
+        },
+        {
+          "id": "https://openalex.org/keywords/medicine",
+          "display_name": "Medicine",
+          "score": 0.08887025713920593
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.072426438331604
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.07075732946395874
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C152086174",
+          "wikidata": "https://www.wikidata.org/wiki/Q3030571",
+          "display_name": "Haptic technology",
+          "level": 2,
+          "score": 0.8643183708190918
+        },
+        {
+          "id": "https://openalex.org/C26760741",
+          "wikidata": "https://www.wikidata.org/wiki/Q160402",
+          "display_name": "Perception",
+          "level": 2,
+          "score": 0.696719765663147
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.6890653371810913
+        },
+        {
+          "id": "https://openalex.org/C2778360479",
+          "wikidata": "https://www.wikidata.org/wiki/Q1289489",
+          "display_name": "Haptic perception",
+          "level": 3,
+          "score": 0.5730189085006714
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.5256927013397217
+        },
+        {
+          "id": "https://openalex.org/C2781249084",
+          "wikidata": "https://www.wikidata.org/wiki/Q908656",
+          "display_name": "Preference",
+          "level": 2,
+          "score": 0.508979320526123
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.46650025248527527
+        },
+        {
+          "id": "https://openalex.org/C113843644",
+          "wikidata": "https://www.wikidata.org/wiki/Q901882",
+          "display_name": "Interface (matter)",
+          "level": 4,
+          "score": 0.46458226442337036
+        },
+        {
+          "id": "https://openalex.org/C44154836",
+          "wikidata": "https://www.wikidata.org/wiki/Q45045",
+          "display_name": "Simulation",
+          "level": 1,
+          "score": 0.38381022214889526
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2565654516220093
+        },
+        {
+          "id": "https://openalex.org/C71924100",
+          "wikidata": "https://www.wikidata.org/wiki/Q11190",
+          "display_name": "Medicine",
+          "level": 0,
+          "score": 0.08887025713920593
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.072426438331604
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.07075732946395874
+        },
+        {
+          "id": "https://openalex.org/C99454951",
+          "wikidata": "https://www.wikidata.org/wiki/Q932068",
+          "display_name": "Environmental health",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C157915830",
+          "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+          "display_name": "Bubble",
+          "level": 2,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C173608175",
+          "wikidata": "https://www.wikidata.org/wiki/Q232661",
+          "display_name": "Parallel computing",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C169760540",
+          "wikidata": "https://www.wikidata.org/wiki/Q207011",
+          "display_name": "Neuroscience",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C129307140",
+          "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+          "display_name": "Maximum bubble pressure method",
+          "level": 3,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/978-3-030-50252-2_14",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/978-3-030-50252-2_14",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106296714",
+            "display_name": "Lecture notes in computer science",
+            "issn_l": "0302-9743",
+            "issn": [
+              "0302-9743",
+              "1611-3349"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Lecture Notes in Computer Science",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 27,
+      "referenced_works": [
+        "https://openalex.org/W576554503",
+        "https://openalex.org/W1537526465",
+        "https://openalex.org/W1543761991",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1589764657",
+        "https://openalex.org/W1591162257",
+        "https://openalex.org/W1969039856",
+        "https://openalex.org/W1972416255",
+        "https://openalex.org/W1979590957",
+        "https://openalex.org/W1990175024",
+        "https://openalex.org/W2017514236",
+        "https://openalex.org/W2051965816",
+        "https://openalex.org/W2062299969",
+        "https://openalex.org/W2077225981",
+        "https://openalex.org/W2095622295",
+        "https://openalex.org/W2096009908",
+        "https://openalex.org/W2113000322",
+        "https://openalex.org/W2145036787",
+        "https://openalex.org/W2610625294",
+        "https://openalex.org/W2653750032",
+        "https://openalex.org/W2806061459",
+        "https://openalex.org/W2807027175",
+        "https://openalex.org/W2907039808",
+        "https://openalex.org/W2958296310",
+        "https://openalex.org/W4229885913",
+        "https://openalex.org/W4239720002",
+        "https://openalex.org/W4247916334"
+      ],
+      "related_works": [
+        "https://openalex.org/W2156701455",
+        "https://openalex.org/W2146087280",
+        "https://openalex.org/W2427793137",
+        "https://openalex.org/W2998207585",
+        "https://openalex.org/W2439615175",
+        "https://openalex.org/W2727515034",
+        "https://openalex.org/W61839518",
+        "https://openalex.org/W2128748088",
+        "https://openalex.org/W4389116122",
+        "https://openalex.org/W2731583012"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-04T08:18:43.703281",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2036247570",
+      "doi": "https://doi.org/10.1145/800143.804734",
+      "title": "The semantics of graphic input devices",
+      "display_name": "The semantics of graphic input devices",
+      "publication_year": 1976,
+      "publication_date": "1976-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2036247570",
+        "doi": "https://doi.org/10.1145/800143.804734",
+        "mag": "2036247570"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/800143.804734",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/800143.804734",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "The papers of the ACM symposium on Graphic languages -",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002222867",
+            "display_name": "Victor L. Wallace",
+            "orcid": "https://orcid.org/0009-0003-7772-017X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114027177",
+              "display_name": "University of North Carolina at Chapel Hill",
+              "ror": "https://ror.org/0130frc33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Victor L. Wallace",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of North Carolina, Chapel Hill, NC",
+            "Department of Computer Science, University of North Carolina, Chapel Hill, NC#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of North Carolina, Chapel Hill, NC",
+              "institution_ids": [
+                "https://openalex.org/I114027177"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of North Carolina, Chapel Hill, NC#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002222867"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114027177"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 21.0839,
+      "has_fulltext": false,
+      "cited_by_count": 44,
+      "citation_normalized_percentile": {
+        "value": 0.99708879,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "61",
+        "last_page": "65"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11687",
+        "display_name": "Teleoperation and Haptic Systems",
+        "score": 0.8835999965667725,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11687",
+          "display_name": "Teleoperation and Haptic Systems",
+          "score": 0.8835999965667725,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10904",
+          "display_name": "Embedded Systems Design Techniques",
+          "score": 0.8654999732971191,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1708",
+            "display_name": "Hardware and Architecture"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13382",
+          "display_name": "Robotics and Automated Systems",
+          "score": 0.8464000225067139,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/software-portability",
+          "display_name": "Software portability",
+          "score": 0.8458726406097412
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.825982928276062
+        },
+        {
+          "id": "https://openalex.org/keywords/semantics",
+          "display_name": "Semantics (computer science)",
+          "score": 0.6501959562301636
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.6350507140159607
+        },
+        {
+          "id": "https://openalex.org/keywords/adaptability",
+          "display_name": "Adaptability",
+          "score": 0.6119099855422974
+        },
+        {
+          "id": "https://openalex.org/keywords/graphics",
+          "display_name": "Graphics",
+          "score": 0.5549474954605103
+        },
+        {
+          "id": "https://openalex.org/keywords/terminal",
+          "display_name": "Terminal (telecommunication)",
+          "score": 0.5166192650794983
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.44686925411224365
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.41869598627090454
+        },
+        {
+          "id": "https://openalex.org/keywords/programming-language",
+          "display_name": "Programming language",
+          "score": 0.3402000069618225
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-graphics",
+          "display_name": "Computer graphics (images)",
+          "score": 0.27047157287597656
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-network",
+          "display_name": "Computer network",
+          "score": 0.09481525421142578
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C63000827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3080428",
+          "display_name": "Software portability",
+          "level": 2,
+          "score": 0.8458726406097412
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.825982928276062
+        },
+        {
+          "id": "https://openalex.org/C184337299",
+          "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+          "display_name": "Semantics (computer science)",
+          "level": 2,
+          "score": 0.6501959562301636
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.6350507140159607
+        },
+        {
+          "id": "https://openalex.org/C177606310",
+          "wikidata": "https://www.wikidata.org/wiki/Q5674297",
+          "display_name": "Adaptability",
+          "level": 2,
+          "score": 0.6119099855422974
+        },
+        {
+          "id": "https://openalex.org/C21442007",
+          "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+          "display_name": "Graphics",
+          "level": 2,
+          "score": 0.5549474954605103
+        },
+        {
+          "id": "https://openalex.org/C2779664074",
+          "wikidata": "https://www.wikidata.org/wiki/Q3518405",
+          "display_name": "Terminal (telecommunication)",
+          "level": 2,
+          "score": 0.5166192650794983
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.44686925411224365
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.41869598627090454
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.3402000069618225
+        },
+        {
+          "id": "https://openalex.org/C121684516",
+          "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+          "display_name": "Computer graphics (images)",
+          "level": 1,
+          "score": 0.27047157287597656
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.09481525421142578
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C136264566",
+          "wikidata": "https://www.wikidata.org/wiki/Q159810",
+          "display_name": "Economy",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/800143.804734",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/800143.804734",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "The papers of the ACM symposium on Graphic languages -",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 8,
+      "referenced_works": [
+        "https://openalex.org/W1499300689",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1961635001",
+        "https://openalex.org/W1975470983",
+        "https://openalex.org/W2067004200",
+        "https://openalex.org/W2090635047",
+        "https://openalex.org/W2119679667",
+        "https://openalex.org/W2172016924"
+      ],
+      "related_works": [
+        "https://openalex.org/W2357124094",
+        "https://openalex.org/W107105315",
+        "https://openalex.org/W2387399993",
+        "https://openalex.org/W2389739210",
+        "https://openalex.org/W2348924972",
+        "https://openalex.org/W4367156293",
+        "https://openalex.org/W1584537303",
+        "https://openalex.org/W4388155270",
+        "https://openalex.org/W1872724644",
+        "https://openalex.org/W2365736347"
+      ],
+      "abstract_inverted_index": {
+        "All": [
+          0
+        ],
+        "input": [
+          1,
+          19,
+          34
+        ],
+        "devices": [
+          2,
+          67
+        ],
+        "for": [
+          3
+        ],
+        "interactive": [
+          4,
+          33
+        ],
+        "computer": [
+          5
+        ],
+        "graphics": [
+          6
+        ],
+        "can": [
+          7,
+          35
+        ],
+        "be": [
+          8,
+          36
+        ],
+        "effectively": [
+          9
+        ],
+        "modelled": [
+          10
+        ],
+        "in": [
+          11
+        ],
+        "programs": [
+          12
+        ],
+        "by": [
+          13
+        ],
+        "a": [
+          14,
+          62
+        ],
+        "small": [
+          15
+        ],
+        "number": [
+          16
+        ],
+        "of": [
+          17,
+          26,
+          32,
+          39,
+          43,
+          49,
+          59,
+          65
+        ],
+        "virtual": [
+          18,
+          28,
+          66
+        ],
+        "devices.": [
+          20,
+          45
+        ],
+        "By": [
+          21
+        ],
+        "specifying": [
+          22
+        ],
+        "an": [
+          23
+        ],
+        "appropriate": [
+          24
+        ],
+        "set": [
+          25,
+          64
+        ],
+        "such": [
+          27
+        ],
+        "devices,": [
+          29
+        ],
+        "the": [
+          30,
+          40,
+          44,
+          47
+        ],
+        "semantics": [
+          31
+        ],
+        "defined": [
+          37
+        ],
+        "independently": [
+          38
+        ],
+        "physical": [
+          41
+        ],
+        "form": [
+          42
+        ],
+        "In": [
+          46
+        ],
+        "service": [
+          48
+        ],
+        "program": [
+          50
+        ],
+        "portability,": [
+          51
+        ],
+        "human": [
+          52
+        ],
+        "factors": [
+          53
+        ],
+        "adaptability,": [
+          54
+        ],
+        "economy,": [
+          55
+        ],
+        "and": [
+          56
+        ],
+        "maximal": [
+          57
+        ],
+        "use": [
+          58
+        ],
+        "terminal": [
+          60
+        ],
+        "capability,": [
+          61
+        ],
+        "sufficient": [
+          63
+        ],
+        "is": [
+          68
+        ],
+        "described.": [
+          69
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1972622869",
+      "doi": "https://doi.org/10.1080/01449299208924315",
+      "title": "A comparative study of gestural, keyboard, and mouse interfaces",
+      "display_name": "A comparative study of gestural, keyboard, and mouse interfaces",
+      "publication_year": 1992,
+      "publication_date": "1992-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1972622869",
+        "doi": "https://doi.org/10.1080/01449299208924315",
+        "mag": "1972622869"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/01449299208924315",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/01449299208924315",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S123849098",
+          "display_name": "Behaviour and Information Technology",
+          "issn_l": "0144-929X",
+          "issn": [
+            "0144-929X",
+            "1362-3001"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Behaviour &amp; Information Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103578861",
+            "display_name": "Catherine G. Wolf",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210114115",
+              "display_name": "IBM Research - Thomas J. Watson Research Center",
+              "ror": "https://ror.org/0265w5591",
+              "country_code": "US",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1341412227",
+                "https://openalex.org/I4210114115"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "CATHERINE G. WOLF",
+          "raw_affiliation_strings": [
+            "IBM Thomas J. Watson Research Center, PO Box 704, Yorktown Heights, NY, 10598, USA",
+            "IBM Thomas J. Watson Research Center, PO Box 704, Yorktown Heights, NY 10598, USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IBM Thomas J. Watson Research Center, PO Box 704, Yorktown Heights, NY, 10598, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210114115"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IBM Thomas J. Watson Research Center, PO Box 704, Yorktown Heights, NY 10598, USA",
+              "institution_ids": [
+                "https://openalex.org/I4210114115"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103578861"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210114115"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.433,
+      "has_fulltext": false,
+      "cited_by_count": 18,
+      "citation_normalized_percentile": {
+        "value": 0.83798883,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "1",
+        "first_page": "13",
+        "last_page": "23"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10470",
+        "display_name": "Usability and User Interface Design",
+        "score": 0.9908000230789185,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1709",
+          "display_name": "Human-Computer Interaction"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10470",
+          "display_name": "Usability and User Interface Design",
+          "score": 0.9908000230789185,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10789",
+          "display_name": "Interactive and Immersive Displays",
+          "score": 0.9729999899864197,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1709",
+            "display_name": "Human-Computer Interaction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10914",
+          "display_name": "Tactile and Sensory Interactions",
+          "score": 0.9722999930381775,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2805",
+            "display_name": "Cognitive Neuroscience"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/28",
+            "display_name": "Neuroscience"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/stylus",
+          "display_name": "Stylus",
+          "score": 0.900281548500061
+        },
+        {
+          "id": "https://openalex.org/keywords/gesture",
+          "display_name": "Gesture",
+          "score": 0.7787166833877563
+        },
+        {
+          "id": "https://openalex.org/keywords/interface",
+          "display_name": "Interface (matter)",
+          "score": 0.777585506439209
+        },
+        {
+          "id": "https://openalex.org/keywords/handwriting",
+          "display_name": "Handwriting",
+          "score": 0.7136349081993103
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.6925221681594849
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5645343661308289
+        },
+        {
+          "id": "https://openalex.org/keywords/focus",
+          "display_name": "Focus (optics)",
+          "score": 0.5623102784156799
+        },
+        {
+          "id": "https://openalex.org/keywords/input-device",
+          "display_name": "Input device",
+          "score": 0.547829806804657
+        },
+        {
+          "id": "https://openalex.org/keywords/touchpad",
+          "display_name": "Touchpad",
+          "score": 0.5461503267288208
+        },
+        {
+          "id": "https://openalex.org/keywords/user-interface",
+          "display_name": "User interface",
+          "score": 0.46873411536216736
+        },
+        {
+          "id": "https://openalex.org/keywords/touchscreen",
+          "display_name": "Touchscreen",
+          "score": 0.46724534034729004
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-hardware",
+          "display_name": "Computer hardware",
+          "score": 0.1929267942905426
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-vision",
+          "display_name": "Computer vision",
+          "score": 0.12415573000907898
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.10945600271224976
+        },
+        {
+          "id": "https://openalex.org/keywords/operating-system",
+          "display_name": "Operating system",
+          "score": 0.07026645541191101
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C164086593",
+          "wikidata": "https://www.wikidata.org/wiki/Q1227035",
+          "display_name": "Stylus",
+          "level": 2,
+          "score": 0.900281548500061
+        },
+        {
+          "id": "https://openalex.org/C207347870",
+          "wikidata": "https://www.wikidata.org/wiki/Q371174",
+          "display_name": "Gesture",
+          "level": 2,
+          "score": 0.7787166833877563
+        },
+        {
+          "id": "https://openalex.org/C113843644",
+          "wikidata": "https://www.wikidata.org/wiki/Q901882",
+          "display_name": "Interface (matter)",
+          "level": 4,
+          "score": 0.777585506439209
+        },
+        {
+          "id": "https://openalex.org/C2779386606",
+          "wikidata": "https://www.wikidata.org/wiki/Q2393642",
+          "display_name": "Handwriting",
+          "level": 2,
+          "score": 0.7136349081993103
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.6925221681594849
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5645343661308289
+        },
+        {
+          "id": "https://openalex.org/C192209626",
+          "wikidata": "https://www.wikidata.org/wiki/Q190909",
+          "display_name": "Focus (optics)",
+          "level": 2,
+          "score": 0.5623102784156799
+        },
+        {
+          "id": "https://openalex.org/C121449826",
+          "wikidata": "https://www.wikidata.org/wiki/Q864114",
+          "display_name": "Input device",
+          "level": 2,
+          "score": 0.547829806804657
+        },
+        {
+          "id": "https://openalex.org/C43199551",
+          "wikidata": "https://www.wikidata.org/wiki/Q20137",
+          "display_name": "Touchpad",
+          "level": 2,
+          "score": 0.5461503267288208
+        },
+        {
+          "id": "https://openalex.org/C89505385",
+          "wikidata": "https://www.wikidata.org/wiki/Q47146",
+          "display_name": "User interface",
+          "level": 2,
+          "score": 0.46873411536216736
+        },
+        {
+          "id": "https://openalex.org/C2778539339",
+          "wikidata": "https://www.wikidata.org/wiki/Q165970",
+          "display_name": "Touchscreen",
+          "level": 2,
+          "score": 0.46724534034729004
+        },
+        {
+          "id": "https://openalex.org/C9390403",
+          "wikidata": "https://www.wikidata.org/wiki/Q3966",
+          "display_name": "Computer hardware",
+          "level": 1,
+          "score": 0.1929267942905426
+        },
+        {
+          "id": "https://openalex.org/C31972630",
+          "wikidata": "https://www.wikidata.org/wiki/Q844240",
+          "display_name": "Computer vision",
+          "level": 1,
+          "score": 0.12415573000907898
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.10945600271224976
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.07026645541191101
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C129307140",
+          "wikidata": "https://www.wikidata.org/wiki/Q6795880",
+          "display_name": "Maximum bubble pressure method",
+          "level": 3,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C157915830",
+          "wikidata": "https://www.wikidata.org/wiki/Q2928001",
+          "display_name": "Bubble",
+          "level": 2,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/01449299208924315",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/01449299208924315",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S123849098",
+            "display_name": "Behaviour and Information Technology",
+            "issn_l": "0144-929X",
+            "issn": [
+              "0144-929X",
+              "1362-3001"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Behaviour &amp; Information Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W243593526",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1991691398",
+        "https://openalex.org/W2020572658",
+        "https://openalex.org/W2026856190",
+        "https://openalex.org/W2034580061",
+        "https://openalex.org/W2077168257",
+        "https://openalex.org/W2078466780",
+        "https://openalex.org/W2098581201",
+        "https://openalex.org/W2115647291",
+        "https://openalex.org/W2315761891",
+        "https://openalex.org/W2735484107",
+        "https://openalex.org/W2936737507",
+        "https://openalex.org/W4211032937"
+      ],
+      "related_works": [
+        "https://openalex.org/W2130917723",
+        "https://openalex.org/W4251921656",
+        "https://openalex.org/W2065039365",
+        "https://openalex.org/W2606526141",
+        "https://openalex.org/W2783184802",
+        "https://openalex.org/W2210812050",
+        "https://openalex.org/W2020766040",
+        "https://openalex.org/W3214970049",
+        "https://openalex.org/W2329119209",
+        "https://openalex.org/W2018436036"
+      ],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          18
+        ],
+        "paper": [
+          1
+        ],
+        "presents": [
+          2
+        ],
+        "results": [
+          3
+        ],
+        "from": [
+          4
+        ],
+        "three": [
+          5
+        ],
+        "experiments": [
+          6,
+          88
+        ],
+        "which": [
+          7,
+          70
+        ],
+        "compared": [
+          8
+        ],
+        "gestural,": [
+          9
+        ],
+        "keyboard,": [
+          10
+        ],
+        "and": [
+          11,
+          47,
+          153,
+          187,
+          198
+        ],
+        "mouse/keyboard": [
+          12,
+          103,
+          130
+        ],
+        "interfaces": [
+          13,
+          28
+        ],
+        "to": [
+          14,
+          30,
+          74,
+          109,
+          123,
+          147,
+          175,
+          190
+        ],
+        "a": [
+          15,
+          60,
+          85,
+          193
+        ],
+        "spreadsheet": [
+          16
+        ],
+        "program.": [
+          17
+        ],
+        "is": [
+          19
+        ],
+        "the": [
+          20,
+          31,
+          55,
+          72,
+          77,
+          82,
+          95,
+          100,
+          111,
+          115,
+          125,
+          129,
+          137,
+          143,
+          156,
+          161,
+          169,
+          180,
+          188
+        ],
+        "first": [
+          21
+        ],
+        "quantitative": [
+          22
+        ],
+        "comparison": [
+          23
+        ],
+        "of": [
+          24,
+          27,
+          59,
+          67,
+          160,
+          168,
+          172,
+          183
+        ],
+        "these": [
+          25
+        ],
+        "types": [
+          26
+        ],
+        "known": [
+          29
+        ],
+        "author.": [
+          32
+        ],
+        "The": [
+          33,
+          87,
+          139,
+          158
+        ],
+        "gestural": [
+          34,
+          96,
+          112,
+          126,
+          144,
+          162,
+          185
+        ],
+        "interface": [
+          35,
+          97,
+          113,
+          127,
+          145,
+          163
+        ],
+        "employed": [
+          36
+        ],
+        "gestures": [
+          37
+        ],
+        "(hand-drawn": [
+          38
+        ],
+        "marks": [
+          39
+        ],
+        "such": [
+          40
+        ],
+        "as": [
+          41,
+          49
+        ],
+        "carets": [
+          42
+        ],
+        "or": [
+          43,
+          102
+        ],
+        "brackets)": [
+          44
+        ],
+        "for": [
+          45,
+          196
+        ],
+        "commands,": [
+          46,
+          186
+        ],
+        "handwriting": [
+          48
+        ],
+        "input": [
+          50,
+          197
+        ],
+        "techniques.": [
+          51
+        ],
+        "In": [
+          52,
+          105
+        ],
+        "one": [
+          53
+        ],
+        "configuration,": [
+          54
+        ],
+        "input/output": [
+          56
+        ],
+        "hardware": [
+          57
+        ],
+        "consisted": [
+          58
+        ],
+        "transparent": [
+          61
+        ],
+        "digitizing": [
+          62
+        ],
+        "tablet": [
+          63,
+          83
+        ],
+        "mounted": [
+          64
+        ],
+        "on": [
+          65,
+          81,
+          192
+        ],
+        "top": [
+          66
+        ],
+        "an": [
+          68,
+          178
+        ],
+        "LCD": [
+          69
+        ],
+        "allowed": [
+          71
+        ],
+        "user": [
+          73
+        ],
+        "interact": [
+          75
+        ],
+        "with": [
+          76,
+          84,
+          94,
+          99,
+          142,
+          149,
+          155
+        ],
+        "program": [
+          78
+        ],
+        "by": [
+          79
+        ],
+        "writing": [
+          80
+        ],
+        "stylus.": [
+          86,
+          157
+        ],
+        "found": [
+          89
+        ],
+        "that": [
+          90
+        ],
+        "participants": [
+          91
+        ],
+        "were": [
+          92
+        ],
+        "faster": [
+          93
+        ],
+        "than": [
+          98
+        ],
+        "keyboard": [
+          101,
+          116
+        ],
+        "interface.": [
+          104,
+          117
+        ],
+        "addition,": [
+          106
+        ],
+        "subjects": [
+          107
+        ],
+        "tended": [
+          108,
+          122
+        ],
+        "prefer": [
+          110,
+          124
+        ],
+        "over": [
+          114,
+          128
+        ],
+        "Inexperienced": [
+          118
+        ],
+        "mouse": [
+          119,
+          134
+        ],
+        "users": [
+          120,
+          135
+        ],
+        "also": [
+          121
+        ],
+        "interface,": [
+          131
+        ],
+        "although": [
+          132
+        ],
+        "experienced": [
+          133
+        ],
+        "preferred": [
+          136
+        ],
+        "mouse.": [
+          138
+        ],
+        "main": [
+          140
+        ],
+        "difficulties": [
+          141
+        ],
+        "had": [
+          146
+        ],
+        "do": [
+          148
+        ],
+        "poor": [
+          150
+        ],
+        "display": [
+          151
+        ],
+        "legibility": [
+          152
+        ],
+        "problems": [
+          154
+        ],
+        "benefits": [
+          159
+        ],
+        "are": [
+          164
+        ],
+        "explained": [
+          165
+        ],
+        "in": [
+          166
+        ],
+        "terms": [
+          167
+        ],
+        "fewer": [
+          170
+        ],
+        "number": [
+          171
+        ],
+        "steps": [
+          173
+        ],
+        "required": [
+          174
+        ],
+        "carry": [
+          176
+        ],
+        "out": [
+          177
+        ],
+        "operation,": [
+          179
+        ],
+        "greater": [
+          181
+        ],
+        "ease": [
+          182
+        ],
+        "remembering": [
+          184
+        ],
+        "ability": [
+          189
+        ],
+        "focus": [
+          191
+        ],
+        "single": [
+          194
+        ],
+        "surface": [
+          195
+        ],
+        "output.": [
+          199
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-15T07:11:24.734988",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W1969874240",
+      "doi": "https://doi.org/10.1109/c-m.1976.218676",
+      "title": "Computer Graphics, Interactive Techniques, and Image Processing 1970-1975: A Bibliography",
+      "display_name": "Computer Graphics, Interactive Techniques, and Image Processing 1970-1975: A Bibliography",
+      "publication_year": 1976,
+      "publication_date": "1976-08-01",
+      "ids": {
+        "openalex": "https://openalex.org/W1969874240",
+        "doi": "https://doi.org/10.1109/c-m.1976.218676",
+        "mag": "1969874240"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1109/c-m.1976.218676",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/c-m.1976.218676",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S178916657",
+          "display_name": "Computer",
+          "issn_l": "0018-9162",
+          "issn": [
+            "0018-9162",
+            "1558-0814"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320439",
+          "host_organization_name": "IEEE Computer Society",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320439",
+            "https://openalex.org/P4310319808"
+          ],
+          "host_organization_lineage_names": [
+            "IEEE Computer Society",
+            "Institute of Electrical and Electronics Engineers"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Computer",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5069637821",
+            "display_name": "Udo W. Pooch",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91045830",
+              "display_name": "Texas A&M University",
+              "ror": "https://ror.org/01f5ytq51",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "U.W. Pooch",
+          "raw_affiliation_strings": [
+            "Texas A and M University, USA",
+            "Texas A&MUniversity#TAB#"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Texas A and M University, USA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Texas A&MUniversity#TAB#",
+              "institution_ids": [
+                "https://openalex.org/I91045830"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5069637821"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I91045830"
+      ],
+      "apc_list": {
+        "value": 2995,
+        "currency": "USD",
+        "value_usd": 2995
+      },
+      "apc_paid": null,
+      "fwci": 3.9103,
+      "has_fulltext": false,
+      "cited_by_count": 16,
+      "citation_normalized_percentile": {
+        "value": 0.9382408,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "9",
+        "issue": "8",
+        "first_page": "46",
+        "last_page": "64"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12923",
+        "display_name": "Digital Image Processing Techniques",
+        "score": 0.9966999888420105,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1707",
+          "display_name": "Computer Vision and Pattern Recognition"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12923",
+          "display_name": "Digital Image Processing Techniques",
+          "score": 0.9966999888420105,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1707",
+            "display_name": "Computer Vision and Pattern Recognition"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14002",
+          "display_name": "Art, Technology, and Culture",
+          "score": 0.9954000115394592,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1213",
+            "display_name": "Visual Arts and Performing Arts"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10481",
+          "display_name": "Computer Graphics and Visualization Techniques",
+          "score": 0.9912999868392944,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1704",
+            "display_name": "Computer Graphics and Computer-Aided Design"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.8514140844345093
+        },
+        {
+          "id": "https://openalex.org/keywords/bibliography",
+          "display_name": "Bibliography",
+          "score": 0.7909950017929077
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-graphics",
+          "display_name": "Computer graphics",
+          "score": 0.6976507306098938
+        },
+        {
+          "id": "https://openalex.org/keywords/compiler",
+          "display_name": "Compiler",
+          "score": 0.6267876625061035
+        },
+        {
+          "id": "https://openalex.org/keywords/graphics",
+          "display_name": "Graphics",
+          "score": 0.5939496755599976
+        },
+        {
+          "id": "https://openalex.org/keywords/field",
+          "display_name": "Field (mathematics)",
+          "score": 0.522599995136261
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-graphics",
+          "display_name": "Computer graphics (images)",
+          "score": 0.48809587955474854
+        },
+        {
+          "id": "https://openalex.org/keywords/multimedia",
+          "display_name": "Multimedia",
+          "score": 0.37388163805007935
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.3284078538417816
+        },
+        {
+          "id": "https://openalex.org/keywords/programming-language",
+          "display_name": "Programming language",
+          "score": 0.22313463687896729
+        },
+        {
+          "id": "https://openalex.org/keywords/library-science",
+          "display_name": "Library science",
+          "score": 0.13302692770957947
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.8514140844345093
+        },
+        {
+          "id": "https://openalex.org/C97002063",
+          "wikidata": "https://www.wikidata.org/wiki/Q134995",
+          "display_name": "Bibliography",
+          "level": 2,
+          "score": 0.7909950017929077
+        },
+        {
+          "id": "https://openalex.org/C77660652",
+          "wikidata": "https://www.wikidata.org/wiki/Q150971",
+          "display_name": "Computer graphics",
+          "level": 2,
+          "score": 0.6976507306098938
+        },
+        {
+          "id": "https://openalex.org/C169590947",
+          "wikidata": "https://www.wikidata.org/wiki/Q47506",
+          "display_name": "Compiler",
+          "level": 2,
+          "score": 0.6267876625061035
+        },
+        {
+          "id": "https://openalex.org/C21442007",
+          "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+          "display_name": "Graphics",
+          "level": 2,
+          "score": 0.5939496755599976
+        },
+        {
+          "id": "https://openalex.org/C9652623",
+          "wikidata": "https://www.wikidata.org/wiki/Q190109",
+          "display_name": "Field (mathematics)",
+          "level": 2,
+          "score": 0.522599995136261
+        },
+        {
+          "id": "https://openalex.org/C121684516",
+          "wikidata": "https://www.wikidata.org/wiki/Q7600677",
+          "display_name": "Computer graphics (images)",
+          "level": 1,
+          "score": 0.48809587955474854
+        },
+        {
+          "id": "https://openalex.org/C49774154",
+          "wikidata": "https://www.wikidata.org/wiki/Q131765",
+          "display_name": "Multimedia",
+          "level": 1,
+          "score": 0.37388163805007935
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.3284078538417816
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.22313463687896729
+        },
+        {
+          "id": "https://openalex.org/C161191863",
+          "wikidata": "https://www.wikidata.org/wiki/Q199655",
+          "display_name": "Library science",
+          "level": 1,
+          "score": 0.13302692770957947
+        },
+        {
+          "id": "https://openalex.org/C202444582",
+          "wikidata": "https://www.wikidata.org/wiki/Q837863",
+          "display_name": "Pure mathematics",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1109/c-m.1976.218676",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/c-m.1976.218676",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S178916657",
+            "display_name": "Computer",
+            "issn_l": "0018-9162",
+            "issn": [
+              "0018-9162",
+              "1558-0814"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320439",
+            "host_organization_name": "IEEE Computer Society",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320439",
+              "https://openalex.org/P4310319808"
+            ],
+            "host_organization_lineage_names": [
+              "IEEE Computer Society",
+              "Institute of Electrical and Electronics Engineers"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Computer",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.6800000071525574,
+          "display_name": "Quality Education",
+          "id": "https://metadata.un.org/sdg/4"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 485,
+      "referenced_works": [
+        "https://openalex.org/W4304228",
+        "https://openalex.org/W10972952",
+        "https://openalex.org/W15354660",
+        "https://openalex.org/W15427697",
+        "https://openalex.org/W29029125",
+        "https://openalex.org/W33119145",
+        "https://openalex.org/W34835541",
+        "https://openalex.org/W40531194",
+        "https://openalex.org/W41830731",
+        "https://openalex.org/W62452883",
+        "https://openalex.org/W63462865",
+        "https://openalex.org/W72767622",
+        "https://openalex.org/W76325497",
+        "https://openalex.org/W80488492",
+        "https://openalex.org/W80868315",
+        "https://openalex.org/W86216828",
+        "https://openalex.org/W86708267",
+        "https://openalex.org/W94925569",
+        "https://openalex.org/W98766963",
+        "https://openalex.org/W99446650",
+        "https://openalex.org/W115489308",
+        "https://openalex.org/W118500454",
+        "https://openalex.org/W132833222",
+        "https://openalex.org/W136612733",
+        "https://openalex.org/W138822680",
+        "https://openalex.org/W139085500",
+        "https://openalex.org/W148528658",
+        "https://openalex.org/W148690507",
+        "https://openalex.org/W157146638",
+        "https://openalex.org/W158552737",
+        "https://openalex.org/W161885177",
+        "https://openalex.org/W172551705",
+        "https://openalex.org/W177005515",
+        "https://openalex.org/W187786001",
+        "https://openalex.org/W193251701",
+        "https://openalex.org/W199172063",
+        "https://openalex.org/W207102991",
+        "https://openalex.org/W213440610",
+        "https://openalex.org/W216206091",
+        "https://openalex.org/W221907249",
+        "https://openalex.org/W234677512",
+        "https://openalex.org/W234763829",
+        "https://openalex.org/W240249681",
+        "https://openalex.org/W240509563",
+        "https://openalex.org/W246221982",
+        "https://openalex.org/W246300022",
+        "https://openalex.org/W246789103",
+        "https://openalex.org/W261840816",
+        "https://openalex.org/W292988785",
+        "https://openalex.org/W298256719",
+        "https://openalex.org/W299311075",
+        "https://openalex.org/W310923904",
+        "https://openalex.org/W312105999",
+        "https://openalex.org/W316534181",
+        "https://openalex.org/W318667656",
+        "https://openalex.org/W351047984",
+        "https://openalex.org/W358637437",
+        "https://openalex.org/W400942568",
+        "https://openalex.org/W570257531",
+        "https://openalex.org/W571024834",
+        "https://openalex.org/W573843152",
+        "https://openalex.org/W576640919",
+        "https://openalex.org/W601645415",
+        "https://openalex.org/W623561723",
+        "https://openalex.org/W627898113",
+        "https://openalex.org/W629294073",
+        "https://openalex.org/W635141580",
+        "https://openalex.org/W636610014",
+        "https://openalex.org/W638515017",
+        "https://openalex.org/W643943252",
+        "https://openalex.org/W752284341",
+        "https://openalex.org/W827303856",
+        "https://openalex.org/W835271552",
+        "https://openalex.org/W866333962",
+        "https://openalex.org/W1036248915",
+        "https://openalex.org/W1484080213",
+        "https://openalex.org/W1487488968",
+        "https://openalex.org/W1487676297",
+        "https://openalex.org/W1489155488",
+        "https://openalex.org/W1530576598",
+        "https://openalex.org/W1533334635",
+        "https://openalex.org/W1535908350",
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1557692838",
+        "https://openalex.org/W1558220169",
+        "https://openalex.org/W1561541903",
+        "https://openalex.org/W1565189847",
+        "https://openalex.org/W1566138116",
+        "https://openalex.org/W1569714443",
+        "https://openalex.org/W1571590262",
+        "https://openalex.org/W1575371097",
+        "https://openalex.org/W1576080810",
+        "https://openalex.org/W1576579612",
+        "https://openalex.org/W1581263879",
+        "https://openalex.org/W1583012263",
+        "https://openalex.org/W1603763877",
+        "https://openalex.org/W1608227995",
+        "https://openalex.org/W1647905663",
+        "https://openalex.org/W1686437681",
+        "https://openalex.org/W1794790901",
+        "https://openalex.org/W1821763654",
+        "https://openalex.org/W1847985290",
+        "https://openalex.org/W1851121496",
+        "https://openalex.org/W1961635001",
+        "https://openalex.org/W1964052253",
+        "https://openalex.org/W1964360020",
+        "https://openalex.org/W1964590759",
+        "https://openalex.org/W1965231704",
+        "https://openalex.org/W1965384693",
+        "https://openalex.org/W1966457756",
+        "https://openalex.org/W1967309578",
+        "https://openalex.org/W1967614673",
+        "https://openalex.org/W1967617477",
+        "https://openalex.org/W1968325085",
+        "https://openalex.org/W1969541138",
+        "https://openalex.org/W1969645720",
+        "https://openalex.org/W1970796858",
+        "https://openalex.org/W1972368720",
+        "https://openalex.org/W1973460803",
+        "https://openalex.org/W1975335681",
+        "https://openalex.org/W1975470983",
+        "https://openalex.org/W1976755662",
+        "https://openalex.org/W1977723848",
+        "https://openalex.org/W1978868668",
+        "https://openalex.org/W1981242488",
+        "https://openalex.org/W1981588133",
+        "https://openalex.org/W1983359550",
+        "https://openalex.org/W1984293082",
+        "https://openalex.org/W1984901230",
+        "https://openalex.org/W1986417413",
+        "https://openalex.org/W1988192626",
+        "https://openalex.org/W1988220129",
+        "https://openalex.org/W1988363176",
+        "https://openalex.org/W1991245564",
+        "https://openalex.org/W1991651582",
+        "https://openalex.org/W1991700758",
+        "https://openalex.org/W1992065454",
+        "https://openalex.org/W1993774588",
+        "https://openalex.org/W1994864503",
+        "https://openalex.org/W1995075089",
+        "https://openalex.org/W1995873002",
+        "https://openalex.org/W1996080631",
+        "https://openalex.org/W1996226039",
+        "https://openalex.org/W1996409371",
+        "https://openalex.org/W1996765157",
+        "https://openalex.org/W1998160370",
+        "https://openalex.org/W1998597105",
+        "https://openalex.org/W2003505485",
+        "https://openalex.org/W2003527916",
+        "https://openalex.org/W2003938193",
+        "https://openalex.org/W2005313390",
+        "https://openalex.org/W2005614722",
+        "https://openalex.org/W2006650073",
+        "https://openalex.org/W2008473930",
+        "https://openalex.org/W2009078116",
+        "https://openalex.org/W2010399086",
+        "https://openalex.org/W2012370372",
+        "https://openalex.org/W2013501078",
+        "https://openalex.org/W2013574423",
+        "https://openalex.org/W2014922193",
+        "https://openalex.org/W2015973114",
+        "https://openalex.org/W2016161890",
+        "https://openalex.org/W2016439627",
+        "https://openalex.org/W2016565875",
+        "https://openalex.org/W2017551086",
+        "https://openalex.org/W2017626268",
+        "https://openalex.org/W2018634432",
+        "https://openalex.org/W2019547476",
+        "https://openalex.org/W2019632495",
+        "https://openalex.org/W2020301895",
+        "https://openalex.org/W2020355843",
+        "https://openalex.org/W2021327557",
+        "https://openalex.org/W2021431708",
+        "https://openalex.org/W2021661308",
+        "https://openalex.org/W2023514948",
+        "https://openalex.org/W2023713968",
+        "https://openalex.org/W2024169148",
+        "https://openalex.org/W2024910600",
+        "https://openalex.org/W2025076150",
+        "https://openalex.org/W2025451108",
+        "https://openalex.org/W2027117955",
+        "https://openalex.org/W2027621766",
+        "https://openalex.org/W2028957736",
+        "https://openalex.org/W2029839109",
+        "https://openalex.org/W2030206629",
+        "https://openalex.org/W2030220063",
+        "https://openalex.org/W2030240196",
+        "https://openalex.org/W2030585371",
+        "https://openalex.org/W2031709714",
+        "https://openalex.org/W2032684505",
+        "https://openalex.org/W2033250692",
+        "https://openalex.org/W2033736966",
+        "https://openalex.org/W2034149562",
+        "https://openalex.org/W2034653032",
+        "https://openalex.org/W2034742233",
+        "https://openalex.org/W2034751288",
+        "https://openalex.org/W2035420489",
+        "https://openalex.org/W2035478692",
+        "https://openalex.org/W2035526105",
+        "https://openalex.org/W2035875168",
+        "https://openalex.org/W2036005169",
+        "https://openalex.org/W2036202410",
+        "https://openalex.org/W2036463048",
+        "https://openalex.org/W2036876208",
+        "https://openalex.org/W2037091708",
+        "https://openalex.org/W2037240954",
+        "https://openalex.org/W2037932243",
+        "https://openalex.org/W2038453652",
+        "https://openalex.org/W2038796173",
+        "https://openalex.org/W2038934616",
+        "https://openalex.org/W2040101819",
+        "https://openalex.org/W2041334212",
+        "https://openalex.org/W2042230034",
+        "https://openalex.org/W2042521767",
+        "https://openalex.org/W2042630897",
+        "https://openalex.org/W2045066702",
+        "https://openalex.org/W2045264880",
+        "https://openalex.org/W2045639188",
+        "https://openalex.org/W2045798786",
+        "https://openalex.org/W2046487770",
+        "https://openalex.org/W2047318480",
+        "https://openalex.org/W2048519473",
+        "https://openalex.org/W2049204877",
+        "https://openalex.org/W2050422177",
+        "https://openalex.org/W2050744010",
+        "https://openalex.org/W2050880371",
+        "https://openalex.org/W2051954142",
+        "https://openalex.org/W2053280387",
+        "https://openalex.org/W2055221682",
+        "https://openalex.org/W2055370780",
+        "https://openalex.org/W2055407382",
+        "https://openalex.org/W2056133382",
+        "https://openalex.org/W2056846826",
+        "https://openalex.org/W2057042427",
+        "https://openalex.org/W2057372647",
+        "https://openalex.org/W2057600160",
+        "https://openalex.org/W2058305527",
+        "https://openalex.org/W2058394024",
+        "https://openalex.org/W2059381169",
+        "https://openalex.org/W2059550292",
+        "https://openalex.org/W2060234805",
+        "https://openalex.org/W2060547548",
+        "https://openalex.org/W2061416066",
+        "https://openalex.org/W2063226917",
+        "https://openalex.org/W2063406191",
+        "https://openalex.org/W2063613773",
+        "https://openalex.org/W2064453033",
+        "https://openalex.org/W2065480355",
+        "https://openalex.org/W2066302667",
+        "https://openalex.org/W2068064720",
+        "https://openalex.org/W2068480653",
+        "https://openalex.org/W2068654900",
+        "https://openalex.org/W2069471540",
+        "https://openalex.org/W2069802066",
+        "https://openalex.org/W2070875036",
+        "https://openalex.org/W2071842796",
+        "https://openalex.org/W2072405256",
+        "https://openalex.org/W2073677259",
+        "https://openalex.org/W2073709207",
+        "https://openalex.org/W2074491338",
+        "https://openalex.org/W2074549122",
+        "https://openalex.org/W2075831579",
+        "https://openalex.org/W2079022997",
+        "https://openalex.org/W2080384979",
+        "https://openalex.org/W2080717285",
+        "https://openalex.org/W2081848738",
+        "https://openalex.org/W2081906143",
+        "https://openalex.org/W2082599353",
+        "https://openalex.org/W2083555960",
+        "https://openalex.org/W2085760343",
+        "https://openalex.org/W2085987938",
+        "https://openalex.org/W2086969205",
+        "https://openalex.org/W2088277303",
+        "https://openalex.org/W2088741885",
+        "https://openalex.org/W2089657026",
+        "https://openalex.org/W2090734506",
+        "https://openalex.org/W2091563553",
+        "https://openalex.org/W2094139270",
+        "https://openalex.org/W2094465634",
+        "https://openalex.org/W2094572992",
+        "https://openalex.org/W2094640821",
+        "https://openalex.org/W2094880333",
+        "https://openalex.org/W2100697838",
+        "https://openalex.org/W2102041365",
+        "https://openalex.org/W2102261856",
+        "https://openalex.org/W2102429378",
+        "https://openalex.org/W2103531830",
+        "https://openalex.org/W2103772357",
+        "https://openalex.org/W2105021821",
+        "https://openalex.org/W2105909488",
+        "https://openalex.org/W2107848562",
+        "https://openalex.org/W2110758058",
+        "https://openalex.org/W2114311231",
+        "https://openalex.org/W2115675428",
+        "https://openalex.org/W2118577137",
+        "https://openalex.org/W2118795331",
+        "https://openalex.org/W2120992978",
+        "https://openalex.org/W2122237078",
+        "https://openalex.org/W2125849479",
+        "https://openalex.org/W2127424931",
+        "https://openalex.org/W2128499855",
+        "https://openalex.org/W2130881448",
+        "https://openalex.org/W2130972039",
+        "https://openalex.org/W2130987281",
+        "https://openalex.org/W2131624837",
+        "https://openalex.org/W2132670894",
+        "https://openalex.org/W2134192703",
+        "https://openalex.org/W2134600013",
+        "https://openalex.org/W2135393252",
+        "https://openalex.org/W2136521448",
+        "https://openalex.org/W2137293535",
+        "https://openalex.org/W2138303418",
+        "https://openalex.org/W2139151394",
+        "https://openalex.org/W2142225493",
+        "https://openalex.org/W2142323431",
+        "https://openalex.org/W2143264448",
+        "https://openalex.org/W2146531417",
+        "https://openalex.org/W2152130403",
+        "https://openalex.org/W2152454230",
+        "https://openalex.org/W2153297721",
+        "https://openalex.org/W2153772915",
+        "https://openalex.org/W2154352757",
+        "https://openalex.org/W2154717106",
+        "https://openalex.org/W2154979228",
+        "https://openalex.org/W2155195832",
+        "https://openalex.org/W2157331998",
+        "https://openalex.org/W2159390620",
+        "https://openalex.org/W2159843554",
+        "https://openalex.org/W2160260918",
+        "https://openalex.org/W2161565059",
+        "https://openalex.org/W2163739482",
+        "https://openalex.org/W2168663677",
+        "https://openalex.org/W2169377273",
+        "https://openalex.org/W2169499525",
+        "https://openalex.org/W2169838657",
+        "https://openalex.org/W2171153670",
+        "https://openalex.org/W2171661026",
+        "https://openalex.org/W2172016924",
+        "https://openalex.org/W2212000460",
+        "https://openalex.org/W2241383202",
+        "https://openalex.org/W2244348865",
+        "https://openalex.org/W2247894926",
+        "https://openalex.org/W2248261083",
+        "https://openalex.org/W2248983841",
+        "https://openalex.org/W2249195248",
+        "https://openalex.org/W2252681174",
+        "https://openalex.org/W2275233179",
+        "https://openalex.org/W2276663238",
+        "https://openalex.org/W2280940241",
+        "https://openalex.org/W2285637021",
+        "https://openalex.org/W2293848486",
+        "https://openalex.org/W2294157162",
+        "https://openalex.org/W2295984830",
+        "https://openalex.org/W2326702156",
+        "https://openalex.org/W2330071814",
+        "https://openalex.org/W2331269863",
+        "https://openalex.org/W2335712410",
+        "https://openalex.org/W2340632605",
+        "https://openalex.org/W2395879581",
+        "https://openalex.org/W2397590696",
+        "https://openalex.org/W2407706761",
+        "https://openalex.org/W2418795239",
+        "https://openalex.org/W2461267487",
+        "https://openalex.org/W2520946769",
+        "https://openalex.org/W2543996582",
+        "https://openalex.org/W2562630307",
+        "https://openalex.org/W2570933950",
+        "https://openalex.org/W2578645125",
+        "https://openalex.org/W2625736574",
+        "https://openalex.org/W2626657683",
+        "https://openalex.org/W2732792775",
+        "https://openalex.org/W2740799926",
+        "https://openalex.org/W2745715266",
+        "https://openalex.org/W2774867717",
+        "https://openalex.org/W2789818321",
+        "https://openalex.org/W2801478648",
+        "https://openalex.org/W2970856991",
+        "https://openalex.org/W2982245759",
+        "https://openalex.org/W2989531928",
+        "https://openalex.org/W3004602248",
+        "https://openalex.org/W3141582486",
+        "https://openalex.org/W3160597109",
+        "https://openalex.org/W3161385289",
+        "https://openalex.org/W3161458227",
+        "https://openalex.org/W3161899354",
+        "https://openalex.org/W3197667449",
+        "https://openalex.org/W4206230256",
+        "https://openalex.org/W4210738832",
+        "https://openalex.org/W4214587059",
+        "https://openalex.org/W4214610043",
+        "https://openalex.org/W4229496765",
+        "https://openalex.org/W4229662179",
+        "https://openalex.org/W4230581919",
+        "https://openalex.org/W4231428792",
+        "https://openalex.org/W4231577635",
+        "https://openalex.org/W4231828816",
+        "https://openalex.org/W4233779507",
+        "https://openalex.org/W4234205827",
+        "https://openalex.org/W4235646836",
+        "https://openalex.org/W4238980539",
+        "https://openalex.org/W4239263716",
+        "https://openalex.org/W4241239822",
+        "https://openalex.org/W4241422680",
+        "https://openalex.org/W4241706196",
+        "https://openalex.org/W4241917913",
+        "https://openalex.org/W4242034129",
+        "https://openalex.org/W4242879104",
+        "https://openalex.org/W4243159856",
+        "https://openalex.org/W4243499790",
+        "https://openalex.org/W4248647934",
+        "https://openalex.org/W4249428877",
+        "https://openalex.org/W4250144502",
+        "https://openalex.org/W4250861116",
+        "https://openalex.org/W4250902796",
+        "https://openalex.org/W4252371306",
+        "https://openalex.org/W4253042496",
+        "https://openalex.org/W4256598649",
+        "https://openalex.org/W4298173667",
+        "https://openalex.org/W4404206777",
+        "https://openalex.org/W4404206838",
+        "https://openalex.org/W4404209029",
+        "https://openalex.org/W4404209030",
+        "https://openalex.org/W4404209085",
+        "https://openalex.org/W4404325607",
+        "https://openalex.org/W4404325673",
+        "https://openalex.org/W6601307142",
+        "https://openalex.org/W6602593723",
+        "https://openalex.org/W6603117041",
+        "https://openalex.org/W6603511418",
+        "https://openalex.org/W6603514217",
+        "https://openalex.org/W6604060073",
+        "https://openalex.org/W6604718184",
+        "https://openalex.org/W6605567179",
+        "https://openalex.org/W6606614900",
+        "https://openalex.org/W6608688467",
+        "https://openalex.org/W6609104195",
+        "https://openalex.org/W6609218131",
+        "https://openalex.org/W6609341046",
+        "https://openalex.org/W6609754550",
+        "https://openalex.org/W6611002709",
+        "https://openalex.org/W6616058960",
+        "https://openalex.org/W6616282021",
+        "https://openalex.org/W6620365892",
+        "https://openalex.org/W6620691644",
+        "https://openalex.org/W6622151036",
+        "https://openalex.org/W6623263941",
+        "https://openalex.org/W6623276188",
+        "https://openalex.org/W6633739661",
+        "https://openalex.org/W6634219509",
+        "https://openalex.org/W6637261432",
+        "https://openalex.org/W6641149704",
+        "https://openalex.org/W6652148741",
+        "https://openalex.org/W6666176330",
+        "https://openalex.org/W6667930926",
+        "https://openalex.org/W6689863730",
+        "https://openalex.org/W6690569326",
+        "https://openalex.org/W6690858936",
+        "https://openalex.org/W6691418568",
+        "https://openalex.org/W6691499359",
+        "https://openalex.org/W6695455660",
+        "https://openalex.org/W6697605648",
+        "https://openalex.org/W6712320569",
+        "https://openalex.org/W6714022940",
+        "https://openalex.org/W6726876542",
+        "https://openalex.org/W6730949452",
+        "https://openalex.org/W6731869292",
+        "https://openalex.org/W6732575620",
+        "https://openalex.org/W6739235024",
+        "https://openalex.org/W6742638253",
+        "https://openalex.org/W6746801777",
+        "https://openalex.org/W6770192725",
+        "https://openalex.org/W6808470453",
+        "https://openalex.org/W6873245365",
+        "https://openalex.org/W6873539954",
+        "https://openalex.org/W6873684359",
+        "https://openalex.org/W6873941397",
+        "https://openalex.org/W6874092428",
+        "https://openalex.org/W6874191406",
+        "https://openalex.org/W6874201045",
+        "https://openalex.org/W6874216274",
+        "https://openalex.org/W6874282140",
+        "https://openalex.org/W6874381468",
+        "https://openalex.org/W6881824591",
+        "https://openalex.org/W6882139385",
+        "https://openalex.org/W6986527141"
+      ],
+      "related_works": [
+        "https://openalex.org/W2737774955",
+        "https://openalex.org/W4205608827",
+        "https://openalex.org/W2370620280",
+        "https://openalex.org/W4231885144",
+        "https://openalex.org/W4302315688",
+        "https://openalex.org/W2385673297",
+        "https://openalex.org/W3132798417",
+        "https://openalex.org/W1559411330",
+        "https://openalex.org/W4210477429",
+        "https://openalex.org/W2917594120"
+      ],
+      "abstract_inverted_index": {
+        "Computer": [
+          0
+        ],
+        "graphics,": [
+          1
+        ],
+        "interactive": [
+          2
+        ],
+        "techniques,": [
+          3
+        ],
+        "and": [
+          4,
+          36,
+          42,
+          62,
+          75
+        ],
+        "image": [
+          5
+        ],
+        "processing": [
+          6
+        ],
+        "are": [
+          7
+        ],
+        "among": [
+          8
+        ],
+        "the": [
+          9,
+          12,
+          20,
+          56,
+          81,
+          87
+        ],
+        "developments": [
+          10
+        ],
+        "in": [
+          11,
+          49
+        ],
+        "constantly": [
+          13
+        ],
+        "evolving": [
+          14
+        ],
+        "computer": [
+          15,
+          40,
+          60
+        ],
+        "science": [
+          16
+        ],
+        "field": [
+          17
+        ],
+        "that": [
+          18,
+          45
+        ],
+        "impact": [
+          19
+        ],
+        "potential": [
+          21
+        ],
+        "user": [
+          22
+        ],
+        "ever": [
+          23
+        ],
+        "more": [
+          24
+        ],
+        "rapidly.": [
+          25
+        ],
+        "This": [
+          26
+        ],
+        "bibliography": [
+          27,
+          68,
+          82
+        ],
+        "attempts": [
+          28
+        ],
+        "to": [
+          29,
+          53,
+          59,
+          80,
+          86
+        ],
+        "compile": [
+          30
+        ],
+        "all": [
+          31
+        ],
+        "articles,": [
+          32
+        ],
+        "books,": [
+          33
+        ],
+        "conference": [
+          34
+        ],
+        "papers,": [
+          35
+        ],
+        "technical": [
+          37
+        ],
+        "reports": [
+          38
+        ],
+        "about": [
+          39
+        ],
+        "graphics": [
+          41,
+          61
+        ],
+        "man-machine": [
+          43,
+          63
+        ],
+        "interaction": [
+          44,
+          64
+        ],
+        "have": [
+          46
+        ],
+        "been": [
+          47
+        ],
+        "published": [
+          48
+        ],
+        "English": [
+          50
+        ],
+        "from": [
+          51
+        ],
+        "1970": [
+          52
+        ],
+        "1975.": [
+          54
+        ],
+        "Because": [
+          55
+        ],
+        "literature": [
+          57
+        ],
+        "pertaining": [
+          58
+        ],
+        "is": [
+          65
+        ],
+        "immense,": [
+          66
+        ],
+        "this": [
+          67
+        ],
+        "will": [
+          69
+        ],
+        "no": [
+          70
+        ],
+        "doubt": [
+          71
+        ],
+        "be": [
+          72,
+          84
+        ],
+        "incomplete.": [
+          73
+        ],
+        "Suggestions": [
+          74
+        ],
+        "contributions": [
+          76
+        ],
+        "for": [
+          77
+        ],
+        "future": [
+          78
+        ],
+        "supplements": [
+          79
+        ],
+        "should": [
+          83
+        ],
+        "sent": [
+          85
+        ],
+        "compiler.": [
+          88
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4251060131",
+      "doi": "https://doi.org/10.1145/957199.804734",
+      "title": "The semantics of graphic input devices",
+      "display_name": "The semantics of graphic input devices",
+      "publication_year": 1976,
+      "publication_date": "1976-04-26",
+      "ids": {
+        "openalex": "https://openalex.org/W4251060131",
+        "doi": "https://doi.org/10.1145/957199.804734"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1145/957199.804734",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1145/957199.804734",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S148324379",
+          "display_name": "ACM SIGPLAN Notices",
+          "issn_l": "0362-1340",
+          "issn": [
+            "0362-1340",
+            "1558-1160"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319798",
+          "host_organization_name": "Association for Computing Machinery",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319798"
+          ],
+          "host_organization_lineage_names": [
+            "Association for Computing Machinery"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "ACM SIGPLAN Notices",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002222867",
+            "display_name": "Victor L. Wallace",
+            "orcid": "https://orcid.org/0009-0003-7772-017X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I114027177",
+              "display_name": "University of North Carolina at Chapel Hill",
+              "ror": "https://ror.org/0130frc33",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Victor L. Wallace",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, University of North Carolina, Chapel Hill, NC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, University of North Carolina, Chapel Hill, NC",
+              "institution_ids": [
+                "https://openalex.org/I114027177"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002222867"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I114027177"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.65616862,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "11",
+        "issue": "6",
+        "first_page": "61",
+        "last_page": "65"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11687",
+        "display_name": "Teleoperation and Haptic Systems",
+        "score": 0.8795999884605408,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11687",
+          "display_name": "Teleoperation and Haptic Systems",
+          "score": 0.8795999884605408,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10904",
+          "display_name": "Embedded Systems Design Techniques",
+          "score": 0.8633000254631042,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1708",
+            "display_name": "Hardware and Architecture"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13382",
+          "display_name": "Robotics and Automated Systems",
+          "score": 0.8460000157356262,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2207",
+            "display_name": "Control and Systems Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.9099957942962646
+        },
+        {
+          "id": "https://openalex.org/keywords/software-portability",
+          "display_name": "Software portability",
+          "score": 0.8496851921081543
+        },
+        {
+          "id": "https://openalex.org/keywords/set",
+          "display_name": "Set (abstract data type)",
+          "score": 0.6454322934150696
+        },
+        {
+          "id": "https://openalex.org/keywords/semantics",
+          "display_name": "Semantics (computer science)",
+          "score": 0.6101395487785339
+        },
+        {
+          "id": "https://openalex.org/keywords/adaptability",
+          "display_name": "Adaptability",
+          "score": 0.5603517889976501
+        },
+        {
+          "id": "https://openalex.org/keywords/graphics",
+          "display_name": "Graphics",
+          "score": 0.5390533804893494
+        },
+        {
+          "id": "https://openalex.org/keywords/programming-language",
+          "display_name": "Programming language",
+          "score": 0.46037182211875916
+        },
+        {
+          "id": "https://openalex.org/keywords/service",
+          "display_name": "Service (business)",
+          "score": 0.4583977162837982
+        },
+        {
+          "id": "https://openalex.org/keywords/terminal",
+          "display_name": "Terminal (telecommunication)",
+          "score": 0.4312559962272644
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.407469242811203
+        },
+        {
+          "id": "https://openalex.org/keywords/operating-system",
+          "display_name": "Operating system",
+          "score": 0.2824872136116028
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-network",
+          "display_name": "Computer network",
+          "score": 0.07538008689880371
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.9099957942962646
+        },
+        {
+          "id": "https://openalex.org/C63000827",
+          "wikidata": "https://www.wikidata.org/wiki/Q3080428",
+          "display_name": "Software portability",
+          "level": 2,
+          "score": 0.8496851921081543
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.6454322934150696
+        },
+        {
+          "id": "https://openalex.org/C184337299",
+          "wikidata": "https://www.wikidata.org/wiki/Q1437428",
+          "display_name": "Semantics (computer science)",
+          "level": 2,
+          "score": 0.6101395487785339
+        },
+        {
+          "id": "https://openalex.org/C177606310",
+          "wikidata": "https://www.wikidata.org/wiki/Q5674297",
+          "display_name": "Adaptability",
+          "level": 2,
+          "score": 0.5603517889976501
+        },
+        {
+          "id": "https://openalex.org/C21442007",
+          "wikidata": "https://www.wikidata.org/wiki/Q1027879",
+          "display_name": "Graphics",
+          "level": 2,
+          "score": 0.5390533804893494
+        },
+        {
+          "id": "https://openalex.org/C199360897",
+          "wikidata": "https://www.wikidata.org/wiki/Q9143",
+          "display_name": "Programming language",
+          "level": 1,
+          "score": 0.46037182211875916
+        },
+        {
+          "id": "https://openalex.org/C2780378061",
+          "wikidata": "https://www.wikidata.org/wiki/Q25351891",
+          "display_name": "Service (business)",
+          "level": 2,
+          "score": 0.4583977162837982
+        },
+        {
+          "id": "https://openalex.org/C2779664074",
+          "wikidata": "https://www.wikidata.org/wiki/Q3518405",
+          "display_name": "Terminal (telecommunication)",
+          "level": 2,
+          "score": 0.4312559962272644
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.407469242811203
+        },
+        {
+          "id": "https://openalex.org/C111919701",
+          "wikidata": "https://www.wikidata.org/wiki/Q9135",
+          "display_name": "Operating system",
+          "level": 1,
+          "score": 0.2824872136116028
+        },
+        {
+          "id": "https://openalex.org/C31258907",
+          "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+          "display_name": "Computer network",
+          "level": 1,
+          "score": 0.07538008689880371
+        },
+        {
+          "id": "https://openalex.org/C136264566",
+          "wikidata": "https://www.wikidata.org/wiki/Q159810",
+          "display_name": "Economy",
+          "level": 1,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1145/957199.804734",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1145/957199.804734",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S148324379",
+            "display_name": "ACM SIGPLAN Notices",
+            "issn_l": "0362-1340",
+            "issn": [
+              "0362-1340",
+              "1558-1160"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319798",
+            "host_organization_name": "Association for Computing Machinery",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319798"
+            ],
+            "host_organization_lineage_names": [
+              "Association for Computing Machinery"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ACM SIGPLAN Notices",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 7,
+      "referenced_works": [
+        "https://openalex.org/W1556089943",
+        "https://openalex.org/W1975470983",
+        "https://openalex.org/W2119679667",
+        "https://openalex.org/W2172016924",
+        "https://openalex.org/W6605846946",
+        "https://openalex.org/W6629881484",
+        "https://openalex.org/W6641149704"
+      ],
+      "related_works": [
+        "https://openalex.org/W2357124094",
+        "https://openalex.org/W107105315",
+        "https://openalex.org/W2387399993",
+        "https://openalex.org/W2389739210",
+        "https://openalex.org/W2348924972",
+        "https://openalex.org/W4367156293",
+        "https://openalex.org/W1584537303",
+        "https://openalex.org/W4388155270",
+        "https://openalex.org/W1872724644",
+        "https://openalex.org/W2365736347"
+      ],
+      "abstract_inverted_index": {
+        "All": [
+          0
+        ],
+        "input": [
+          1,
+          19,
+          34
+        ],
+        "devices": [
+          2,
+          67
+        ],
+        "for": [
+          3
+        ],
+        "interactive": [
+          4,
+          33
+        ],
+        "computer": [
+          5
+        ],
+        "graphics": [
+          6
+        ],
+        "can": [
+          7,
+          35
+        ],
+        "be": [
+          8,
+          36
+        ],
+        "effectively": [
+          9
+        ],
+        "modelled": [
+          10
+        ],
+        "in": [
+          11
+        ],
+        "programs": [
+          12
+        ],
+        "by": [
+          13
+        ],
+        "a": [
+          14,
+          62
+        ],
+        "small": [
+          15
+        ],
+        "number": [
+          16
+        ],
+        "of": [
+          17,
+          26,
+          32,
+          39,
+          43,
+          49,
+          59,
+          65
+        ],
+        "virtual": [
+          18,
+          28,
+          66
+        ],
+        "devices.": [
+          20,
+          45
+        ],
+        "By": [
+          21
+        ],
+        "specifying": [
+          22
+        ],
+        "an": [
+          23
+        ],
+        "appropriate": [
+          24
+        ],
+        "set": [
+          25,
+          64
+        ],
+        "such": [
+          27
+        ],
+        "devices,": [
+          29
+        ],
+        "the": [
+          30,
+          40,
+          44,
+          47
+        ],
+        "semantics": [
+          31
+        ],
+        "defined": [
+          37
+        ],
+        "independently": [
+          38
+        ],
+        "physical": [
+          41
+        ],
+        "form": [
+          42
+        ],
+        "In": [
+          46
+        ],
+        "service": [
+          48
+        ],
+        "program": [
+          50
+        ],
+        "portability,": [
+          51
+        ],
+        "human": [
+          52
+        ],
+        "factors": [
+          53
+        ],
+        "adaptability,": [
+          54
+        ],
+        "economy,": [
+          55
+        ],
+        "and": [
+          56
+        ],
+        "maximal": [
+          57
+        ],
+        "use": [
+          58
+        ],
+        "terminal": [
+          60
+        ],
+        "capability,": [
+          61
+        ],
+        "sufficient": [
+          63
+        ],
+        "is": [
+          68
+        ],
+        "described.": [
+          69
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-05-21T06:26:12.895304",
+      "created_date": "2025-10-10T00:00:00"
+    }
+  ],
+  "group_by": []
+}

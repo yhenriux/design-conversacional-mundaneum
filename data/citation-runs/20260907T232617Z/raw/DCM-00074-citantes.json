@@ -1,0 +1,1397 @@
+{
+  "meta": {
+    "count": 1,
+    "db_response_time_ms": 25,
+    "page": 1,
+    "per_page": 100,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (W4411717273)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "W4411717273"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:W4411717273&per_page=100"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W7140220954",
+      "doi": "https://doi.org/10.3389/frobt.2026.1736915",
+      "title": "Fibrous contextual embodiments formed by task-invariant continuous blow spinning in dynamic environments",
+      "display_name": "Fibrous contextual embodiments formed by task-invariant continuous blow spinning in dynamic environments",
+      "publication_year": 2026,
+      "publication_date": "2026-03-25",
+      "ids": {
+        "openalex": "https://openalex.org/W7140220954",
+        "doi": "https://doi.org/10.3389/frobt.2026.1736915",
+        "pmid": "https://pubmed.ncbi.nlm.nih.gov/41958873"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3389/frobt.2026.1736915",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/frobt.2026.1736915",
+        "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1736915/pdf",
+        "source": {
+          "id": "https://openalex.org/S2595095599",
+          "display_name": "Frontiers in Robotics and AI",
+          "issn_l": "2296-9144",
+          "issn": [
+            "2296-9144"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Robotics and AI",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj",
+        "pubmed"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1736915/pdf",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5093239618",
+            "display_name": "Marie Vihmar",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I56085075",
+              "display_name": "University of Tartu",
+              "ror": "https://ror.org/03z77qz90",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marie Vihmar",
+          "raw_affiliation_strings": [
+            "IMS Lab, Institute of Technology, University of Tartu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMS Lab, Institute of Technology, University of Tartu",
+              "institution_ids": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5146625469",
+            "display_name": "Roman Boiko",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I56085075",
+              "display_name": "University of Tartu",
+              "ror": "https://ror.org/03z77qz90",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Roman Boiko",
+          "raw_affiliation_strings": [
+            "IMS Lab, Institute of Technology, University of Tartu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMS Lab, Institute of Technology, University of Tartu",
+              "institution_ids": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5128717063",
+            "display_name": "Kadri-Ann Pankratov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I56085075",
+              "display_name": "University of Tartu",
+              "ror": "https://ror.org/03z77qz90",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kadri-Ann Pankratov",
+          "raw_affiliation_strings": [
+            "IMS Lab, Institute of Technology, University of Tartu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMS Lab, Institute of Technology, University of Tartu",
+              "institution_ids": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009527227",
+            "display_name": "Friedrich Kaasik",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I56085075",
+              "display_name": "University of Tartu",
+              "ror": "https://ror.org/03z77qz90",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Friedrich Kaasik",
+          "raw_affiliation_strings": [
+            "IMS Lab, Institute of Technology, University of Tartu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMS Lab, Institute of Technology, University of Tartu",
+              "institution_ids": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070914634",
+            "display_name": "Kärt Ojavee",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I95650031",
+              "display_name": "Estonian Academy of Arts",
+              "ror": "https://ror.org/007530q75",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I95650031"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kärt Ojavee",
+          "raw_affiliation_strings": [
+            "Department of Design, Estonian Academy of Arts"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Design, Estonian Academy of Arts",
+              "institution_ids": [
+                "https://openalex.org/I95650031"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5069925218",
+            "display_name": "Indrek Must",
+            "orcid": "https://orcid.org/0000-0002-9151-1548"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I56085075",
+              "display_name": "University of Tartu",
+              "ror": "https://ror.org/03z77qz90",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ],
+          "countries": [
+            "EE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Indrek Must",
+          "raw_affiliation_strings": [
+            "IMS Lab, Institute of Technology, University of Tartu"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IMS Lab, Institute of Technology, University of Tartu",
+              "institution_ids": [
+                "https://openalex.org/I56085075"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5069925218"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I56085075"
+      ],
+      "apc_list": {
+        "value": 1950,
+        "currency": "CHF",
+        "value_usd": 2353
+      },
+      "apc_paid": {
+        "value": 1950,
+        "currency": "CHF",
+        "value_usd": 2353
+      },
+      "fwci": 0.0,
+      "has_fulltext": true,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.274332,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "13",
+        "issue": null,
+        "first_page": "1736915",
+        "last_page": "1736915"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11486",
+        "display_name": "Micro and Nano Robotics",
+        "score": 0.3253999948501587,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3104",
+          "display_name": "Condensed Matter Physics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/31",
+          "display_name": "Physics and Astronomy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11486",
+          "display_name": "Micro and Nano Robotics",
+          "score": 0.3253999948501587,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3104",
+            "display_name": "Condensed Matter Physics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11737",
+          "display_name": "Advanced Materials and Mechanics",
+          "score": 0.2671000063419342,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10338",
+          "display_name": "Advanced Sensor and Energy Harvesting Materials",
+          "score": 0.2199999988079071,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2204",
+            "display_name": "Biomedical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/spinning",
+          "display_name": "Spinning",
+          "score": 0.6757000088691711
+        },
+        {
+          "id": "https://openalex.org/keywords/robot",
+          "display_name": "Robot",
+          "score": 0.6341000199317932
+        },
+        {
+          "id": "https://openalex.org/keywords/scalability",
+          "display_name": "Scalability",
+          "score": 0.5759999752044678
+        },
+        {
+          "id": "https://openalex.org/keywords/process",
+          "display_name": "Process (computing)",
+          "score": 0.448199987411499
+        },
+        {
+          "id": "https://openalex.org/keywords/elasticity",
+          "display_name": "Elasticity (physics)",
+          "score": 0.445499986410141
+        },
+        {
+          "id": "https://openalex.org/keywords/smart-material",
+          "display_name": "Smart material",
+          "score": 0.3873000144958496
+        },
+        {
+          "id": "https://openalex.org/keywords/task",
+          "display_name": "Task (project management)",
+          "score": 0.38350000977516174
+        },
+        {
+          "id": "https://openalex.org/keywords/fiber",
+          "display_name": "Fiber",
+          "score": 0.35510000586509705
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.7365000247955322
+        },
+        {
+          "id": "https://openalex.org/C154815118",
+          "wikidata": "https://www.wikidata.org/wiki/Q453762",
+          "display_name": "Spinning",
+          "level": 2,
+          "score": 0.6757000088691711
+        },
+        {
+          "id": "https://openalex.org/C90509273",
+          "wikidata": "https://www.wikidata.org/wiki/Q11012",
+          "display_name": "Robot",
+          "level": 2,
+          "score": 0.6341000199317932
+        },
+        {
+          "id": "https://openalex.org/C48044578",
+          "wikidata": "https://www.wikidata.org/wiki/Q727490",
+          "display_name": "Scalability",
+          "level": 2,
+          "score": 0.5759999752044678
+        },
+        {
+          "id": "https://openalex.org/C98045186",
+          "wikidata": "https://www.wikidata.org/wiki/Q205663",
+          "display_name": "Process (computing)",
+          "level": 2,
+          "score": 0.448199987411499
+        },
+        {
+          "id": "https://openalex.org/C121854251",
+          "wikidata": "https://www.wikidata.org/wiki/Q62932",
+          "display_name": "Elasticity (physics)",
+          "level": 2,
+          "score": 0.445499986410141
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.4000999927520752
+        },
+        {
+          "id": "https://openalex.org/C88484716",
+          "wikidata": "https://www.wikidata.org/wiki/Q1474679",
+          "display_name": "Smart material",
+          "level": 2,
+          "score": 0.3873000144958496
+        },
+        {
+          "id": "https://openalex.org/C2780451532",
+          "wikidata": "https://www.wikidata.org/wiki/Q759676",
+          "display_name": "Task (project management)",
+          "level": 2,
+          "score": 0.38350000977516174
+        },
+        {
+          "id": "https://openalex.org/C519885992",
+          "wikidata": "https://www.wikidata.org/wiki/Q161",
+          "display_name": "Fiber",
+          "level": 2,
+          "score": 0.35510000586509705
+        },
+        {
+          "id": "https://openalex.org/C120314980",
+          "wikidata": "https://www.wikidata.org/wiki/Q180634",
+          "display_name": "Distributed computing",
+          "level": 1,
+          "score": 0.323199987411499
+        },
+        {
+          "id": "https://openalex.org/C2778787235",
+          "wikidata": "https://www.wikidata.org/wiki/Q49007",
+          "display_name": "Yarn",
+          "level": 2,
+          "score": 0.32120001316070557
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.31850001215934753
+        },
+        {
+          "id": "https://openalex.org/C81074085",
+          "wikidata": "https://www.wikidata.org/wiki/Q366872",
+          "display_name": "Motion planning",
+          "level": 3,
+          "score": 0.31610000133514404
+        },
+        {
+          "id": "https://openalex.org/C165062768",
+          "wikidata": "https://www.wikidata.org/wiki/Q1145644",
+          "display_name": "Biomimetics",
+          "level": 2,
+          "score": 0.29339998960494995
+        },
+        {
+          "id": "https://openalex.org/C113843644",
+          "wikidata": "https://www.wikidata.org/wiki/Q901882",
+          "display_name": "Interface (matter)",
+          "level": 4,
+          "score": 0.28760001063346863
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.28679999709129333
+        },
+        {
+          "id": "https://openalex.org/C44154836",
+          "wikidata": "https://www.wikidata.org/wiki/Q45045",
+          "display_name": "Simulation",
+          "level": 1,
+          "score": 0.2865999937057495
+        },
+        {
+          "id": "https://openalex.org/C89505385",
+          "wikidata": "https://www.wikidata.org/wiki/Q47146",
+          "display_name": "User interface",
+          "level": 2,
+          "score": 0.2865999937057495
+        },
+        {
+          "id": "https://openalex.org/C123657996",
+          "wikidata": "https://www.wikidata.org/wiki/Q12271",
+          "display_name": "Architecture",
+          "level": 2,
+          "score": 0.2824999988079071
+        },
+        {
+          "id": "https://openalex.org/C2781238097",
+          "wikidata": "https://www.wikidata.org/wiki/Q175026",
+          "display_name": "Object (grammar)",
+          "level": 2,
+          "score": 0.2815999984741211
+        },
+        {
+          "id": "https://openalex.org/C34413123",
+          "wikidata": "https://www.wikidata.org/wiki/Q170978",
+          "display_name": "Robotics",
+          "level": 3,
+          "score": 0.2802000045776367
+        },
+        {
+          "id": "https://openalex.org/C31972630",
+          "wikidata": "https://www.wikidata.org/wiki/Q844240",
+          "display_name": "Computer vision",
+          "level": 1,
+          "score": 0.2743000090122223
+        },
+        {
+          "id": "https://openalex.org/C104114177",
+          "wikidata": "https://www.wikidata.org/wiki/Q79782",
+          "display_name": "Motion (physics)",
+          "level": 2,
+          "score": 0.27129998803138733
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0.258899986743927
+        },
+        {
+          "id": "https://openalex.org/C145565327",
+          "wikidata": "https://www.wikidata.org/wiki/Q852514",
+          "display_name": "Motion control",
+          "level": 3,
+          "score": 0.2572999894618988
+        },
+        {
+          "id": "https://openalex.org/C2775960376",
+          "wikidata": "https://www.wikidata.org/wiki/Q1435859",
+          "display_name": "Grippers",
+          "level": 2,
+          "score": 0.25060001015663147
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.3389/frobt.2026.1736915",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3389/frobt.2026.1736915",
+          "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1736915/pdf",
+          "source": {
+            "id": "https://openalex.org/S2595095599",
+            "display_name": "Frontiers in Robotics and AI",
+            "issn_l": "2296-9144",
+            "issn": [
+              "2296-9144"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320527",
+            "host_organization_name": "Frontiers Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320527"
+            ],
+            "host_organization_lineage_names": [
+              "Frontiers Media"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in Robotics and AI",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmid:41958873",
+          "is_oa": false,
+          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/41958873",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306525036",
+            "display_name": "PubMed",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Frontiers in robotics and AI",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:9cfc41c133044abca29f0fcb9285f8ee",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/9cfc41c133044abca29f0fcb9285f8ee",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Frontiers in Robotics and AI, Vol 13 (2026)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pubmedcentral.nih.gov:13056689",
+          "is_oa": true,
+          "landing_page_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13056689/",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Front Robot AI",
+          "raw_type": "Text"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3389/frobt.2026.1736915",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3389/frobt.2026.1736915",
+        "pdf_url": "https://public-pages-files-2025.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2026.1736915/pdf",
+        "source": {
+          "id": "https://openalex.org/S2595095599",
+          "display_name": "Frontiers in Robotics and AI",
+          "issn_l": "2296-9144",
+          "issn": [
+            "2296-9144"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320527",
+          "host_organization_name": "Frontiers Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320527"
+          ],
+          "host_organization_lineage_names": [
+            "Frontiers Media"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Frontiers in Robotics and AI",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5608504884",
+          "display_name": "Liquid-enabled vascular architecture for human-interfaced robots",
+          "funder_award_id": "PRG1498",
+          "funder_id": "https://openalex.org/F4320321090",
+          "funder_display_name": "Eesti Teadusagentuur"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321090",
+          "display_name": "Eesti Teadusagentuur",
+          "ror": "https://ror.org/00jjeja18"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W7140220954.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W7140220954.grobid-xml"
+      },
+      "referenced_works_count": 40,
+      "referenced_works": [
+        "https://openalex.org/W2000985269",
+        "https://openalex.org/W2016457575",
+        "https://openalex.org/W2026799007",
+        "https://openalex.org/W2093573793",
+        "https://openalex.org/W2107097323",
+        "https://openalex.org/W2116531385",
+        "https://openalex.org/W2426872594",
+        "https://openalex.org/W2737491236",
+        "https://openalex.org/W2903833230",
+        "https://openalex.org/W2969919508",
+        "https://openalex.org/W3008523568",
+        "https://openalex.org/W3027076746",
+        "https://openalex.org/W3088044998",
+        "https://openalex.org/W3103502493",
+        "https://openalex.org/W3135267266",
+        "https://openalex.org/W3158132116",
+        "https://openalex.org/W3190179008",
+        "https://openalex.org/W3205751265",
+        "https://openalex.org/W3207610893",
+        "https://openalex.org/W4200040721",
+        "https://openalex.org/W4200308132",
+        "https://openalex.org/W4212844288",
+        "https://openalex.org/W4283804927",
+        "https://openalex.org/W4308879090",
+        "https://openalex.org/W4360619340",
+        "https://openalex.org/W4385191492",
+        "https://openalex.org/W4390938284",
+        "https://openalex.org/W4391800510",
+        "https://openalex.org/W4396820878",
+        "https://openalex.org/W4401668446",
+        "https://openalex.org/W4404577250",
+        "https://openalex.org/W4407752471",
+        "https://openalex.org/W4407948815",
+        "https://openalex.org/W4408468214",
+        "https://openalex.org/W4408865326",
+        "https://openalex.org/W4408998341",
+        "https://openalex.org/W4411717273",
+        "https://openalex.org/W4412758114",
+        "https://openalex.org/W4413183678",
+        "https://openalex.org/W4415271693"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "Navigating": [
+          0
+        ],
+        "dynamic": [
+          1,
+          20
+        ],
+        "environments": [
+          2
+        ],
+        "is": [
+          3,
+          137
+        ],
+        "challenging": [
+          4
+        ],
+        "for": [
+          5
+        ],
+        "robots.": [
+          6
+        ],
+        "While": [
+          7
+        ],
+        "data-intensive": [
+          8
+        ],
+        "control": [
+          9
+        ],
+        "can": [
+          10
+        ],
+        "guide": [
+          11
+        ],
+        "high-level": [
+          12
+        ],
+        "decisions,": [
+          13
+        ],
+        "the": [
+          14,
+          30,
+          72,
+          135,
+          190
+        ],
+        "complexity": [
+          15
+        ],
+        "of": [
+          16,
+          26
+        ],
+        "typical": [
+          17
+        ],
+        "natural": [
+          18
+        ],
+        "settings,": [
+          19
+        ],
+        "in": [
+          21,
+          37,
+          94,
+          105,
+          125,
+          171,
+          189
+        ],
+        "particular,": [
+          22
+        ],
+        "motivates": [
+          23
+        ],
+        "offloading": [
+          24
+        ],
+        "part": [
+          25
+        ],
+        "intelligent": [
+          27
+        ],
+        "behavior": [
+          28
+        ],
+        "to": [
+          29,
+          67,
+          84,
+          99,
+          163,
+          173,
+          177,
+          192
+        ],
+        "robot’s": [
+          31
+        ],
+        "morphology.": [
+          32
+        ],
+        "Here,": [
+          33
+        ],
+        "we": [
+          34
+        ],
+        "introduce": [
+          35
+        ],
+        "an": [
+          36,
+          139,
+          146
+        ],
+        "situ": [
+          38,
+          126
+        ],
+        ",": [
+          39
+        ],
+        "model-free": [
+          40
+        ],
+        "melt-blown": [
+          41
+        ],
+        "process": [
+          42
+        ],
+        "that": [
+          43,
+          148,
+          179
+        ],
+        "creates": [
+          44
+        ],
+        "unsupported": [
+          45
+        ],
+        "thermoplastic": [
+          46
+        ],
+        "webs": [
+          47
+        ],
+        "via": [
+          48
+        ],
+        "direct": [
+          49
+        ],
+        "environmental": [
+          50,
+          132,
+          150
+        ],
+        "interaction,": [
+          51
+        ],
+        "enabling": [
+          52
+        ],
+        "ad": [
+          53
+        ],
+        "hoc": [
+          54
+        ],
+        "robotic": [
+          55
+        ],
+        "embodiments.": [
+          56
+        ],
+        "When": [
+          57
+        ],
+        "spun": [
+          58,
+          127
+        ],
+        "on": [
+          59
+        ],
+        "moving": [
+          60,
+          106,
+          109
+        ],
+        "supports,": [
+          61
+        ],
+        "fiber": [
+          62,
+          92
+        ],
+        "elasticity": [
+          63
+        ],
+        "causes": [
+          64
+        ],
+        "support": [
+          65
+        ],
+        "motion": [
+          66
+        ],
+        "align": [
+          68
+        ],
+        "fibers": [
+          69
+        ],
+        "and": [
+          70,
+          82,
+          114,
+          157,
+          166,
+          183,
+          186
+        ],
+        "homogenize": [
+          71
+        ],
+        "web": [
+          73,
+          136
+        ],
+        "rather": [
+          74
+        ],
+        "than": [
+          75
+        ],
+        "breaking": [
+          76
+        ],
+        "it,": [
+          77
+        ],
+        "yielding": [
+          78
+        ],
+        "∼60%": [
+          79
+        ],
+        "reversible": [
+          80
+        ],
+        "strain": [
+          81
+        ],
+        "stretch": [
+          83
+        ],
+        "∼1,000%": [
+          85
+        ],
+        "at": [
+          86
+        ],
+        "ultimate": [
+          87
+        ],
+        "rupture.": [
+          88
+        ],
+        "We": [
+          89
+        ],
+        "illustrate": [
+          90
+        ],
+        "task-invariant": [
+          91
+        ],
+        "spinning": [
+          93
+        ],
+        "several": [
+          95
+        ],
+        "task": [
+          96
+        ],
+        "contexts": [
+          97
+        ],
+        "relevant": [
+          98
+        ],
+        "complex": [
+          100
+        ],
+        "environments:": [
+          101
+        ],
+        "creating": [
+          102
+        ],
+        "mobility": [
+          103
+        ],
+        "pathways": [
+          104
+        ],
+        "environments,": [
+          107
+        ],
+        "immobilizing": [
+          108
+        ],
+        "objects,": [
+          110
+        ],
+        "sampling": [
+          111
+        ],
+        "discrete": [
+          112
+        ],
+        "materials,": [
+          113
+        ],
+        "capturing": [
+          115
+        ],
+        "resources": [
+          116,
+          188
+        ],
+        "(oil-soaked": [
+          117
+        ],
+        "sponges).": [
+          118
+        ],
+        "Unlike": [
+          119
+        ],
+        "pre-fabricated": [
+          120
+        ],
+        "embodiments": [
+          121
+        ],
+        "or": [
+          122
+        ],
+        "deployable": [
+          123
+        ],
+        "effectors,": [
+          124
+        ],
+        "fibrous": [
+          128
+        ],
+        "bodies": [
+          129
+        ],
+        "emerge": [
+          130
+        ],
+        "from": [
+          131
+        ],
+        "dynamics,": [
+          133
+        ],
+        "thus": [
+          134
+        ],
+        "not": [
+          138
+        ],
+        "environment-referenced": [
+          140
+        ],
+        "static": [
+          141
+        ],
+        "object": [
+          142
+        ],
+        "but": [
+          143
+        ],
+        "functions": [
+          144
+        ],
+        "as": [
+          145
+        ],
+        "interface": [
+          147
+        ],
+        "incorporates": [
+          149
+        ],
+        "information": [
+          151
+        ],
+        "through": [
+          152
+        ],
+        "interaction.": [
+          153
+        ],
+        "This": [
+          154
+        ],
+        "spiderweb-inspired,": [
+          155
+        ],
+        "temporally": [
+          156
+        ],
+        "spatially": [
+          158
+        ],
+        "scalable": [
+          159
+        ],
+        "approach": [
+          160
+        ],
+        "allows": [
+          161
+        ],
+        "robots": [
+          162,
+          178
+        ],
+        "extend,": [
+          164
+        ],
+        "adjust,": [
+          165
+        ],
+        "repair": [
+          167
+        ],
+        "their": [
+          168,
+          197
+        ],
+        "physical": [
+          169,
+          199
+        ],
+        "architecture": [
+          170
+        ],
+        "response": [
+          172
+        ],
+        "changing": [
+          174
+        ],
+        "conditions,": [
+          175
+        ],
+        "leading": [
+          176
+        ],
+        "morph": [
+          180
+        ],
+        "context-specific": [
+          181
+        ],
+        "components": [
+          182
+        ],
+        "engage": [
+          184
+        ],
+        "informational": [
+          185
+        ],
+        "material": [
+          187
+        ],
+        "environment": [
+          191
+        ],
+        "tackle": [
+          193
+        ],
+        "open-ended": [
+          194
+        ],
+        "tasks": [
+          195
+        ],
+        "beyond": [
+          196
+        ],
+        "initial": [
+          198
+        ],
+        "architecture.": [
+          200
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-24T07:32:12.397491",
+      "created_date": "2026-03-25T00:00:00"
+    }
+  ],
+  "group_by": []
+}
