@@ -1,10 +1,10 @@
 {
   "eligible_doi": 1537,
-  "attempted_total": 2050,
-  "attempted_this_run": 200,
-  "resolved_total": 814,
-  "locations_total": 1108,
+  "attempted_total": 2189,
+  "attempted_this_run": 139,
+  "resolved_total": 893,
+  "locations_total": 1211,
   "pdf_urls_total": 91,
   "studies_with_pdf_url": 82,
-  "remaining": 139
+  "remaining": 0
 }

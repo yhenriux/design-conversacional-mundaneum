@@ -2049,3 +2049,142 @@ DCM-06903,Impact of Proactive Postsales Service and Cross-Selling Activities on 
 DCM-06904,Design Science in Information Systems Research1,10.2307/25148625,true,1,2026-09-08T01:00:22.009010+00:00,
 DCM-06907,Exploring Users’ Preferences for Chatbot’s Guidance Type and Timing,10.1145/3462204.3481756,true,1,2026-09-08T01:00:22.063069+00:00,
 DCM-06909,Human–Computer Etiquette,10.1201/b10420-2,true,2,2026-09-08T01:00:22.303969+00:00,
+DCM-06910,Statistical Power Analysis for the Behavioral Sciences,10.2307/1270020,true,1,2026-09-08T01:00:44.623164+00:00,
+DCM-06911,User Interaction Patterns and Breakdowns in Conversing with LLM-Powered Voice Assistants,10.1016/j.ijhcs.2024.103406,true,1,2026-09-08T01:00:44.623164+00:00,
+DCM-06914,Designing with Gaze,10.1145/3359278,true,1,2026-09-08T01:00:44.623164+00:00,
+DCM-06915,The Role of Chatbots in Foreign Language Learning: The Present Situation and the Future Outlook,10.1007/978-3-030-72711-6_17,true,1,2026-09-08T01:00:44.623164+00:00,
+DCM-06916,An Ontology-Based Conversation System for Knowledge Bases,10.1145/3318464.3386139,true,1,2026-09-08T01:00:44.630181+00:00,
+DCM-06921,An Exploratory Study on the Impacts of Voice-Based Conversational Agents with Proactive Interactions in the Driving Context,10.1080/10447318.2024.2441530,true,1,2026-09-08T01:00:44.631245+00:00,
+DCM-06928,Interaction Design Patterns of Web Chatbots,10.1007/978-3-031-62362-2_22,true,1,2026-09-08T01:00:44.631245+00:00,
+DCM-06933,Ethnomethodology’s Legacies and Prospects,10.1093/oso/9780190854409.003.0001,true,1,2026-09-08T01:00:44.676779+00:00,
+DCM-06935,How are computer science out-of-school time experiences during the high school years related to college students’ computer science identity?,10.1080/08993408.2025.2470572,true,1,2026-09-08T01:00:45.225788+00:00,
+DCM-06936,Creating Conversational Datasets for Retrieval-Augmented Generation Applications is Hard: Challenges & Research Opportunities,10.1145/3706599.3719962,true,1,2026-09-08T01:00:45.226839+00:00,
+DCM-06937,Expert-Generated Privacy Q&A Dataset for Conversational AI and User Study Insights,10.1145/3706599.3720014,true,2,2026-09-08T01:00:45.227798+00:00,
+DCM-06941,The Voice System of the Future: Research on the Development of Usability Evaluation Metrics and Improvement Strategies for AI Speaker Voice User Interfaces – Focusing on Generation Z in China,10.1080/10447318.2025.2508306,true,1,2026-09-08T01:00:45.326123+00:00,
+DCM-06949,Improving the User Experience for Healthcare Professionals Using a Conversational Agent to Complete Business Intelligence Analysis,10.1007/978-3-030-51057-2_14,true,1,2026-09-08T01:00:45.333125+00:00,
+DCM-06950,On the Complexity in Task-oriented Spoken Dialogue Systems,10.1145/3405755.3406138,true,1,2026-09-08T01:00:45.344653+00:00,
+DCM-06951,Refactoring the UX of a popular voice application,10.1145/3447568.3448538,true,1,2026-09-08T01:00:45.346694+00:00,
+DCM-06952,Liquid Interactions: A Conceptual Interaction Framework for the Future Now,10.1007/978-981-16-0041-8_33,true,1,2026-09-08T01:00:45.348808+00:00,
+DCM-06953,Asymob: a platform for measuring and clustering chatbots,10.1109/icse-companion55297.2022.9793784,true,1,2026-09-08T01:00:45.646820+00:00,
+DCM-06954,Is CUI Design Ready Yet? A Workshop on Community Practices and Gaps in CUI Design & Resource Development,10.1145/3571884.3597440,true,1,2026-09-08T01:00:45.654527+00:00,
+DCM-06955,Bridging the gap between conversation technology and conversation analysis,10.1177/17504813241267092,false,0,2026-09-08T01:00:45.826482+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06956,Supporting UX Evaluation with Open Text Word Clustering,10.1109/amitic62658.2024.10747605,true,2,2026-09-08T01:00:45.826482+00:00,
+DCM-06957,Design Guidelines for Human-Generative AI Interaction,10.1007/978-3-031-93718-7_15,true,1,2026-09-08T01:00:45.837022+00:00,
+DCM-06958,Rewriting the Script: Conversation Design’s Evolution with LLM Co-design,10.1007/978-3-032-26717-7_13,true,1,2026-09-08T01:00:45.838700+00:00,
+DCM-06959,Applying the Technology of Conversation to the Technology for Conversation,10.1016/b978-0-08-050264-9.50014-2,true,1,2026-09-08T01:00:45.915011+00:00,
+DCM-06960,Living with complexity,10.5860/choice.48-6242,false,0,2026-09-08T01:00:45.961560+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06961,Two preferences in the organization of reference to persons in conversation and their interaction,10.1017/cbo9780511486746.003,true,1,2026-09-08T01:00:46.114912+00:00,
+DCM-06963,The Very Idea,10.1016/b978-0-08-050264-9.50008-7,true,1,2026-09-08T01:00:46.184151+00:00,
+DCM-06965,Understanding Affective Experiences with Conversational Agents,10.1145/3290605.3300772,false,0,2026-09-08T01:00:46.262426+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06966,Sketching NLP,10.1145/3290605.3300415,true,1,2026-09-08T01:00:46.271855+00:00,
+DCM-06969,Valletto,10.1145/3170427.3188445,false,0,2026-09-08T01:00:46.273238+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06970,The Effect of Audiences on the User Experience with Conversational Interfaces in Physical Spaces,10.1145/3290605.3300320,true,1,2026-09-08T01:00:46.278790+00:00,
+DCM-06973,"A Battle of Voices: A Study of the Relationship between Driving Experience, Driving Style, and In-Vehicle Voice Assistant Character",10.1145/3543174.3546845,false,0,2026-09-08T01:00:46.286890+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06975,Anthropomorphic Virtual Agents in Luxury Travel Booking: Enhancing Perceived Anthropomorphism and Social Presence,10.1002/cb.70049,false,0,2026-09-08T01:00:46.366081+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06976,Tell Me More: Transparency and Time-Fillers to Optimize Chatbots’ Waiting Time Experience,10.1145/3419249.3420170,true,1,2026-09-08T01:00:46.558867+00:00,
+DCM-06979,Chatbots: An Overview of Current Issues and Challenges,10.1007/978-3-031-53960-2_7,true,1,2026-09-08T01:00:46.571335+00:00,
+DCM-06982,Soziotechnische Gestaltung von Chatbots,10.1007/978-3-658-27941-7_7,true,1,2026-09-08T01:00:46.571335+00:00,
+DCM-06985,Social robots as designed artifacts: the impact of programming tools on “human–robot interaction”,10.1007/s00146-025-02743-7,false,0,2026-09-08T01:00:46.642110+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06991,Design and Evaluation Challenges of Conversational Agents in Healthcare and Wellbeing (Preprint),10.2196/preprints.38525,true,1,2026-09-08T01:00:46.672270+00:00,
+DCM-06992,“Athens Museum Explorer”: A Pilot Application of Cultural Proposals for a Smart City,10.1109/seeda-cecnsm61561.2023.10470482,false,0,2026-09-08T01:00:46.683891+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06994,Chancen und Herausforderungen beim Einsatz von Chatbots,10.1007/978-3-658-36874-6_43-1,true,1,2026-09-08T01:00:46.839762+00:00,
+DCM-06995,A critical review of state‐of‐the‐art chatbot designs and applications,10.1002/widm.1434,false,0,2026-09-08T01:00:46.907388+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-06996,Conversational Recommender Systems and natural language:,10.1016/j.dss.2020.113250,true,2,2026-09-08T01:00:46.941651+00:00,
+DCM-06997,My Bad! Repairing Intelligent Voice Assistant Errors Improves Interaction,10.1145/3449101,false,0,2026-09-08T01:00:47.007032+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07001,"Intentions, Meanings, and Whys",10.1145/3405755.3406128,true,1,2026-09-08T01:00:47.058314+00:00,
+DCM-07002,Natural language goal understanding for smart home environments,10.1145/3410992.3410996,false,0,2026-09-08T01:00:47.074410+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07003,Nurse AMIE: Using Smart Speakers to Provide Supportive Care Intervention for Women with Metastatic Breast Cancer,10.1145/3411763.3451827,false,0,2026-09-08T01:00:47.118544+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07004,Decision Trees as Sociotechnical Objects in Chatbot Design,10.1145/3405755.3406133,true,1,2026-09-08T01:00:47.173065+00:00,
+DCM-07005,"In case of emergency, order pizza",10.1145/3342775.3342800,true,2,2026-09-08T01:00:47.274471+00:00,
+DCM-07006,Can AI explain AI? Interactive co-construction of explanations among human and artificial agents,10.1177/17504813241267069,false,0,2026-09-08T01:00:47.301590+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07007,A tag-based methodology for the detection of user repair strategies in task-oriented conversational agents,10.1016/j.csl.2023.101603,true,1,2026-09-08T01:00:47.340312+00:00,
+DCM-07011,Swipe a Screen or Say the Word: Older Adults’ Preferences for Information-seeking with Touchscreen and Voice-User Interfaces,10.1145/3520495.3520512,false,0,2026-09-08T01:00:47.358568+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07014,Effectiveness and User Perception of an In-Vehicle Voice Warning for Hypoglycemia: Development and Feasibility Trial (Preprint),10.2196/preprints.42823,false,0,2026-09-08T01:00:47.402166+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07015,Implementation of Screen-Smart Device Interaction (SSI) for Posting Content in Public Display Using Chat-based File Input,10.1109/ies50839.2020.9231777,true,1,2026-09-08T01:00:47.502802+00:00,
+DCM-07017,Adaptive Systems for Multicultural and Ageing Societies,10.1007/978-981-16-3476-5_1,true,1,2026-09-08T01:00:47.567701+00:00,
+DCM-07018,Designing Useful Conversational Interfaces for Information Retrieval in Career Decision-Making Support,10.1007/978-3-031-28241-6_56,false,0,2026-09-08T01:00:47.593040+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07019,Research on Conversational Interaction Design Strategy of Shopping APP Based on Context Awareness,10.1007/978-3-031-35129-7_6,false,0,2026-09-08T01:00:47.631405+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07020,A Proposal to Extend the Modeling Language for Interaction as Conversation for the Design of Conversational Agents,10.1007/978-3-031-60615-1_3,true,1,2026-09-08T01:00:47.671767+00:00,
+DCM-07021,Refining interface of the Indonesian ministry of health’s website based on user experience questionnaire (UEQ),10.1063/5.0268911,true,1,2026-09-08T01:00:47.762005+00:00,
+DCM-07022,Exploring conflict-related behavioral intentions in AI and human role-playing interventions: evidence from behavioral experiments and linguistic analyses,10.1007/s10339-026-01391-z,true,2,2026-09-08T01:00:47.827008+00:00,
+DCM-07027,Conversational Informatics: An Engineering Approach,10.1108/03684920810877043,false,0,2026-09-08T01:00:47.880513+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07030,The future of interactive systems and the emergence of direct manipulation†,10.1080/01449298208914450,false,0,2026-09-08T01:00:47.891723+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07031,The organization of repair in classroom talk,10.1017/s004740450001455x,false,0,2026-09-08T01:00:47.895854+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07032,The Natural User Interface,10.1016/b978-0-12-382231-4.00002-2,true,1,2026-09-08T01:00:48.084146+00:00,
+DCM-07033,Introduction to the History of Computing,10.1007/978-3-319-33138-6,true,2,2026-09-08T01:00:48.084146+00:00,
+DCM-07035,Talk at work,10.4324/9781315387826-6,true,1,2026-09-08T01:00:48.141315+00:00,
+DCM-07039,Manifestation of virtual assistants and robots into daily life: vision and challenges,10.1007/s42486-019-00014-1,false,0,2026-09-08T01:00:48.167777+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07041,Chasing the Chatbots,10.1007/978-3-030-17705-8_14,false,0,2026-09-08T01:00:48.167777+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07042,Conversational review-based explanations for recommender systems: Exploring users’ query behavior,10.1145/3469595.3469596,false,0,2026-09-08T01:00:48.181769+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07044,Data Has Entered the Chat: How Data Workers Conduct Exploratory Visual Analytic Conversations with GenAI Agents,10.1145/3744750,true,1,2026-09-08T01:00:48.225503+00:00,
+DCM-07045,Effect of interaction type and social playfulness on AI recommendation adoption,10.1080/10941665.2025.2548855,true,1,2026-09-08T01:00:48.400317+00:00,
+DCM-07046,Assistant Solutions in Software Engineering: A Systematic Literature Review,10.1109/icsess58500.2023.10293029,false,0,2026-09-08T01:00:48.458824+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07049,Metric Learning and Adaptive Boundary for Out-of-Domain Detection,10.1007/978-3-031-08473-7_12,true,1,2026-09-08T01:00:48.470566+00:00,
+DCM-07051,Resilient Artificial Intelligence in Health: Synthesis and Research Agenda Toward Next-Generation Trustworthy Clinical Decision Support (Preprint),10.2196/preprints.50295,false,0,2026-09-08T01:00:48.485429+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07052,"Orientation, Functions, Navigation, and Experiences",10.4018/978-1-7998-3946-0.ch004,false,0,2026-09-08T01:00:48.525715+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07056,Supporting Natural Language Interaction with the Web,10.1007/978-3-031-09917-5_26,false,0,2026-09-08T01:00:48.558445+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07057,A Conceptual Framework for Conversational Human-AI Interaction Design (CHAI),10.1007/978-981-99-0293-4_50,true,1,2026-09-08T01:00:48.591898+00:00,
+DCM-07058,Towards a comprehensive repair framework for human-chatbot interaction,10.1145/3514197.3549641,true,1,2026-09-08T01:00:48.678429+00:00,
+DCM-07059,Model to Design Affective Conversational Interfaces to Support the Mental Health,10.1007/978-3-031-35927-9_13,true,1,2026-09-08T01:00:48.738710+00:00,
+DCM-07060,Digital Modeling for Everyone: Exploring How Novices Approach Voice-Based 3D Modeling,10.1007/978-3-031-42293-5_11,false,0,2026-09-08T01:00:48.738710+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07062,A Mental Health and Well-Being Chatbot: User Event Log Analysis (Preprint),10.2196/preprints.43052,false,0,2026-09-08T01:00:48.773198+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07063,Conversations in the Cloud: Crafting Harmony in AliCloud Computing Interaction Design,10.1007/978-3-031-61351-7_4,false,0,2026-09-08T01:00:48.797172+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07064,Framework to Specify Dialogues for Natural Interaction with Conversational Assistants Applied in Prompt Engineering,10.1007/978-3-031-66336-9_17,true,1,2026-09-08T01:00:48.966236+00:00,
+DCM-07065,“It could be better. It could be much worse” : Understanding Accessibility in User Experience Practice with Implications for Industry and Education,10.1145/3575662,false,0,2026-09-08T01:00:49.003767+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07067,Enhancing Developers Experience (DevEx) for Successful Design System Implementation,10.1080/10447318.2024.2304912,true,1,2026-09-08T01:00:49.011769+00:00,
+DCM-07068,Interactive Artificial Neural Network Model for UX Design,10.1007/978-3-030-86165-0_23,false,0,2026-09-08T01:00:49.040011+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07071,Design Systems Implementation for Digital Transformation: A Case Study,10.1007/978-3-030-96293-7_5,true,1,2026-09-08T01:00:49.051436+00:00,
+DCM-07073,Computers and Conversation,10.1016/c2009-0-21641-2,false,0,2026-09-08T01:00:49.068066+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07075,Interactional Order and Constructed Ways of Seeing with Touchless Imaging Systems in Surgery,10.1007/s10606-014-9203-4,true,2,2026-09-08T01:00:49.149893+00:00,
+DCM-07078,"""It's like living with a friendly stranger""",10.1145/2971648.2971757,false,0,2026-09-08T01:00:49.181279+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07079,Conversational agent use in a café,10.17639/nott.61,true,2,2026-09-08T01:00:49.272026+00:00,
+DCM-07081,WoZ Way,10.1145/2998181.2998293,false,0,2026-09-08T01:00:49.338762+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07083,Shaping the Experience of a Cognitive Investment Adviser,10.1007/978-3-319-58640-3_43,true,1,2026-09-08T01:00:49.352409+00:00,
+DCM-07085,Usability Questionnaires to Evaluate Voice User Interfaces,10.1109/tla.2021.9468439,false,0,2026-09-08T01:00:49.396019+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07086,Studying Multi-modal Human Robot Interaction Using a Mobile VR Simulation,10.1007/978-3-031-35602-5_11,true,1,2026-09-08T01:00:49.486772+00:00,
+DCM-07089,"Alexa, I'm in Need!",10.1145/3338286.3344397,false,0,2026-09-08T01:00:49.514234+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07093,Repair After Next Turn: The Last Structurally Provided Defense of Intersubjectivity in Conversation,10.1086/229903,false,0,2026-09-08T01:00:49.554087+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07094,"Rethinking context: Language as an interactive phenomenon. Ed. by Alessandro Duranti and Charles Goodwin. (Studies in the social and cultural foundations of language, 11.) Cambridge: Cambridge University Press, 1992. Pp. viii, 363. Cloth $75.00, paper $27.95.",10.2307/416910,true,1,2026-09-08T01:00:49.581235+00:00,
+DCM-07096,Developing a comprehensive evaluation questionnaire for university FAQ administration chatbots,10.1109/ictas56421.2023.10082753,true,1,2026-09-08T01:00:49.661706+00:00,
+DCM-07098,ChatGPT on the Road: Leveraging Large Language Model-Powered In-Vehicle Conversational Agents for Safer and More Enjoyable Driving Experience,10.1080/10447318.2026.2661827,false,0,2026-09-08T01:00:49.690974+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07099,Natural Action Processing,10.1145/3363384.3363478,true,2,2026-09-08T01:00:49.785803+00:00,
+DCM-07101,Development and Application of Artificial Intelligence Literacy Through BERT-Based Knowledge Engineering,10.1109/iccc62609.2024.10942218,true,1,2026-09-08T01:00:49.865348+00:00,
+DCM-07102,NADIA: A Simplified Approach Towards the Development of Natural Dialogue Systems,10.1007/978-3-319-19581-0_12,false,0,2026-09-08T01:00:49.881710+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07103,The Design of Everyday Things,10.15358/9783800648108,true,9,2026-09-08T01:00:49.959168+00:00,
+DCM-07105,Confirming Allusions: Toward an Empirical Account of Action,10.1086/230911,true,1,2026-09-08T01:00:50.019501+00:00,
+DCM-07111,Enhancement of Conversational Agents By Means of Multimodal Interaction,10.4018/978-1-60960-617-6.ch010,false,0,2026-09-08T01:00:50.065001+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07112,Repair Work in Human-Computer Interaction,10.1016/b978-0-08-050264-9.50012-9,false,0,2026-09-08T01:00:50.066515+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07114,SearchBots,10.1145/3176349.3176380,false,0,2026-09-08T01:00:50.154287+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07115,Convey,10.1145/3173574.3174042,true,1,2026-09-08T01:00:50.159398+00:00,
+DCM-07116,Detecting Phishing Attacks Using Natural Language Processing and Machine Learning,10.1109/icsc.2018.00056,true,1,2026-09-08T01:00:50.287340+00:00,
+DCM-07117,Extending a Conventional Chatbot Knowledge Base to External Knowledge Source and Introducing User Based Sessions for Diabetes Education,10.1109/waina.2018.00170,true,1,2026-09-08T01:00:50.333697+00:00,
+DCM-07119,Scaling UX with design systems,10.1145/3352681,false,0,2026-09-08T01:00:50.333697+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07120,Story Analysis Using Natural Language Processing and Interactive Dashboards,10.1080/08874417.2020.1774442,false,0,2026-09-08T01:00:50.368436+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07123,Advances in neural information processing systems 7,10.1016/s0898-1221(96)90463-0,false,0,2026-09-08T01:00:50.388140+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07124,The Conversational Interface,10.1007/978-3-319-32967-3,true,5,2026-09-08T01:00:50.437502+00:00,
+DCM-07126,AI Transforming Business and Everyday Life,10.1007/978-3-031-56471-0_9,true,1,2026-09-08T01:00:50.596462+00:00,
+DCM-07127,Chatbot User Experience: Design and Evaluation,10.1007/978-3-031-76806-4_6,true,1,2026-09-08T01:00:50.611710+00:00,
+DCM-07129,Psychophysiological Research in the Design of Useful Interfaces for e-Learning Materials,10.1007/978-3-031-66761-9_18,false,0,2026-09-08T01:00:50.628758+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07132,Machine-Assisted Error Discovery in Conversational AI Systems,10.1145/3613905.3651120,false,0,2026-09-08T01:00:50.657434+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07133,Case Studies: Redefining Web Design and Co-creation,10.1007/978-3-031-45127-0_7,false,0,2026-09-08T01:00:50.681762+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07134,Prioritizing and Ranking the Cognitive Computing Opportunities for Sustainable Human Resource Management Practices,10.1007/978-981-99-6984-5_26,true,1,2026-09-08T01:00:50.735270+00:00,
+DCM-07137,Chatbots for Business and Customer Support,10.4018/978-1-6684-6234-8.ch009,false,0,2026-09-08T01:00:50.764541+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07138,A Conversational Agent as Facilitator: Guiding Groups Through Collaboration Processes,10.1007/978-3-030-50506-6_9,true,1,2026-09-08T01:00:50.884026+00:00,
+DCM-07139,KlimaKarl – A Chatbot to Promote Employees’ Climate-Friendly Behavior in an Office Setting,10.1007/978-3-030-82405-1_1,true,1,2026-09-08T01:00:50.946046+00:00,
+DCM-07140,"Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",10.1007/978-3-658-34048-3_89-1,false,0,2026-09-08T01:00:50.961068+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07141,"Artificial Intelligence in the Media Economy: A Systematic Review of Use Cases, Application Potentials, and Challenges of Generative Language Models",10.1007/978-3-658-39909-2_89,false,0,2026-09-08T01:00:50.961068+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07142,Let’s Chat Internal: User Acceptance of an In-Company Service Desk Chatbot,10.1145/3473856.3474005,false,0,2026-09-08T01:00:51.027994+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07143,Chatbots und virtuelle Assistenten im 360-Grad-Netzwerk: Hochwertige Customer Experience durch nutzerzentriertes Design,10.1007/978-3-658-29367-3_9,true,1,2026-09-08T01:00:51.045071+00:00,
+DCM-07144,Other Relevant Smart Technologies: From Advanced Manufacturing Solutions to Smart Factory,10.1007/978-3-030-80737-5_16,false,0,2026-09-08T01:00:51.111240+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07145,Aesthetics and apparent usability,10.1145/258549.258626,true,1,2026-09-08T01:00:51.226003+00:00,
+DCM-07146,Old wine in new bottles or novel challenges,10.1145/1978942.1979336,true,3,2026-09-08T01:00:51.226003+00:00,
+DCM-07147,A similarity-based approach to prediction,10.1016/j.jeconom.2009.10.015,false,0,2026-09-08T01:00:51.305063+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07148,Modelling user experience – An agenda for research and practice,10.1016/j.intcom.2010.04.006,false,0,2026-09-08T01:00:51.306071+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07150,Understanding and Measuring User Experience in Conversational Interfaces,10.1093/iwc/iwz015,true,1,2026-09-08T01:00:51.349013+00:00,
+DCM-07151,Quality of Experience of Smart-Wearables: From Fitness-Bands to Smartwatches,10.1109/mce.2019.2941462,false,0,2026-09-08T01:00:51.395032+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07154,Exploring the Antecedents of Consumer Electronics IoT Devices Purchase Decision: A Mixed Methods Study,10.1109/tce.2021.3115847,false,0,2026-09-08T01:00:51.396041+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07155,User experience with conversational agent: a systematic review of assessment methods,10.1080/0144929x.2021.2001047,true,2,2026-09-08T01:00:51.486793+00:00,
+DCM-07156,The Rise of Generative Artificial Intelligence in Healthcare,10.1109/meco58584.2023.10155107,true,1,2026-09-08T01:00:51.569473+00:00,
+DCM-07157,Generative AI for Software Practitioners,10.1109/ms.2023.3265877,false,0,2026-09-08T01:00:51.592313+00:00,<HTTPError 429: 'Too Many Requests'>
+DCM-07163,The Influence of Artificial Intelligence on User Experience Design: Systematic Literature Review,10.1109/isiea65768.2025.11138410,true,1,2026-09-08T01:00:51.663330+00:00,
+DCM-07164,"Conversation styles and role expectations in a large language model: effects on readability, linguistic features, and users’ perceptions in a Copilot experiment",10.1080/0144929x.2026.2638923,false,0,2026-09-08T01:00:51.675166+00:00,<HTTPError 429: 'Too Many Requests'>
