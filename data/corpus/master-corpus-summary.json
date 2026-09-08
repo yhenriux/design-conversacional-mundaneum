@@ -23,15 +23,15 @@
   "with_source_pdf_url": 4633,
   "document_status": {
     "pdf-integral-validado-local": 495,
-    "pdf-recebido-a-validar": 1956,
-    "recuperacao-tentada-sem-pdf-valido": 2957,
+    "pdf-recebido-a-validar": 1957,
+    "recuperacao-tentada-sem-pdf-valido": 2960,
     "sem-doi-busca-por-titulo-pendente": 217,
-    "sem-url-pdf-resolucao-pendente": 1537
+    "sem-url-pdf-resolucao-pendente": 1533
   },
   "collection_status": {
-    "arquivo-recebido": 2451,
-    "obra-descoberta": 1754,
-    "transferencia-falhou": 2957
+    "arquivo-recebido": 2452,
+    "obra-descoberta": 1750,
+    "transferencia-falhou": 2960
   },
   "current_phase": "Descoberta e coleta; análise de conteúdo posterior.",
   "output": "data/corpus/master-corpus.csv"
