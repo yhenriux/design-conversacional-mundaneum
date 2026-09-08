@@ -1,6 +1,6 @@
 # Estado da formação do corpus
 
-Atualizado em 7 de setembro de 2026.
+Atualizado em 8 de setembro de 2026.
 
 Nas rodadas recentes, a expansão por citações e a busca institucional brasileira ampliaram o inventário. O estado abaixo corresponde ao último resumo do corpus mestre.
 
@@ -11,9 +11,9 @@ Esta etapa reúne obras e tenta localizar arquivos de acesso aberto. Não há le
 | Obras únicas descobertas | 7.162 |
 | Registros com DOI | 6.509 |
 | Endereços de PDF identificados | 4.633 |
-| Arquivos recebidos | 2.444 |
-| Obras sem arquivo recebido | 4.718 |
-| Transferências sem PDF válido | 2.964 |
+| Arquivos recebidos | 2.451 |
+| Obras sem arquivo recebido | 4.711 |
+| Transferências sem PDF válido | 2.957 |
 | Registros sem DOI | 217 |
 | Registros com DOI, mas sem endereço de PDF | 2.066 |
 | URLs pendentes de tentativa no inventário atual | 0 |
