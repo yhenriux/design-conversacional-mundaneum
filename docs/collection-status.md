@@ -11,9 +11,9 @@ Esta etapa reúne obras e tenta localizar arquivos de acesso aberto. Não há le
 | Obras únicas descobertas | 7.162 |
 | Registros com DOI | 6.507 |
 | Endereços de PDF identificados | 4.633 |
-| Arquivos recebidos | 2.407 |
-| Obras sem arquivo recebido | 4.755 |
-| Transferências sem PDF válido | 2.393 |
+| Arquivos recebidos | 2.436 |
+| Obras sem arquivo recebido | 4.726 |
+| Transferências sem PDF válido | 2.972 |
 | Registros sem DOI | 217 |
 | Registros com DOI, mas sem endereço de PDF | 2.068 |
 | URLs pendentes de tentativa no inventário atual | 0 |
