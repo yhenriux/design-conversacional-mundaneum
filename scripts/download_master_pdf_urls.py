@@ -12,6 +12,7 @@ import urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
+from build_master_corpus import key
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "corpus" / "master-corpus.csv"
@@ -35,7 +36,7 @@ def read_rows(path: Path) -> list[dict[str, str]]:
 
 def retrieve(row: dict[str, str], timeout: int) -> dict[str, str]:
     url = row["source_pdf_url"].strip()
-    target = DESTINATION / safe_name(row["corpus_id"], row["title"])
+    target = DESTINATION / (Path(safe_name(row["corpus_id"], row["title"])).stem + '-' + hashlib.sha256(url.encode()).hexdigest()[:12] + '.pdf')
     result = {
         "corpus_id": row["corpus_id"],
         "title": row["title"],
@@ -86,23 +87,30 @@ def main() -> None:
 
     corpus = read_rows(SOURCE)
     existing = read_rows(MANIFEST)
-    attempted = {row["corpus_id"] for row in existing}
+    attempted = {(key(row),row['url']) for row in existing}
     if args.retry_failures:
-        attempted = {row["corpus_id"] for row in existing if not row.get("error")}
-        existing = [row for row in existing if row["corpus_id"] in attempted]
+        attempted = {(key(row),row['url']) for row in existing if row.get('pdf_signature')=='true'}
 
     pending = [
         row for row in corpus
-        if row["document_status"] == "url-pdf-a-testar" and row["corpus_id"] not in attempted
+        if row.get('source_pdf_url') and row.get('collection_status')!='arquivo-recebido' and (key(row),row['source_pdf_url']) not in attempted
     ][: args.limit]
     DESTINATION.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
     new_rows = []
+    def checkpoint():
+        combined_rows=existing+new_rows
+        if not combined_rows:return
+        temporary=MANIFEST.with_suffix('.csv.tmp')
+        with temporary.open('w',encoding='utf-8-sig',newline='') as handle:
+            writer=csv.DictWriter(handle,fieldnames=list(combined_rows[0]));writer.writeheader();writer.writerows(combined_rows)
+        temporary.replace(MANIFEST)
     with ThreadPoolExecutor(max_workers=args.workers) as executor:
         futures = {executor.submit(retrieve, row, args.timeout): row["corpus_id"] for row in pending}
         for future in as_completed(futures):
             new_rows.append(future.result())
+            checkpoint()
     new_rows.sort(key=lambda row: row["corpus_id"])
 
     combined = existing + new_rows
@@ -120,7 +128,7 @@ def main() -> None:
         "pdf_signatures_total": sum(row["pdf_signature"] == "true" for row in combined),
         "failures_total": sum(bool(row["error"]) for row in combined),
         "remaining": sum(
-            row["document_status"] == "url-pdf-a-testar" and row["corpus_id"] not in {item["corpus_id"] for item in combined}
+            bool(row.get('source_pdf_url')) and row.get('collection_status')!='arquivo-recebido' and (key(row),row['source_pdf_url']) not in {(key(item),item['url']) for item in combined}
             for row in corpus
         ),
         "validity_pending": "Assinatura PDF não confirma correspondência bibliográfica nem integralidade.",

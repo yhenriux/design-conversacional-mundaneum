@@ -1,0 +1,635 @@
+{
+  "id": "https://openalex.org/W2943249143",
+  "doi": "https://doi.org/10.1145/3290607.3298821",
+  "title": "Conversation Design",
+  "display_name": "Conversation Design",
+  "publication_year": 2019,
+  "publication_date": "2019-04-30",
+  "ids": {
+    "openalex": "https://openalex.org/W2943249143",
+    "doi": "https://doi.org/10.1145/3290607.3298821",
+    "mag": "2943249143"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3290607.3298821",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3290607.3298821",
+    "pdf_url": null,
+    "source": null,
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-abstract",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5114000021",
+        "display_name": "Margaret Urban",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I1291425158",
+          "display_name": "Google (United States)",
+          "ror": "https://ror.org/00njsd438",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1291425158",
+            "https://openalex.org/I4210128969"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Margaret Urban",
+      "raw_affiliation_strings": [
+        "Google, LLC, Mountain View, CA, USA"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Google, LLC, Mountain View, CA, USA",
+          "institution_ids": [
+            "https://openalex.org/I1291425158"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5034053929",
+        "display_name": "Stephen Mailey",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210113297",
+          "display_name": "Google (United Kingdom)",
+          "ror": "https://ror.org/024bc3e07",
+          "country_code": "GB",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1291425158",
+            "https://openalex.org/I4210113297",
+            "https://openalex.org/I4210128969"
+          ]
+        }
+      ],
+      "countries": [
+        "GB"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephen Mailey",
+      "raw_affiliation_strings": [
+        "Google UK, Ltd., London, United Kingdom"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Google UK, Ltd., London, United Kingdom",
+          "institution_ids": [
+            "https://openalex.org/I4210113297"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": null,
+  "has_fulltext": false,
+  "cited_by_count": 8,
+  "citation_normalized_percentile": null,
+  "cited_by_percentile_year": null,
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "3"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.8054999709129333,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.8054999709129333,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.9296873807907104
+    },
+    {
+      "id": "https://openalex.org/keywords/dialog-box",
+      "display_name": "Dialog box",
+      "score": 0.7868921160697937
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6633915305137634
+    },
+    {
+      "id": "https://openalex.org/keywords/persona",
+      "display_name": "Persona",
+      "score": 0.6334642767906189
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.4849264919757843
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.46593278646469116
+    },
+    {
+      "id": "https://openalex.org/keywords/dialog-system",
+      "display_name": "Dialog system",
+      "score": 0.4251418113708496
+    },
+    {
+      "id": "https://openalex.org/keywords/multimedia",
+      "display_name": "Multimedia",
+      "score": 0.3973024785518646
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.2564104497432709
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.19202083349227905
+    },
+    {
+      "id": "https://openalex.org/keywords/communication",
+      "display_name": "Communication",
+      "score": 0.07858195900917053
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.9296873807907104
+    },
+    {
+      "id": "https://openalex.org/C173853756",
+      "wikidata": "https://www.wikidata.org/wiki/Q86915",
+      "display_name": "Dialog box",
+      "level": 2,
+      "score": 0.7868921160697937
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6633915305137634
+    },
+    {
+      "id": "https://openalex.org/C313442",
+      "wikidata": "https://www.wikidata.org/wiki/Q778556",
+      "display_name": "Persona",
+      "level": 2,
+      "score": 0.6334642767906189
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.4849264919757843
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.46593278646469116
+    },
+    {
+      "id": "https://openalex.org/C190954187",
+      "wikidata": "https://www.wikidata.org/wiki/Q5270587",
+      "display_name": "Dialog system",
+      "level": 3,
+      "score": 0.4251418113708496
+    },
+    {
+      "id": "https://openalex.org/C49774154",
+      "wikidata": "https://www.wikidata.org/wiki/Q131765",
+      "display_name": "Multimedia",
+      "level": 1,
+      "score": 0.3973024785518646
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.2564104497432709
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.19202083349227905
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.07858195900917053
+    },
+    {
+      "id": "https://openalex.org/C111919701",
+      "wikidata": "https://www.wikidata.org/wiki/Q9135",
+      "display_name": "Operating system",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3290607.3298821",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3290607.3298821",
+      "pdf_url": null,
+      "source": null,
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "score": 0.8500000238418579,
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W48079147",
+    "https://openalex.org/W2394821827",
+    "https://openalex.org/W326836678",
+    "https://openalex.org/W2500779211",
+    "https://openalex.org/W3092070261",
+    "https://openalex.org/W4287645278",
+    "https://openalex.org/W1963944933",
+    "https://openalex.org/W2563921006",
+    "https://openalex.org/W1600043506",
+    "https://openalex.org/W2111550420"
+  ],
+  "abstract_inverted_index": {
+    "With": [
+      0
+    ],
+    "the": [
+      1,
+      29,
+      50,
+      82
+    ],
+    "rise": [
+      2
+    ],
+    "of": [
+      3,
+      28,
+      34,
+      53,
+      81,
+      86
+    ],
+    "digital": [
+      4
+    ],
+    "assistants,": [
+      5
+    ],
+    "chatbots,": [
+      6
+    ],
+    "and": [
+      7,
+      17,
+      32,
+      49,
+      70,
+      72,
+      84,
+      89,
+      93
+    ],
+    "other": [
+      8
+    ],
+    "conversational": [
+      9
+    ],
+    "interfaces,": [
+      10
+    ],
+    "there's": [
+      11
+    ],
+    "a": [
+      12,
+      25,
+      73
+    ],
+    "huge": [
+      13
+    ],
+    "demand": [
+      14
+    ],
+    "for": [
+      15,
+      19,
+      95
+    ],
+    "detail": [
+      16
+    ],
+    "instruction": [
+      18
+    ],
+    "Conversation": [
+      20,
+      35,
+      87
+    ],
+    "Design.": [
+      21,
+      36
+    ],
+    "This": [
+      22
+    ],
+    "course": [
+      23
+    ],
+    "provides": [
+      24
+    ],
+    "focused": [
+      26
+    ],
+    "walkthrough": [
+      27
+    ],
+    "principles,": [
+      30
+    ],
+    "strategies,": [
+      31,
+      48
+    ],
+    "process": [
+      33,
+      52
+    ],
+    "Topics": [
+      37
+    ],
+    "include": [
+      38
+    ],
+    "understanding": [
+      39,
+      80
+    ],
+    "users,": [
+      40
+    ],
+    "defining": [
+      41
+    ],
+    "persona,": [
+      42
+    ],
+    "analyzing": [
+      43
+    ],
+    "conversation": [
+      44
+    ],
+    "components,": [
+      45
+    ],
+    "dialog": [
+      46
+    ],
+    "writing": [
+      47
+    ],
+    "detailed": [
+      51
+    ],
+    "creating": [
+      54
+    ],
+    "natural": [
+      55
+    ],
+    "dialog.": [
+      56
+    ],
+    "Interactive": [
+      57
+    ],
+    "components": [
+      58
+    ],
+    "at": [
+      59
+    ],
+    "each": [
+      60
+    ],
+    "stage": [
+      61
+    ],
+    "engage": [
+      62
+    ],
+    "participants": [
+      63
+    ],
+    "with": [
+      64
+    ],
+    "individual": [
+      65
+    ],
+    "worksheets,": [
+      66
+    ],
+    "small": [
+      67
+    ],
+    "group": [
+      68
+    ],
+    "exercises": [
+      69
+    ],
+    "reviews,": [
+      71
+    ],
+    "team": [
+      74
+    ],
+    "project.": [
+      75
+    ],
+    "Participants": [
+      76
+    ],
+    "will": [
+      77
+    ],
+    "gain": [
+      78
+    ],
+    "an": [
+      79
+    ],
+    "complexity": [
+      83
+    ],
+    "challenges": [
+      85
+    ],
+    "Design,": [
+      88
+    ],
+    "learn": [
+      90
+    ],
+    "about": [
+      91
+    ],
+    "resources": [
+      92
+    ],
+    "tools": [
+      94
+    ],
+    "doing": [
+      96
+    ],
+    "it": [
+      97
+    ],
+    "well.": [
+      98
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 3
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-07-14T23:27:15.235271",
+  "created_date": "2025-10-10T00:00:00"
+}

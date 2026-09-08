@@ -1,0 +1,1208 @@
+{
+  "id": "https://openalex.org/W3129181761",
+  "doi": "https://doi.org/10.3389/fpsyt.2020.606041",
+  "title": "Co-developing a Mental Health and Wellbeing Chatbot With and for Young People",
+  "display_name": "Co-developing a Mental Health and Wellbeing Chatbot With and for Young People",
+  "publication_year": 2021,
+  "publication_date": "2021-01-31",
+  "ids": {
+    "openalex": "https://openalex.org/W3129181761",
+    "doi": "https://doi.org/10.3389/fpsyt.2020.606041",
+    "mag": "3129181761",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/33597898"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fpsyt.2020.606041",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpsyt.2020.606041",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.606041/pdf",
+    "source": {
+      "id": "https://openalex.org/S92766711",
+      "display_name": "Frontiers in Psychiatry",
+      "issn_l": "1664-0640",
+      "issn": [
+        "1664-0640"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.606041/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5007869849",
+        "display_name": "Christine Grové",
+        "orcid": "https://orcid.org/0000-0002-0528-2620"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I56590836",
+          "display_name": "Monash University",
+          "ror": "https://ror.org/02bfwt286",
+          "country_code": "AU",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ],
+      "countries": [
+        "AU"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Christine Grové",
+      "raw_affiliation_strings": [
+        "Educational Psychology and Inclusive Education Academic Community, Monash University, Melbourne, VIC, Australia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Educational Psychology and Inclusive Education Academic Community, Monash University, Melbourne, VIC, Australia",
+          "institution_ids": [
+            "https://openalex.org/I56590836"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5007869849"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I56590836"
+  ],
+  "apc_list": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "apc_paid": {
+    "value": 2950,
+    "currency": "USD",
+    "value_usd": 2950
+  },
+  "fwci": 10.0945,
+  "has_fulltext": true,
+  "cited_by_count": 145,
+  "citation_normalized_percentile": {
+    "value": 0.98932905,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "11",
+    "issue": null,
+    "first_page": "606041",
+    "last_page": "606041"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11519",
+    "display_name": "Digital Mental Health Interventions",
+    "score": 0.9947999715805054,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3202",
+      "display_name": "Applied Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.9947999715805054,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11983",
+      "display_name": "Identity, Memory, and Therapy",
+      "score": 0.9790999889373779,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3204",
+        "display_name": "Developmental and Educational Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11977",
+      "display_name": "Technology Use by Older Adults",
+      "score": 0.9682999849319458,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3317",
+        "display_name": "Demography"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/chatbot",
+      "display_name": "Chatbot",
+      "score": 0.7521957159042358
+    },
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.75118088722229
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5572291612625122
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.48350146412849426
+    },
+    {
+      "id": "https://openalex.org/keywords/feeling",
+      "display_name": "Feeling",
+      "score": 0.4622608721256256
+    },
+    {
+      "id": "https://openalex.org/keywords/participatory-design",
+      "display_name": "Participatory design",
+      "score": 0.4453825354576111
+    },
+    {
+      "id": "https://openalex.org/keywords/coping",
+      "display_name": "Coping (psychology)",
+      "score": 0.42947447299957275
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.417070209980011
+    },
+    {
+      "id": "https://openalex.org/keywords/medical-education",
+      "display_name": "Medical education",
+      "score": 0.40267401933670044
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.33231085538864136
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.23483341932296753
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.2092483639717102
+    },
+    {
+      "id": "https://openalex.org/keywords/social-psychology",
+      "display_name": "Social psychology",
+      "score": 0.19484761357307434
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.14561179280281067
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.14338716864585876
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.13823050260543823
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2779041454",
+      "wikidata": "https://www.wikidata.org/wiki/Q870780",
+      "display_name": "Chatbot",
+      "level": 2,
+      "score": 0.7521957159042358
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.75118088722229
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5572291612625122
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.48350146412849426
+    },
+    {
+      "id": "https://openalex.org/C122980154",
+      "wikidata": "https://www.wikidata.org/wiki/Q205555",
+      "display_name": "Feeling",
+      "level": 2,
+      "score": 0.4622608721256256
+    },
+    {
+      "id": "https://openalex.org/C2777455480",
+      "wikidata": "https://www.wikidata.org/wiki/Q1038171",
+      "display_name": "Participatory design",
+      "level": 3,
+      "score": 0.4453825354576111
+    },
+    {
+      "id": "https://openalex.org/C73282008",
+      "wikidata": "https://www.wikidata.org/wiki/Q1759895",
+      "display_name": "Coping (psychology)",
+      "level": 2,
+      "score": 0.42947447299957275
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.417070209980011
+    },
+    {
+      "id": "https://openalex.org/C509550671",
+      "wikidata": "https://www.wikidata.org/wiki/Q126945",
+      "display_name": "Medical education",
+      "level": 1,
+      "score": 0.40267401933670044
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.33231085538864136
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.23483341932296753
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.2092483639717102
+    },
+    {
+      "id": "https://openalex.org/C77805123",
+      "wikidata": "https://www.wikidata.org/wiki/Q161272",
+      "display_name": "Social psychology",
+      "level": 1,
+      "score": 0.19484761357307434
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.14561179280281067
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.14338716864585876
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.13823050260543823
+    },
+    {
+      "id": "https://openalex.org/C2775922551",
+      "wikidata": "https://www.wikidata.org/wiki/Q7135033",
+      "display_name": "Parallels",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C78519656",
+      "wikidata": "https://www.wikidata.org/wiki/Q101333",
+      "display_name": "Mechanical engineering",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 5,
+  "locations": [
+    {
+      "id": "doi:10.3389/fpsyt.2020.606041",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fpsyt.2020.606041",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.606041/pdf",
+      "source": {
+        "id": "https://openalex.org/S92766711",
+        "display_name": "Frontiers in Psychiatry",
+        "issn_l": "1664-0640",
+        "issn": [
+          "1664-0640"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Psychiatry",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:33597898",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/33597898",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in psychiatry",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:7882508",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/7882508",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Psychiatry",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:470d320836fd477ba48845a672313398",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/470d320836fd477ba48845a672313398",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Psychiatry, Vol 11 (2021)",
+      "raw_type": "article"
+    },
+    {
+      "id": "pmh:oai:figshare.com:article/27586725",
+      "is_oa": true,
+      "landing_page_url": "https://figshare.com/articles/journal_contribution/Co-developing_a_Mental_Health_and_Wellbeing_Chatbot_With_and_for_Young_People/27586725",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4377196282",
+        "display_name": "Figshare",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210132348",
+        "host_organization_name": "Figshare (United Kingdom)",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210132348"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fpsyt.2020.606041",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fpsyt.2020.606041",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fpsyt.2020.606041/pdf",
+    "source": {
+      "id": "https://openalex.org/S92766711",
+      "display_name": "Frontiers in Psychiatry",
+      "issn_l": "1664-0640",
+      "issn": [
+        "1664-0640"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Psychiatry",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.6499999761581421,
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320971",
+      "display_name": "Monash University",
+      "ror": "https://ror.org/02bfwt286"
+    }
+  ],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W3129181761.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W3129181761.grobid-xml"
+  },
+  "referenced_works_count": 72,
+  "referenced_works": [
+    "https://openalex.org/W79229537",
+    "https://openalex.org/W627409899",
+    "https://openalex.org/W873897503",
+    "https://openalex.org/W1206579674",
+    "https://openalex.org/W1537592427",
+    "https://openalex.org/W1634030835",
+    "https://openalex.org/W1819785241",
+    "https://openalex.org/W1861568580",
+    "https://openalex.org/W1974962426",
+    "https://openalex.org/W1976420708",
+    "https://openalex.org/W1978083413",
+    "https://openalex.org/W1978743055",
+    "https://openalex.org/W1979290264",
+    "https://openalex.org/W1980960137",
+    "https://openalex.org/W1981425990",
+    "https://openalex.org/W1988194265",
+    "https://openalex.org/W1993023622",
+    "https://openalex.org/W1996685790",
+    "https://openalex.org/W2007445014",
+    "https://openalex.org/W2008768047",
+    "https://openalex.org/W2029393703",
+    "https://openalex.org/W2033418294",
+    "https://openalex.org/W2034692519",
+    "https://openalex.org/W2039663770",
+    "https://openalex.org/W2055137555",
+    "https://openalex.org/W2077362105",
+    "https://openalex.org/W2089174201",
+    "https://openalex.org/W2100561415",
+    "https://openalex.org/W2100605643",
+    "https://openalex.org/W2105434769",
+    "https://openalex.org/W2108577177",
+    "https://openalex.org/W2109146893",
+    "https://openalex.org/W2112369186",
+    "https://openalex.org/W2117140196",
+    "https://openalex.org/W2117241873",
+    "https://openalex.org/W2125247047",
+    "https://openalex.org/W2129598873",
+    "https://openalex.org/W2130979995",
+    "https://openalex.org/W2134419850",
+    "https://openalex.org/W2136751920",
+    "https://openalex.org/W2138664283",
+    "https://openalex.org/W2141830387",
+    "https://openalex.org/W2146143314",
+    "https://openalex.org/W2159903595",
+    "https://openalex.org/W2163419000",
+    "https://openalex.org/W2240863148",
+    "https://openalex.org/W2289545039",
+    "https://openalex.org/W2315131950",
+    "https://openalex.org/W2318994447",
+    "https://openalex.org/W2415219339",
+    "https://openalex.org/W2430832237",
+    "https://openalex.org/W2433742555",
+    "https://openalex.org/W2528352729",
+    "https://openalex.org/W2535360781",
+    "https://openalex.org/W2609037158",
+    "https://openalex.org/W2764291154",
+    "https://openalex.org/W2766964433",
+    "https://openalex.org/W2914239383",
+    "https://openalex.org/W2963309030",
+    "https://openalex.org/W2975107517",
+    "https://openalex.org/W2977128309",
+    "https://openalex.org/W2990634740",
+    "https://openalex.org/W2992757673",
+    "https://openalex.org/W3013171296",
+    "https://openalex.org/W3098856005",
+    "https://openalex.org/W3124068636",
+    "https://openalex.org/W3143643493",
+    "https://openalex.org/W4238709228",
+    "https://openalex.org/W4239182178",
+    "https://openalex.org/W4252468642",
+    "https://openalex.org/W4315841909",
+    "https://openalex.org/W6680288239"
+  ],
+  "related_works": [
+    "https://openalex.org/W4383501580",
+    "https://openalex.org/W4214931137",
+    "https://openalex.org/W4387007686",
+    "https://openalex.org/W4313813117",
+    "https://openalex.org/W4382052417",
+    "https://openalex.org/W3192088754",
+    "https://openalex.org/W3084631705",
+    "https://openalex.org/W3176146353",
+    "https://openalex.org/W4293646425",
+    "https://openalex.org/W4379781060"
+  ],
+  "abstract_inverted_index": {
+    "There": [
+      0
+    ],
+    "are": [
+      1,
+      118,
+      152
+    ],
+    "many": [
+      2
+    ],
+    "young": [
+      3,
+      174
+    ],
+    "people": [
+      4,
+      175
+    ],
+    "who": [
+      5,
+      117
+    ],
+    "experience": [
+      6
+    ],
+    "mental": [
+      7,
+      15,
+      49,
+      93,
+      171
+    ],
+    "health": [
+      8,
+      16,
+      50,
+      94,
+      172,
+      180,
+      189
+    ],
+    "and": [
+      9,
+      33,
+      35,
+      51,
+      61,
+      74,
+      96,
+      131,
+      140,
+      149,
+      196
+    ],
+    "wellbeing": [
+      10,
+      52,
+      90,
+      187
+    ],
+    "challenges.": [
+      11
+    ],
+    "A": [
+      12
+    ],
+    "potential": [
+      13
+    ],
+    "negative": [
+      14
+    ],
+    "trigger": [
+      17
+    ],
+    "for": [
+      18,
+      40
+    ],
+    "some": [
+      19
+    ],
+    "youth": [
+      20,
+      46,
+      116
+    ],
+    "is": [
+      21,
+      69,
+      83
+    ],
+    "a": [
+      22,
+      48
+    ],
+    "struggle": [
+      23
+    ],
+    "to": [
+      24,
+      45,
+      85,
+      122
+    ],
+    "cope": [
+      25
+    ],
+    "with": [
+      26,
+      57,
+      115,
+      157,
+      185,
+      193
+    ],
+    "stress": [
+      27
+    ],
+    "at": [
+      28,
+      160
+    ],
+    "school,": [
+      29
+    ],
+    "feelings": [
+      30
+    ],
+    "of": [
+      31,
+      37,
+      66,
+      136,
+      145,
+      173
+    ],
+    "depression": [
+      32
+    ],
+    "anxiety": [
+      34
+    ],
+    "availability": [
+      36
+    ],
+    "adequate": [
+      38
+    ],
+    "help": [
+      39
+    ],
+    "these": [
+      41
+    ],
+    "stressors.": [
+      42
+    ],
+    "In": [
+      43
+    ],
+    "response": [
+      44
+    ],
+    "needs": [
+      47
+    ],
+    "Chatbot": [
+      53,
+      68,
+      106,
+      166
+    ],
+    "has": [
+      54,
+      107
+    ],
+    "been": [
+      55,
+      108
+    ],
+    "co-developed": [
+      56
+    ],
+    "youth,": [
+      58
+    ],
+    "technology": [
+      59
+    ],
+    "partners": [
+      60
+    ],
+    "expert": [
+      62
+    ],
+    "stakeholders.": [
+      63
+    ],
+    "An": [
+      64
+    ],
+    "element": [
+      65
+    ],
+    "the": [
+      67,
+      105,
+      119,
+      134,
+      137,
+      146,
+      170,
+      186
+    ],
+    "powered": [
+      70
+    ],
+    "by": [
+      71
+    ],
+    "artificial": [
+      72
+    ],
+    "intelligence": [
+      73
+    ],
+    "rules": [
+      75
+    ],
+    "based": [
+      76,
+      88
+    ],
+    "AI": [
+      77
+    ],
+    "using": [
+      78
+    ],
+    "natural": [
+      79
+    ],
+    "language": [
+      80
+    ],
+    "processing.": [
+      81
+    ],
+    "It": [
+      82
+    ],
+    "created": [
+      84
+    ],
+    "communicate": [
+      86
+    ],
+    "evidence": [
+      87
+    ],
+    "resources,": [
+      89
+    ],
+    "support,": [
+      91
+    ],
+    "educational": [
+      92
+    ],
+    "information": [
+      95
+    ],
+    "adaptive": [
+      97
+    ],
+    "coping": [
+      98
+    ],
+    "strategies.": [
+      99
+    ],
+    "This": [
+      100
+    ],
+    "paper": [
+      101,
+      155
+    ],
+    "will": [
+      102
+    ],
+    "discuss": [
+      103
+    ],
+    "how": [
+      104
+    ],
+    "developed,": [
+      109
+    ],
+    "highlighting": [
+      110
+    ],
+    "its": [
+      111,
+      141
+    ],
+    "participatory,": [
+      112
+    ],
+    "co-design": [
+      113
+    ],
+    "process": [
+      114
+    ],
+    "key": [
+      120
+    ],
+    "stakeholders": [
+      121
+    ],
+    "benefit": [
+      123
+    ],
+    "from": [
+      124,
+      129
+    ],
+    "this": [
+      125
+    ],
+    "digital": [
+      126,
+      162
+    ],
+    "tool.": [
+      127
+    ],
+    "Research": [
+      128
+    ],
+    "interviews": [
+      130
+    ],
+    "surveys": [
+      132
+    ],
+    "informed": [
+      133
+    ],
+    "creation": [
+      135
+    ],
+    "Chabots": [
+      138
+    ],
+    "personality": [
+      139
+    ],
+    "character": [
+      142
+    ],
+    "design.": [
+      143
+    ],
+    "Examples": [
+      144
+    ],
+    "conversation": [
+      147
+    ],
+    "design": [
+      148
+    ],
+    "content": [
+      150
+    ],
+    "development": [
+      151
+    ],
+    "provided.": [
+      153
+    ],
+    "The": [
+      154
+    ],
+    "finishes": [
+      156
+    ],
+    "how,": [
+      158
+    ],
+    "if": [
+      159
+    ],
+    "all,": [
+      161
+    ],
+    "tools": [
+      163
+    ],
+    "such": [
+      164
+    ],
+    "as": [
+      165
+    ],
+    "applications": [
+      167
+    ],
+    "could": [
+      168
+    ],
+    "support": [
+      169
+    ],
+    "in": [
+      176,
+      183
+    ],
+    "secondary": [
+      177
+    ],
+    "schools": [
+      178
+    ],
+    "or": [
+      179,
+      188
+    ],
+    "care": [
+      181,
+      190
+    ],
+    "settings": [
+      182
+    ],
+    "conjunction": [
+      184
+    ],
+    "team,": [
+      191
+    ],
+    "concluding": [
+      192
+    ],
+    "lessons": [
+      194
+    ],
+    "learned": [
+      195
+    ],
+    "cautions.": [
+      197
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 24
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 42
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 26
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 15
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-09-02T18:50:13.731487",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,2010 @@
+{
+  "run_id": "20260907T171423Z",
+  "config": {
+    "apis": [
+      "openalex"
+    ],
+    "queries": [
+      "\"conversation design\"",
+      "\"conversational design\"",
+      "\"conversational UX\"",
+      "\"conversational user interface\" design",
+      "\"voice user interface\" design",
+      "\"conversational agent design\"",
+      "\"designing conversational agents\"",
+      "\"dialogue design\" conversational system",
+      "\"chatbot design\" user experience",
+      "\"design conversacional\"",
+      "\"design de conversação\"",
+      "\"design de diálogo\"",
+      "\"experiência conversacional\"",
+      "\"UX conversacional\"",
+      "\"diseño conversacional\"",
+      "\"interfaces conversacionais\" design",
+      "\"interfaces conversacionales\" diseño",
+      "\"sistemas conversacionais\" acessibilidade",
+      "\"agentes conversacionais\" design",
+      "chatbot acessibilidade usabilidade",
+      "\"conception conversationnelle\"",
+      "\"design conversationnel\"",
+      "\"interface conversationnelle\" conception",
+      "\"Konversationsdesign\"",
+      "\"dialogorientiertes Design\"",
+      "\"konversationelle Schnittstelle\" Design",
+      "\"progettazione conversazionale\"",
+      "\"interfaccia conversazionale\" progettazione",
+      "\"会话设计\"",
+      "\"对话式界面\" 设计",
+      "\"対話デザイン\"",
+      "\"会話型インターフェース\" 設計",
+      "\"대화형 디자인\"",
+      "\"대화형 인터페이스\" 설계"
+    ],
+    "rows": 100,
+    "query_config": {
+      "version": "1.2.0",
+      "languages": [
+        "en",
+        "pt",
+        "es",
+        "fr",
+        "de",
+        "it",
+        "zh",
+        "ja",
+        "ko"
+      ],
+      "precision_queries": [
+        "\"conversation design\"",
+        "\"conversational design\"",
+        "\"conversational UX\"",
+        "\"conversational user interface\" design",
+        "\"voice user interface\" design",
+        "\"conversational agent design\"",
+        "\"designing conversational agents\"",
+        "\"dialogue design\" conversational system",
+        "\"chatbot design\" user experience"
+      ],
+      "multilingual_queries": [
+        "\"design conversacional\"",
+        "\"design de conversação\"",
+        "\"design de diálogo\"",
+        "\"experiência conversacional\"",
+        "\"UX conversacional\"",
+        "\"diseño conversacional\"",
+        "\"interfaces conversacionais\" design",
+        "\"interfaces conversacionales\" diseño",
+        "\"sistemas conversacionais\" acessibilidade",
+        "\"agentes conversacionais\" design",
+        "chatbot acessibilidade usabilidade",
+        "\"conception conversationnelle\"",
+        "\"design conversationnel\"",
+        "\"interface conversationnelle\" conception",
+        "\"Konversationsdesign\"",
+        "\"dialogorientiertes Design\"",
+        "\"konversationelle Schnittstelle\" Design",
+        "\"progettazione conversazionale\"",
+        "\"interfaccia conversazionale\" progettazione",
+        "\"会话设计\"",
+        "\"对话式界面\" 设计",
+        "\"対話デザイン\"",
+        "\"会話型インターフェース\" 設計",
+        "\"대화형 디자인\"",
+        "\"대화형 인터페이스\" 설계"
+      ],
+      "expansion_rule": "Expandir somente a partir de registros aceitos e reaplicar integralmente o portão ontológico."
+    },
+    "gate": {
+      "version": "1.2.0",
+      "ontology": "Design Conversacional como objeto interdisciplinar de pesquisa e estudo",
+      "title_anchors": [
+        "conversation design",
+        "conversational design",
+        "design conversacional",
+        "design de conversação",
+        "design de diálogo",
+        "conversational ux",
+        "ux conversacional",
+        "conversational user interface",
+        "conversational user interfaces",
+        "interface conversacional",
+        "interfaces conversacionais",
+        "interfaz conversacional",
+        "interfaces conversacionales",
+        "voice user interface design",
+        "dialogue design",
+        "dialog system design",
+        "conversational agent design",
+        "design de agentes conversacionais",
+        "diseño conversacional",
+        "conception conversationnelle",
+        "design conversationnel",
+        "konversationsdesign",
+        "dialogorientiertes design",
+        "progettazione conversazionale",
+        "会话设计",
+        "对话式界面",
+        "対話デザイン",
+        "会話型インターフェース",
+        "대화형 디자인",
+        "대화형 인터페이스",
+        "designing conversational agents",
+        "chatbot design"
+      ],
+      "system_terms": [
+        "conversational agent",
+        "conversational agents",
+        "conversational interface",
+        "conversational interfaces",
+        "dialog system",
+        "dialogue system",
+        "chatbot",
+        "chatbots",
+        "voice assistant",
+        "voice assistants",
+        "voice user interface",
+        "spoken dialogue system",
+        "ai assistant",
+        "agente conversacional",
+        "agentes conversacionais",
+        "interface conversacional",
+        "interfaces conversacionais",
+        "sistema conversacional",
+        "sistemas conversacionais",
+        "sistema de diálogo",
+        "sistemas de diálogo",
+        "assistente virtual",
+        "assistentes virtuais",
+        "chatbot",
+        "chatbots",
+        "agente conversacional",
+        "agentes conversacionales",
+        "interface conversationnelle",
+        "konversationelle schnittstelle",
+        "interfaccia conversazionale",
+        "对话系统",
+        "会话式智能体",
+        "対話システム",
+        "会話エージェント",
+        "대화형 에이전트",
+        "대화 시스템"
+      ],
+      "field_relevance_terms": [
+        "design",
+        "product",
+        "user experience",
+        " ux ",
+        "interaction",
+        "interface",
+        "usability",
+        "accessibility",
+        "evaluation",
+        "workflow",
+        "service",
+        "turn-taking",
+        "turn taking",
+        "repair",
+        "context",
+        "memory",
+        "microcopy",
+        "tone of voice",
+        "governance",
+        "multimodal",
+        "acessibilidade",
+        "usabilidade",
+        "experiência do usuário",
+        "interação",
+        "conversa",
+        "contexto",
+        "memória",
+        "reparação",
+        "tom de voz",
+        "linguagem simples",
+        "accesibilidad",
+        "usabilidad",
+        "experiencia de usuario",
+        "interacción",
+        "contexto",
+        "memoria",
+        "conception",
+        "utilisabilité",
+        "accessibilité",
+        "interaction",
+        "benutzererfahrung",
+        "barrierefreiheit",
+        "interazione",
+        "usabilità",
+        "accessibilità",
+        "用户体验",
+        "可用性",
+        "无障碍",
+        "사용자 경험",
+        "접근성",
+        "사용성"
+      ],
+      "exclusion_signals": [
+        "human conversation analysis without a conversation-design object, method or contribution",
+        "conversational learning as pedagogy only",
+        "generic artificial intelligence or llm performance",
+        "chatbot adoption without a contribution to conversation design",
+        "clinical or educational outcome without interaction design implications",
+        "conversational writing style or marketing copy unrelated to an interface"
+      ],
+      "decision_rule": {
+        "ontology_minimum": 3,
+        "total_minimum": 7,
+        "maximum": 10,
+        "dimensions": {
+          "ontology_centrality": 4,
+          "field_relevance": 3,
+          "documentary_evidence": 2,
+          "actionable_contribution": 1
+        }
+      }
+    }
+  },
+  "queries": {
+    "93668a57acd7971b2134": {
+      "api": "openalex",
+      "query": "\"conversation design\"",
+      "cursor": null,
+      "pages": 19,
+      "records": 1833,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:26.059292+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "9332319c143c6a2959f2296a005e78bcb6e7e8dea61d8bf696ac80fb1afb1efc"
+        },
+        {
+          "at": "2026-09-07T17:14:27.913548+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxNy4yNjA2NDEsIDE1NjE5MzkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk2OTg1OTMyNyddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "b3fa412d7c6e524b6def567bd512ad3b96343a083ab5a66b67ec8d3b59af5256"
+        },
+        {
+          "at": "2026-09-07T17:17:29.809218+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils3LjIzMTEwNzcsIDEyMzA3NjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjM3MzgzNDE4NSddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "d223be365e715b79aff1ec5753b700f80b8414ac8b0a144665eba3cbec6fa758"
+        },
+        {
+          "at": "2026-09-07T17:17:31.842063+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjI5NjA3OTIsIDE3NzEzNzI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEzMDcyMDAzOSddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "43793e410e3300986cdc78a763a1bb3a8910ee5ef4e9ac87431967eca89b9f68"
+        },
+        {
+          "at": "2026-09-07T17:17:34.058567+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjY3Njc4NzksIDE3NzYwMzg0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE1NDI3OTk3NiddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "91cc2c341200a3c9ef74665b9ae0905dc89e1bcec85d745f4553d2999e4101b5"
+        },
+        {
+          "at": "2026-09-07T17:20:29.578725+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjI1NTcwNjcsIDE2NTkxMzkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI4ODg3MTEzNyddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "4084fd604045eb35e6b00a94132760e8b1686b8a49a63a96306536cf54fc404d"
+        },
+        {
+          "at": "2026-09-07T17:20:31.909672+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjk4NjA3OTkzLCAxMjYyMzA0MDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI0NzI5NzQxODEnXSI%3D",
+          "page": 7,
+          "results": 100,
+          "sha256": "8d8fdf715bbdcefcb7f139db2b09527a23a1f64d88ecd89e167c821a8a475d6e"
+        },
+        {
+          "at": "2026-09-07T17:20:34.317250+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjc4OTU2MTksIDE1MTQ3NjQ4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjg4Mzc4MTI5OCddIg%3D%3D",
+          "page": 8,
+          "results": 100,
+          "sha256": "c2a2181385ce59a680306efa585dd38012376cc7ea60f002e3a67b970d2bc941"
+        },
+        {
+          "at": "2026-09-07T17:20:36.242122+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjY3NjYxODkzLCAxNzE3OTc3NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTk0ODgyOTUnXSI%3D",
+          "page": 9,
+          "results": 100,
+          "sha256": "6d25d406a24fbbd20933fe04ccd639065b38e8526193ba6f0a2c6aa37c80b940"
+        },
+        {
+          "at": "2026-09-07T17:20:38.089131+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjU2MzIwMjgsIDE1MjkyODAwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk0MTgzNDYyNCddIg%3D%3D",
+          "page": 10,
+          "results": 100,
+          "sha256": "a9149c33c4abedc4805f8784006bf3c2a8c409cb961d35508695b12e3dd3f34e"
+        },
+        {
+          "at": "2026-09-07T22:19:49.854901+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQ1MjY1ODY1LCAxNjA5NDU5MjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQyNDU2OTg1ODEnXSI%3D",
+          "page": 11,
+          "results": 100,
+          "sha256": "bb029364de4056f4e3825cc3ce32e0230434f474681c0b6ae34cb670c3a1c141"
+        },
+        {
+          "at": "2026-09-07T22:19:52.076288+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjMzMjU2NzcsIDE3Nzk5MjY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjgwNjA1NjY0NCddIg%3D%3D",
+          "page": 12,
+          "results": 100,
+          "sha256": "fc962c4929f67306eb5cc64279b39312b0599c45896a536443652f200ed264ac"
+        },
+        {
+          "at": "2026-09-07T22:19:54.524051+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjE4MzY3NDUzLCAxNzIwMjI0MDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDA1MTY5NjMnXSI%3D",
+          "page": 13,
+          "results": 100,
+          "sha256": "7ba78879cabdb1ba44a3753a4eeb522ee5b6b2d4d3a71d01bb0ac96654988b5a"
+        },
+        {
+          "at": "2026-09-07T22:19:56.772535+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjEzNjEwMzQyLCAxNzY2Mjc1MjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMTY2OTgzODInXSI%3D",
+          "page": 14,
+          "results": 100,
+          "sha256": "edf2c2c4e72af60ff60b114f916d37e0b8bba69e0b328fcacc2b46f1f4c17aa8"
+        },
+        {
+          "at": "2026-09-07T22:19:59.366454+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjExODAyMDksIDE3ODA0NDQ4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2MzM2MDQzNiddIg%3D%3D",
+          "page": 15,
+          "results": 100,
+          "sha256": "b006ece6b4f6f51bc566cba16bb257663fe3c9a2424cde698d9d78cdc41099f3"
+        },
+        {
+          "at": "2026-09-07T22:20:01.716986+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjEwNDA3Mjc3LCAxNTQ2MzAwODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzI5MzgyODg5MjEnXSI%3D",
+          "page": 16,
+          "results": 100,
+          "sha256": "fd6ec61dc7c438d7f519b915901c3ea5b313a7389ce20a1f6f6fdbdb52f74d1b"
+        },
+        {
+          "at": "2026-09-07T22:20:03.398255+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjA4MzYxNzE4LCAxNzcxMzcyODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMzAzOTcyMzUnXSI%3D",
+          "page": 17,
+          "results": 100,
+          "sha256": "f2597e0982784df6787171b18f7b02d3e8509fb01ef6407047b02719fb0bf20e"
+        },
+        {
+          "at": "2026-09-07T22:20:05.719117+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjA1OTA0Mjg3LCAxNzM1Njg5NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMjg1Nzk4MzMnXSI%3D",
+          "page": 18,
+          "results": 100,
+          "sha256": "f30ea801171d5cd34d9908915f33985eca5c53c464722bb5c45b6224425c3fe1"
+        },
+        {
+          "at": "2026-09-07T22:20:07.694208+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjA1MDY1OTA0NiwgMTI3MjY3MjAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjQxMzU4MTYxJ10i",
+          "page": 19,
+          "results": 33,
+          "sha256": "152b9166d6fcc16661ff0ec88e8c4ae4779f1eb5358a9071dfda7b818f27542a"
+        }
+      ],
+      "status": "complete"
+    },
+    "f6d30f460939ebd96d0b": {
+      "api": "openalex",
+      "query": "\"conversational design\"",
+      "cursor": null,
+      "pages": 8,
+      "records": 767,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:29.467767+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "a4447ff088622ed6a745b9fe7bd96a12c85edf199f442e895ffad45d3b5eff5e"
+        },
+        {
+          "at": "2026-09-07T17:14:31.295527+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjM1Njk2NDYsIDE2ODQ3MTM2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NzQ1MjIwNSddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "7410ed5a052a628f065d72da894c79c8b562311b9b48cbbc048f56334d68ad46"
+        },
+        {
+          "at": "2026-09-07T17:17:36.028237+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjAwMzU3NDYsIDE3MTMzMTIwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5NTk2MDc2MyddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "896ac5ffade4d29699161a81858ca9bee8a0185f1370c60f2a584be696d160da"
+        },
+        {
+          "at": "2026-09-07T17:17:38.225564+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjA3NzU0OTcsIDE2ODE4NjI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDMxNzY3MTM3OCddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "83ef93ada91cd0c04f8224d4c3bb58a5ca5add07f1afe45615871d1307b270b8"
+        },
+        {
+          "at": "2026-09-07T17:17:40.495803+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjYzNTQ4MDksIDE2OTU4NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NzM0NTAxNyddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "e1c0e6c0f6abaa9d532aac75cb762c8bd82bc6a87a9b0bcf145c7b8054fec479"
+        },
+        {
+          "at": "2026-09-07T17:20:40.445392+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjIxMTE4Mjk4LCAxNzM1NjAzMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDYzMzEzOTInXSI%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "885ddc3681682c2f525eef6c11d3848d58b5944d3199604e1c08aa23aef3ee1b"
+        },
+        {
+          "at": "2026-09-07T17:20:42.922379+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjE2MjA5OTksIDE3NzUwMDE2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE0NzcxMTg1MCddIg%3D%3D",
+          "page": 7,
+          "results": 100,
+          "sha256": "df601477336de1cf7ebc6c635f9cbd6c9412e67522dcd2c769adadcdb56aff91"
+        },
+        {
+          "at": "2026-09-07T17:20:45.274208+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjExMjU2NzI2LCAxNzM3MzMxMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDY3MzYyNDMnXSI%3D",
+          "page": 8,
+          "results": 67,
+          "sha256": "612f51a682163171183b18f2431efa1375c09be8c3ddec969abe6a85d8b2a5da"
+        }
+      ],
+      "status": "complete"
+    },
+    "b02d31fb520c3ed7c4ec": {
+      "api": "openalex",
+      "query": "\"conversational UX\"",
+      "cursor": null,
+      "pages": 4,
+      "records": 354,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:33.429802+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+UX%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "0ec91ad5f844f0cb2b345062e7ad585e2e9f1be20c0e90ddfac94f460beb149c"
+        },
+        {
+          "at": "2026-09-07T17:14:34.909610+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+UX%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjY0NDYzNTcsIDE3ODM1NTUyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2Nzg4NjMxMyddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "4f5f618b87c7b5d12889c1da453268a95396f473d8516338d71228f5279e553a"
+        },
+        {
+          "at": "2026-09-07T17:17:42.360879+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+UX%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjgxODI1OTgsIDE1NzE2MTYwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk4MTEzNjI5NyddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "87f2fc81c92d331e25b14b364abd81c751ea7ccc25435469377ee5718772b2f3"
+        },
+        {
+          "at": "2026-09-07T17:17:44.356536+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+UX%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM1NzUyODE1LCAxNzgwMzU4NDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjMwMzEyNjknXSI%3D",
+          "page": 4,
+          "results": 54,
+          "sha256": "7d50fe65070c1c59fa5a249d7eff8232bef7a42069d3c085ce276da0887870a0"
+        }
+      ],
+      "status": "complete"
+    },
+    "8a45af378b6b3489e2fd": {
+      "api": "openalex",
+      "query": "\"conversational user interface\" design",
+      "cursor": null,
+      "pages": 34,
+      "records": 3347,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:37.345608+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "77172a5fa1f864364e573c1e24b498974e822f59b96728955bdfeb146850d7e8"
+        },
+        {
+          "at": "2026-09-07T17:14:39.662649+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0Ni4wNDE4MzIsIDE3MTk5NjQ4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwMDMzMzY4NyddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "996f89a62089dff2eaf30041e4d1c547c257d02c077c426f618d54103ced212c"
+        },
+        {
+          "at": "2026-09-07T17:17:46.834735+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyNi43OTM2NTUsIDE2NTU1MTA0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI4MzA3Nzc3OCddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "a4021bf1a153eaf1f1e36e77f2e64891635c72751203eca60af0516e0a3ce16d"
+        },
+        {
+          "at": "2026-09-07T17:17:49.080669+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxOC43ODM1NzMsIDE2NzA5NzYwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDMxMzQzMjgyMCddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "ec9644721eebbf844800be2ea3e06ceba1db26e0912d3f1ff2e0574ea98b0522"
+        },
+        {
+          "at": "2026-09-07T17:17:51.484919+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxMy44MDgyODQsIDE3MTM5MTY4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5NTA4MjE2MSddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "1f5496c280282fcf4f141826a1b6086fc9701b3326cf9e944f1ea195a0181dfe"
+        },
+        {
+          "at": "2026-09-07T17:20:47.857137+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxMS4zNzA3NTgsIDE2ODk1NTIwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NDUyMDY2MiddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "92ae0f76e19b3d6e3515f81606e1c6a05f814cb3ae48d73960738a241b2703d5"
+        },
+        {
+          "at": "2026-09-07T17:20:50.083826+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils5LjIxODI3NSwgMTY1ODc5MzYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0Mjk1OTU1MzUwJ10i",
+          "page": 7,
+          "results": 100,
+          "sha256": "5496476c148ef78b9a91c48e4520ec51c399588708561e3ca756f2a239b02806"
+        },
+        {
+          "at": "2026-09-07T17:20:52.366441+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils3Ljk3NDQ2OCwgMTY4OTU1MjAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzgyMzE5MjYzJ10i",
+          "page": 8,
+          "results": 100,
+          "sha256": "dadaa5cdc1a0d7b87c1c69fe71df3bf8dea239f4291d1275535d8bc502f45731"
+        },
+        {
+          "at": "2026-09-07T17:20:54.595719+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils2Ljc0MTQ2MDMsIDE2NDI3MjMyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDIyNjI1MzcyNSddIg%3D%3D",
+          "page": 9,
+          "results": 100,
+          "sha256": "320656a99ceb1fe7b286c04083b92b9b446cddd4170bf79eaa51ef612cf9076b"
+        },
+        {
+          "at": "2026-09-07T17:20:56.898017+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1LjkxMDg3NiwgMTczNTY4OTYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDEyODg2OTU3J10i",
+          "page": 10,
+          "results": 100,
+          "sha256": "d9cd11f3d0c6a6a214c54ace76983b7b0ee802e2f584686d80e11fb069bb01c2"
+        },
+        {
+          "at": "2026-09-07T22:20:09.522491+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1LjMzNzYyMTcsIDE2Mjc4NjI0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzIwOTIxODQ3MSddIg%3D%3D",
+          "page": 11,
+          "results": 100,
+          "sha256": "52d17dee16382d3c9526fc4f727449c7feeb66c0f513b63dd07004896745ee58"
+        },
+        {
+          "at": "2026-09-07T22:20:11.379044+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0Ljc1MTQ4NzcsIDE2OTE0NTI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4MjEzMDg3NyddIg%3D%3D",
+          "page": 12,
+          "results": 100,
+          "sha256": "811c21390ab4dad6ed6c392f5cb045ad0fe482d1192f46c3ffd9379fff0f3712"
+        },
+        {
+          "at": "2026-09-07T22:20:13.754995+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjMwOTUyNCwgMTcyODQzMjAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDAzNTc4NzM2J10i",
+          "page": 13,
+          "results": 100,
+          "sha256": "871fa033c812f5cf41bb8c3aa36865dfebafe0f872ad00b14826fdfb409a47b2"
+        },
+        {
+          "at": "2026-09-07T22:20:15.768471+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjkxMDUzNTMsIDE3NDg5OTUyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNjA3MzA5NyddIg%3D%3D",
+          "page": 14,
+          "results": 100,
+          "sha256": "b78ebac08b37fb84d3f409ffe8e7026c8900ef8490238ee3a31172cb4c81f81b"
+        },
+        {
+          "at": "2026-09-07T22:20:18.108257+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjUzMTU5MDIsIDE2NjQ0MDk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI5ODAwNDY2MCddIg%3D%3D",
+          "page": 15,
+          "results": 100,
+          "sha256": "d43306fa436c6f4a7e140d6ee0483a10fd6909e21c76e1125067a6d2a2f8b2a9"
+        },
+        {
+          "at": "2026-09-07T22:20:20.038578+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjEyMzM4NiwgMTU5NTYzNTIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMDMyNzYyNjY1J10i",
+          "page": 16,
+          "results": 100,
+          "sha256": "b0e0d5044b7060870386bbdcab9a425754accb588593a55f97a40e84315eccd8"
+        },
+        {
+          "at": "2026-09-07T22:20:22.402003+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjc5MTMxMjcsIDE3MzU2ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMjk0NDMxNSddIg%3D%3D",
+          "page": 17,
+          "results": 100,
+          "sha256": "51a37907f529ecbfcc8286410f38c3a14add58655cb33f7e3564979d72a0ee37"
+        },
+        {
+          "at": "2026-09-07T22:20:24.482142+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjUxMzk2NDIsIDE3MjQ4ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwMjk1MjgzNCddIg%3D%3D",
+          "page": 18,
+          "results": 100,
+          "sha256": "543172017c027049630f72d96826ed0805dd6c31b41850a39797a2bae6c4aea5"
+        },
+        {
+          "at": "2026-09-07T22:20:26.609239+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjIxMjcxNDQsIDE3MjQ4MDMyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwMjAxOTE1NiddIg%3D%3D",
+          "page": 19,
+          "results": 100,
+          "sha256": "9f5182ea34e13327902c97116dc9a6f2cd315981d80ec330a3bb50053f311da5"
+        },
+        {
+          "at": "2026-09-07T22:20:29.159821+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjkzNjQ2MzEsIDE2OTU5NDU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NzM0OTU4OSddIg%3D%3D",
+          "page": 20,
+          "results": 100,
+          "sha256": "a7b8f5fa427fd11b0326127f0c869dc0df8432c227ee6f411d1b97fc5bd51b70"
+        },
+        {
+          "at": "2026-09-07T22:26:04.066958+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjcyNDcxODMsIDQ0MTc2MzIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjQxNjc4NzM4J10i",
+          "page": 21,
+          "results": 100,
+          "sha256": "5d2e82a54ae5bd4b87957e02d03c322f4d9b44035ce81746601decd638e35e8f"
+        },
+        {
+          "at": "2026-09-07T22:26:06.191893+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjU0ODAwNzIsIDE3ODQ1OTIwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2Mjg2MDc1MiddIg%3D%3D",
+          "page": 22,
+          "results": 100,
+          "sha256": "10fe3c73e0cae6bdc1f6d23710a5042baf48b09216b232b8b7522fcf376806c5"
+        },
+        {
+          "at": "2026-09-07T22:26:08.967469+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjM3MTExNzUsIDE3NDcyNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNjEzOTQxMCddIg%3D%3D",
+          "page": 23,
+          "results": 100,
+          "sha256": "e3f805597b3c6d690e99772ff278e1b01603abc370b984d456acf7efe1db607c"
+        },
+        {
+          "at": "2026-09-07T22:26:11.180666+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjIwMDk4MTYsIDE3ODExMzYwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2NDcwMTAzNiddIg%3D%3D",
+          "page": 24,
+          "results": 100,
+          "sha256": "28962c00aa0179c4fac6f30d05d475c6e20d7294f5e56d8ac399ef47fdcf5824"
+        },
+        {
+          "at": "2026-09-07T22:26:12.959485+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjA2Mzg4MjQsIDE3ODA1MzEyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNjM3ODAzNSddIg%3D%3D",
+          "page": 25,
+          "results": 100,
+          "sha256": "2ee780d023e6d52ed640701ada5baa7957201f949e98ec58604a0356eb255944"
+        },
+        {
+          "at": "2026-09-07T22:26:15.314197+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjk0OTM4Mjg0LCAxNzc2NDcwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNTUyNDUyNzknXSI%3D",
+          "page": 26,
+          "results": 100,
+          "sha256": "7044c80bfe0d50bfaf26f3bf093bb20f07a277c2e9ade4febbfd5832233ad3c4"
+        },
+        {
+          "at": "2026-09-07T22:26:17.711151+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjgwMTY5NzYsIDE3NjcyMjU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzIwNzg2OTg5NiddIg%3D%3D",
+          "page": 27,
+          "results": 100,
+          "sha256": "13779571928f7da412659c0a0625071068662e009cbdee4c2e0f5956836fde01"
+        },
+        {
+          "at": "2026-09-07T22:26:20.115777+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQ1Njk4MjczLCAxNzYxOTU1MjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMjkwNTU1ODknXSI%3D",
+          "page": 28,
+          "results": 100,
+          "sha256": "3305e7b6f7f07969b5840212718376ab7b935ca3d9ce9eb55e419da906eca603"
+        },
+        {
+          "at": "2026-09-07T22:26:22.171089+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQyMTAyNDE0LCAxNzczNzA1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjA0NTY3MTYnXSI%3D",
+          "page": 29,
+          "results": 100,
+          "sha256": "028c723e90afa715c73739decf653d91db416d88f63fddc1fb8e295dc20e54f2"
+        },
+        {
+          "at": "2026-09-07T22:26:24.119381+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM5Mjc0ODMsIDE3MzU2ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzExODg1NDk1OCddIg%3D%3D",
+          "page": 30,
+          "results": 100,
+          "sha256": "ee1917b19b182662b8641e10214878f87a3f8489d27c75f7e02de2cfb8d9c394"
+        },
+        {
+          "at": "2026-09-07T22:27:17.222121+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM2MzgxNzUsIDEwNzI5MTUyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzc5ODgxNTAnXSI%3D",
+          "page": 31,
+          "results": 100,
+          "sha256": "fabe32b0352d7f08181ce2e98fec485e122bd486b464220cbb539027f8868a97"
+        },
+        {
+          "at": "2026-09-07T22:27:18.840677+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjMzNDUzMjQsIDE3NTkyNzY4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNTIzNjc2OCddIg%3D%3D",
+          "page": 32,
+          "results": 100,
+          "sha256": "2af76e72663116124b72366c661d28ca55934489f5d0cd8a6fe12862b88966c6"
+        },
+        {
+          "at": "2026-09-07T22:27:21.167192+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI5Mzk3NDQ2LCAxNzYyNzMyODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTYwNzExODUnXSI%3D",
+          "page": 33,
+          "results": 100,
+          "sha256": "6ba301a370660884c4d87d84d2d4f5f04ecec65b701b84e4c81cf5aae9882880"
+        },
+        {
+          "at": "2026-09-07T22:27:22.820203+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjIyMTMxMDI5LCAxNzY1NzU2ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNzE3NTg0MTQnXSI%3D",
+          "page": 34,
+          "results": 47,
+          "sha256": "656fdf94941441d0349235241576ab8c31154cab3d01de240f575e18e52a883f"
+        }
+      ],
+      "status": "complete"
+    },
+    "08eeb9a08dbb0e80c01a": {
+      "api": "openalex",
+      "query": "\"voice user interface\" design",
+      "cursor": null,
+      "pages": 27,
+      "records": 2680,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:41.597217+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "a941065d9ee6cfba90f6b5cf7ca2a28e2cb0d38e17ddecc296f24ab8bfb58323"
+        },
+        {
+          "at": "2026-09-07T17:14:43.366065+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils2Ny41NTE2OCwgMTYzMTE0NTYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMjAxMjUzMDg5J10i",
+          "page": 2,
+          "results": 100,
+          "sha256": "7f749494973a9c7dee5ca862ac609198425f23416f6860e156b3f20b91dbd4cf"
+        },
+        {
+          "at": "2026-09-07T17:17:53.897039+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszOS45ODQ5OTcsIDE1NzI1NjY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk5MDUzOTE1OSddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "86c71fa434fbcafe5e9229e21840cd569ef60f5fb47bd60194859df63468f26d"
+        },
+        {
+          "at": "2026-09-07T17:17:55.760543+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyNi41NzYwNTQsIDE3NTEzMjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMjExMTIxNiddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "54877f3b14e1d890d2c9c0a9c639794c10876eb000cb21df529ed052427ac893"
+        },
+        {
+          "at": "2026-09-07T17:17:57.358972+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxOS4yNDIzNzQsIDE3NTAzNzc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMTc0NzA3OSddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "a41bcacdaa7f777ee98e5b71d468ce197df54c4b11c0f6c4af2e7e995d140f28"
+        },
+        {
+          "at": "2026-09-07T17:20:59.613096+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxNC4yNzI5NTEsIDE3NTkxMDQwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNDU4Nzg0OSddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "5c4baa4e35fd49bb42b000454145514003c3cd324e2df94b85f3b58ced6e2803"
+        },
+        {
+          "at": "2026-09-07T17:21:01.505923+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxMS43Mzg3NjIsIDE2MTg5NjMyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzE1MzQwNTcxMCddIg%3D%3D",
+          "page": 7,
+          "results": 100,
+          "sha256": "0958c6ee9624f4bc2e56e7112a735d4a833e889c6950f5eeefa351657be5c49d"
+        },
+        {
+          "at": "2026-09-07T17:21:03.435776+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils5LjY2NTA3MTUsIDE3MTk2MTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5OTE5NzczNCddIg%3D%3D",
+          "page": 8,
+          "results": 100,
+          "sha256": "6e5ead5131cbe1e5a6999d2f6f522bac50183ed542b6c92a88c945b313652a66"
+        },
+        {
+          "at": "2026-09-07T17:21:06.005587+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils3LjM4MDk1NiwgMTUyOTcxMjAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyODExMjIzNzI3J10i",
+          "page": 9,
+          "results": 100,
+          "sha256": "f0d034298fcd55de008f5b9425cbe40b746868811c1611f521be360ee350b68b"
+        },
+        {
+          "at": "2026-09-07T17:21:08.005893+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1LjgxMDYwMTcsIDExMjc3NzkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjIyNjY3ODAwMSddIg%3D%3D",
+          "page": 10,
+          "results": 100,
+          "sha256": "a1e0d2f188b60763a97aa6429ca3ca0cd84b4c286f1c4f92e89a7a7282b5d183"
+        },
+        {
+          "at": "2026-09-07T22:20:31.756643+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0Ljc4NjYyNSwgMTY0NDM2NDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MjExMDkxMjk2J10i",
+          "page": 11,
+          "results": 100,
+          "sha256": "7e1c42f7a56dd4bf033aef2c2f3b1f4276df7d44cecffd5175f06b2a9cb4d343"
+        },
+        {
+          "at": "2026-09-07T22:20:34.162693+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjE4MTIzNzcsIDE1Nzc4MzY4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzIwNjU1MDc5MCddIg%3D%3D",
+          "page": 12,
+          "results": 100,
+          "sha256": "32f3f02f762bf133c5598a27f493b4c840bdb00e618d492a81415fcd151d6466"
+        },
+        {
+          "at": "2026-09-07T22:20:36.160258+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjU4Mzg4MSwgMTI5Mzg0MDAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cxMTI3NjU3NzI4J10i",
+          "page": 13,
+          "results": 100,
+          "sha256": "e5706be14a2a48768e607b9c1660d7abb255fc747b7cfa0cd2184bda4816726c"
+        },
+        {
+          "at": "2026-09-07T22:20:38.435531+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjA2NzE3NDcsIDE3NzMyNzM2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEzNTAxMDE1OCddIg%3D%3D",
+          "page": 14,
+          "results": 100,
+          "sha256": "e35ff28d53de80a11268827b27d90052ccd542cdccc9274a258f254d66180f44"
+        },
+        {
+          "at": "2026-09-07T22:20:40.961674+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjU5MDkwNywgMTcwODMwMDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkxOTQ1MTg0J10i",
+          "page": 15,
+          "results": 100,
+          "sha256": "166ec422fc32b7d088b827c48990ea8ffeebe65186494f14aef4bc940759fb8c"
+        },
+        {
+          "at": "2026-09-07T22:20:42.858608+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjI5MjMxOTUsIDE2NTExMDQwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDIyNTAwNjY4MyddIg%3D%3D",
+          "page": 16,
+          "results": 100,
+          "sha256": "ea3c190932a71c637448cd85f18976a68d2fe6c11bc9d11287661b9b2de924c3"
+        },
+        {
+          "at": "2026-09-07T22:20:44.790127+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjkwNTg0MjksIDE2OTI3NDg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NjIwOTc4NiddIg%3D%3D",
+          "page": 17,
+          "results": 100,
+          "sha256": "6ecb29d8819da4724869d8aae21ad3851b79d84e4d8bf9e9d29d68ae04f0651d"
+        },
+        {
+          "at": "2026-09-07T22:20:46.715927+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjU0ODA0NjQsIDE3MDM3MjE2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5MDM0MjU0NCddIg%3D%3D",
+          "page": 18,
+          "results": 100,
+          "sha256": "b681e3092d04bb19ad303677c7529cca1a4f2e112aeb31e296d9fe01a0b40d07"
+        },
+        {
+          "at": "2026-09-07T22:20:48.134900+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjMwMzQ4OTQsIDE3Njk3MzEyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEyNjM5ODMwOCddIg%3D%3D",
+          "page": 19,
+          "results": 100,
+          "sha256": "dd28fbe414ffc22315738ea6c4b715ccdfaedeadb1a58542be2a9ff0acdd235e"
+        },
+        {
+          "at": "2026-09-07T22:20:49.985515+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjEzNjY5ODQsIDE2OTk1NzQ0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODY4NDIzOCddIg%3D%3D",
+          "page": 20,
+          "results": 100,
+          "sha256": "5979bdec2b0e9c27e71c076df40cec7ce7a3f7f428eff2bfd6ca4381f1e8861d"
+        },
+        {
+          "at": "2026-09-07T22:26:26.544389+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjk3OTg4MTYsIDEzNzExNjgwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjI2NTA1NjE2OSddIg%3D%3D",
+          "page": 21,
+          "results": 100,
+          "sha256": "4f6f6dba3a3ab038e8a43ac9140291c5e925a17802bad004ad212eb8bf39ca37"
+        },
+        {
+          "at": "2026-09-07T22:26:28.582635+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjgxNTEwOTY3LCAxNzA3MDA0ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTE1Mzg4NjEnXSI%3D",
+          "page": 22,
+          "results": 100,
+          "sha256": "a708c17e928d0f8c28b9ba129660b61bbe303f29597ea00d46bbaddb965a92df"
+        },
+        {
+          "at": "2026-09-07T22:26:30.481084+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM4MTY1OTcyLCAxNzM1NjAzMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDczOTUzOTcnXSI%3D",
+          "page": 23,
+          "results": 100,
+          "sha256": "3dd76a0ca43b64b3c260797372f33d57da8b8fc3728438961b13015dafad8c87"
+        },
+        {
+          "at": "2026-09-07T22:26:32.451164+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjMyNzQ0MDY4LCAxNzc5OTI2NDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjI2MzA3MzYnXSI%3D",
+          "page": 24,
+          "results": 100,
+          "sha256": "bf16d52e4a52318f2d038a817b7dc9a0d5a2aba70076952f1da4d64f101fa9f1"
+        },
+        {
+          "at": "2026-09-07T22:26:34.896068+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI5MjQ2MjY1LCAxNzE3MDI3MjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTY5NDQwNzUnXSI%3D",
+          "page": 25,
+          "results": 100,
+          "sha256": "f3b058a47b1e61219404b876619f39d8cc757129243495e6cde0b2ff33bfd4c1"
+        },
+        {
+          "at": "2026-09-07T22:26:37.042294+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI1MzkwNjA0LCAxMDAyNTg1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTQ2NDExMzEnXSI%3D",
+          "page": 26,
+          "results": 100,
+          "sha256": "8762f8665c1d1e301a3f59d23a61d9f732647631737bc44897f8b0dc552391e4"
+        },
+        {
+          "at": "2026-09-07T22:26:39.385707+00:00",
+          "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjE5MzA4ODU5LCAxNjA5NDU5MjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzMxNTc3Mzc1NTcnXSI%3D",
+          "page": 27,
+          "results": 80,
+          "sha256": "e7dc248a0e89725fbde7cba7344ce060bd3b65b8d0495ef6b6aeb63123d6f93b"
+        }
+      ],
+      "status": "complete"
+    },
+    "899fb846a99bd9c48da7": {
+      "api": "openalex",
+      "query": "\"conversational agent design\"",
+      "cursor": null,
+      "pages": 10,
+      "records": 989,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:45.398415+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "98a79919701b707a398a3ff41c8cef302109f448630eeb44a0a8724736a1672c"
+        },
+        {
+          "at": "2026-09-07T17:14:47.399293+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils5LjkzMTg1NSwgMTcwOTI1MTIwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzkzMjU3ODg5J10i",
+          "page": 2,
+          "results": 100,
+          "sha256": "ae1394279b2ca75a12d0b9cd4aa1d600a05ea6d07220b8adb349607f0157fd63"
+        },
+        {
+          "at": "2026-09-07T17:17:59.529958+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjU0NDgwNDgsIDE3MzY4OTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNjQyMzA4NyddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "271688bd213ac186d00a8357ea1bfee1dfd991612462c9e7bf77618e367ed43a"
+        },
+        {
+          "at": "2026-09-07T17:18:01.599707+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjUyMTU4NzQsIDE3NjI5MDU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEzOTk0MTY4NSddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "59b2543b070ce9ee94c4a3a80f032fb7c9c66961babcc13a63ae549e969bf3b0"
+        },
+        {
+          "at": "2026-09-07T17:18:03.906435+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjgyMTMyODksIDEzNDk4MjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjA4NjA2NDIzOSddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "4a917ee434cea527ebc740e4cf0f31303235c40d37e393ffb73bd872b9f39872"
+        },
+        {
+          "at": "2026-09-07T17:21:10.789363+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjI5NjUwOTUsIDE3MzU2ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNzIwODE1OCddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "25127909914394f95b8ad9b0a8a8f7f5e13e5ab012f4938348eb0b52bdd441cc"
+        },
+        {
+          "at": "2026-09-07T17:21:12.635988+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjkyODM4NzMsIDE3MDIxNjY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4OTcwODY5MyddIg%3D%3D",
+          "page": 7,
+          "results": 100,
+          "sha256": "0bc573f3867ba1784a89958150d4e40efac1426d75b94bb55131657691fdada3"
+        },
+        {
+          "at": "2026-09-07T17:21:14.588593+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI5NDA2ODA0LCAxNzY3MjI1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNzIxMjM2MDEnXSI%3D",
+          "page": 8,
+          "results": 100,
+          "sha256": "651699009417b9a1c0c089267b7183d0034a019c05ce22f8109e8a45b5a6d498"
+        },
+        {
+          "at": "2026-09-07T17:21:16.961738+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjIzNDUyNjQ5LCAxNzg3MDk3NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcyMDM3Mzg1NTQnXSI%3D",
+          "page": 9,
+          "results": 100,
+          "sha256": "becdc069f1f4a16a5093f7f354b4625830b8681f8b1b696747e8188e2d631329"
+        },
+        {
+          "at": "2026-09-07T17:21:17.751711+00:00",
+          "cursor": "IlswLjE4MTA4MzkzLCAxNzgyMzQ1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjYzOTkzNDEnXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 0
+        },
+        {
+          "at": "2026-09-07T17:21:23.035984+00:00",
+          "cursor": "IlswLjE4MTA4MzkzLCAxNzgyMzQ1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjYzOTkzNDEnXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 1
+        },
+        {
+          "at": "2026-09-07T17:21:33.361862+00:00",
+          "cursor": "IlswLjE4MTA4MzkzLCAxNzgyMzQ1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjYzOTkzNDEnXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 2
+        },
+        {
+          "at": "2026-09-07T22:20:52.236483+00:00",
+          "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjE4MTA4MzkzLCAxNzgyMzQ1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjYzOTkzNDEnXSI%3D",
+          "page": 10,
+          "results": 89,
+          "sha256": "6b42027b31c871c2751d0704847d4de7d80894db138fe5a27814a2401701f8af"
+        }
+      ],
+      "status": "complete"
+    },
+    "c24dad0f9e5a35771a44": {
+      "api": "openalex",
+      "query": "\"designing conversational agents\"",
+      "cursor": null,
+      "pages": 4,
+      "records": 380,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:49.327683+00:00",
+          "url": "https://api.openalex.org/works?search=%22designing+conversational+agents%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "d705e374d91de72cf7d2cbf4b67cb5ec9c1ccbf34745f1c9dea12b4781029cd9"
+        },
+        {
+          "at": "2026-09-07T17:14:51.944578+00:00",
+          "url": "https://api.openalex.org/works?search=%22designing+conversational+agents%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjU5MzkyNDgsIDE2ODY3MDA4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM2MjcwNzQxNiddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "898492f8616eed53d10d839f61b4aecee392f4c62ab1f8050adcd2d2bda16c9b"
+        },
+        {
+          "at": "2026-09-07T17:18:05.807479+00:00",
+          "url": "https://api.openalex.org/works?search=%22designing+conversational+agents%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjU3MTA0OCwgMTUxNDc2NDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyNzY4MTAyMTg4J10i",
+          "page": 3,
+          "results": 100,
+          "sha256": "09e7400f12fd1db07a0266b91831ff43cfce383f185d2ee664fb688bc19ce82a"
+        },
+        {
+          "at": "2026-09-07T17:18:08.078731+00:00",
+          "url": "https://api.openalex.org/works?search=%22designing+conversational+agents%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM1ODM4ODk2LCAxNzQ4MzkwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTA4MjI3MTgnXSI%3D",
+          "page": 4,
+          "results": 80,
+          "sha256": "6578ab961ab44df2241ee14df30a9c01ab48f7cbcf937c5e5d9b75e3b579155f"
+        }
+      ],
+      "status": "complete"
+    },
+    "7bd21ffe4ec962fc90d7": {
+      "api": "openalex",
+      "query": "\"dialogue design\" conversational system",
+      "cursor": null,
+      "pages": 6,
+      "records": 521,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:53.934306+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "994d2fb20a15035906c1eb02e1c80b132fa254f1d18e4c94fe4f895a125e01ca"
+        },
+        {
+          "at": "2026-09-07T17:14:55.340662+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjM4MDY4OTYsIDExMDQ1Mzc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMTU0NTI1OTE4J10i",
+          "page": 2,
+          "results": 100,
+          "sha256": "b6bddc9b8587e65633d1963ff8b70f6f10816ef4800863e50df4e27cabfcef6f"
+        },
+        {
+          "at": "2026-09-07T17:18:10.205093+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjQxMjE2ODUsIDEzMzMzMjQ4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwMzM3OTk0MSddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "50ee00c286c28deaea3ed6bb19fbc6eb3e367fd8e4b372573244aa7ed2dcb2ee"
+        },
+        {
+          "at": "2026-09-07T17:18:12.361873+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjQ0NzczMjcsIDE3NTUzODg4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMzI4Mjg3NSddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "f58c8a4f577a2c6eb10347d9d9016fa9052febaee177a34d15845f41da077a1a"
+        },
+        {
+          "at": "2026-09-07T17:18:14.340629+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM2NDgzNDIyLCAxNzM1Njg5NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNTk3Mzc4ODgnXSI%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "21ab3653adcc7c52e3c70bc6f9ea4051523688720c9cad3d45f1a5dafdcbf676"
+        },
+        {
+          "at": "2026-09-07T17:21:33.666832+00:00",
+          "cursor": "IlswLjIwNjkyNzg3LCAxNzQ4MzkwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTYwNDc4OTInXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 0
+        },
+        {
+          "at": "2026-09-07T17:21:38.977313+00:00",
+          "cursor": "IlswLjIwNjkyNzg3LCAxNzQ4MzkwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTYwNDc4OTInXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 1
+        },
+        {
+          "at": "2026-09-07T17:21:49.312821+00:00",
+          "cursor": "IlswLjIwNjkyNzg3LCAxNzQ4MzkwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTYwNDc4OTInXSI=",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 2
+        },
+        {
+          "at": "2026-09-07T22:20:54.252217+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjIwNjkyNzg3LCAxNzQ4MzkwNDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTYwNDc4OTInXSI%3D",
+          "page": 6,
+          "results": 21,
+          "sha256": "55920c4a8459be065c6eb02edab7ef464ace3b03a2907a2cbd968e63063b5a25"
+        }
+      ],
+      "status": "complete"
+    },
+    "e918277589919146bab2": {
+      "api": "openalex",
+      "query": "\"chatbot design\" user experience",
+      "cursor": null,
+      "pages": 41,
+      "records": 4040,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:14:57.464703+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "0d0ba6062fd00f7e407ba2c6a23fb79e00cc88b5ac343397058f33fbe1d1aeb6"
+        },
+        {
+          "at": "2026-09-07T17:14:59.398638+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1MS4yNDk2OSwgMTUxNDc2NDgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1cyODA5NDI3MDAzJ10i",
+          "page": 2,
+          "results": 100,
+          "sha256": "12a881d4addaa3f4012eb0c42d6d1f713070087de99321fd7ad6533e7dfda1de"
+        },
+        {
+          "at": "2026-09-07T17:18:16.873054+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyOS45NzkyOTYsIDE2OTYxMTg0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NzU3NDgzOCddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "ad01c93cf89b7c4a85251b97f24bc07aecf49a005f09c7957ffbfcae0f5bf338"
+        },
+        {
+          "at": "2026-09-07T17:18:18.929997+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyMi4yNjYzMzgsIDE2MTEzNjAwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzEyNTc3MDYzOCddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "eb1866e641950b5a598025a8f70ee6af6a41af3b9316a4b09dd90ccb5bffacbc"
+        },
+        {
+          "at": "2026-09-07T17:18:21.090936+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxNy4yNzY0ODUsIDE3NzIyMzY4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEzMjg1MDY5MiddIg%3D%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "db1c25a182c0d08ae6414627f0f90129c23de887cff733a6c1cd7150c4a8b91d"
+        },
+        {
+          "at": "2026-09-07T17:21:49.612871+00:00",
+          "cursor": "IlsxMy4xMzM5NDEsIDE3NjA1NzI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNTI1NzYxOCddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 0
+        },
+        {
+          "at": "2026-09-07T17:21:54.862988+00:00",
+          "cursor": "IlsxMy4xMzM5NDEsIDE3NjA1NzI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNTI1NzYxOCddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 1
+        },
+        {
+          "at": "2026-09-07T17:22:05.153098+00:00",
+          "cursor": "IlsxMy4xMzM5NDEsIDE3NjA1NzI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNTI1NzYxOCddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 2
+        },
+        {
+          "at": "2026-09-07T22:20:56.848958+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxMy4xMzM5NDEsIDE3NjA1NzI4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNTI1NzYxOCddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "c94e940c4ae58fe292733d4791888330e4b1d83adc2e083af20d221e27beaebf"
+        },
+        {
+          "at": "2026-09-07T22:20:58.956375+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxMC4xNzgyNjgsIDE3NjQzNzQ0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxNjgxNDk3MyddIg%3D%3D",
+          "page": 7,
+          "results": 100,
+          "sha256": "2cbdfe6e08ec02108af3a082dd1e0044c78e7d4a1c178f58923e16a5928d77eb"
+        },
+        {
+          "at": "2026-09-07T22:21:02.169336+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils3Ljc3OTY5MiwgMTYyMjY3ODQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTY0MzcxNzE0J10i",
+          "page": 8,
+          "results": 100,
+          "sha256": "b393c244d8c6dc400004c445c91d902b83267630a51b8462b9ffbdcc454dbacc"
+        },
+        {
+          "at": "2026-09-07T22:21:04.812683+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils2LjI1OTA3NCwgMTc4NDY3ODQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c3MjA4NzE5OTI4J10i",
+          "page": 9,
+          "results": 100,
+          "sha256": "4bcd562c3220d05a27753f5f54fbe2f4a55874688d66ddf8498b4a52e5556a4f"
+        },
+        {
+          "at": "2026-09-07T22:21:06.803031+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1LjM0MTYzNiwgMTYyODU1MzYwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1czMTkzMjI3NzY5J10i",
+          "page": 10,
+          "results": 100,
+          "sha256": "451788eb7d39b35df7363861bc17c94ce5955e26cdd39412af650f7f3dae27da"
+        },
+        {
+          "at": "2026-09-07T22:21:08.722747+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjcyNzQ1OTQsIDE3ODIwODY0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2NTU2NTgwNiddIg%3D%3D",
+          "page": 11,
+          "results": 100,
+          "sha256": "c2ac14e5d4f286c45da04f87acc1fbb54ec87ee27eb8ffc8ad16e6c609abe298"
+        },
+        {
+          "at": "2026-09-07T22:21:10.466635+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils0LjI0Mzg2NjQsIDE3NjcyMjU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE1NTU3NjkxOCddIg%3D%3D",
+          "page": 12,
+          "results": 100,
+          "sha256": "3bfd74415898944cb3af033b208021c2a2ef9823c49ac696d41e0ab367fe287a"
+        },
+        {
+          "at": "2026-09-07T22:21:12.449324+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjc2NTcxMDQsIDE3MDA2MTEyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODg5NjM1NyddIg%3D%3D",
+          "page": 13,
+          "results": 100,
+          "sha256": "f5c576e371884f249802cf4114937563e8888c3af60a2d9ec17bea2d29f2a42a"
+        },
+        {
+          "at": "2026-09-07T22:21:14.741567+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjQwNTc3MTcsIDE1NDgyMDE2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjkxNDMxMzkzNiddIg%3D%3D",
+          "page": 14,
+          "results": 100,
+          "sha256": "109a1b30e900fcfb68a0cddc204c728350ae0de9a38b607d35af24da263841f3"
+        },
+        {
+          "at": "2026-09-07T22:21:17.178728+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlszLjE1ODc5MTUsIDE3MzU2ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzExNzE2MTM3MyddIg%3D%3D",
+          "page": 15,
+          "results": 100,
+          "sha256": "b0d799c30e275bdbfd4964f0b88a0d4fae2d83cac4e41315c41760945e901867"
+        },
+        {
+          "at": "2026-09-07T22:26:41.752623+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjkzNDg1ODYsIDE3MTQ4NjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5NjY3MjcyNCddIg%3D%3D",
+          "page": 16,
+          "results": 100,
+          "sha256": "a16a6f5329f2bddbe754e3abdbb313041cff70207f14e8503361f280fd978239"
+        },
+        {
+          "at": "2026-09-07T22:26:43.632696+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjc4ODc2MiwgMTY4MTg2MjQwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0MzY2MzkzODc1J10i",
+          "page": 17,
+          "results": 100,
+          "sha256": "bf90b8eaa362743cec245d98882585c7db019767234ebe5d672664151a68bb22"
+        },
+        {
+          "at": "2026-09-07T22:26:45.985029+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjY0Nzg3MDUsIDE2MzI5NjAwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDIwNjE0NTY0OSddIg%3D%3D",
+          "page": 18,
+          "results": 100,
+          "sha256": "49628a352616ad7351bebd574cf8b62b740de28b5c674746f5c1328d1a7f79e8"
+        },
+        {
+          "at": "2026-09-07T22:26:47.944798+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjUwODA5NTMsIDE0OTU0MTEyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDI0OTQ1NjQ5OSddIg%3D%3D",
+          "page": 19,
+          "results": 100,
+          "sha256": "5bb12573bbc8bc73d4997568e9a9280c041d78c9aa3fb8f4e45f88faf442a536"
+        },
+        {
+          "at": "2026-09-07T22:26:50.481374+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjM2Mzc3MzYsIDE1NjcyOTYwMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMjk2NDAxMDE2NiddIg%3D%3D",
+          "page": 20,
+          "results": 100,
+          "sha256": "a8de531821ade70b0ebcd8762e3e9edad84e7ee3fea68a842df000850b49e161"
+        },
+        {
+          "at": "2026-09-07T22:26:52.630383+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjIyODIzMzgsIDE3ODQ1MDU2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2OTczMzY2MyddIg%3D%3D",
+          "page": 21,
+          "results": 100,
+          "sha256": "e131954337d93eabce07e85f513ecdcccc24926e3552cb8a69d20eb60ab4c783"
+        },
+        {
+          "at": "2026-09-07T22:26:54.587310+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjA5ODUzMjIsIDE3NDEyMTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwODIzOTM5MCddIg%3D%3D",
+          "page": 22,
+          "results": 100,
+          "sha256": "774aaf23184ad17c72375ddc780cb2986a6c353b34c19b83098776c3b6cceda4"
+        },
+        {
+          "at": "2026-09-07T22:26:56.906641+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjk0MzAxOTQsIDE3MTcwMjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5OTI1MjEwMSddIg%3D%3D",
+          "page": 23,
+          "results": 100,
+          "sha256": "3fb0a8d1ae32996050dcdae643b8e482ba5d57474592c544291c204e4d923923"
+        },
+        {
+          "at": "2026-09-07T22:26:59.877406+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjgxNjg3NjQsIDE3MDQwNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNzA3NDgwMSddIg%3D%3D",
+          "page": 24,
+          "results": 100,
+          "sha256": "9b27733b6a96f3a159c8e1ec3b6bd1ef9d96dbd2b8fff79f26008ff57bfeffa1"
+        },
+        {
+          "at": "2026-09-07T22:27:02.350962+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjY5MDU0NiwgMTcyNzMwODgwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDAzODA5MjM0J10i",
+          "page": 25,
+          "results": 100,
+          "sha256": "e93a1037677dd9418a976276bc8ea0ea6c5421c1fcafdbe59bd2a122b86647ea"
+        },
+        {
+          "at": "2026-09-07T22:27:24.536116+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjU1NDI4ODcsIDE2OTA2NzUyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4NTQwMzUyNSddIg%3D%3D",
+          "page": 26,
+          "results": 100,
+          "sha256": "c76bc08a634594f89047700168b8fb7a17834abd15caaefbe158005d385d03bc"
+        },
+        {
+          "at": "2026-09-07T22:27:26.885167+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjQ0MTg2ODUsIDE3MzU2ODk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQxMjg4OTkzNSddIg%3D%3D",
+          "page": 27,
+          "results": 100,
+          "sha256": "6ec14f3c9f7f8602d04d7c600a64d92bf84fef1293cb1e8588d4a90d21bf467d"
+        },
+        {
+          "at": "2026-09-07T22:27:29.402317+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjI4MTQ0MiwgMTcyOTcyODAwMDAwMCwgJ2h0dHBzOi8vb3BlbmFsZXgub3JnL1c0NDAzNzQxODkxJ10i",
+          "page": 28,
+          "results": 100,
+          "sha256": "87994bd2c2e8b84cefa7af77c654428dc2c247ec3e188acdfc93e5db659a2000"
+        },
+        {
+          "at": "2026-09-07T22:27:31.244615+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjAwODUxMTIsIDE3MDczNTA0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM5NDgzNzQ0MCddIg%3D%3D",
+          "page": 29,
+          "results": 100,
+          "sha256": "039a332871e1a8041803bed8f7f4bf3340c10836b1c1d820e91a2ca6f7f885fd"
+        },
+        {
+          "at": "2026-09-07T22:27:33.402683+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQ0OTY3NTM1LCAxNzgyMzQ1NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNzAxODIyNDInXSI%3D",
+          "page": 30,
+          "results": 100,
+          "sha256": "f39176b38fd0c17d700911238a15a55231f83c339b4ac5badfb1f52a540b655e"
+        },
+        {
+          "at": "2026-09-07T22:27:35.754909+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQyMjQzMDE2LCAxNzczNDQ2NDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMzkwMjI1MDUnXSI%3D",
+          "page": 31,
+          "results": 100,
+          "sha256": "2d48f6bfc6d211cb2cf8de457d39205f133520f18c626adcc4d258c9bb1b1484"
+        },
+        {
+          "at": "2026-09-07T22:27:38.171533+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQwMTA0NDczLCAxNzU2Njg0ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTUyMTMxMTgnXSI%3D",
+          "page": 32,
+          "results": 100,
+          "sha256": "59f7fb8ff47ecb4b826a18475ab940ceb8f6ef5b694d23a43f4a32249cd488b9"
+        },
+        {
+          "at": "2026-09-07T22:27:40.848231+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM4NjA1NDI4LCAxNjQyNzIzMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzOTAwNTM3ODknXSI%3D",
+          "page": 33,
+          "results": 100,
+          "sha256": "e1265b93c32d9042ce466179f4c06e1991294a2938d29dcab0323fdc1aeaa556"
+        },
+        {
+          "at": "2026-09-07T22:27:43.097867+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM3Mjk2NjgzLCAxNjcyNTMxMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQzODY3MDQyODMnXSI%3D",
+          "page": 34,
+          "results": 100,
+          "sha256": "5dd95d212665ac701f0b47f44aba64ffb0f3b84f9621459a69a413be06e26b6a"
+        },
+        {
+          "at": "2026-09-07T22:27:45.339541+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM2MDQ3NDc3LCAxNzI0Mjg0ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MDI2OTg4MzQnXSI%3D",
+          "page": 35,
+          "results": 100,
+          "sha256": "9615465fc1f36e1d7721fdd46df8d01a015cdee62c72fd8a060aa26e6a56361b"
+        },
+        {
+          "at": "2026-09-07T22:27:58.231916+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjM0NTk2Njg1LCAxNzc0NTY5NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNDE3NTAyNjcnXSI%3D",
+          "page": 36,
+          "results": 100,
+          "sha256": "9f00255987daaf9ff9fbdf1ec7c375d138691aa2de7ed8889540a5b1bc088105"
+        },
+        {
+          "at": "2026-09-07T22:28:00.696991+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjMzMDk4ODUzLCAxNzc0ODI4ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNDMzMzExNDInXSI%3D",
+          "page": 37,
+          "results": 100,
+          "sha256": "dad8c1a03d61a7e23d6b47b66a91f707b2f82c29c7d443e7f8ae70d5b3c793fa"
+        },
+        {
+          "at": "2026-09-07T22:28:03.202774+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjMxNDU5MTk3LCAxNzc5NzUzNjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxNjI0NjQ5NDMnXSI%3D",
+          "page": 38,
+          "results": 100,
+          "sha256": "0bd571990540297f50a9a74f8fc634b9ffa6f62a29f763988e37a3cbe5696c6d"
+        },
+        {
+          "at": "2026-09-07T22:28:05.111874+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI5NDkxMTI0LCAxNzcyMzIzMjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMzM1NTQ5MzMnXSI%3D",
+          "page": 39,
+          "results": 100,
+          "sha256": "fee890447161625428f5ffbae457d2a1c60f26f93ee42b3d6e59b4a0856c3aa8"
+        },
+        {
+          "at": "2026-09-07T22:28:07.107174+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI2NzksIDE3NjU0OTc2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE2NDMzNzE5OCddIg%3D%3D",
+          "page": 40,
+          "results": 100,
+          "sha256": "92ba7030bf2f6a141c1d398e35d6a884022b62adcc042f517674f75873802583"
+        },
+        {
+          "at": "2026-09-07T22:28:08.800138+00:00",
+          "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjIyNDgxODQ3LCAxNzM1Njg5NjAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzQ0MTE1ODYzNjknXSI%3D",
+          "page": 41,
+          "results": 40,
+          "sha256": "b21bc2b1c2ce8cc9e6da3f8e0bdd8699f7d695fb6aa93f05478afeec31ab2bf3"
+        }
+      ],
+      "status": "complete"
+    },
+    "7e6513c13d5f8056346a": {
+      "api": "openalex",
+      "query": "\"design conversacional\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 21,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:00.830047+00:00",
+          "url": "https://api.openalex.org/works?search=%22design+conversacional%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 21,
+          "sha256": "bb9306be7ecb88d515e224139580ccc9b720bd8d4c33ceb43fdbc0917476667f"
+        }
+      ],
+      "status": "complete"
+    },
+    "8183a188116c3966d0ab": {
+      "api": "openalex",
+      "query": "\"design de conversação\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 2,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:01.949905+00:00",
+          "url": "https://api.openalex.org/works?search=%22design+de+conversa%C3%A7%C3%A3o%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 2,
+          "sha256": "d0624307aa1f3433ac328c047cc0f363de9f8a192657e0c532c72c632eefe55c"
+        }
+      ],
+      "status": "complete"
+    },
+    "84be484ca61fc6448318": {
+      "api": "openalex",
+      "query": "\"design de diálogo\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 5,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:03.378730+00:00",
+          "url": "https://api.openalex.org/works?search=%22design+de+di%C3%A1logo%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 5,
+          "sha256": "c61ca490d4078cadffcefb37a78fa1db6170f3ff6e4c281a433c4918ee6eed2f"
+        }
+      ],
+      "status": "complete"
+    },
+    "3d29687b4afba40281aa": {
+      "api": "openalex",
+      "query": "\"experiência conversacional\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 16,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:04.727672+00:00",
+          "url": "https://api.openalex.org/works?search=%22experi%C3%AAncia+conversacional%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 16,
+          "sha256": "3a0e781a69adcf2afce6af22d79207e8add76a41de8587169bb17b960dc834bf"
+        }
+      ],
+      "status": "complete"
+    },
+    "87408d4dd521160e7f1d": {
+      "api": "openalex",
+      "query": "\"UX conversacional\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 2,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:06.305038+00:00",
+          "url": "https://api.openalex.org/works?search=%22UX+conversacional%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 2,
+          "sha256": "485acede807a964cf9995ed285aad6616a19dd86c174f6c06cbbcd32ab313b00"
+        }
+      ],
+      "status": "complete"
+    },
+    "3516ef49ddde9b34063b": {
+      "api": "openalex",
+      "query": "\"diseño conversacional\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 37,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:07.926130+00:00",
+          "url": "https://api.openalex.org/works?search=%22dise%C3%B1o+conversacional%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 37,
+          "sha256": "7be8dc2066c61f31fdf44f623894a78960883144a0410823140b22220a2cba8a"
+        }
+      ],
+      "status": "complete"
+    },
+    "9fdf2ebef82272354513": {
+      "api": "openalex",
+      "query": "\"interfaces conversacionais\" design",
+      "cursor": null,
+      "pages": 2,
+      "records": 136,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:10.135517+00:00",
+          "url": "https://api.openalex.org/works?search=%22interfaces+conversacionais%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "f6e3db57d0f639a61ba50deb2a3d86914ecf7ae0e6f55612781290b5ffa3912b"
+        },
+        {
+          "at": "2026-09-07T17:15:11.662086+00:00",
+          "url": "https://api.openalex.org/works?search=%22interfaces+conversacionais%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI1Njg1MjQsIDE2MDk0NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XMzE4NTg5OTM2MyddIg%3D%3D",
+          "page": 2,
+          "results": 36,
+          "sha256": "d74e1114af880e589e981dd7d1a57c75d8bd416c20717aa0039a956af4c14f25"
+        }
+      ],
+      "status": "complete"
+    },
+    "d5100e510fc5d55a5940": {
+      "api": "openalex",
+      "query": "\"interfaces conversacionales\" diseño",
+      "cursor": null,
+      "pages": 2,
+      "records": 153,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:13.606499+00:00",
+          "url": "https://api.openalex.org/works?search=%22interfaces+conversacionales%22+dise%C3%B1o&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "cfe4a800dd2bcacb5e20a8221b9550952f111a90d21768fa53a925dd1e0c8401"
+        },
+        {
+          "at": "2026-09-07T17:15:15.278587+00:00",
+          "url": "https://api.openalex.org/works?search=%22interfaces+conversacionales%22+dise%C3%B1o&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjQxOTcxNTQ2LCAxNzg3MTg0MDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcyMDM4MjI0ODEnXSI%3D",
+          "page": 2,
+          "results": 53,
+          "sha256": "b1bbe8ab751040f42e61a0eb9211d75079927391888b3ece2ebc5a6ec0a4f028"
+        }
+      ],
+      "status": "complete"
+    },
+    "c1e682f5adb85230799d": {
+      "api": "openalex",
+      "query": "\"sistemas conversacionais\" acessibilidade",
+      "cursor": null,
+      "pages": 1,
+      "records": 49,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:16.773623+00:00",
+          "url": "https://api.openalex.org/works?search=%22sistemas+conversacionais%22+acessibilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 49,
+          "sha256": "75a0ec841966258770514a6a293218568d069ca32780ec224892a8905b795433"
+        }
+      ],
+      "status": "complete"
+    },
+    "556d1e67fb7c6d5de445": {
+      "api": "openalex",
+      "query": "\"agentes conversacionais\" design",
+      "cursor": null,
+      "pages": 3,
+      "records": 259,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:18.914294+00:00",
+          "url": "https://api.openalex.org/works?search=%22agentes+conversacionais%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "80493ea23263909d8a0de5c69c9cbb43ee01154fa434ef6833d5ed58fce8ad7c"
+        },
+        {
+          "at": "2026-09-07T17:15:20.715994+00:00",
+          "url": "https://api.openalex.org/works?search=%22agentes+conversacionais%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjkzOTk0OTA0LCAxNzg3MTg0MDAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcyMDM4OTc0MTQnXSI%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "734d89bee5ac8b7f5ee33fde5ef8a3a00c7235c611643dfe90077871d615e301"
+        },
+        {
+          "at": "2026-09-07T17:18:23.244960+00:00",
+          "url": "https://api.openalex.org/works?search=%22agentes+conversacionais%22+design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjI4NTYwMzEsIDE3ODUzNjk2MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzE3MTc4MDEwOCddIg%3D%3D",
+          "page": 3,
+          "results": 59,
+          "sha256": "5b258985dacc031e71b2786950a36f92dcf10006a4ee5b2c5d0a84ab9d372256"
+        }
+      ],
+      "status": "complete"
+    },
+    "3de2245e559e53c9b595": {
+      "api": "openalex",
+      "query": "chatbot acessibilidade usabilidade",
+      "cursor": null,
+      "pages": 7,
+      "records": 624,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:22.582228+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 100,
+          "sha256": "8f71ed21115db2cf1399169a3b88009d081e5c85b0492e572df06a8e68601812"
+        },
+        {
+          "at": "2026-09-07T17:15:24.241219+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=Ils1Ljc3MzA0MjcsIDE3MDQwNjcyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNzEyMDU4NTA5MCddIg%3D%3D",
+          "page": 2,
+          "results": 100,
+          "sha256": "2a27093b6a00fae97cf08629dda56b6870f9365307b5ef9250967db9f5ba8a27"
+        },
+        {
+          "at": "2026-09-07T17:18:25.158217+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsyLjAyNTY1MzYsIDE2MDk0NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDIzNjM0ODg2OCddIg%3D%3D",
+          "page": 3,
+          "results": 100,
+          "sha256": "1387a0790ef54bd32c27d1ea709636b5be65095388d51f719664c1c38cdfae28"
+        },
+        {
+          "at": "2026-09-07T17:18:27.010536+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlsxLjI3NTI3MDUsIDE3MzMzNTY4MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDQwNTkxMDgzNiddIg%3D%3D",
+          "page": 4,
+          "results": 100,
+          "sha256": "4fbfa0ee70323e20e639313cb897f5405ec3bc8b989230d4cdc3c3b162596c79"
+        },
+        {
+          "at": "2026-09-07T17:18:28.832240+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjk5ODY0OTg0LCAxNzAxMzg4ODAwMDAwLCAnaHR0cHM6Ly9vcGVuYWxleC5vcmcvVzcxMTMxODc4MDMnXSI%3D",
+          "page": 5,
+          "results": 100,
+          "sha256": "f79e64c03621b29b3793f0844d7aa8627f264020c9b8d89c8d95424dc0fd8626"
+        },
+        {
+          "at": "2026-09-07T17:22:05.543628+00:00",
+          "cursor": "IlswLjc2MzQwODksIDE2OTU4NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODU2MDQ3NyddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 0
+        },
+        {
+          "at": "2026-09-07T17:22:10.840818+00:00",
+          "cursor": "IlswLjc2MzQwODksIDE2OTU4NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODU2MDQ3NyddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 1
+        },
+        {
+          "at": "2026-09-07T17:22:21.131792+00:00",
+          "cursor": "IlswLjc2MzQwODksIDE2OTU4NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODU2MDQ3NyddIg==",
+          "error": "<HTTPError 429: 'Too Many Requests'>",
+          "retry": 2
+        },
+        {
+          "at": "2026-09-07T22:21:19.105605+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjc2MzQwODksIDE2OTU4NTkyMDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4ODU2MDQ3NyddIg%3D%3D",
+          "page": 6,
+          "results": 100,
+          "sha256": "c9f9263af565e5732c08524a1e410ab61ad51ed6715ab5913fd7a4532ef02443"
+        },
+        {
+          "at": "2026-09-07T22:21:20.925206+00:00",
+          "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=IlswLjUyNDY3MTcsIDE3MDE3MzQ0MDAwMDAsICdodHRwczovL29wZW5hbGV4Lm9yZy9XNDM4OTMzMTM0MCddIg%3D%3D",
+          "page": 7,
+          "results": 24,
+          "sha256": "ae4ffd57158f0d58c5555ccba81866793d39ecc4d17330cc4ddb9b6de2b92113"
+        }
+      ],
+      "status": "complete"
+    },
+    "6713129d86ed0e507ce7": {
+      "api": "openalex",
+      "query": "\"conception conversationnelle\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 6,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:25.507736+00:00",
+          "url": "https://api.openalex.org/works?search=%22conception+conversationnelle%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 6,
+          "sha256": "6f4803789fbc4a96f6d6575b480f2939cbcc429e312342db01ef10a1a4704eec"
+        }
+      ],
+      "status": "complete"
+    },
+    "828b446b20a5663251f1": {
+      "api": "openalex",
+      "query": "\"design conversationnel\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 7,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:26.656988+00:00",
+          "url": "https://api.openalex.org/works?search=%22design+conversationnel%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 7,
+          "sha256": "711f3a8373ea1929586b50b166bff0be2935170dc5291689bba1ce7047e00b7a"
+        }
+      ],
+      "status": "complete"
+    },
+    "07ec44956465be22e88d": {
+      "api": "openalex",
+      "query": "\"interface conversationnelle\" conception",
+      "cursor": null,
+      "pages": 1,
+      "records": 30,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:28.256771+00:00",
+          "url": "https://api.openalex.org/works?search=%22interface+conversationnelle%22+conception&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 30,
+          "sha256": "6c49feccf308c85d1e3f9565cf130fda2a275c909e15c327081f59f2d934d877"
+        }
+      ],
+      "status": "complete"
+    },
+    "63562045122f58df1c87": {
+      "api": "openalex",
+      "query": "\"Konversationsdesign\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 5,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:29.414075+00:00",
+          "url": "https://api.openalex.org/works?search=%22Konversationsdesign%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 5,
+          "sha256": "c06b7cf3cd00c2b3acf1e6c652a71669c4923521c1919afb67750c9300513c19"
+        }
+      ],
+      "status": "complete"
+    },
+    "91de1ad5d35a3b277f4b": {
+      "api": "openalex",
+      "query": "\"dialogorientiertes Design\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 0,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:30.432577+00:00",
+          "url": "https://api.openalex.org/works?search=%22dialogorientiertes+Design%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 0,
+          "sha256": "97b9f094ada21cfa2a2d337303edd4d69c223c1ad95c78636333b1b914151d2b"
+        }
+      ],
+      "status": "complete"
+    },
+    "6d16a3f573ac3d7c09e6": {
+      "api": "openalex",
+      "query": "\"konversationelle Schnittstelle\" Design",
+      "cursor": null,
+      "pages": 1,
+      "records": 2,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:31.569137+00:00",
+          "url": "https://api.openalex.org/works?search=%22konversationelle+Schnittstelle%22+Design&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 2,
+          "sha256": "7f2b60ae5e6e33ec3acaca39d860d3de958dc0285da7dae337fe6242d68c5a94"
+        }
+      ],
+      "status": "complete"
+    },
+    "da95fda9c8721bc85577": {
+      "api": "openalex",
+      "query": "\"progettazione conversazionale\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 0,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:32.578339+00:00",
+          "url": "https://api.openalex.org/works?search=%22progettazione+conversazionale%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 0,
+          "sha256": "724ec02974a9143637e640cbe15d6c3dfcd9d6b55177e0fbe854e9c505025dcf"
+        }
+      ],
+      "status": "complete"
+    },
+    "25d4ea92384318c57061": {
+      "api": "openalex",
+      "query": "\"interfaccia conversazionale\" progettazione",
+      "cursor": null,
+      "pages": 1,
+      "records": 3,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:34.100729+00:00",
+          "url": "https://api.openalex.org/works?search=%22interfaccia+conversazionale%22+progettazione&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 3,
+          "sha256": "f4e903911649c15dffc95e40d035e8bd7a3c3fd80af962a7d796aea43b9dc862"
+        }
+      ],
+      "status": "complete"
+    },
+    "dcee6014bc64d7d73df0": {
+      "api": "openalex",
+      "query": "\"会话设计\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 0,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:35.129091+00:00",
+          "url": "https://api.openalex.org/works?search=%22%E4%BC%9A%E8%AF%9D%E8%AE%BE%E8%AE%A1%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 0,
+          "sha256": "6ea64fdf0f6a663664062f893bbccf5686e103b6a0860122cae3f98cb109b23f"
+        }
+      ],
+      "status": "complete"
+    },
+    "5e70ad39cf994250eb4c": {
+      "api": "openalex",
+      "query": "\"对话式界面\" 设计",
+      "cursor": null,
+      "pages": 1,
+      "records": 1,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:36.200050+00:00",
+          "url": "https://api.openalex.org/works?search=%22%E5%AF%B9%E8%AF%9D%E5%BC%8F%E7%95%8C%E9%9D%A2%22+%E8%AE%BE%E8%AE%A1&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 1,
+          "sha256": "437732094bf33579e9c401aae7f6394e8cacd627662b680b5c8ed12aebc8d259"
+        }
+      ],
+      "status": "complete"
+    },
+    "50c9256512779ef02b2b": {
+      "api": "openalex",
+      "query": "\"対話デザイン\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 13,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:37.572595+00:00",
+          "url": "https://api.openalex.org/works?search=%22%E5%AF%BE%E8%A9%B1%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 13,
+          "sha256": "499e2d297f646a69ecdbd120cf7a015cc4d0b64eec6aa2cdb0581e17ffe344e4"
+        }
+      ],
+      "status": "complete"
+    },
+    "b6aa8dbbbcbe9b157c6a": {
+      "api": "openalex",
+      "query": "\"会話型インターフェース\" 設計",
+      "cursor": null,
+      "pages": 1,
+      "records": 2,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:38.664717+00:00",
+          "url": "https://api.openalex.org/works?search=%22%E4%BC%9A%E8%A9%B1%E5%9E%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%22+%E8%A8%AD%E8%A8%88&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 2,
+          "sha256": "712c4a81b02ec8601b07c5fa8c6e7f3ec789dfa10f08bead55b9f04538f62e29"
+        }
+      ],
+      "status": "complete"
+    },
+    "e904218a0d085e0a934d": {
+      "api": "openalex",
+      "query": "\"대화형 디자인\"",
+      "cursor": null,
+      "pages": 1,
+      "records": 0,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:39.685938+00:00",
+          "url": "https://api.openalex.org/works?search=%22%EB%8C%80%ED%99%94%ED%98%95+%EB%94%94%EC%9E%90%EC%9D%B8%22&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 0,
+          "sha256": "989d2141c0338a68fc394346787f1053c7ac28fee2018f9fd86b8005c5262205"
+        }
+      ],
+      "status": "complete"
+    },
+    "48d46a57b5a7054b48ff": {
+      "api": "openalex",
+      "query": "\"대화형 인터페이스\" 설계",
+      "cursor": null,
+      "pages": 1,
+      "records": 7,
+      "complete": true,
+      "attempts": [
+        {
+          "at": "2026-09-07T17:15:41.030328+00:00",
+          "url": "https://api.openalex.org/works?search=%22%EB%8C%80%ED%99%94%ED%98%95+%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%22+%EC%84%A4%EA%B3%84&per-page=100&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access&cursor=%2A",
+          "page": 1,
+          "results": 7,
+          "sha256": "c96f87eb7fe54c2e6871971b093d07e99398580f118eda3e0db53a58f722d754"
+        }
+      ],
+      "status": "complete"
+    }
+  }
+}

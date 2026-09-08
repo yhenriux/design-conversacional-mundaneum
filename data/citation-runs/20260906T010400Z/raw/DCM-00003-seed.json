@@ -1,0 +1,1013 @@
+{
+  "id": "https://openalex.org/W4221158799",
+  "doi": "https://doi.org/10.1145/3491102.3517525",
+  "title": "Polite or Direct? Conversation Design of a Smart Display for Older Adults Based on Politeness Theory",
+  "display_name": "Polite or Direct? Conversation Design of a Smart Display for Older Adults Based on Politeness Theory",
+  "publication_year": 2022,
+  "publication_date": "2022-04-28",
+  "ids": {
+    "openalex": "https://openalex.org/W4221158799",
+    "doi": "https://doi.org/10.1145/3491102.3517525"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3491102.3517525",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.1145/3491102.3517525",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4363607743",
+      "display_name": "CHI Conference on Human Factors in Computing Systems",
+      "issn_l": null,
+      "issn": null,
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "CHI Conference on Human Factors in Computing Systems",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": false,
+    "oa_status": "closed",
+    "oa_url": null,
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5063883399",
+        "display_name": "Yaxin Hu",
+        "orcid": "https://orcid.org/0000-0003-4462-0140"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yaxin Hu",
+      "raw_affiliation_strings": [
+        "Department of Computer Sciences / People and Robots Laboratory, University of Wisconsin-Madison, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Sciences / People and Robots Laboratory, University of Wisconsin-Madison, United States",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5046179949",
+        "display_name": "Yuxiao Qu",
+        "orcid": "https://orcid.org/0009-0001-0184-1819"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Yuxiao Qu",
+      "raw_affiliation_strings": [
+        "University of Wisconsin-Madison, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Wisconsin-Madison, United States",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5050393466",
+        "display_name": "Adam Maus",
+        "orcid": "https://orcid.org/0000-0002-5896-5230"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210125302",
+          "display_name": "Quality Enhancement Research Initiative",
+          "ror": "https://ror.org/03cdz5d08",
+          "country_code": "US",
+          "type": "other",
+          "lineage": [
+            "https://openalex.org/I1322918889",
+            "https://openalex.org/I2799886695",
+            "https://openalex.org/I4210125302"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Adam Maus",
+      "raw_affiliation_strings": [
+        "Center for Health Enhancement Systems Studies, University of Wisconsin - Madison, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Center for Health Enhancement Systems Studies, University of Wisconsin - Madison, United States",
+          "institution_ids": [
+            "https://openalex.org/I135310074",
+            "https://openalex.org/I4210125302"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5017344436",
+        "display_name": "Bilge Mutlu",
+        "orcid": "https://orcid.org/0000-0002-9456-1495"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I135310074",
+          "display_name": "University of Wisconsin–Madison",
+          "ror": "https://ror.org/01y2jtd41",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Bilge Mutlu",
+      "raw_affiliation_strings": [
+        "Department of Computer Sciences, University of Wisconsin-Madison, United States"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Computer Sciences, University of Wisconsin-Madison, United States",
+          "institution_ids": [
+            "https://openalex.org/I135310074"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 5.2286,
+  "has_fulltext": false,
+  "cited_by_count": 43,
+  "citation_normalized_percentile": {
+    "value": 0.96482888,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 99,
+    "max": 100
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "15"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9990000128746033,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9990000128746033,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10709",
+      "display_name": "Social Robot Interaction and HRI",
+      "score": 0.9955000281333923,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13155",
+      "display_name": "Digital Communication and Language",
+      "score": 0.9933000206947327,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1709",
+        "display_name": "Human-Computer Interaction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/politeness",
+      "display_name": "Politeness",
+      "score": 0.9673761129379272
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.8270382285118103
+    },
+    {
+      "id": "https://openalex.org/keywords/politeness-theory",
+      "display_name": "Politeness theory",
+      "score": 0.7410092353820801
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5831553936004639
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.5769586563110352
+    },
+    {
+      "id": "https://openalex.org/keywords/persona",
+      "display_name": "Persona",
+      "score": 0.48247960209846497
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.4178731441497803
+    },
+    {
+      "id": "https://openalex.org/keywords/internet-privacy",
+      "display_name": "Internet privacy",
+      "score": 0.35139650106430054
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.31863027811050415
+    },
+    {
+      "id": "https://openalex.org/keywords/communication",
+      "display_name": "Communication",
+      "score": 0.2186684012413025
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C61123122",
+      "wikidata": "https://www.wikidata.org/wiki/Q281287",
+      "display_name": "Politeness",
+      "level": 2,
+      "score": 0.9673761129379272
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.8270382285118103
+    },
+    {
+      "id": "https://openalex.org/C58393919",
+      "wikidata": "https://www.wikidata.org/wiki/Q7210152",
+      "display_name": "Politeness theory",
+      "level": 3,
+      "score": 0.7410092353820801
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5831553936004639
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.5769586563110352
+    },
+    {
+      "id": "https://openalex.org/C313442",
+      "wikidata": "https://www.wikidata.org/wiki/Q778556",
+      "display_name": "Persona",
+      "level": 2,
+      "score": 0.48247960209846497
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.4178731441497803
+    },
+    {
+      "id": "https://openalex.org/C108827166",
+      "wikidata": "https://www.wikidata.org/wiki/Q175975",
+      "display_name": "Internet privacy",
+      "level": 1,
+      "score": 0.35139650106430054
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.31863027811050415
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.2186684012413025
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1145/3491102.3517525",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.1145/3491102.3517525",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4363607743",
+        "display_name": "CHI Conference on Human Factors in Computing Systems",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "CHI Conference on Human Factors in Computing Systems",
+      "raw_type": "proceedings-article"
+    }
+  ],
+  "best_oa_location": null,
+  "sustainable_development_goals": [
+    {
+      "display_name": "Quality Education",
+      "id": "https://metadata.un.org/sdg/4",
+      "score": 0.5299999713897705
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 35,
+  "referenced_works": [
+    "https://openalex.org/W2004513044",
+    "https://openalex.org/W2075729255",
+    "https://openalex.org/W2082781326",
+    "https://openalex.org/W2094745494",
+    "https://openalex.org/W2405187948",
+    "https://openalex.org/W2407369300",
+    "https://openalex.org/W2466238859",
+    "https://openalex.org/W2745199108",
+    "https://openalex.org/W2808599433",
+    "https://openalex.org/W2899225656",
+    "https://openalex.org/W2912941864",
+    "https://openalex.org/W2913681502",
+    "https://openalex.org/W2941170438",
+    "https://openalex.org/W2941857004",
+    "https://openalex.org/W2943124083",
+    "https://openalex.org/W2964283259",
+    "https://openalex.org/W2967859656",
+    "https://openalex.org/W2968725073",
+    "https://openalex.org/W2990539159",
+    "https://openalex.org/W3015588689",
+    "https://openalex.org/W3032205432",
+    "https://openalex.org/W3083588436",
+    "https://openalex.org/W3118958215",
+    "https://openalex.org/W3135278659",
+    "https://openalex.org/W3160278099",
+    "https://openalex.org/W3160418499",
+    "https://openalex.org/W3162051685",
+    "https://openalex.org/W3168133312",
+    "https://openalex.org/W3169716176",
+    "https://openalex.org/W3210997190",
+    "https://openalex.org/W4200018492",
+    "https://openalex.org/W4231533450",
+    "https://openalex.org/W4234930092",
+    "https://openalex.org/W4255895325",
+    "https://openalex.org/W4285717434"
+  ],
+  "related_works": [
+    "https://openalex.org/W2581361267",
+    "https://openalex.org/W2902479072",
+    "https://openalex.org/W2966304526",
+    "https://openalex.org/W2362328604",
+    "https://openalex.org/W4280650107",
+    "https://openalex.org/W3178113272",
+    "https://openalex.org/W2385946220",
+    "https://openalex.org/W1975948341",
+    "https://openalex.org/W274466",
+    "https://openalex.org/W4206135091"
+  ],
+  "abstract_inverted_index": {
+    "Conversational": [
+      0
+    ],
+    "interfaces": [
+      1
+    ],
+    "increasingly": [
+      2
+    ],
+    "rely": [
+      3
+    ],
+    "on": [
+      4,
+      14,
+      122,
+      160
+    ],
+    "human-like": [
+      5
+    ],
+    "dialogue": [
+      6,
+      15
+    ],
+    "to": [
+      7,
+      42,
+      105
+    ],
+    "offer": [
+      8
+    ],
+    "a": [
+      9,
+      61,
+      111,
+      139
+    ],
+    "natural": [
+      10
+    ],
+    "experience.": [
+      11,
+      49
+    ],
+    "However,": [
+      12
+    ],
+    "relying": [
+      13
+    ],
+    "involving": [
+      16
+    ],
+    "multiple": [
+      17
+    ],
+    "exchanges": [
+      18
+    ],
+    "for": [
+      19,
+      66,
+      86,
+      153
+    ],
+    "even": [
+      20
+    ],
+    "simple": [
+      21
+    ],
+    "tasks": [
+      22
+    ],
+    "can": [
+      23,
+      186
+    ],
+    "overburden": [
+      24
+    ],
+    "users,": [
+      25
+    ],
+    "particularly": [
+      26
+    ],
+    "older": [
+      27,
+      67
+    ],
+    "adults.": [
+      28
+    ],
+    "In": [
+      29
+    ],
+    "this": [
+      30,
+      44,
+      52,
+      126
+    ],
+    "paper,": [
+      31
+    ],
+    "we": [
+      32,
+      54,
+      128,
+      168
+    ],
+    "explored": [
+      33
+    ],
+    "the": [
+      34,
+      56,
+      100,
+      107,
+      123,
+      135,
+      151
+    ],
+    "use": [
+      35
+    ],
+    "of": [
+      36,
+      102,
+      110,
+      125,
+      134,
+      150,
+      190
+    ],
+    "politeness": [
+      37,
+      91,
+      109
+    ],
+    "theory": [
+      38
+    ],
+    "in": [
+      39,
+      114,
+      145
+    ],
+    "conversation": [
+      40
+    ],
+    "design": [
+      41,
+      189
+    ],
+    "alleviate": [
+      43
+    ],
+    "burden": [
+      45
+    ],
+    "and": [
+      46,
+      80,
+      98,
+      131,
+      137,
+      182
+    ],
+    "improve": [
+      47
+    ],
+    "user": [
+      48,
+      172
+    ],
+    "To": [
+      50
+    ],
+    "achieve": [
+      51
+    ],
+    "goal,": [
+      53
+    ],
+    "categorized": [
+      55
+    ],
+    "voice": [
+      57,
+      112
+    ],
+    "interaction": [
+      58
+    ],
+    "offered": [
+      59
+    ],
+    "by": [
+      60
+    ],
+    "smart": [
+      62,
+      191
+    ],
+    "display": [
+      63
+    ],
+    "application": [
+      64
+    ],
+    "designed": [
+      65,
+      129
+    ],
+    "adults": [
+      68
+    ],
+    "into": [
+      69
+    ],
+    "seven": [
+      70
+    ],
+    "major": [
+      71
+    ],
+    "speech": [
+      72,
+      88
+    ],
+    "acts:": [
+      73
+    ],
+    "request,": [
+      74
+    ],
+    "suggest,": [
+      75
+    ],
+    "instruct,": [
+      76
+    ],
+    "comment,": [
+      77
+    ],
+    "welcome,": [
+      78
+    ],
+    "farewell,": [
+      79
+    ],
+    "repair.": [
+      81
+    ],
+    "We": [
+      82
+    ],
+    "identified": [
+      83,
+      169
+    ],
+    "face": [
+      84
+    ],
+    "needs": [
+      85
+    ],
+    "each": [
+      87,
+      149
+    ],
+    "act,": [
+      89
+    ],
+    "applied": [
+      90
+    ],
+    "strategies": [
+      92,
+      104
+    ],
+    "that": [
+      93
+    ],
+    "best": [
+      94
+    ],
+    "address": [
+      95
+    ],
+    "these": [
+      96,
+      103
+    ],
+    "needs,": [
+      97
+    ],
+    "tested": [
+      99
+    ],
+    "ability": [
+      101
+    ],
+    "shape": [
+      106
+    ],
+    "perceived": [
+      108
+    ],
+    "assistant": [
+      113
+    ],
+    "an": [
+      115
+    ],
+    "online": [
+      116
+    ],
+    "study": [
+      117,
+      141
+    ],
+    "(n": [
+      118,
+      142
+    ],
+    "=": [
+      119,
+      143
+    ],
+    "64).": [
+      120
+    ],
+    "Based": [
+      121,
+      159
+    ],
+    "findings": [
+      124
+    ],
+    "study,": [
+      127
+    ],
+    "direct": [
+      130
+    ],
+    "polite": [
+      132
+    ],
+    "versions": [
+      133,
+      152
+    ],
+    "system": [
+      136
+    ],
+    "conducted": [
+      138
+    ],
+    "field": [
+      140
+    ],
+    "15)": [
+      144
+    ],
+    "which": [
+      146
+    ],
+    "participants": [
+      147
+    ],
+    "used": [
+      148
+    ],
+    "five": [
+      154,
+      161
+    ],
+    "days": [
+      155
+    ],
+    "at": [
+      156
+    ],
+    "their": [
+      157
+    ],
+    "homes.": [
+      158
+    ],
+    "factors": [
+      162
+    ],
+    "merged": [
+      163
+    ],
+    "from": [
+      164
+    ],
+    "our": [
+      165
+    ],
+    "qualitative": [
+      166
+    ],
+    "findings,": [
+      167
+    ],
+    "four": [
+      170
+    ],
+    "distinctive": [
+      171
+    ],
+    "personas—socially": [
+      173
+    ],
+    "oriented": [
+      174,
+      177,
+      180,
+      184
+    ],
+    "follower,": [
+      175,
+      181
+    ],
+    "socially": [
+      176
+    ],
+    "leader,": [
+      178
+    ],
+    "utility": [
+      179,
+      183
+    ],
+    "leader—that": [
+      185
+    ],
+    "inform": [
+      187
+    ],
+    "personalized": [
+      188
+    ],
+    "displays.": [
+      192
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 12
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 8
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    }
+  ],
+  "updated_date": "2026-07-30T17:31:21.811387",
+  "created_date": "2025-10-10T00:00:00"
+}

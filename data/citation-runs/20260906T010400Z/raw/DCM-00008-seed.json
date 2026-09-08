@@ -1,0 +1,2041 @@
+{
+  "id": "https://openalex.org/W2120958028",
+  "doi": "https://doi.org/10.3399/bjgp11x549018",
+  "title": "End-of-life care conversations with heart failure patients: a systematic literature review and narrative synthesis",
+  "display_name": "End-of-life care conversations with heart failure patients: a systematic literature review and narrative synthesis",
+  "publication_year": 2011,
+  "publication_date": "2011-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W2120958028",
+    "doi": "https://doi.org/10.3399/bjgp11x549018",
+    "mag": "2120958028",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/21401993"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3399/bjgp11x549018",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3399/bjgp11x549018",
+    "pdf_url": "https://bjgp.org/content/bjgp/61/582/e49.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S92370695",
+      "display_name": "British Journal of General Practice",
+      "issn_l": "0960-1643",
+      "issn": [
+        "0960-1643",
+        "1478-5242"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311776",
+      "host_organization_name": "Royal College of General Practitioners",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311776"
+      ],
+      "host_organization_lineage_names": [
+        "Royal College of General Practitioners"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of General Practice",
+    "raw_type": "journal-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "bronze",
+    "oa_url": "https://bjgp.org/content/bjgp/61/582/e49.full.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5027365505",
+        "display_name": "Stephen Barclay",
+        "orcid": "https://orcid.org/0000-0002-4505-7743"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4210134505",
+          "display_name": "Primary Health Care",
+          "ror": "https://ror.org/03djtgh02",
+          "country_code": "QA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210134505"
+          ]
+        }
+      ],
+      "countries": [
+        "QA"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stephen Barclay",
+      "raw_affiliation_strings": [
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, Institute of Public Health, Cambridge. sigb2@medschl.cam.ac.uk",
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care Institute of Public Health, Cambridge"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, Institute of Public Health, Cambridge. sigb2@medschl.cam.ac.uk",
+          "institution_ids": [
+            "https://openalex.org/I4210134505"
+          ]
+        },
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care Institute of Public Health, Cambridge",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5032475227",
+        "display_name": "Natalie C. Momen",
+        "orcid": "https://orcid.org/0000-0002-9832-8500"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088493",
+          "display_name": "Institute of Public Health Bengaluru",
+          "ror": "https://ror.org/003shpf72",
+          "country_code": "IN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210090013",
+          "display_name": "Cambridge School",
+          "ror": "https://ror.org/006k1pa70",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210090013"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134505",
+          "display_name": "Primary Health Care",
+          "ror": "https://ror.org/03djtgh02",
+          "country_code": "QA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210134505"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210155638",
+          "display_name": "Department of Public Health",
+          "ror": "https://ror.org/04thj7y95",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210156194",
+          "display_name": "Addenbrooke's Hospital",
+          "ror": "https://ror.org/055vbxf86",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802466933",
+            "https://openalex.org/I4210156194"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IN",
+        "PT",
+        "QA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Natalie Momen",
+      "raw_affiliation_strings": [
+        "Addenbrooke's Hospital, Cambridge",
+        "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+        "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+        "University of Cambridge Medical School Library, School of Clinical Medicine,"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Addenbrooke's Hospital, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210156194"
+          ]
+        },
+        {
+          "raw_affiliation_string": "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+          "institution_ids": [
+            "https://openalex.org/I4210134505",
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Cambridge Medical School Library, School of Clinical Medicine,",
+          "institution_ids": [
+            "https://openalex.org/I241749",
+            "https://openalex.org/I4210090013"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5023073387",
+        "display_name": "Steve Case-Upton",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088493",
+          "display_name": "Institute of Public Health Bengaluru",
+          "ror": "https://ror.org/003shpf72",
+          "country_code": "IN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210090013",
+          "display_name": "Cambridge School",
+          "ror": "https://ror.org/006k1pa70",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210090013"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134505",
+          "display_name": "Primary Health Care",
+          "ror": "https://ror.org/03djtgh02",
+          "country_code": "QA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210134505"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210155638",
+          "display_name": "Department of Public Health",
+          "ror": "https://ror.org/04thj7y95",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210156194",
+          "display_name": "Addenbrooke's Hospital",
+          "ror": "https://ror.org/055vbxf86",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802466933",
+            "https://openalex.org/I4210156194"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IN",
+        "PT",
+        "QA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Steve Case-Upton",
+      "raw_affiliation_strings": [
+        "Addenbrooke's Hospital, Cambridge",
+        "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+        "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+        "University of Cambridge Medical School Library, School of Clinical Medicine,"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Addenbrooke's Hospital, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210156194"
+          ]
+        },
+        {
+          "raw_affiliation_string": "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+          "institution_ids": [
+            "https://openalex.org/I4210134505",
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Cambridge Medical School Library, School of Clinical Medicine,",
+          "institution_ids": [
+            "https://openalex.org/I241749",
+            "https://openalex.org/I4210090013"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5086681205",
+        "display_name": "Isla Kuhn",
+        "orcid": "https://orcid.org/0000-0002-2879-4020"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088493",
+          "display_name": "Institute of Public Health Bengaluru",
+          "ror": "https://ror.org/003shpf72",
+          "country_code": "IN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210090013",
+          "display_name": "Cambridge School",
+          "ror": "https://ror.org/006k1pa70",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210090013"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134505",
+          "display_name": "Primary Health Care",
+          "ror": "https://ror.org/03djtgh02",
+          "country_code": "QA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210134505"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210155638",
+          "display_name": "Department of Public Health",
+          "ror": "https://ror.org/04thj7y95",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210156194",
+          "display_name": "Addenbrooke's Hospital",
+          "ror": "https://ror.org/055vbxf86",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802466933",
+            "https://openalex.org/I4210156194"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IN",
+        "PT",
+        "QA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Isla Kuhn",
+      "raw_affiliation_strings": [
+        "Addenbrooke's Hospital, Cambridge",
+        "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+        "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+        "University of Cambridge Medical School Library, School of Clinical Medicine,"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Addenbrooke's Hospital, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210156194"
+          ]
+        },
+        {
+          "raw_affiliation_string": "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+          "institution_ids": [
+            "https://openalex.org/I4210134505",
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Cambridge Medical School Library, School of Clinical Medicine,",
+          "institution_ids": [
+            "https://openalex.org/I241749",
+            "https://openalex.org/I4210090013"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5076162976",
+        "display_name": "E. Smith",
+        "orcid": "https://orcid.org/0000-0003-3937-1055"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I241749",
+          "display_name": "University of Cambridge",
+          "ror": "https://ror.org/013meh722",
+          "country_code": "GB",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I241749"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210088493",
+          "display_name": "Institute of Public Health Bengaluru",
+          "ror": "https://ror.org/003shpf72",
+          "country_code": "IN",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210090013",
+          "display_name": "Cambridge School",
+          "ror": "https://ror.org/006k1pa70",
+          "country_code": "PT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210090013"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210134505",
+          "display_name": "Primary Health Care",
+          "ror": "https://ror.org/03djtgh02",
+          "country_code": "QA",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210134505"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210155638",
+          "display_name": "Department of Public Health",
+          "ror": "https://ror.org/04thj7y95",
+          "country_code": "US",
+          "type": "government",
+          "lineage": [
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I4210156194",
+          "display_name": "Addenbrooke's Hospital",
+          "ror": "https://ror.org/055vbxf86",
+          "country_code": "GB",
+          "type": "healthcare",
+          "lineage": [
+            "https://openalex.org/I2802466933",
+            "https://openalex.org/I4210156194"
+          ]
+        }
+      ],
+      "countries": [
+        "GB",
+        "IN",
+        "PT",
+        "QA",
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Elizabeth Smith",
+      "raw_affiliation_strings": [
+        "Addenbrooke's Hospital, Cambridge",
+        "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+        "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+        "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+        "University of Cambridge Medical School Library, School of Clinical Medicine,"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Addenbrooke's Hospital, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210156194"
+          ]
+        },
+        {
+          "raw_affiliation_string": "BSc, PGDip, CLAHRC end of life care research assistant, University of Cambridge, Institute of Public Health, Cambridge",
+          "institution_ids": [
+            "https://openalex.org/I4210088493"
+          ]
+        },
+        {
+          "raw_affiliation_string": "Care Research Unit, Department of Public Health and Primary Care; N Momen,",
+          "institution_ids": []
+        },
+        {
+          "raw_affiliation_string": "General Practice and Primary Care Research Unit, Department of Public Health and Primary Care, University of Cambridge, Institute of Public Health, Robinson Way, Cambridge CB2 0SR",
+          "institution_ids": [
+            "https://openalex.org/I4210134505",
+            "https://openalex.org/I4210155638"
+          ]
+        },
+        {
+          "raw_affiliation_string": "University of Cambridge Medical School Library, School of Clinical Medicine,",
+          "institution_ids": [
+            "https://openalex.org/I241749",
+            "https://openalex.org/I4210090013"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 5,
+  "institutions_distinct_count": 6,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 2.7136,
+  "has_fulltext": true,
+  "cited_by_count": 238,
+  "citation_normalized_percentile": {
+    "value": 0.90662651,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": "61",
+    "issue": "582",
+    "first_page": "e49",
+    "last_page": "e62"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10198",
+    "display_name": "Heart Failure Treatment and Management",
+    "score": 0.84579998254776,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2705",
+      "display_name": "Cardiology and Cardiovascular Medicine"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10198",
+      "display_name": "Heart Failure Treatment and Management",
+      "score": 0.84579998254776,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2705",
+        "display_name": "Cardiology and Cardiovascular Medicine"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10177",
+      "display_name": "Palliative Care and End-of-Life Issues",
+      "score": 0.025200000032782555,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11189",
+      "display_name": "Transplantation: Methods and Outcomes",
+      "score": 0.016100000590085983,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2746",
+        "display_name": "Surgery"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cinahl",
+      "display_name": "CINAHL",
+      "score": 0.8010406494140625
+    },
+    {
+      "id": "https://openalex.org/keywords/psycinfo",
+      "display_name": "PsycINFO",
+      "score": 0.7154839634895325
+    },
+    {
+      "id": "https://openalex.org/keywords/seriousness",
+      "display_name": "Seriousness",
+      "score": 0.6546702980995178
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.6231529116630554
+    },
+    {
+      "id": "https://openalex.org/keywords/end-of-life-care",
+      "display_name": "End-of-life care",
+      "score": 0.5549300312995911
+    },
+    {
+      "id": "https://openalex.org/keywords/narrative",
+      "display_name": "Narrative",
+      "score": 0.5232395529747009
+    },
+    {
+      "id": "https://openalex.org/keywords/medline",
+      "display_name": "MEDLINE",
+      "score": 0.49730971455574036
+    },
+    {
+      "id": "https://openalex.org/keywords/health-professionals",
+      "display_name": "Health professionals",
+      "score": 0.4139615595340729
+    },
+    {
+      "id": "https://openalex.org/keywords/health-care",
+      "display_name": "Health care",
+      "score": 0.3608675003051758
+    },
+    {
+      "id": "https://openalex.org/keywords/nursing",
+      "display_name": "Nursing",
+      "score": 0.333536297082901
+    },
+    {
+      "id": "https://openalex.org/keywords/family-medicine",
+      "display_name": "Family medicine",
+      "score": 0.3238769471645355
+    },
+    {
+      "id": "https://openalex.org/keywords/palliative-care",
+      "display_name": "Palliative care",
+      "score": 0.2699042558670044
+    },
+    {
+      "id": "https://openalex.org/keywords/psychological-intervention",
+      "display_name": "Psychological intervention",
+      "score": 0.12975692749023438
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.08636307716369629
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2781145037",
+      "wikidata": "https://www.wikidata.org/wiki/Q5011772",
+      "display_name": "CINAHL",
+      "level": 3,
+      "score": 0.8010406494140625
+    },
+    {
+      "id": "https://openalex.org/C2779549880",
+      "wikidata": "https://www.wikidata.org/wiki/Q5542226",
+      "display_name": "PsycINFO",
+      "level": 3,
+      "score": 0.7154839634895325
+    },
+    {
+      "id": "https://openalex.org/C2776650110",
+      "wikidata": "https://www.wikidata.org/wiki/Q12891156",
+      "display_name": "Seriousness",
+      "level": 2,
+      "score": 0.6546702980995178
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.6231529116630554
+    },
+    {
+      "id": "https://openalex.org/C2780879335",
+      "wikidata": "https://www.wikidata.org/wiki/Q2045105",
+      "display_name": "End-of-life care",
+      "level": 3,
+      "score": 0.5549300312995911
+    },
+    {
+      "id": "https://openalex.org/C199033989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+      "display_name": "Narrative",
+      "level": 2,
+      "score": 0.5232395529747009
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.49730971455574036
+    },
+    {
+      "id": "https://openalex.org/C3019806175",
+      "wikidata": "https://www.wikidata.org/wiki/Q11974939",
+      "display_name": "Health professionals",
+      "level": 3,
+      "score": 0.4139615595340729
+    },
+    {
+      "id": "https://openalex.org/C160735492",
+      "wikidata": "https://www.wikidata.org/wiki/Q31207",
+      "display_name": "Health care",
+      "level": 2,
+      "score": 0.3608675003051758
+    },
+    {
+      "id": "https://openalex.org/C159110408",
+      "wikidata": "https://www.wikidata.org/wiki/Q121176",
+      "display_name": "Nursing",
+      "level": 1,
+      "score": 0.333536297082901
+    },
+    {
+      "id": "https://openalex.org/C512399662",
+      "wikidata": "https://www.wikidata.org/wiki/Q3505712",
+      "display_name": "Family medicine",
+      "level": 1,
+      "score": 0.3238769471645355
+    },
+    {
+      "id": "https://openalex.org/C2994186709",
+      "wikidata": "https://www.wikidata.org/wiki/Q29483",
+      "display_name": "Palliative care",
+      "level": 2,
+      "score": 0.2699042558670044
+    },
+    {
+      "id": "https://openalex.org/C27415008",
+      "wikidata": "https://www.wikidata.org/wiki/Q7256382",
+      "display_name": "Psychological intervention",
+      "level": 2,
+      "score": 0.12975692749023438
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.08636307716369629
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D000368",
+      "descriptor_name": "Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001291",
+      "descriptor_name": "Attitude of Health Personnel",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001291",
+      "descriptor_name": "Attitude of Health Personnel",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001291",
+      "descriptor_name": "Attitude of Health Personnel",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001291",
+      "descriptor_name": "Attitude of Health Personnel",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001293",
+      "descriptor_name": "Attitude to Death",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001293",
+      "descriptor_name": "Attitude to Death",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001293",
+      "descriptor_name": "Attitude to Death",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D001293",
+      "descriptor_name": "Attitude to Death",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006333",
+      "descriptor_name": "Heart Failure",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D006801",
+      "descriptor_name": "Humans",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D008875",
+      "descriptor_name": "Middle Aged",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D010817",
+      "descriptor_name": "Physician-Patient Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010817",
+      "descriptor_name": "Physician-Patient Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010817",
+      "descriptor_name": "Physician-Patient Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D010817",
+      "descriptor_name": "Physician-Patient Relations",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000379",
+      "qualifier_name": "methods",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D013727",
+      "descriptor_name": "Terminal Care",
+      "qualifier_ui": "Q000592",
+      "qualifier_name": "standards",
+      "is_major_topic": false
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    },
+    {
+      "descriptor_ui": "D057240",
+      "descriptor_name": "Patient Preference",
+      "qualifier_ui": null,
+      "qualifier_name": null,
+      "is_major_topic": true
+    }
+  ],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3399/bjgp11x549018",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3399/bjgp11x549018",
+      "pdf_url": "https://bjgp.org/content/bjgp/61/582/e49.full.pdf",
+      "source": {
+        "id": "https://openalex.org/S92370695",
+        "display_name": "British Journal of General Practice",
+        "issn_l": "0960-1643",
+        "issn": [
+          "0960-1643",
+          "1478-5242"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310311776",
+        "host_organization_name": "Royal College of General Practitioners",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310311776"
+        ],
+        "host_organization_lineage_names": [
+          "Royal College of General Practitioners"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "British Journal of General Practice",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:21401993",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/21401993",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "The British journal of general practice : the journal of the Royal College of General Practitioners",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:europepmc.org:2254257",
+      "is_oa": false,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/3020072",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400806",
+        "display_name": "Europe PMC (PubMed Central)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1303153112",
+        "host_organization_name": "European Bioinformatics Institute",
+        "host_organization_lineage": [
+          "https://openalex.org/I1303153112"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3399/bjgp11x549018",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3399/bjgp11x549018",
+    "pdf_url": "https://bjgp.org/content/bjgp/61/582/e49.full.pdf",
+    "source": {
+      "id": "https://openalex.org/S92370695",
+      "display_name": "British Journal of General Practice",
+      "issn_l": "0960-1643",
+      "issn": [
+        "0960-1643",
+        "1478-5242"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310311776",
+      "host_organization_name": "Royal College of General Practitioners",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310311776"
+      ],
+      "host_organization_lineage_names": [
+        "Royal College of General Practitioners"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "British Journal of General Practice",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W2120958028.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W2120958028.grobid-xml"
+  },
+  "referenced_works_count": 96,
+  "referenced_works": [
+    "https://openalex.org/W153351502",
+    "https://openalex.org/W196531891",
+    "https://openalex.org/W199893633",
+    "https://openalex.org/W1517019884",
+    "https://openalex.org/W1546453564",
+    "https://openalex.org/W1557243082",
+    "https://openalex.org/W1562463929",
+    "https://openalex.org/W1568915798",
+    "https://openalex.org/W1605449461",
+    "https://openalex.org/W1968580821",
+    "https://openalex.org/W1973391027",
+    "https://openalex.org/W1974254719",
+    "https://openalex.org/W1979353609",
+    "https://openalex.org/W1981383906",
+    "https://openalex.org/W1982541643",
+    "https://openalex.org/W1984487366",
+    "https://openalex.org/W1991785216",
+    "https://openalex.org/W1993561336",
+    "https://openalex.org/W1994299742",
+    "https://openalex.org/W1994311933",
+    "https://openalex.org/W1994446982",
+    "https://openalex.org/W1994502038",
+    "https://openalex.org/W1999086901",
+    "https://openalex.org/W2000922533",
+    "https://openalex.org/W2001606528",
+    "https://openalex.org/W2003119713",
+    "https://openalex.org/W2003141721",
+    "https://openalex.org/W2004895320",
+    "https://openalex.org/W2007402854",
+    "https://openalex.org/W2007603420",
+    "https://openalex.org/W2008645046",
+    "https://openalex.org/W2012469534",
+    "https://openalex.org/W2013552450",
+    "https://openalex.org/W2013822753",
+    "https://openalex.org/W2018367256",
+    "https://openalex.org/W2019943377",
+    "https://openalex.org/W2020468542",
+    "https://openalex.org/W2025607112",
+    "https://openalex.org/W2030612278",
+    "https://openalex.org/W2031270843",
+    "https://openalex.org/W2040561735",
+    "https://openalex.org/W2042935667",
+    "https://openalex.org/W2043704758",
+    "https://openalex.org/W2049400066",
+    "https://openalex.org/W2051814970",
+    "https://openalex.org/W2053550164",
+    "https://openalex.org/W2054161100",
+    "https://openalex.org/W2054194350",
+    "https://openalex.org/W2059266866",
+    "https://openalex.org/W2061202289",
+    "https://openalex.org/W2061735047",
+    "https://openalex.org/W2067901672",
+    "https://openalex.org/W2067965653",
+    "https://openalex.org/W2069008812",
+    "https://openalex.org/W2072087140",
+    "https://openalex.org/W2073462691",
+    "https://openalex.org/W2077807779",
+    "https://openalex.org/W2079967636",
+    "https://openalex.org/W2083802079",
+    "https://openalex.org/W2084953666",
+    "https://openalex.org/W2085052854",
+    "https://openalex.org/W2086782539",
+    "https://openalex.org/W2089295485",
+    "https://openalex.org/W2094419648",
+    "https://openalex.org/W2095983681",
+    "https://openalex.org/W2110488167",
+    "https://openalex.org/W2110958541",
+    "https://openalex.org/W2115659562",
+    "https://openalex.org/W2118097992",
+    "https://openalex.org/W2120732040",
+    "https://openalex.org/W2126404598",
+    "https://openalex.org/W2138751398",
+    "https://openalex.org/W2144048086",
+    "https://openalex.org/W2145378489",
+    "https://openalex.org/W2146607184",
+    "https://openalex.org/W2148443731",
+    "https://openalex.org/W2153465535",
+    "https://openalex.org/W2160723383",
+    "https://openalex.org/W2163330185",
+    "https://openalex.org/W2169067647",
+    "https://openalex.org/W2170939687",
+    "https://openalex.org/W2171379821",
+    "https://openalex.org/W2268181790",
+    "https://openalex.org/W2317438652",
+    "https://openalex.org/W2464570198",
+    "https://openalex.org/W2764148593",
+    "https://openalex.org/W2768019923",
+    "https://openalex.org/W2916392902",
+    "https://openalex.org/W3148190023",
+    "https://openalex.org/W4241475363",
+    "https://openalex.org/W4245813547",
+    "https://openalex.org/W4253314500",
+    "https://openalex.org/W4285719527",
+    "https://openalex.org/W6655366940",
+    "https://openalex.org/W6668578582",
+    "https://openalex.org/W6719644467"
+  ],
+  "related_works": [
+    "https://openalex.org/W2113043745",
+    "https://openalex.org/W2766839180",
+    "https://openalex.org/W3088773868",
+    "https://openalex.org/W2971604386",
+    "https://openalex.org/W4308638646",
+    "https://openalex.org/W2531219817",
+    "https://openalex.org/W2918772556",
+    "https://openalex.org/W2232330152",
+    "https://openalex.org/W2054290182",
+    "https://openalex.org/W3177551556"
+  ],
+  "abstract_inverted_index": {
+    "BACKGROUND:": [
+      0
+    ],
+    "Current": [
+      1
+    ],
+    "models": [
+      2
+    ],
+    "of": [
+      3,
+      19,
+      45,
+      74,
+      95,
+      107,
+      127,
+      154,
+      176,
+      208
+    ],
+    "end-of-life": [
+      4,
+      163
+    ],
+    "care": [
+      5
+    ],
+    "(EOLC)": [
+      6
+    ],
+    "have": [
+      7
+    ],
+    "been": [
+      8
+    ],
+    "largely": [
+      9,
+      133
+    ],
+    "developed": [
+      10
+    ],
+    "for": [
+      11,
+      51,
+      188,
+      220,
+      235,
+      240
+    ],
+    "cancer": [
+      12
+    ],
+    "and": [
+      13,
+      37,
+      48,
+      54,
+      56,
+      59,
+      69,
+      77,
+      90,
+      112,
+      174,
+      183,
+      205,
+      222
+    ],
+    "may": [
+      14
+    ],
+    "not": [
+      15,
+      150,
+      159
+    ],
+    "meet": [
+      16
+    ],
+    "the": [
+      17,
+      26,
+      43,
+      57,
+      152,
+      171,
+      197,
+      236,
+      241
+    ],
+    "needs": [
+      18
+    ],
+    "heart": [
+      20,
+      35,
+      99
+    ],
+    "failure": [
+      21,
+      36,
+      100
+    ],
+    "patients.": [
+      22
+    ],
+    "AIM:": [
+      23
+    ],
+    "To": [
+      24
+    ],
+    "review": [
+      25,
+      68
+    ],
+    "literature": [
+      27,
+      67
+    ],
+    "concerning": [
+      28,
+      105
+    ],
+    "conversations": [
+      29,
+      198,
+      214,
+      227
+    ],
+    "about": [
+      30
+    ],
+    "EOLC": [
+      31,
+      108,
+      137,
+      194,
+      213
+    ],
+    "between": [
+      32
+    ],
+    "patients": [
+      33,
+      97,
+      142,
+      191
+    ],
+    "with": [
+      34,
+      40,
+      88,
+      98,
+      123
+    ],
+    "healthcare": [
+      38
+    ],
+    "professionals,": [
+      39
+    ],
+    "respect": [
+      41
+    ],
+    "to": [
+      42,
+      61,
+      83,
+      161,
+      169,
+      212
+    ],
+    "prevalence": [
+      44
+    ],
+    "conversations;": [
+      46
+    ],
+    "patients'": [
+      47
+    ],
+    "practitioners'": [
+      49
+    ],
+    "preferences": [
+      50
+    ],
+    "their": [
+      52,
+      102,
+      155
+    ],
+    "timing": [
+      53
+    ],
+    "content;": [
+      55
+    ],
+    "facilitators": [
+      58
+    ],
+    "blockers": [
+      60
+    ],
+    "conversations.": [
+      62
+    ],
+    "DESIGN": [
+      63
+    ],
+    "OF": [
+      64
+    ],
+    "STUDY:": [
+      65
+    ],
+    "Systematic": [
+      66
+    ],
+    "narrative": [
+      70,
+      125
+    ],
+    "synthesis.": [
+      71
+    ],
+    "METHOD:": [
+      72
+    ],
+    "Searches": [
+      73
+    ],
+    "Medline,": [
+      75
+    ],
+    "PsycINFO": [
+      76
+    ],
+    "CINAHL": [
+      78
+    ],
+    "databases": [
+      79
+    ],
+    "from": [
+      80,
+      190
+    ],
+    "January": [
+      81
+    ],
+    "1987": [
+      82
+    ],
+    "April": [
+      84
+    ],
+    "2010": [
+      85
+    ],
+    "were": [
+      86,
+      109,
+      115,
+      119
+    ],
+    "conducted,": [
+      87
+    ],
+    "citation": [
+      89
+    ],
+    "journal": [
+      91
+    ],
+    "hand": [
+      92
+    ],
+    "searches.": [
+      93
+    ],
+    "Studies": [
+      94
+    ],
+    "adult": [
+      96
+    ],
+    "and/or": [
+      101
+    ],
+    "health": [
+      103
+    ],
+    "professionals": [
+      104
+    ],
+    "discussions": [
+      106
+    ],
+    "included:": [
+      110
+    ],
+    "discussion": [
+      111
+    ],
+    "opinion": [
+      113
+    ],
+    "pieces": [
+      114
+    ],
+    "excluded.": [
+      116
+    ],
+    "Extracted": [
+      117
+    ],
+    "data": [
+      118
+    ],
+    "analysed": [
+      120
+    ],
+    "using": [
+      121
+    ],
+    "NVivo,": [
+      122
+    ],
+    "a": [
+      124
+    ],
+    "synthesis": [
+      126
+    ],
+    "emergent": [
+      128
+    ],
+    "themes.": [
+      129
+    ],
+    "RESULTS:": [
+      130
+    ],
+    "Conversations": [
+      131
+    ],
+    "focus": [
+      132
+    ],
+    "on": [
+      134
+    ],
+    "disease": [
+      135
+    ],
+    "management;": [
+      136
+    ],
+    "is": [
+      138
+    ],
+    "rarely": [
+      139,
+      199
+    ],
+    "discussed.": [
+      140
+    ],
+    "Some": [
+      141
+    ],
+    "would": [
+      143
+    ],
+    "welcome": [
+      144
+    ],
+    "such": [
+      145,
+      226
+    ],
+    "conversations,": [
+      146
+    ],
+    "but": [
+      147,
+      238
+    ],
+    "many": [
+      148
+    ],
+    "do": [
+      149,
+      158
+    ],
+    "realise": [
+      151
+    ],
+    "seriousness": [
+      153
+    ],
+    "condition": [
+      156
+    ],
+    "or": [
+      157
+    ],
+    "wish": [
+      160
+    ],
+    "discuss": [
+      162,
+      170
+    ],
+    "issues.": [
+      164,
+      195
+    ],
+    "Clinicians": [
+      165
+    ],
+    "are": [
+      166,
+      224
+    ],
+    "unsure": [
+      167
+    ],
+    "how": [
+      168
+    ],
+    "uncertain": [
+      172
+    ],
+    "prognosis": [
+      173
+    ],
+    "risk": [
+      175,
+      207
+    ],
+    "sudden": [
+      177,
+      209
+    ],
+    "death;": [
+      178
+    ],
+    "fearing": [
+      179
+    ],
+    "causing": [
+      180
+    ],
+    "premature": [
+      181
+    ],
+    "alarm": [
+      182
+    ],
+    "destroying": [
+      184
+    ],
+    "hope,": [
+      185
+    ],
+    "they": [
+      186
+    ],
+    "wait": [
+      187
+    ],
+    "cues": [
+      189
+    ],
+    "before": [
+      192
+    ],
+    "raising": [
+      193
+    ],
+    "Consequently,": [
+      196
+    ],
+    "take": [
+      200
+    ],
+    "place.": [
+      201
+    ],
+    "CONCLUSION:": [
+      202
+    ],
+    "Prognostic": [
+      203
+    ],
+    "uncertainty": [
+      204
+    ],
+    "high": [
+      206
+    ],
+    "death": [
+      210
+    ],
+    "lead": [
+      211
+    ],
+    "being": [
+      215
+    ],
+    "commonly": [
+      216
+    ],
+    "avoided.": [
+      217
+    ],
+    "The": [
+      218
+    ],
+    "implications": [
+      219
+    ],
+    "policy": [
+      221
+    ],
+    "practice": [
+      223
+    ],
+    "discussed:": [
+      225
+    ],
+    "can": [
+      228
+    ],
+    "be": [
+      229
+    ],
+    "supportive": [
+      230
+    ],
+    "if": [
+      231
+    ],
+    "expressed": [
+      232
+    ],
+    "as": [
+      233
+    ],
+    "'hoping": [
+      234
+    ],
+    "best": [
+      237
+    ],
+    "preparing": [
+      239
+    ],
+    "worst'.": [
+      242
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2023,
+      "cited_by_count": 10
+    },
+    {
+      "year": 2022,
+      "cited_by_count": 11
+    },
+    {
+      "year": 2021,
+      "cited_by_count": 13
+    },
+    {
+      "year": 2020,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2019,
+      "cited_by_count": 32
+    },
+    {
+      "year": 2018,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2017,
+      "cited_by_count": 17
+    },
+    {
+      "year": 2016,
+      "cited_by_count": 21
+    },
+    {
+      "year": 2015,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2014,
+      "cited_by_count": 22
+    },
+    {
+      "year": 2013,
+      "cited_by_count": 14
+    },
+    {
+      "year": 2012,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-08-21T09:56:20.448147",
+  "created_date": "2025-10-10T00:00:00"
+}

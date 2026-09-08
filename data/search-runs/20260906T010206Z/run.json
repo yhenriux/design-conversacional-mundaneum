@@ -1,0 +1,547 @@
+{
+  "run_id": "20260906T010206Z",
+  "queries": [
+    {
+      "api": "openalex",
+      "query": "\"conversation design\"",
+      "url": "https://api.openalex.org/works?search=%22conversation+design%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "c2f9f575a771e9ef80ac33e9c80bcbb790e6055c329d71a281f9d42361601ede"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational design\"",
+      "url": "https://api.openalex.org/works?search=%22conversational+design%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "4c6f48d256da983de69a0fe53ea3b15d116d6a9b56672c15f3d9de441c50a74e"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational UX\"",
+      "url": "https://api.openalex.org/works?search=%22conversational+UX%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "6c6a77659be19db4b1d98ebdc1f72cde89475b9f9d01c1f16b753bfda37b449a"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational user interface\" design",
+      "url": "https://api.openalex.org/works?search=%22conversational+user+interface%22+design&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "53b02def12cc9e2c463d38721ed2ee5cb2c41533b4b3c642239fe95b028b152a"
+    },
+    {
+      "api": "openalex",
+      "query": "\"voice user interface\" design",
+      "url": "https://api.openalex.org/works?search=%22voice+user+interface%22+design&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "f39ef8bb69be96b9f03646a69c257658716b0a55d4c7be1d8754a059af6e6017"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational agent design\"",
+      "url": "https://api.openalex.org/works?search=%22conversational+agent+design%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "32fd551f2d34101efc2bf4e41cd56f46573194fb4460b3e4713947c7478165f9"
+    },
+    {
+      "api": "openalex",
+      "query": "\"designing conversational agents\"",
+      "url": "https://api.openalex.org/works?search=%22designing+conversational+agents%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "de06b0d4368493b30dad015a18c20ff58299d715402727ec3b468b98fedc4afa"
+    },
+    {
+      "api": "openalex",
+      "query": "\"dialogue design\" conversational system",
+      "url": "https://api.openalex.org/works?search=%22dialogue+design%22+conversational+system&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "6b0c6123b7e8f5d1fde89cbdee497a5b5ee97fab5707b709b5da2d252d016af8"
+    },
+    {
+      "api": "openalex",
+      "query": "\"chatbot design\" user experience",
+      "url": "https://api.openalex.org/works?search=%22chatbot+design%22+user+experience&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "e59e28b6149d5035db70ef55116d92f2634fec736c16ce3fc6d007eee0227936"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design conversacional\"",
+      "url": "https://api.openalex.org/works?search=%22design+conversacional%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 20,
+      "sha256": "c69ce9f848bf3953d03873452411fda0e677a9c084e87978546a35028de50750"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design de conversação\"",
+      "url": "https://api.openalex.org/works?search=%22design+de+conversa%C3%A7%C3%A3o%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 1,
+      "sha256": "820ba42430e21c2724a3eac12c9c345fea59b1da5429b7f74f6642d131ea4d58"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design de diálogo\"",
+      "url": "https://api.openalex.org/works?search=%22design+de+di%C3%A1logo%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 2,
+      "sha256": "cf2b26036994b11f8696648faad5600858dc553fdc7a78fd8dd3d42856bd4ac1"
+    },
+    {
+      "api": "openalex",
+      "query": "\"experiência conversacional\"",
+      "url": "https://api.openalex.org/works?search=%22experi%C3%AAncia+conversacional%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 12,
+      "sha256": "035c42edf32117cb820a3c88d2abe2b25b32481a030302ee329ba3c2913219ff"
+    },
+    {
+      "api": "openalex",
+      "query": "\"UX conversacional\"",
+      "url": "https://api.openalex.org/works?search=%22UX+conversacional%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 2,
+      "sha256": "a364e703b930a7d1d1532bc9923c2a5cd6054f39787442a585a7f55a99900334"
+    },
+    {
+      "api": "openalex",
+      "query": "\"diseño conversacional\"",
+      "url": "https://api.openalex.org/works?search=%22dise%C3%B1o+conversacional%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 34,
+      "sha256": "ddf2bad7fb92ddd64f5242dc6c33e398463ae0dce8c31f571cfbd14f2d90fc36"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaces conversacionais\" design",
+      "url": "https://api.openalex.org/works?search=%22interfaces+conversacionais%22+design&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "5e92e13746712de0e20210eb1c82db9992f0e510cfeb2e4fc25f455cc7d1ca5d"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaces conversacionales\" diseño",
+      "url": "https://api.openalex.org/works?search=%22interfaces+conversacionales%22+dise%C3%B1o&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "79340900b94813f528a098aa34c8f5bdff355d0f902b261ee53cbf50117fee3e"
+    },
+    {
+      "api": "openalex",
+      "query": "\"sistemas conversacionais\" acessibilidade",
+      "url": "https://api.openalex.org/works?search=%22sistemas+conversacionais%22+acessibilidade&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "a5c4a957f2b9e15a7b5ab668d776c1c026e275b701cc0340d97a962b5cac464a"
+    },
+    {
+      "api": "openalex",
+      "query": "\"agentes conversacionais\" design",
+      "url": "https://api.openalex.org/works?search=%22agentes+conversacionais%22+design&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "c4a10afc39528387de3dc76c7aa1f63aae4f947b3f44e303cf998ebac5d2887d"
+    },
+    {
+      "api": "openalex",
+      "query": "chatbot acessibilidade usabilidade",
+      "url": "https://api.openalex.org/works?search=chatbot+acessibilidade+usabilidade&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 40,
+      "sha256": "2356b1b36539526e46841ffae33ed318e5ad29c482c2d99f43b20e9c465e616b"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conception conversationnelle\"",
+      "url": "https://api.openalex.org/works?search=%22conception+conversationnelle%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 6,
+      "sha256": "478db9e0f3089a6ba38d2d38d77ca165999bca7c01d92fe6b3013d9322dc4837"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design conversationnel\"",
+      "url": "https://api.openalex.org/works?search=%22design+conversationnel%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 7,
+      "sha256": "906376b59a69c1ca95dc4f01132624fef281d7b87d9096262ad7c4d1ec7b8230"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interface conversationnelle\" conception",
+      "url": "https://api.openalex.org/works?search=%22interface+conversationnelle%22+conception&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 30,
+      "sha256": "7f74a4f0f4dced6e53fbdbb047a5f32ca53d8eb41ba680378a7e155c981dccd2"
+    },
+    {
+      "api": "openalex",
+      "query": "\"Konversationsdesign\"",
+      "url": "https://api.openalex.org/works?search=%22Konversationsdesign%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 5,
+      "sha256": "ce1013ff6cfe9eff9589c6735249cba152ed6e56aafd1feb1e9f47451482bbdd"
+    },
+    {
+      "api": "openalex",
+      "query": "\"dialogorientiertes Design\"",
+      "url": "https://api.openalex.org/works?search=%22dialogorientiertes+Design%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 0,
+      "sha256": "47002b54b2047dd0ab7c7f735e8031598ddf35a43f7c369a63cbfe701100e13e"
+    },
+    {
+      "api": "openalex",
+      "query": "\"konversationelle Schnittstelle\" Design",
+      "url": "https://api.openalex.org/works?search=%22konversationelle+Schnittstelle%22+Design&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 2,
+      "sha256": "f445193c451998572643a0de928f290118484714d46c77094d6338c0956ae397"
+    },
+    {
+      "api": "openalex",
+      "query": "\"progettazione conversazionale\"",
+      "url": "https://api.openalex.org/works?search=%22progettazione+conversazionale%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 0,
+      "sha256": "f1be9c88c39459bc2d9c524ebb22c7d15f0b3a3797d3421d32ce694986e5482b"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaccia conversazionale\" progettazione",
+      "url": "https://api.openalex.org/works?search=%22interfaccia+conversazionale%22+progettazione&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 3,
+      "sha256": "bd35361f934ce17718151868e07dab5fec08a701f4e568ddda7a1134df5d8508"
+    },
+    {
+      "api": "openalex",
+      "query": "\"会话设计\"",
+      "url": "https://api.openalex.org/works?search=%22%E4%BC%9A%E8%AF%9D%E8%AE%BE%E8%AE%A1%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 0,
+      "sha256": "31bbfc7ffdbfa4554f2571697c8fe292613ce0af35a65c9df82ffadd62b97cbf"
+    },
+    {
+      "api": "openalex",
+      "query": "\"对话式界面\" 设计",
+      "url": "https://api.openalex.org/works?search=%22%E5%AF%B9%E8%AF%9D%E5%BC%8F%E7%95%8C%E9%9D%A2%22+%E8%AE%BE%E8%AE%A1&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 1,
+      "sha256": "e10483b396492a0b31e44e40536c9516b2e90fb3f5e79e18dd45c9ed1666e82d"
+    },
+    {
+      "api": "openalex",
+      "query": "\"対話デザイン\"",
+      "url": "https://api.openalex.org/works?search=%22%E5%AF%BE%E8%A9%B1%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 11,
+      "sha256": "a85b94dd34bda5f5c129ace706e18d9b0b77473bb206a3ba3bdedf2c31a7370c"
+    },
+    {
+      "api": "openalex",
+      "query": "\"会話型インターフェース\" 設計",
+      "url": "https://api.openalex.org/works?search=%22%E4%BC%9A%E8%A9%B1%E5%9E%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%22+%E8%A8%AD%E8%A8%88&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 2,
+      "sha256": "1da4b4d19a37a11b788a56cc0562f56f9f3d5dd521dca0136051543c6ef9059c"
+    },
+    {
+      "api": "openalex",
+      "query": "\"대화형 디자인\"",
+      "url": "https://api.openalex.org/works?search=%22%EB%8C%80%ED%99%94%ED%98%95+%EB%94%94%EC%9E%90%EC%9D%B8%22&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 0,
+      "sha256": "41228d3ee54637e24359e14915c502dc9b8bc9b60273979844a3a9e6fe74451d"
+    },
+    {
+      "api": "openalex",
+      "query": "\"대화형 인터페이스\" 설계",
+      "url": "https://api.openalex.org/works?search=%22%EB%8C%80%ED%99%94%ED%98%95+%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%22+%EC%84%A4%EA%B3%84&per-page=40&select=id%2Cdoi%2Ctitle%2Cpublication_year%2Ctype%2Cauthorships%2Cabstract_inverted_index%2Cprimary_location%2Cbest_oa_location%2Copen_access",
+      "status": "ok",
+      "results": 7,
+      "sha256": "36e0f015db193fbc4d65054aa3628abc362a26212e65ecdfe30eb19c5618e5fc"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conversation design\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conversation+design%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "ad216be886b759e56769726df2906acc8e6c3c2ea2475a4b6e5e7dbb56cb1742"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conversational design\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conversational+design%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "5d61269de395866cf858fd0a31ad47abdceb5b3d5497356e00df76ceed4d224d"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conversational UX\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conversational+UX%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "fa917cd3376ce11b7d569bf5627d23b4f890e487ba7c59ef2de5fc96fc8c1176"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conversational user interface\" design",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conversational+user+interface%22+design&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "e5076ef0fd12959320693a0a9faf8db6f60fef984c7f5255be9250fbd9d9be1e"
+    },
+    {
+      "api": "crossref",
+      "query": "\"voice user interface\" design",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22voice+user+interface%22+design&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "bcbf289299c86bb61883b45c6c92436a3b0a87c10bc827975eb2cf80c31d3669"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conversational agent design\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conversational+agent+design%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "6ecffba020671eca3cfc1f47f3fb7eb127d325bf8864e20b19847e1b509be708"
+    },
+    {
+      "api": "crossref",
+      "query": "\"designing conversational agents\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22designing+conversational+agents%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "24fe00d9bc4b760b2549cc31ec9d299711a4a65bfa64971a3aabb7e4458e8fbf"
+    },
+    {
+      "api": "crossref",
+      "query": "\"dialogue design\" conversational system",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22dialogue+design%22+conversational+system&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "89c72fda6ed3ce510c8c021e835910538f11a4157e6edd60b26ca714c119ffda"
+    },
+    {
+      "api": "crossref",
+      "query": "\"chatbot design\" user experience",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22chatbot+design%22+user+experience&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "189dcc5fdf65259e1c4cbbe3795a7b9333459bdbebb58742e83da52917c874ec"
+    },
+    {
+      "api": "crossref",
+      "query": "\"design conversacional\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22design+conversacional%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "80add099095139fc456841bac4b764a0fee5cfb91c424b96d68a98cc6ec79dd9"
+    },
+    {
+      "api": "crossref",
+      "query": "\"design de conversação\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22design+de+conversa%C3%A7%C3%A3o%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "2e7d8bc921c5873fcb4686be15b28df8fe541a79def09e330403bb6b265cbc0c"
+    },
+    {
+      "api": "crossref",
+      "query": "\"design de diálogo\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22design+de+di%C3%A1logo%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "6b73e4c09dd020192a19fe5befdbbf88e38def3831ddeebdc2cc070aaf7bfee0"
+    },
+    {
+      "api": "crossref",
+      "query": "\"experiência conversacional\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22experi%C3%AAncia+conversacional%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "41dd3680a9577c53b9e626607ee6a16fa3eab02a00b86889ab2dd68a0fa9d3a0"
+    },
+    {
+      "api": "crossref",
+      "query": "\"UX conversacional\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22UX+conversacional%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "be25159cf3555e133d97b792deb7cd58b1d0ea687bfbc2ee87846fdd27e3215e"
+    },
+    {
+      "api": "crossref",
+      "query": "\"diseño conversacional\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22dise%C3%B1o+conversacional%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "a3932625f3e5caeae1966d34276fc76dccb98b5c7263e50643c5421eecd11d6b"
+    },
+    {
+      "api": "crossref",
+      "query": "\"interfaces conversacionais\" design",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22interfaces+conversacionais%22+design&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "95eb33982acae2d2f66938a414ae761d6037eb3cb04b61a71112dae79e0ac15b"
+    },
+    {
+      "api": "crossref",
+      "query": "\"interfaces conversacionales\" diseño",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22interfaces+conversacionales%22+dise%C3%B1o&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "5e902d1a46645a251149f9f79e85eace3878ad21d51db446508367dc7516ba03"
+    },
+    {
+      "api": "crossref",
+      "query": "\"sistemas conversacionais\" acessibilidade",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22sistemas+conversacionais%22+acessibilidade&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "aacbfffaefdee8ddc4625b5695e0fc416312a8943daae6bcf723dffae40f9211"
+    },
+    {
+      "api": "crossref",
+      "query": "\"agentes conversacionais\" design",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22agentes+conversacionais%22+design&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "c3f765141d413fbae383c420c61e3dd3437b48fb0fe87a8e54d3092d660e5f82"
+    },
+    {
+      "api": "crossref",
+      "query": "chatbot acessibilidade usabilidade",
+      "url": "https://api.crossref.org/works?query.bibliographic=chatbot+acessibilidade+usabilidade&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "520b72985ade483cbd156ecba9e7c0a272499afa6fb57758cbee355450b42283"
+    },
+    {
+      "api": "crossref",
+      "query": "\"conception conversationnelle\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22conception+conversationnelle%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "41648e12383c38c29b2987242e948ac15faf926b2acf796d3faad5741ef54c07"
+    },
+    {
+      "api": "crossref",
+      "query": "\"design conversationnel\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22design+conversationnel%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "3f05ebaeed352580027577a6606dfa7d44fae0246b4074eb2d49b6767e5611a5"
+    },
+    {
+      "api": "crossref",
+      "query": "\"interface conversationnelle\" conception",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22interface+conversationnelle%22+conception&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "3262c44d4c0e8f90523afc875e2e867ef89edd41e3a9b2d1c341e28ea4af4754"
+    },
+    {
+      "api": "crossref",
+      "query": "\"Konversationsdesign\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22Konversationsdesign%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 0,
+      "sha256": "f6a27ec089eb2ebeeeda670437ac0c88fa3655f201157768219d9cbfaf428e09"
+    },
+    {
+      "api": "crossref",
+      "query": "\"dialogorientiertes Design\"",
+      "status": "error",
+      "error": "<HTTPError 429: 'Too Many Requests'>"
+    },
+    {
+      "api": "crossref",
+      "query": "\"konversationelle Schnittstelle\" Design",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22konversationelle+Schnittstelle%22+Design&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "2ce4fc02e2795656c0e902384e2e547287175926024c6704cd1123123d9ad289"
+    },
+    {
+      "api": "crossref",
+      "query": "\"progettazione conversazionale\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22progettazione+conversazionale%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "dddc2da16199825f75e6eb8d9bc99f42840a7b0ddce5a3b22c0efdce707e4b37"
+    },
+    {
+      "api": "crossref",
+      "query": "\"interfaccia conversazionale\" progettazione",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22interfaccia+conversazionale%22+progettazione&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "f21233a8fe5fc8fe071883dda7807f7fe23f6b61a35245a4e21ed0acae004d04"
+    },
+    {
+      "api": "crossref",
+      "query": "\"会话设计\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%E4%BC%9A%E8%AF%9D%E8%AE%BE%E8%AE%A1%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "42c768ca7a03133c21fabd77021d2d0b623bb780f7cf5a106097d67eaecac416"
+    },
+    {
+      "api": "crossref",
+      "query": "\"对话式界面\" 设计",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%E5%AF%B9%E8%AF%9D%E5%BC%8F%E7%95%8C%E9%9D%A2%22+%E8%AE%BE%E8%AE%A1&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "b8955d44f24bd06eea897129fedb7a2ec5d590b64d5aaa9e2c7f9ff8f49f05c6"
+    },
+    {
+      "api": "crossref",
+      "query": "\"対話デザイン\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%E5%AF%BE%E8%A9%B1%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "2506a2c82defd74f67481b7191fbab538aba9163646376c4640c94bd722e468e"
+    },
+    {
+      "api": "crossref",
+      "query": "\"会話型インターフェース\" 設計",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%E4%BC%9A%E8%A9%B1%E5%9E%8B%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9%22+%E8%A8%AD%E8%A8%88&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "69a0ae77cbc2c5a855b7af6c2c58445d5f54d194bb72a692044c88fe575999bd"
+    },
+    {
+      "api": "crossref",
+      "query": "\"대화형 디자인\"",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%EB%8C%80%ED%99%94%ED%98%95+%EB%94%94%EC%9E%90%EC%9D%B8%22&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "ce41135caa6c1c956c39162361912eede7a4fce66937c88e9d50ac1b172c6ade"
+    },
+    {
+      "api": "crossref",
+      "query": "\"대화형 인터페이스\" 설계",
+      "url": "https://api.crossref.org/works?query.bibliographic=%22%EB%8C%80%ED%99%94%ED%98%95+%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4%22+%EC%84%A4%EA%B3%84&rows=40&select=DOI%2Ctitle%2Cauthor%2Cpublished%2Ctype%2Cabstract%2CURL%2Clink%2Clicense",
+      "status": "ok",
+      "results": 40,
+      "sha256": "dfba23e754cfca328b85b88f995db58225e19cc272344d117dc7756cd5223ebd"
+    }
+  ]
+}

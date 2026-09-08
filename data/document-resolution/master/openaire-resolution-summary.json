@@ -1,11 +1,11 @@
 {
   "eligible_doi": 1549,
-  "attempted_total": 1072,
+  "attempted_total": 1572,
   "attempted_this_run": 500,
-  "resolved_total": 362,
-  "locations_total": 887,
-  "open_urls_total": 118,
-  "studies_with_open_url": 69,
-  "errors_total": 0,
-  "remaining": 477
+  "resolved_total": 431,
+  "locations_total": 1060,
+  "open_urls_total": 133,
+  "studies_with_open_url": 81,
+  "errors_total": 1,
+  "remaining": -23
 }

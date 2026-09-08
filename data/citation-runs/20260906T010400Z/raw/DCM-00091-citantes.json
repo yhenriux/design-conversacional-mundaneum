@@ -1,0 +1,2944 @@
+{
+  "meta": {
+    "count": 3,
+    "db_response_time_ms": 22,
+    "page": 1,
+    "per_page": 25,
+    "groups_count": null,
+    "x_query": {
+      "oql": "works where it cites (https://openalex.org/W4407208471)",
+      "oqo": {
+        "get_rows": "works",
+        "filter_rows": [
+          {
+            "column_id": "referenced_works",
+            "value": "https://openalex.org/W4407208471"
+          }
+        ]
+      },
+      "url": "/works?filter=referenced_works:https:%2F%2Fopenalex.org%2FW4407208471&per_page=25"
+    },
+    "cost_usd": 0.0001
+  },
+  "results": [
+    {
+      "id": "https://openalex.org/W4413003510",
+      "doi": "https://doi.org/10.1016/j.tourman.2025.105273",
+      "title": "Communication modality, authenticity, and continuance usage intention of GenAI chatbots: A media richness theory perspective",
+      "display_name": "Communication modality, authenticity, and continuance usage intention of GenAI chatbots: A media richness theory perspective",
+      "publication_year": 2025,
+      "publication_date": "2025-08-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4413003510",
+        "doi": "https://doi.org/10.1016/j.tourman.2025.105273"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.tourman.2025.105273",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.tourman.2025.105273",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S6814119",
+          "display_name": "Tourism Management",
+          "issn_l": "0261-5177",
+          "issn": [
+            "0261-5177",
+            "1879-3193"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Tourism Management",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5005427710",
+            "display_name": "Huijun Yang",
+            "orcid": "https://orcid.org/0000-0001-5166-5721"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Huijun Yang",
+          "raw_affiliation_strings": [
+            "Pui Kiu College, Hong Kong"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Pui Kiu College, Hong Kong",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084013020",
+            "display_name": "Hanqun Song",
+            "orcid": "https://orcid.org/0000-0001-7081-5393"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I110002522",
+              "display_name": "University of Essex",
+              "ror": "https://ror.org/02nkf1q06",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I110002522"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hanqun Song",
+          "raw_affiliation_strings": [
+            "Essex Business School, University of Essex, Colchester, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Essex Business School, University of Essex, Colchester, UK",
+              "institution_ids": [
+                "https://openalex.org/I110002522"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100356838",
+            "display_name": "Yun Zhang",
+            "orcid": "https://orcid.org/0000-0003-1686-2812"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I14243506",
+              "display_name": "Hong Kong Polytechnic University",
+              "ror": "https://ror.org/0030zas98",
+              "country_code": "HK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I14243506"
+              ]
+            }
+          ],
+          "countries": [
+            "HK"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yun Zhang",
+          "raw_affiliation_strings": [
+            "School of Hotel and Tourism Management, The Hong Kong Polytechnic University, Hong Kong"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1686-2812",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Hotel and Tourism Management, The Hong Kong Polytechnic University, Hong Kong",
+              "institution_ids": [
+                "https://openalex.org/I14243506"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005210683",
+            "display_name": "Emily Ma",
+            "orcid": "https://orcid.org/0000-0002-0161-7710"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28290843",
+              "display_name": "University of Surrey",
+              "ror": "https://ror.org/00ks66431",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28290843"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Emily Ma",
+          "raw_affiliation_strings": [
+            "Surrey Hospitality and Tourism, Surrey Business School, University of Surrey, Guildford, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Surrey Hospitality and Tourism, Surrey Business School, University of Surrey, Guildford, UK",
+              "institution_ids": [
+                "https://openalex.org/I28290843"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Andi Yang",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Andi Yang",
+          "raw_affiliation_strings": [
+            "Pui Kiu College, Hong Kong"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Pui Kiu College, Hong Kong",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5100356838"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I14243506"
+      ],
+      "apc_list": {
+        "value": 4690,
+        "currency": "USD",
+        "value_usd": 4690
+      },
+      "apc_paid": null,
+      "fwci": 34.9613,
+      "has_fulltext": false,
+      "cited_by_count": 17,
+      "citation_normalized_percentile": {
+        "value": 0.99567797,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "112",
+        "issue": null,
+        "first_page": "105273",
+        "last_page": "105273"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10068",
+        "display_name": "Technology Adoption and User Behaviour",
+        "score": 0.9926999807357788,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1802",
+          "display_name": "Information Systems and Management"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/18",
+          "display_name": "Decision Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10068",
+          "display_name": "Technology Adoption and User Behaviour",
+          "score": 0.9926999807357788,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1802",
+            "display_name": "Information Systems and Management"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/18",
+            "display_name": "Decision Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10609",
+          "display_name": "Digital Marketing and Social Media",
+          "score": 0.9861000180244446,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.972000002861023,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/perspective",
+          "display_name": "Perspective (graphical)",
+          "score": 0.8268156051635742
+        },
+        {
+          "id": "https://openalex.org/keywords/continuance",
+          "display_name": "Continuance",
+          "score": 0.8195548057556152
+        },
+        {
+          "id": "https://openalex.org/keywords/modality",
+          "display_name": "Modality (human–computer interaction)",
+          "score": 0.7341839075088501
+        },
+        {
+          "id": "https://openalex.org/keywords/psychology",
+          "display_name": "Psychology",
+          "score": 0.4852278232574463
+        },
+        {
+          "id": "https://openalex.org/keywords/sociology",
+          "display_name": "Sociology",
+          "score": 0.4843193590641022
+        },
+        {
+          "id": "https://openalex.org/keywords/advertising",
+          "display_name": "Advertising",
+          "score": 0.3435322642326355
+        },
+        {
+          "id": "https://openalex.org/keywords/social-psychology",
+          "display_name": "Social psychology",
+          "score": 0.29902005195617676
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.1956581473350525
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.16875365376472473
+        },
+        {
+          "id": "https://openalex.org/keywords/human–computer-interaction",
+          "display_name": "Human–computer interaction",
+          "score": 0.10556316375732422
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C12713177",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900281",
+          "display_name": "Perspective (graphical)",
+          "level": 2,
+          "score": 0.8268156051635742
+        },
+        {
+          "id": "https://openalex.org/C2780081655",
+          "wikidata": "https://www.wikidata.org/wiki/Q763365",
+          "display_name": "Continuance",
+          "level": 2,
+          "score": 0.8195548057556152
+        },
+        {
+          "id": "https://openalex.org/C2780226545",
+          "wikidata": "https://www.wikidata.org/wiki/Q6888030",
+          "display_name": "Modality (human–computer interaction)",
+          "level": 2,
+          "score": 0.7341839075088501
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4852278232574463
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0.4843193590641022
+        },
+        {
+          "id": "https://openalex.org/C112698675",
+          "wikidata": "https://www.wikidata.org/wiki/Q37038",
+          "display_name": "Advertising",
+          "level": 1,
+          "score": 0.3435322642326355
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.29902005195617676
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.1956581473350525
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.16875365376472473
+        },
+        {
+          "id": "https://openalex.org/C107457646",
+          "wikidata": "https://www.wikidata.org/wiki/Q207434",
+          "display_name": "Human–computer interaction",
+          "level": 1,
+          "score": 0.10556316375732422
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.tourman.2025.105273",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.tourman.2025.105273",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S6814119",
+            "display_name": "Tourism Management",
+            "issn_l": "0261-5177",
+            "issn": [
+              "0261-5177",
+              "1879-3193"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Tourism Management",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:ira.lib.polyu.edu.hk:10397/116291",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10397/116291",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400205",
+            "display_name": "PolyU Institutional Research Archive (Hong Kong Polytechnic University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I14243506",
+            "host_organization_name": "Hong Kong Polytechnic University",
+            "host_organization_lineage": [
+              "https://openalex.org/I14243506"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Journal/Magazine Article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5657446221",
+          "display_name": null,
+          "funder_award_id": "1-BD2X",
+          "funder_id": "https://openalex.org/F4320322598",
+          "funder_display_name": "Hong Kong Polytechnic University"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322598",
+          "display_name": "Hong Kong Polytechnic University",
+          "ror": "https://ror.org/0030zas98"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 94,
+      "referenced_works": [
+        "https://openalex.org/W1337427",
+        "https://openalex.org/W222325736",
+        "https://openalex.org/W633403080",
+        "https://openalex.org/W1591773406",
+        "https://openalex.org/W1849190772",
+        "https://openalex.org/W2003869503",
+        "https://openalex.org/W2013661501",
+        "https://openalex.org/W2058361483",
+        "https://openalex.org/W2071377564",
+        "https://openalex.org/W2119043452",
+        "https://openalex.org/W2149942469",
+        "https://openalex.org/W2173602308",
+        "https://openalex.org/W2250956542",
+        "https://openalex.org/W2316972015",
+        "https://openalex.org/W2581447455",
+        "https://openalex.org/W2613536766",
+        "https://openalex.org/W2765808856",
+        "https://openalex.org/W2774278867",
+        "https://openalex.org/W2796388127",
+        "https://openalex.org/W2809912720",
+        "https://openalex.org/W2889310216",
+        "https://openalex.org/W2923653073",
+        "https://openalex.org/W2956843553",
+        "https://openalex.org/W2988660991",
+        "https://openalex.org/W2995996517",
+        "https://openalex.org/W3000449363",
+        "https://openalex.org/W3003802619",
+        "https://openalex.org/W3006615433",
+        "https://openalex.org/W3022452870",
+        "https://openalex.org/W3043504845",
+        "https://openalex.org/W3046781422",
+        "https://openalex.org/W3047594065",
+        "https://openalex.org/W3069871694",
+        "https://openalex.org/W3081790547",
+        "https://openalex.org/W3085789143",
+        "https://openalex.org/W3095023737",
+        "https://openalex.org/W3095777278",
+        "https://openalex.org/W3097693500",
+        "https://openalex.org/W3123303846",
+        "https://openalex.org/W3134508650",
+        "https://openalex.org/W3193720561",
+        "https://openalex.org/W4213240252",
+        "https://openalex.org/W4234262660",
+        "https://openalex.org/W4250666038",
+        "https://openalex.org/W4283398683",
+        "https://openalex.org/W4286358559",
+        "https://openalex.org/W4310439325",
+        "https://openalex.org/W4311537719",
+        "https://openalex.org/W4311968175",
+        "https://openalex.org/W4323856866",
+        "https://openalex.org/W4367308523",
+        "https://openalex.org/W4367550746",
+        "https://openalex.org/W4379416244",
+        "https://openalex.org/W4381853711",
+        "https://openalex.org/W4383311340",
+        "https://openalex.org/W4384264402",
+        "https://openalex.org/W4384562060",
+        "https://openalex.org/W4385257324",
+        "https://openalex.org/W4386233299",
+        "https://openalex.org/W4386266594",
+        "https://openalex.org/W4386290446",
+        "https://openalex.org/W4386356220",
+        "https://openalex.org/W4387730910",
+        "https://openalex.org/W4389565618",
+        "https://openalex.org/W4390558477",
+        "https://openalex.org/W4391041141",
+        "https://openalex.org/W4391251972",
+        "https://openalex.org/W4391349518",
+        "https://openalex.org/W4391731128",
+        "https://openalex.org/W4392346013",
+        "https://openalex.org/W4392645233",
+        "https://openalex.org/W4399295008",
+        "https://openalex.org/W4399324731",
+        "https://openalex.org/W4399500391",
+        "https://openalex.org/W4400074783",
+        "https://openalex.org/W4401183298",
+        "https://openalex.org/W4402290304",
+        "https://openalex.org/W4402516906",
+        "https://openalex.org/W4404300627",
+        "https://openalex.org/W4405726992",
+        "https://openalex.org/W4405765314",
+        "https://openalex.org/W4407192828",
+        "https://openalex.org/W4407208471",
+        "https://openalex.org/W4409319503",
+        "https://openalex.org/W6600047432",
+        "https://openalex.org/W6608709494",
+        "https://openalex.org/W6752359182",
+        "https://openalex.org/W6856007399",
+        "https://openalex.org/W6856378192",
+        "https://openalex.org/W6857129261",
+        "https://openalex.org/W6860523631",
+        "https://openalex.org/W6869378197",
+        "https://openalex.org/W7021030857",
+        "https://openalex.org/W7072453653"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2899084033",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4251771709",
+        "https://openalex.org/W2163870992",
+        "https://openalex.org/W2294757943",
+        "https://openalex.org/W3173986262",
+        "https://openalex.org/W4322744319",
+        "https://openalex.org/W1575995895",
+        "https://openalex.org/W2386329319"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-01T08:31:24.195828",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7131436087",
+      "doi": "https://doi.org/10.4018/979-8-3373-9963-8.ch008",
+      "title": "Branding Through Bots",
+      "display_name": "Branding Through Bots",
+      "publication_year": 2026,
+      "publication_date": "2026-02-25",
+      "ids": {
+        "openalex": "https://openalex.org/W7131436087",
+        "doi": "https://doi.org/10.4018/979-8-3373-9963-8.ch008"
+      },
+      "language": null,
+      "primary_location": {
+        "id": "doi:10.4018/979-8-3373-9963-8.ch008",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.4018/979-8-3373-9963-8.ch008",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210180746",
+          "display_name": "Advances in computational intelligence and robotics book series",
+          "issn_l": "2327-0411",
+          "issn": [
+            "2327-0411",
+            "2327-042X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320424",
+          "host_organization_name": "IGI Global",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320424"
+          ],
+          "host_organization_lineage_names": [
+            "IGI Global"
+          ],
+          "type": "book series"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Advances in Computational Intelligence and Robotics",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5118137471",
+            "display_name": "Anisha Biswas",
+            "orcid": "https://orcid.org/0009-0007-3663-4020"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1288043984",
+              "display_name": "Techno India University",
+              "ror": "https://ror.org/00v1y6t69",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anisha Biswas",
+          "raw_affiliation_strings": [
+            "Brainware University, India"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0007-3663-4020",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Brainware University, India",
+              "institution_ids": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5126820647",
+            "display_name": "Sreejita Bose",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1288043984",
+              "display_name": "Techno India University",
+              "ror": "https://ror.org/00v1y6t69",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sreejita Bose",
+          "raw_affiliation_strings": [
+            "Brainware University, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Brainware University, India",
+              "institution_ids": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5119653397",
+            "display_name": "Arunika Bhadra",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1288043984",
+              "display_name": "Techno India University",
+              "ror": "https://ror.org/00v1y6t69",
+              "country_code": "IN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Arunika Bhadra",
+          "raw_affiliation_strings": [
+            "Brainware University, India"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Brainware University, India",
+              "institution_ids": [
+                "https://openalex.org/I1288043984"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1288043984"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.20333917,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "255",
+        "last_page": "286"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.9821000099182129,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.9821000099182129,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10883",
+          "display_name": "Ethics and Social Impacts of AI",
+          "score": 0.001500000013038516,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3311",
+            "display_name": "Safety Research"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10709",
+          "display_name": "Social Robot Interaction and HRI",
+          "score": 0.0010000000474974513,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3207",
+            "display_name": "Social Psychology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/32",
+            "display_name": "Psychology"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.7052000164985657
+        },
+        {
+          "id": "https://openalex.org/keywords/consistency",
+          "display_name": "Consistency (knowledge bases)",
+          "score": 0.48260000348091125
+        },
+        {
+          "id": "https://openalex.org/keywords/focus",
+          "display_name": "Focus (optics)",
+          "score": 0.4643000066280365
+        },
+        {
+          "id": "https://openalex.org/keywords/personality",
+          "display_name": "Personality",
+          "score": 0.45249998569488525
+        },
+        {
+          "id": "https://openalex.org/keywords/key",
+          "display_name": "Key (lock)",
+          "score": 0.42669999599456787
+        },
+        {
+          "id": "https://openalex.org/keywords/identity",
+          "display_name": "Identity (music)",
+          "score": 0.39739999175071716
+        },
+        {
+          "id": "https://openalex.org/keywords/perception",
+          "display_name": "Perception",
+          "score": 0.37610000371932983
+        },
+        {
+          "id": "https://openalex.org/keywords/affect",
+          "display_name": "Affect (linguistics)",
+          "score": 0.3569999933242798
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.7052000164985657
+        },
+        {
+          "id": "https://openalex.org/C108827166",
+          "wikidata": "https://www.wikidata.org/wiki/Q175975",
+          "display_name": "Internet privacy",
+          "level": 1,
+          "score": 0.482699990272522
+        },
+        {
+          "id": "https://openalex.org/C2776436953",
+          "wikidata": "https://www.wikidata.org/wiki/Q5163215",
+          "display_name": "Consistency (knowledge bases)",
+          "level": 2,
+          "score": 0.48260000348091125
+        },
+        {
+          "id": "https://openalex.org/C192209626",
+          "wikidata": "https://www.wikidata.org/wiki/Q190909",
+          "display_name": "Focus (optics)",
+          "level": 2,
+          "score": 0.4643000066280365
+        },
+        {
+          "id": "https://openalex.org/C187288502",
+          "wikidata": "https://www.wikidata.org/wiki/Q641118",
+          "display_name": "Personality",
+          "level": 2,
+          "score": 0.45249998569488525
+        },
+        {
+          "id": "https://openalex.org/C26517878",
+          "wikidata": "https://www.wikidata.org/wiki/Q228039",
+          "display_name": "Key (lock)",
+          "level": 2,
+          "score": 0.42669999599456787
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.40369999408721924
+        },
+        {
+          "id": "https://openalex.org/C2778355321",
+          "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+          "display_name": "Identity (music)",
+          "level": 2,
+          "score": 0.39739999175071716
+        },
+        {
+          "id": "https://openalex.org/C26760741",
+          "wikidata": "https://www.wikidata.org/wiki/Q160402",
+          "display_name": "Perception",
+          "level": 2,
+          "score": 0.37610000371932983
+        },
+        {
+          "id": "https://openalex.org/C2776035688",
+          "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+          "display_name": "Affect (linguistics)",
+          "level": 2,
+          "score": 0.3569999933242798
+        },
+        {
+          "id": "https://openalex.org/C112698675",
+          "wikidata": "https://www.wikidata.org/wiki/Q37038",
+          "display_name": "Advertising",
+          "level": 1,
+          "score": 0.35589998960494995
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.33180001378059387
+        },
+        {
+          "id": "https://openalex.org/C56995899",
+          "wikidata": "https://www.wikidata.org/wiki/Q1126687",
+          "display_name": "Focus group",
+          "level": 2,
+          "score": 0.32739999890327454
+        },
+        {
+          "id": "https://openalex.org/C39549134",
+          "wikidata": "https://www.wikidata.org/wiki/Q133080",
+          "display_name": "Public relations",
+          "level": 1,
+          "score": 0.31859999895095825
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.31310001015663147
+        },
+        {
+          "id": "https://openalex.org/C136006765",
+          "wikidata": "https://www.wikidata.org/wiki/Q1134689",
+          "display_name": "Corporate branding",
+          "level": 3,
+          "score": 0.29840001463890076
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.29109999537467957
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.2685999870300293
+        },
+        {
+          "id": "https://openalex.org/C2992678278",
+          "wikidata": "https://www.wikidata.org/wiki/Q431289",
+          "display_name": "Brand identity",
+          "level": 2,
+          "score": 0.2671000063419342
+        },
+        {
+          "id": "https://openalex.org/C116834253",
+          "wikidata": "https://www.wikidata.org/wiki/Q2039217",
+          "display_name": "Identification (biology)",
+          "level": 2,
+          "score": 0.26600000262260437
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.25920000672340393
+        },
+        {
+          "id": "https://openalex.org/C2780586970",
+          "wikidata": "https://www.wikidata.org/wiki/Q1357284",
+          "display_name": "Popularity",
+          "level": 2,
+          "score": 0.2578999996185303
+        },
+        {
+          "id": "https://openalex.org/C2993429387",
+          "wikidata": "https://www.wikidata.org/wiki/Q1060653",
+          "display_name": "Customer care",
+          "level": 2,
+          "score": 0.25519999861717224
+        },
+        {
+          "id": "https://openalex.org/C2776915394",
+          "wikidata": "https://www.wikidata.org/wiki/Q5196451",
+          "display_name": "Customer engagement",
+          "level": 3,
+          "score": 0.25450000166893005
+        },
+        {
+          "id": "https://openalex.org/C2985250679",
+          "wikidata": "https://www.wikidata.org/wiki/Q984142",
+          "display_name": "Customer experience",
+          "level": 2,
+          "score": 0.25209999084472656
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.4018/979-8-3373-9963-8.ch008",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.4018/979-8-3373-9963-8.ch008",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210180746",
+            "display_name": "Advances in computational intelligence and robotics book series",
+            "issn_l": "2327-0411",
+            "issn": [
+              "2327-0411",
+              "2327-042X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320424",
+            "host_organization_name": "IGI Global",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320424"
+            ],
+            "host_organization_lineage_names": [
+              "IGI Global"
+            ],
+            "type": "book series"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Advances in Computational Intelligence and Robotics",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 49,
+      "referenced_works": [
+        "https://openalex.org/W1791587663",
+        "https://openalex.org/W1975601853",
+        "https://openalex.org/W1977349155",
+        "https://openalex.org/W1991045527",
+        "https://openalex.org/W1994771258",
+        "https://openalex.org/W2002012569",
+        "https://openalex.org/W2002084261",
+        "https://openalex.org/W2084691611",
+        "https://openalex.org/W2091954440",
+        "https://openalex.org/W2108752510",
+        "https://openalex.org/W2130596677",
+        "https://openalex.org/W2170430646",
+        "https://openalex.org/W2295111698",
+        "https://openalex.org/W2423024114",
+        "https://openalex.org/W2482473633",
+        "https://openalex.org/W2576297379",
+        "https://openalex.org/W2904963199",
+        "https://openalex.org/W2947308709",
+        "https://openalex.org/W2949121133",
+        "https://openalex.org/W3030211462",
+        "https://openalex.org/W3034383590",
+        "https://openalex.org/W3037571401",
+        "https://openalex.org/W3094793347",
+        "https://openalex.org/W3112307605",
+        "https://openalex.org/W3127685069",
+        "https://openalex.org/W3186077827",
+        "https://openalex.org/W3192269127",
+        "https://openalex.org/W3217570815",
+        "https://openalex.org/W4205698616",
+        "https://openalex.org/W4230277160",
+        "https://openalex.org/W4230702988",
+        "https://openalex.org/W4234081717",
+        "https://openalex.org/W4240915221",
+        "https://openalex.org/W4251955157",
+        "https://openalex.org/W4283449788",
+        "https://openalex.org/W4323045013",
+        "https://openalex.org/W4376119964",
+        "https://openalex.org/W4386276006",
+        "https://openalex.org/W4386601209",
+        "https://openalex.org/W4389284173",
+        "https://openalex.org/W4392293038",
+        "https://openalex.org/W4394863541",
+        "https://openalex.org/W4395021149",
+        "https://openalex.org/W4403922230",
+        "https://openalex.org/W4405597853",
+        "https://openalex.org/W4407042522",
+        "https://openalex.org/W4407208471",
+        "https://openalex.org/W4410038931",
+        "https://openalex.org/W4410787763"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "This": [
+          0,
+          15
+        ],
+        "study": [
+          1,
+          55
+        ],
+        "focuses": [
+          2
+        ],
+        "on": [
+          3,
+          26,
+          116
+        ],
+        "how": [
+          4,
+          47
+        ],
+        "chatbot": [
+          5,
+          38
+        ],
+        "personality": [
+          6
+        ],
+        "and": [
+          7,
+          12,
+          19,
+          31,
+          43,
+          50,
+          63,
+          68,
+          81,
+          107,
+          123
+        ],
+        "language": [
+          8
+        ],
+        "affect": [
+          9
+        ],
+        "brand": [
+          10,
+          90,
+          105
+        ],
+        "identity": [
+          11
+        ],
+        "customer": [
+          13,
+          110
+        ],
+        "loyalty.": [
+          14
+        ],
+        "reviews": [
+          16
+        ],
+        "63": [
+          17
+        ],
+        "articles": [
+          18
+        ],
+        "reports": [
+          20
+        ],
+        "from": [
+          21,
+          29
+        ],
+        "2019": [
+          22
+        ],
+        "to": [
+          23,
+          85,
+          97,
+          103,
+          120
+        ],
+        "2025,": [
+          24
+        ],
+        "based": [
+          25
+        ],
+        "key": [
+          27
+        ],
+        "ideas": [
+          28
+        ],
+        "branding": [
+          30,
+          125
+        ],
+        "human-computer": [
+          32
+        ],
+        "interaction.": [
+          33
+        ],
+        "The": [
+          34,
+          54,
+          92
+        ],
+        "findings": [
+          35
+        ],
+        "show": [
+          36
+        ],
+        "that": [
+          37,
+          100
+        ],
+        "features": [
+          39
+        ],
+        "like": [
+          40,
+          60
+        ],
+        "tone,": [
+          41
+        ],
+        "empathy,": [
+          42
+        ],
+        "consistency": [
+          44
+        ],
+        "greatly": [
+          45
+        ],
+        "impact": [
+          46
+        ],
+        "users": [
+          48
+        ],
+        "feel": [
+          49,
+          101
+        ],
+        "trust": [
+          51
+        ],
+        "the": [
+          52,
+          95
+        ],
+        "brand.": [
+          53
+        ],
+        "also": [
+          56
+        ],
+        "discusses": [
+          57
+        ],
+        "important": [
+          58
+        ],
+        "issues": [
+          59
+        ],
+        "data": [
+          61
+        ],
+        "privacy": [
+          62
+        ],
+        "bias.": [
+          64
+        ],
+        "It": [
+          65
+        ],
+        "highlights": [
+          66
+        ],
+        "trends": [
+          67
+        ],
+        "areas": [
+          69
+        ],
+        "where": [
+          70
+        ],
+        "more": [
+          71
+        ],
+        "research": [
+          72,
+          113
+        ],
+        "is": [
+          73
+        ],
+        "needed,": [
+          74
+        ],
+        "providing": [
+          75
+        ],
+        "useful": [
+          76
+        ],
+        "information": [
+          77
+        ],
+        "for": [
+          78
+        ],
+        "researchers,": [
+          79
+        ],
+        "marketers,": [
+          80
+        ],
+        "designers": [
+          82
+        ],
+        "who": [
+          83
+        ],
+        "want": [
+          84
+        ],
+        "connect": [
+          86
+        ],
+        "AI": [
+          87,
+          127
+        ],
+        "chatbots": [
+          88,
+          99
+        ],
+        "with": [
+          89,
+          126
+        ],
+        "goals.": [
+          91
+        ],
+        "results": [
+          93
+        ],
+        "emphasize": [
+          94
+        ],
+        "need": [
+          96
+        ],
+        "create": [
+          98
+        ],
+        "human-like": [
+          102
+        ],
+        "strengthen": [
+          104
+        ],
+        "values": [
+          106
+        ],
+        "build": [
+          108
+        ],
+        "long-term": [
+          109,
+          117
+        ],
+        "relationships.": [
+          111
+        ],
+        "Future": [
+          112
+        ],
+        "should": [
+          114
+        ],
+        "focus": [
+          115
+        ],
+        "studies,": [
+          118
+        ],
+        "adapting": [
+          119
+        ],
+        "different": [
+          121
+        ],
+        "cultures,": [
+          122
+        ],
+        "sustainable": [
+          124
+        ],
+        "communication.": [
+          128
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-28T12:50:07.497085",
+      "created_date": "2026-02-26T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W7201875889",
+      "doi": "https://doi.org/10.3390/jtaer21080264",
+      "title": "Does Conversational Artificial Intelligence Affect Parasocial Displacement? A Study on Consumer Brand Affinity in Digital Market Ecosystems",
+      "display_name": "Does Conversational Artificial Intelligence Affect Parasocial Displacement? A Study on Consumer Brand Affinity in Digital Market Ecosystems",
+      "publication_year": 2026,
+      "publication_date": "2026-08-07",
+      "ids": {
+        "openalex": "https://openalex.org/W7201875889",
+        "doi": "https://doi.org/10.3390/jtaer21080264"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.3390/jtaer21080264",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/jtaer21080264",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S27967161",
+          "display_name": "Journal of theoretical and applied electronic commerce research",
+          "issn_l": "0718-1876",
+          "issn": [
+            "0718-1876"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Theoretical and Applied Electronic Commerce Research",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://doi.org/10.3390/jtaer21080264",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5089458769",
+            "display_name": "Subhankar Das",
+            "orcid": "https://orcid.org/0000-0001-7344-4583"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170238339",
+              "display_name": "Duy Tan University",
+              "ror": "https://ror.org/05ezss144",
+              "country_code": "VN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170238339"
+              ]
+            }
+          ],
+          "countries": [
+            "VN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Subhankar Das",
+          "raw_affiliation_strings": [
+            "Department of Marketing, SouthStar Management Institute, Duy Tan University, Da Nang 550000, Vietnam"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7344-4583",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, SouthStar Management Institute, Duy Tan University, Da Nang 550000, Vietnam",
+              "institution_ids": [
+                "https://openalex.org/I170238339"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5114130342",
+            "display_name": "Subhra Mondal",
+            "orcid": "https://orcid.org/0009-0003-6469-6238"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I170238339",
+              "display_name": "Duy Tan University",
+              "ror": "https://ror.org/05ezss144",
+              "country_code": "VN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I170238339"
+              ]
+            }
+          ],
+          "countries": [
+            "VN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Subhra Mondal",
+          "raw_affiliation_strings": [
+            "Department of Marketing, SouthStar Management Institute, Duy Tan University, Da Nang 550000, Vietnam"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Marketing, SouthStar Management Institute, Duy Tan University, Da Nang 550000, Vietnam",
+              "institution_ids": [
+                "https://openalex.org/I170238339"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5089458769"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I170238339"
+      ],
+      "apc_list": {
+        "value": 1000,
+        "currency": "CHF",
+        "value_usd": 1207
+      },
+      "apc_paid": {
+        "value": 1000,
+        "currency": "CHF",
+        "value_usd": 1207
+      },
+      "fwci": 0.0,
+      "has_fulltext": false,
+      "cited_by_count": 0,
+      "citation_normalized_percentile": {
+        "value": 0.84242085,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "21",
+        "issue": "8",
+        "first_page": "264",
+        "last_page": "264"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12128",
+        "display_name": "AI in Service Interactions",
+        "score": 0.2660999894142151,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12128",
+          "display_name": "AI in Service Interactions",
+          "score": 0.2660999894142151,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12214",
+          "display_name": "Media Influence and Health",
+          "score": 0.2190999984741211,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1208",
+            "display_name": "Literature and Literary Theory"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10609",
+          "display_name": "Digital Marketing and Social Media",
+          "score": 0.08839999884366989,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3312",
+            "display_name": "Sociology and Political Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/affect",
+          "display_name": "Affect (linguistics)",
+          "score": 0.4616999924182892
+        },
+        {
+          "id": "https://openalex.org/keywords/social-media",
+          "display_name": "Social media",
+          "score": 0.44209998846054077
+        },
+        {
+          "id": "https://openalex.org/keywords/chatbot",
+          "display_name": "Chatbot",
+          "score": 0.44119998812675476
+        },
+        {
+          "id": "https://openalex.org/keywords/marketing-buzz",
+          "display_name": "Marketing buzz",
+          "score": 0.4390000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/moderation",
+          "display_name": "Moderation",
+          "score": 0.38179999589920044
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-marketing",
+          "display_name": "Digital marketing",
+          "score": 0.3765000104904175
+        },
+        {
+          "id": "https://openalex.org/keywords/brand-management",
+          "display_name": "Brand management",
+          "score": 0.3555999994277954
+        },
+        {
+          "id": "https://openalex.org/keywords/construct",
+          "display_name": "Construct (python library)",
+          "score": 0.35530000925064087
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-media",
+          "display_name": "Digital media",
+          "score": 0.33880001306533813
+        },
+        {
+          "id": "https://openalex.org/keywords/personality",
+          "display_name": "Personality",
+          "score": 0.33239999413490295
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776035688",
+          "wikidata": "https://www.wikidata.org/wiki/Q1606558",
+          "display_name": "Affect (linguistics)",
+          "level": 2,
+          "score": 0.4616999924182892
+        },
+        {
+          "id": "https://openalex.org/C518677369",
+          "wikidata": "https://www.wikidata.org/wiki/Q202833",
+          "display_name": "Social media",
+          "level": 2,
+          "score": 0.44209998846054077
+        },
+        {
+          "id": "https://openalex.org/C2779041454",
+          "wikidata": "https://www.wikidata.org/wiki/Q870780",
+          "display_name": "Chatbot",
+          "level": 2,
+          "score": 0.44119998812675476
+        },
+        {
+          "id": "https://openalex.org/C113993141",
+          "wikidata": "https://www.wikidata.org/wiki/Q906759",
+          "display_name": "Marketing buzz",
+          "level": 2,
+          "score": 0.4390000104904175
+        },
+        {
+          "id": "https://openalex.org/C112698675",
+          "wikidata": "https://www.wikidata.org/wiki/Q37038",
+          "display_name": "Advertising",
+          "level": 1,
+          "score": 0.40529999136924744
+        },
+        {
+          "id": "https://openalex.org/C15744967",
+          "wikidata": "https://www.wikidata.org/wiki/Q9418",
+          "display_name": "Psychology",
+          "level": 0,
+          "score": 0.4020000100135803
+        },
+        {
+          "id": "https://openalex.org/C93225998",
+          "wikidata": "https://www.wikidata.org/wiki/Q1941972",
+          "display_name": "Moderation",
+          "level": 2,
+          "score": 0.38179999589920044
+        },
+        {
+          "id": "https://openalex.org/C98495876",
+          "wikidata": "https://www.wikidata.org/wiki/Q1323528",
+          "display_name": "Digital marketing",
+          "level": 2,
+          "score": 0.3765000104904175
+        },
+        {
+          "id": "https://openalex.org/C57375061",
+          "wikidata": "https://www.wikidata.org/wiki/Q453181",
+          "display_name": "Brand management",
+          "level": 2,
+          "score": 0.3555999994277954
+        },
+        {
+          "id": "https://openalex.org/C2780801425",
+          "wikidata": "https://www.wikidata.org/wiki/Q5164392",
+          "display_name": "Construct (python library)",
+          "level": 2,
+          "score": 0.35530000925064087
+        },
+        {
+          "id": "https://openalex.org/C17632256",
+          "wikidata": "https://www.wikidata.org/wiki/Q1076968",
+          "display_name": "Digital media",
+          "level": 2,
+          "score": 0.33880001306533813
+        },
+        {
+          "id": "https://openalex.org/C177264268",
+          "wikidata": "https://www.wikidata.org/wiki/Q1514741",
+          "display_name": "Set (abstract data type)",
+          "level": 2,
+          "score": 0.33239999413490295
+        },
+        {
+          "id": "https://openalex.org/C187288502",
+          "wikidata": "https://www.wikidata.org/wiki/Q641118",
+          "display_name": "Personality",
+          "level": 2,
+          "score": 0.33239999413490295
+        },
+        {
+          "id": "https://openalex.org/C174107131",
+          "wikidata": "https://www.wikidata.org/wiki/Q191591",
+          "display_name": "Emotional intelligence",
+          "level": 2,
+          "score": 0.3262999951839447
+        },
+        {
+          "id": "https://openalex.org/C23213687",
+          "wikidata": "https://www.wikidata.org/wiki/Q301468",
+          "display_name": "Consumer behaviour",
+          "level": 2,
+          "score": 0.32600000500679016
+        },
+        {
+          "id": "https://openalex.org/C152455256",
+          "wikidata": "https://www.wikidata.org/wiki/Q1900597",
+          "display_name": "Brand awareness",
+          "level": 2,
+          "score": 0.3197000026702881
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.3158999979496002
+        },
+        {
+          "id": "https://openalex.org/C162853370",
+          "wikidata": "https://www.wikidata.org/wiki/Q39809",
+          "display_name": "Marketing",
+          "level": 1,
+          "score": 0.3140999972820282
+        },
+        {
+          "id": "https://openalex.org/C187008535",
+          "wikidata": "https://www.wikidata.org/wiki/Q204255",
+          "display_name": "Viral marketing",
+          "level": 3,
+          "score": 0.31369999051094055
+        },
+        {
+          "id": "https://openalex.org/C144430266",
+          "wikidata": "https://www.wikidata.org/wiki/Q839721",
+          "display_name": "Interactivity",
+          "level": 2,
+          "score": 0.31279999017715454
+        },
+        {
+          "id": "https://openalex.org/C179420905",
+          "wikidata": "https://www.wikidata.org/wiki/Q223871",
+          "display_name": "Mediation",
+          "level": 2,
+          "score": 0.3084999918937683
+        },
+        {
+          "id": "https://openalex.org/C2865642",
+          "wikidata": "https://www.wikidata.org/wiki/Q378132",
+          "display_name": "Big Five personality traits",
+          "level": 3,
+          "score": 0.29919999837875366
+        },
+        {
+          "id": "https://openalex.org/C2777591371",
+          "wikidata": "https://www.wikidata.org/wiki/Q17511757",
+          "display_name": "Brand relationship",
+          "level": 3,
+          "score": 0.2989000082015991
+        },
+        {
+          "id": "https://openalex.org/C25908422",
+          "wikidata": "https://www.wikidata.org/wiki/Q271716",
+          "display_name": "Personality psychology",
+          "level": 3,
+          "score": 0.29409998655319214
+        },
+        {
+          "id": "https://openalex.org/C183003079",
+          "wikidata": "https://www.wikidata.org/wiki/Q1000371",
+          "display_name": "Personalization",
+          "level": 2,
+          "score": 0.29350000619888306
+        },
+        {
+          "id": "https://openalex.org/C56739046",
+          "wikidata": "https://www.wikidata.org/wiki/Q192060",
+          "display_name": "Knowledge management",
+          "level": 1,
+          "score": 0.2854999899864197
+        },
+        {
+          "id": "https://openalex.org/C203043789",
+          "wikidata": "https://www.wikidata.org/wiki/Q138461",
+          "display_name": "Digital economy",
+          "level": 2,
+          "score": 0.27950000762939453
+        },
+        {
+          "id": "https://openalex.org/C2777527080",
+          "wikidata": "https://www.wikidata.org/wiki/Q3557311",
+          "display_name": "Digital ecosystem",
+          "level": 2,
+          "score": 0.27950000762939453
+        },
+        {
+          "id": "https://openalex.org/C90734943",
+          "wikidata": "https://www.wikidata.org/wiki/Q17008777",
+          "display_name": "Conceptualization",
+          "level": 2,
+          "score": 0.2777000069618225
+        },
+        {
+          "id": "https://openalex.org/C77805123",
+          "wikidata": "https://www.wikidata.org/wiki/Q161272",
+          "display_name": "Social psychology",
+          "level": 1,
+          "score": 0.2711000144481659
+        },
+        {
+          "id": "https://openalex.org/C2777152325",
+          "wikidata": "https://www.wikidata.org/wiki/Q108163",
+          "display_name": "Proposition",
+          "level": 2,
+          "score": 0.26980000734329224
+        },
+        {
+          "id": "https://openalex.org/C52146309",
+          "wikidata": "https://www.wikidata.org/wiki/Q7431116",
+          "display_name": "Schema (genetic algorithms)",
+          "level": 2,
+          "score": 0.263700008392334
+        },
+        {
+          "id": "https://openalex.org/C2781310500",
+          "wikidata": "https://www.wikidata.org/wiki/Q1231428",
+          "display_name": "Persuasion",
+          "level": 2,
+          "score": 0.26089999079704285
+        },
+        {
+          "id": "https://openalex.org/C130064352",
+          "wikidata": "https://www.wikidata.org/wiki/Q853725",
+          "display_name": "Social relation",
+          "level": 2,
+          "score": 0.26010000705718994
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.25769999623298645
+        },
+        {
+          "id": "https://openalex.org/C205971072",
+          "wikidata": "https://www.wikidata.org/wiki/Q513100",
+          "display_name": "Brand equity",
+          "level": 2,
+          "score": 0.2538999915122986
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.3390/jtaer21080264",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.3390/jtaer21080264",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S27967161",
+            "display_name": "Journal of theoretical and applied electronic commerce research",
+            "issn_l": "0718-1876",
+            "issn": [
+              "0718-1876"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310310987",
+            "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310310987"
+            ],
+            "host_organization_lineage_names": [
+              "Multidisciplinary Digital Publishing Institute"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of Theoretical and Applied Electronic Commerce Research",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:b4b7788e56ec4b20bd4c80a4e340a00b",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/b4b7788e56ec4b20bd4c80a4e340a00b",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Journal of Theoretical and Applied Electronic Commerce Research, Vol 21, Iss 8, p 264 (2026)",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.3390/jtaer21080264",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3390/jtaer21080264",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S27967161",
+          "display_name": "Journal of theoretical and applied electronic commerce research",
+          "issn_l": "0718-1876",
+          "issn": [
+            "0718-1876"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310310987",
+          "host_organization_name": "Multidisciplinary Digital Publishing Institute",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310310987"
+          ],
+          "host_organization_lineage_names": [
+            "Multidisciplinary Digital Publishing Institute"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of Theoretical and Applied Electronic Commerce Research",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 64,
+      "referenced_works": [
+        "https://openalex.org/W2004451085",
+        "https://openalex.org/W2143545365",
+        "https://openalex.org/W2808743618",
+        "https://openalex.org/W2900159628",
+        "https://openalex.org/W2912466316",
+        "https://openalex.org/W3012444309",
+        "https://openalex.org/W3122100577",
+        "https://openalex.org/W3124394317",
+        "https://openalex.org/W3158591474",
+        "https://openalex.org/W3159065636",
+        "https://openalex.org/W3172797665",
+        "https://openalex.org/W3175542740",
+        "https://openalex.org/W3186473261",
+        "https://openalex.org/W4214663417",
+        "https://openalex.org/W4234081717",
+        "https://openalex.org/W4255798239",
+        "https://openalex.org/W4281613932",
+        "https://openalex.org/W4281768129",
+        "https://openalex.org/W4284966012",
+        "https://openalex.org/W4296268643",
+        "https://openalex.org/W4297983522",
+        "https://openalex.org/W4303453564",
+        "https://openalex.org/W4304172392",
+        "https://openalex.org/W4310459943",
+        "https://openalex.org/W4313545038",
+        "https://openalex.org/W4322102687",
+        "https://openalex.org/W4323045013",
+        "https://openalex.org/W4327952037",
+        "https://openalex.org/W4377988415",
+        "https://openalex.org/W4385999871",
+        "https://openalex.org/W4387533511",
+        "https://openalex.org/W4391981126",
+        "https://openalex.org/W4393970926",
+        "https://openalex.org/W4394630908",
+        "https://openalex.org/W4399267724",
+        "https://openalex.org/W4399362852",
+        "https://openalex.org/W4403001096",
+        "https://openalex.org/W4403165117",
+        "https://openalex.org/W4403666406",
+        "https://openalex.org/W4403763500",
+        "https://openalex.org/W4404287076",
+        "https://openalex.org/W4404700827",
+        "https://openalex.org/W4405124308",
+        "https://openalex.org/W4407208471",
+        "https://openalex.org/W4409989327",
+        "https://openalex.org/W4410331522",
+        "https://openalex.org/W4410506944",
+        "https://openalex.org/W4412538229",
+        "https://openalex.org/W4412651282",
+        "https://openalex.org/W4412980601",
+        "https://openalex.org/W4413202832",
+        "https://openalex.org/W4414017542",
+        "https://openalex.org/W4414650785",
+        "https://openalex.org/W4416272050",
+        "https://openalex.org/W4416601654",
+        "https://openalex.org/W4417224017",
+        "https://openalex.org/W7116853668",
+        "https://openalex.org/W7134822609",
+        "https://openalex.org/W7135054132",
+        "https://openalex.org/W7150872837",
+        "https://openalex.org/W7151375833",
+        "https://openalex.org/W7160026062",
+        "https://openalex.org/W7162192142",
+        "https://openalex.org/W7167686088"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "With": [
+          0
+        ],
+        "the": [
+          1,
+          32,
+          42,
+          50,
+          68,
+          86,
+          91,
+          109,
+          117,
+          151,
+          155,
+          174,
+          192,
+          230,
+          251
+        ],
+        "widespread": [
+          2
+        ],
+        "adoption": [
+          3
+        ],
+        "of": [
+          4,
+          40,
+          52,
+          71,
+          88,
+          162,
+          195
+        ],
+        "conversational": [
+          5,
+          94
+        ],
+        "artificial": [
+          6
+        ],
+        "intelligence": [
+          7
+        ],
+        "(Conv-AI),": [
+          8
+        ],
+        "consumers": [
+          9,
+          101
+        ],
+        "have": [
+          10,
+          26
+        ],
+        "recently": [
+          11
+        ],
+        "reshaped": [
+          12
+        ],
+        "how": [
+          13,
+          63
+        ],
+        "they": [
+          14
+        ],
+        "search,": [
+          15
+        ],
+        "evaluate,": [
+          16
+        ],
+        "and": [
+          17,
+          23,
+          49,
+          81,
+          184,
+          220,
+          255,
+          263
+        ],
+        "build": [
+          18
+        ],
+        "relationships": [
+          19
+        ],
+        "with": [
+          20,
+          106,
+          146,
+          150
+        ],
+        "brands.": [
+          21,
+          103
+        ],
+        "Accessibility": [
+          22
+        ],
+        "bidirectional": [
+          24
+        ],
+        "communication": [
+          25
+        ],
+        "created": [
+          27
+        ],
+        "a": [
+          28,
+          37,
+          159,
+          222,
+          247
+        ],
+        "dynamic": [
+          29
+        ],
+        "interface": [
+          30
+        ],
+        "for": [
+          31,
+          108,
+          260
+        ],
+        "digital": [
+          33,
+          55,
+          129,
+          252,
+          257
+        ],
+        "ecosystem.": [
+          34
+        ],
+        "Yet": [
+          35
+        ],
+        "despite": [
+          36
+        ],
+        "growing": [
+          38
+        ],
+        "body": [
+          39
+        ],
+        "research,": [
+          41
+        ],
+        "field": [
+          43
+        ],
+        "remains": [
+          44
+        ],
+        "focused": [
+          45
+        ],
+        "on": [
+          46,
+          77
+        ],
+        "productivity": [
+          47
+        ],
+        "gains": [
+          48
+        ],
+        "convenience": [
+          51
+        ],
+        "AI": [
+          53,
+          95,
+          156,
+          261
+        ],
+        "in": [
+          54,
+          119,
+          127,
+          198,
+          234
+        ],
+        "commerce.": [
+          56
+        ],
+        "But": [
+          57
+        ],
+        "there": [
+          58
+        ],
+        "is": [
+          59
+        ],
+        "very": [
+          60
+        ],
+        "little": [
+          61
+        ],
+        "about": [
+          62
+        ],
+        "this": [
+          64,
+          240
+        ],
+        "Conv-AI": [
+          65
+        ],
+        "intermediation": [
+          66
+        ],
+        "affects": [
+          67
+        ],
+        "emotional": [
+          69,
+          112
+        ],
+        "aspect": [
+          70
+        ],
+        "consumer–brand": [
+          72
+        ],
+        "love.": [
+          73
+        ],
+        "This": [
+          74,
+          209,
+          226
+        ],
+        "study": [
+          75,
+          210
+        ],
+        "draws": [
+          76
+        ],
+        "parasocial": [
+          78,
+          89,
+          179,
+          212
+        ],
+        "relationship": [
+          79,
+          82
+        ],
+        "theory": [
+          80,
+          213
+        ],
+        "marketing": [
+          83
+        ],
+        "to": [
+          84,
+          217
+        ],
+        "advance": [
+          85
+        ],
+        "construct": [
+          87
+        ],
+        "displacement:": [
+          90
+        ],
+        "proposition": [
+          92,
+          118
+        ],
+        "that": [
+          93,
+          138,
+          173
+        ],
+        "agents": [
+          96,
+          219
+        ],
+        "do": [
+          97
+        ],
+        "more": [
+          98
+        ],
+        "than": [
+          99
+        ],
+        "help": [
+          100
+        ],
+        "reach": [
+          102
+        ],
+        "They": [
+          104
+        ],
+        "compete": [
+          105
+        ],
+        "brands": [
+          107,
+          200,
+          206
+        ],
+        "consumer’s": [
+          110
+        ],
+        "limited": [
+          111
+        ],
+        "attention.": [
+          113
+        ],
+        "The": [
+          114
+        ],
+        "authors": [
+          115
+        ],
+        "test": [
+          116
+        ],
+        "three": [
+          120
+        ],
+        "preregistered": [
+          121
+        ],
+        "experiments": [
+          122
+        ],
+        "(n": [
+          123,
+          134,
+          168,
+          188
+        ],
+        "=": [
+          124,
+          135,
+          169,
+          189
+        ],
+        "791)": [
+          125
+        ],
+        "set": [
+          126
+        ],
+        "realistic": [
+          128
+        ],
+        "commerce": [
+          130
+        ],
+        "scenarios.": [
+          131
+        ],
+        "Study": [
+          132,
+          166,
+          186
+        ],
+        "1": [
+          133
+        ],
+        "212)": [
+          136
+        ],
+        "shows": [
+          137
+        ],
+        "AI-mediated": [
+          139,
+          235
+        ],
+        "brand": [
+          140,
+          143,
+          148,
+          196,
+          244,
+          265
+        ],
+        "interactions": [
+          141
+        ],
+        "reduce": [
+          142
+        ],
+        "love": [
+          144
+        ],
+        "compared": [
+          145
+        ],
+        "direct": [
+          147
+        ],
+        "exposure,": [
+          149
+        ],
+        "effect": [
+          152,
+          175
+        ],
+        "amplified": [
+          153
+        ],
+        "when": [
+          154
+        ],
+        "agent": [
+          157
+        ],
+        "presents": [
+          158
+        ],
+        "richer": [
+          160
+        ],
+        "package": [
+          161
+        ],
+        "anthropomorphic": [
+          163
+        ],
+        "social": [
+          164
+        ],
+        "cues.": [
+          165
+        ],
+        "2": [
+          167
+        ],
+        "322)": [
+          170
+        ],
+        "also": [
+          171
+        ],
+        "finds": [
+          172
+        ],
+        "passes": [
+          176
+        ],
+        "through": [
+          177
+        ],
+        "AI-induced": [
+          178
+        ],
+        "attachment": [
+          180
+        ],
+        "by": [
+          181
+        ],
+        "careful": [
+          182
+        ],
+        "attention": [
+          183
+        ],
+        "distraction.": [
+          185
+        ],
+        "3": [
+          187
+        ],
+        "257)": [
+          190
+        ],
+        "demonstrates": [
+          191
+        ],
+        "moderation": [
+          193
+        ],
+        "displacement": [
+          194
+        ],
+        "heritage,": [
+          197
+        ],
+        "which": [
+          199
+        ],
+        "are": [
+          201
+        ],
+        "largely": [
+          202
+        ],
+        "protected,": [
+          203
+        ],
+        "whereas": [
+          204
+        ],
+        "emerging": [
+          205
+        ],
+        "become": [
+          207
+        ],
+        "vulnerable.": [
+          208
+        ],
+        "extends": [
+          211
+        ],
+        "from": [
+          214
+        ],
+        "media": [
+          215
+        ],
+        "personalities": [
+          216
+        ],
+        "algorithmic": [
+          218
+        ],
+        "proposes": [
+          221,
+          256
+        ],
+        "triadic": [
+          223,
+          227
+        ],
+        "consumer–AI–brand": [
+          224
+        ],
+        "framework.": [
+          225
+        ],
+        "framework": [
+          228,
+          241
+        ],
+        "replaces": [
+          229
+        ],
+        "traditional": [
+          231
+        ],
+        "dyadic": [
+          232
+        ],
+        "models": [
+          233
+        ],
+        "branding": [
+          236
+        ],
+        "activities.": [
+          237
+        ],
+        "In": [
+          238
+        ],
+        "practice,": [
+          239
+        ],
+        "identifies": [
+          242
+        ],
+        "heritage": [
+          243
+        ],
+        "equity": [
+          245
+        ],
+        "as": [
+          246
+        ],
+        "relational": [
+          248
+        ],
+        "buffer": [
+          249
+        ],
+        "within": [
+          250
+        ],
+        "market": [
+          253
+        ],
+        "ecosystem": [
+          254
+        ],
+        "governance,": [
+          258
+        ],
+        "disclosure": [
+          259
+        ],
+        "use,": [
+          262
+        ],
+        "agentic": [
+          264
+        ],
+        "strategy.": [
+          266
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2026-08-29T07:29:34.045763",
+      "created_date": "2026-08-08T00:00:00"
+    }
+  ],
+  "group_by": []
+}

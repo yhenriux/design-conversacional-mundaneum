@@ -1,0 +1,1092 @@
+{
+  "id": "https://openalex.org/W4411971312",
+  "doi": "https://doi.org/10.1007/s44223-025-00092-5",
+  "title": "Conversational, agentic AI-enhanced architectural design process: three approaches to multimodal AI-enhanced early-stage performative design exploration",
+  "display_name": "Conversational, agentic AI-enhanced architectural design process: three approaches to multimodal AI-enhanced early-stage performative design exploration",
+  "publication_year": 2025,
+  "publication_date": "2025-07-03",
+  "ids": {
+    "openalex": "https://openalex.org/W4411971312",
+    "doi": "https://doi.org/10.1007/s44223-025-00092-5"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/s44223-025-00092-5",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s44223-025-00092-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44223-025-00092-5.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387281272",
+      "display_name": "Architectural Intelligence",
+      "issn_l": "2731-6726",
+      "issn": [
+        "2731-6726"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Architectural Intelligence",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s44223-025-00092-5.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5015089923",
+        "display_name": "Lok Hang Cheung",
+        "orcid": "https://orcid.org/0009-0001-2911-3733"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69356397",
+          "display_name": "Xi’an Jiaotong-Liverpool University",
+          "ror": "https://ror.org/03zmrmn05",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Lok Hang Cheung",
+      "raw_affiliation_strings": [
+        "Department of Architecture, Xi’an Jiaotong-Liverpool University, Suzhou, 215123, China"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0001-2911-3733",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Architecture, Xi’an Jiaotong-Liverpool University, Suzhou, 215123, China",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025178851",
+        "display_name": "Likai Wang",
+        "orcid": "https://orcid.org/0000-0003-4054-649X"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I69356397",
+          "display_name": "Xi’an Jiaotong-Liverpool University",
+          "ror": "https://ror.org/03zmrmn05",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Likai Wang",
+      "raw_affiliation_strings": [
+        "Department of Architecture, Xi’an Jiaotong-Liverpool University, Suzhou, 215123, China"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-4054-649X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Architecture, Xi’an Jiaotong-Liverpool University, Suzhou, 215123, China",
+          "institution_ids": [
+            "https://openalex.org/I69356397"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5062952329",
+        "display_name": "Dongxue Lei",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I109935558",
+          "display_name": "Ningbo University",
+          "ror": "https://ror.org/03et85d35",
+          "country_code": "CN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I109935558"
+          ]
+        }
+      ],
+      "countries": [
+        "CN"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dongxue Lei",
+      "raw_affiliation_strings": [
+        "Pan Tianshou College of Architecture, Art and Design, Ningbo University, Ningbo, China"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0006-1634-837X",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Pan Tianshou College of Architecture, Art and Design, Ningbo University, Ningbo, China",
+          "institution_ids": [
+            "https://openalex.org/I109935558"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5025178851"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I69356397"
+  ],
+  "apc_list": {
+    "value": 0,
+    "currency": "USD",
+    "value_usd": 0
+  },
+  "apc_paid": null,
+  "fwci": 3.5383,
+  "has_fulltext": true,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.9383749,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 97,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "4",
+    "issue": "1",
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10672",
+    "display_name": "Design Education and Practice",
+    "score": 0.9868000149726868,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2210",
+      "display_name": "Mechanical Engineering"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/22",
+      "display_name": "Engineering"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10672",
+      "display_name": "Design Education and Practice",
+      "score": 0.9868000149726868,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2210",
+        "display_name": "Mechanical Engineering"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13518",
+      "display_name": "Architecture and Computational Design",
+      "score": 0.9749000072479248,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2216",
+        "display_name": "Architecture"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11006",
+      "display_name": "BIM and Construction Integration",
+      "score": 0.9574999809265137,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2215",
+        "display_name": "Building and Construction"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/22",
+        "display_name": "Engineering"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/performative-utterance",
+      "display_name": "Performative utterance",
+      "score": 0.8899887204170227
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5788741111755371
+    },
+    {
+      "id": "https://openalex.org/keywords/stage",
+      "display_name": "Stage (stratigraphy)",
+      "score": 0.5298250317573547
+    },
+    {
+      "id": "https://openalex.org/keywords/architectural-design",
+      "display_name": "Architectural design",
+      "score": 0.4974415600299835
+    },
+    {
+      "id": "https://openalex.org/keywords/process",
+      "display_name": "Process (computing)",
+      "score": 0.49505653977394104
+    },
+    {
+      "id": "https://openalex.org/keywords/design-process",
+      "display_name": "Design process",
+      "score": 0.45963770151138306
+    },
+    {
+      "id": "https://openalex.org/keywords/artificial-intelligence",
+      "display_name": "Artificial intelligence",
+      "score": 0.3891463279724121
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.3600531816482544
+    },
+    {
+      "id": "https://openalex.org/keywords/cognitive-science",
+      "display_name": "Cognitive science",
+      "score": 0.34233856201171875
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.23180639743804932
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.2105918526649475
+    },
+    {
+      "id": "https://openalex.org/keywords/aesthetics",
+      "display_name": "Aesthetics",
+      "score": 0.20113396644592285
+    },
+    {
+      "id": "https://openalex.org/keywords/architecture",
+      "display_name": "Architecture",
+      "score": 0.180525004863739
+    },
+    {
+      "id": "https://openalex.org/keywords/art",
+      "display_name": "Art",
+      "score": 0.13575026392936707
+    },
+    {
+      "id": "https://openalex.org/keywords/work-in-process",
+      "display_name": "Work in process",
+      "score": 0.12146291136741638
+    },
+    {
+      "id": "https://openalex.org/keywords/programming-language",
+      "display_name": "Programming language",
+      "score": 0.11921960115432739
+    },
+    {
+      "id": "https://openalex.org/keywords/visual-arts",
+      "display_name": "Visual arts",
+      "score": 0.09177196025848389
+    },
+    {
+      "id": "https://openalex.org/keywords/geology",
+      "display_name": "Geology",
+      "score": 0.08149820566177368
+    },
+    {
+      "id": "https://openalex.org/keywords/operations-management",
+      "display_name": "Operations management",
+      "score": 0.062404364347457886
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C134141054",
+      "wikidata": "https://www.wikidata.org/wiki/Q965415",
+      "display_name": "Performative utterance",
+      "level": 2,
+      "score": 0.8899887204170227
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5788741111755371
+    },
+    {
+      "id": "https://openalex.org/C146357865",
+      "wikidata": "https://www.wikidata.org/wiki/Q1123245",
+      "display_name": "Stage (stratigraphy)",
+      "level": 2,
+      "score": 0.5298250317573547
+    },
+    {
+      "id": "https://openalex.org/C2984241579",
+      "wikidata": "https://www.wikidata.org/wiki/Q323611",
+      "display_name": "Architectural design",
+      "level": 3,
+      "score": 0.4974415600299835
+    },
+    {
+      "id": "https://openalex.org/C98045186",
+      "wikidata": "https://www.wikidata.org/wiki/Q205663",
+      "display_name": "Process (computing)",
+      "level": 2,
+      "score": 0.49505653977394104
+    },
+    {
+      "id": "https://openalex.org/C48262172",
+      "wikidata": "https://www.wikidata.org/wiki/Q16908765",
+      "display_name": "Design process",
+      "level": 3,
+      "score": 0.45963770151138306
+    },
+    {
+      "id": "https://openalex.org/C154945302",
+      "wikidata": "https://www.wikidata.org/wiki/Q11660",
+      "display_name": "Artificial intelligence",
+      "level": 1,
+      "score": 0.3891463279724121
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.3600531816482544
+    },
+    {
+      "id": "https://openalex.org/C188147891",
+      "wikidata": "https://www.wikidata.org/wiki/Q147638",
+      "display_name": "Cognitive science",
+      "level": 1,
+      "score": 0.34233856201171875
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.23180639743804932
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.2105918526649475
+    },
+    {
+      "id": "https://openalex.org/C107038049",
+      "wikidata": "https://www.wikidata.org/wiki/Q35986",
+      "display_name": "Aesthetics",
+      "level": 1,
+      "score": 0.20113396644592285
+    },
+    {
+      "id": "https://openalex.org/C123657996",
+      "wikidata": "https://www.wikidata.org/wiki/Q12271",
+      "display_name": "Architecture",
+      "level": 2,
+      "score": 0.180525004863739
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.13575026392936707
+    },
+    {
+      "id": "https://openalex.org/C174998907",
+      "wikidata": "https://www.wikidata.org/wiki/Q357662",
+      "display_name": "Work in process",
+      "level": 2,
+      "score": 0.12146291136741638
+    },
+    {
+      "id": "https://openalex.org/C199360897",
+      "wikidata": "https://www.wikidata.org/wiki/Q9143",
+      "display_name": "Programming language",
+      "level": 1,
+      "score": 0.11921960115432739
+    },
+    {
+      "id": "https://openalex.org/C153349607",
+      "wikidata": "https://www.wikidata.org/wiki/Q36649",
+      "display_name": "Visual arts",
+      "level": 1,
+      "score": 0.09177196025848389
+    },
+    {
+      "id": "https://openalex.org/C127313418",
+      "wikidata": "https://www.wikidata.org/wiki/Q1069",
+      "display_name": "Geology",
+      "level": 0,
+      "score": 0.08149820566177368
+    },
+    {
+      "id": "https://openalex.org/C21547014",
+      "wikidata": "https://www.wikidata.org/wiki/Q1423657",
+      "display_name": "Operations management",
+      "level": 1,
+      "score": 0.062404364347457886
+    },
+    {
+      "id": "https://openalex.org/C151730666",
+      "wikidata": "https://www.wikidata.org/wiki/Q7205",
+      "display_name": "Paleontology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.1007/s44223-025-00092-5",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/s44223-025-00092-5",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44223-025-00092-5.pdf",
+      "source": {
+        "id": "https://openalex.org/S4387281272",
+        "display_name": "Architectural Intelligence",
+        "issn_l": "2731-6726",
+        "issn": [
+          "2731-6726"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310319900",
+        "host_organization_name": "Springer Science+Business Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319900",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer Science+Business Media",
+          "Springer Nature"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Architectural Intelligence",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/s44223-025-00092-5",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/s44223-025-00092-5",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/s44223-025-00092-5.pdf",
+    "source": {
+      "id": "https://openalex.org/S4387281272",
+      "display_name": "Architectural Intelligence",
+      "issn_l": "2731-6726",
+      "issn": [
+        "2731-6726"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310319900",
+      "host_organization_name": "Springer Science+Business Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319900",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer Science+Business Media",
+        "Springer Nature"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Architectural Intelligence",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G305198716",
+      "display_name": null,
+      "funder_award_id": "PGRSB211206",
+      "funder_id": "https://openalex.org/F4320324032",
+      "funder_display_name": "Xi’an Jiaotong-Liverpool University"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320324032",
+      "display_name": "Xi’an Jiaotong-Liverpool University",
+      "ror": "https://ror.org/03zmrmn05"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4411971312.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4411971312.grobid-xml"
+  },
+  "referenced_works_count": 49,
+  "referenced_works": [
+    "https://openalex.org/W602905991",
+    "https://openalex.org/W1717772907",
+    "https://openalex.org/W2010793828",
+    "https://openalex.org/W2031500644",
+    "https://openalex.org/W2064023667",
+    "https://openalex.org/W2132233302",
+    "https://openalex.org/W2296191489",
+    "https://openalex.org/W2296411702",
+    "https://openalex.org/W2429221174",
+    "https://openalex.org/W2488565506",
+    "https://openalex.org/W2516572824",
+    "https://openalex.org/W2971225681",
+    "https://openalex.org/W3125258100",
+    "https://openalex.org/W3156158842",
+    "https://openalex.org/W3184587613",
+    "https://openalex.org/W3191879121",
+    "https://openalex.org/W3202220991",
+    "https://openalex.org/W3210691539",
+    "https://openalex.org/W4221055920",
+    "https://openalex.org/W4221143046",
+    "https://openalex.org/W4225567780",
+    "https://openalex.org/W4241464738",
+    "https://openalex.org/W4285728247",
+    "https://openalex.org/W4286384723",
+    "https://openalex.org/W4300577582",
+    "https://openalex.org/W4312938656",
+    "https://openalex.org/W4322100296",
+    "https://openalex.org/W4327671075",
+    "https://openalex.org/W4367040450",
+    "https://openalex.org/W4381104269",
+    "https://openalex.org/W4381735542",
+    "https://openalex.org/W4383960508",
+    "https://openalex.org/W4386814891",
+    "https://openalex.org/W4387405845",
+    "https://openalex.org/W4389523509",
+    "https://openalex.org/W4390060956",
+    "https://openalex.org/W4392113009",
+    "https://openalex.org/W4393039326",
+    "https://openalex.org/W4397049077",
+    "https://openalex.org/W4399658327",
+    "https://openalex.org/W4399775628",
+    "https://openalex.org/W4400216594",
+    "https://openalex.org/W4401008045",
+    "https://openalex.org/W4402265709",
+    "https://openalex.org/W4404456176",
+    "https://openalex.org/W4404456509",
+    "https://openalex.org/W6606409035",
+    "https://openalex.org/W6787506441",
+    "https://openalex.org/W7010814651"
+  ],
+  "related_works": [
+    "https://openalex.org/W1593975901",
+    "https://openalex.org/W1540758256",
+    "https://openalex.org/W2536127200",
+    "https://openalex.org/W2916770860",
+    "https://openalex.org/W253750061",
+    "https://openalex.org/W2897265648",
+    "https://openalex.org/W4299974913",
+    "https://openalex.org/W4400687467",
+    "https://openalex.org/W105321314",
+    "https://openalex.org/W2234397741"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "Most": [
+      1
+    ],
+    "AI-enhanced": [
+      2
+    ],
+    "architecture": [
+      3,
+      104
+    ],
+    "design": [
+      4,
+      13,
+      43,
+      55,
+      60,
+      81,
+      88,
+      119,
+      127,
+      134
+    ],
+    "tasks": [
+      5
+    ],
+    "are": [
+      6,
+      152
+    ],
+    "confined": [
+      7
+    ],
+    "to": [
+      8,
+      46
+    ],
+    "individual": [
+      9
+    ],
+    "use": [
+      10,
+      40
+    ],
+    "and": [
+      11,
+      62,
+      106,
+      121,
+      129,
+      139,
+      144,
+      149,
+      160
+    ],
+    "linear": [
+      12
+    ],
+    "flows,": [
+      14
+    ],
+    "with": [
+      15,
+      113,
+      163
+    ],
+    "a": [
+      16,
+      53,
+      65,
+      87,
+      91,
+      110,
+      126
+    ],
+    "steep": [
+      17
+    ],
+    "learning": [
+      18
+    ],
+    "curve": [
+      19
+    ],
+    "for": [
+      20,
+      33,
+      57,
+      80,
+      90,
+      118
+    ],
+    "mastering": [
+      21
+    ],
+    "complex": [
+      22
+    ],
+    "AI": [
+      23,
+      27,
+      70,
+      116
+    ],
+    "tools.": [
+      24
+    ],
+    "Although": [
+      25
+    ],
+    "advanced": [
+      26
+    ],
+    "systems": [
+      28
+    ],
+    "have": [
+      29
+    ],
+    "shown": [
+      30
+    ],
+    "enormous": [
+      31
+    ],
+    "potential": [
+      32
+    ],
+    "improving": [
+      34
+    ],
+    "human-AI": [
+      35
+    ],
+    "in": [
+      36,
+      41,
+      95
+    ],
+    "creative": [
+      37
+    ],
+    "collaboration,": [
+      38
+    ],
+    "their": [
+      39
+    ],
+    "architectural": [
+      42,
+      59
+    ],
+    "has": [
+      44
+    ],
+    "yet": [
+      45
+    ],
+    "be": [
+      47
+    ],
+    "fully": [
+      48
+    ],
+    "explored.": [
+      49
+    ],
+    "This": [
+      50
+    ],
+    "paper": [
+      51
+    ],
+    "proposes": [
+      52
+    ],
+    "conversational": [
+      54,
+      133
+    ],
+    "framework": [
+      56
+    ],
+    "early-stage": [
+      58
+    ],
+    "ideation": [
+      61
+    ],
+    "exploration,": [
+      63
+    ],
+    "featuring": [
+      64
+    ],
+    "WeChat-integrated,": [
+      66
+    ],
+    "architecture-centric": [
+      67
+    ],
+    "multimodal": [
+      68
+    ],
+    "agentic": [
+      69
+    ],
+    "system.": [
+      71
+    ],
+    "Leveraging": [
+      72
+    ],
+    "the": [
+      73,
+      78,
+      107,
+      114,
+      164
+    ],
+    "common": [
+      74
+    ],
+    "messaging": [
+      75
+    ],
+    "application": [
+      76
+    ],
+    "facilitates": [
+      77
+    ],
+    "medium": [
+      79
+    ],
+    "collaboration.": [
+      82,
+      122
+    ],
+    "A": [
+      83
+    ],
+    "case": [
+      84
+    ],
+    "study": [
+      85
+    ],
+    "of": [
+      86,
+      132,
+      146,
+      157
+    ],
+    "workshop": [
+      89
+    ],
+    "mixed-use": [
+      92
+    ],
+    "renovation": [
+      93
+    ],
+    "development": [
+      94
+    ],
+    "Suzhou": [
+      96
+    ],
+    "old": [
+      97
+    ],
+    "town": [
+      98
+    ],
+    "is": [
+      99
+    ],
+    "presented.": [
+      100
+    ],
+    "Participants": [
+      101
+    ],
+    "included": [
+      102
+    ],
+    "undergraduate": [
+      103
+    ],
+    "students,": [
+      105
+    ],
+    "instructors": [
+      108
+    ],
+    "joined": [
+      109
+    ],
+    "WeChat": [
+      111
+    ],
+    "group": [
+      112
+    ],
+    "developed": [
+      115,
+      125
+    ],
+    "bot": [
+      117
+    ],
+    "conversation": [
+      120
+    ],
+    "Each": [
+      123
+    ],
+    "student": [
+      124
+    ],
+    "proposal,": [
+      128
+    ],
+    "three": [
+      130
+    ],
+    "modes": [
+      131
+    ],
+    "were": [
+      135
+    ],
+    "observed:": [
+      136
+    ],
+    "performance-based,": [
+      137
+    ],
+    "evaluation-based,": [
+      138
+    ],
+    "designerly-based.": [
+      140
+    ],
+    "The": [
+      141
+    ],
+    "challenges,": [
+      142
+    ],
+    "opportunities": [
+      143
+    ],
+    "implications": [
+      145
+    ],
+    "research,": [
+      147
+    ],
+    "education,": [
+      148
+    ],
+    "real-world": [
+      150
+    ],
+    "practice": [
+      151
+    ],
+    "discussed": [
+      153
+    ],
+    "through": [
+      154
+    ],
+    "observation,": [
+      155
+    ],
+    "count": [
+      156
+    ],
+    "interactions,": [
+      158
+    ],
+    "questionnaires": [
+      159
+    ],
+    "semi-structured": [
+      161
+    ],
+    "interviews": [
+      162
+    ],
+    "students.": [
+      165
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 7
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 4
+    }
+  ],
+  "updated_date": "2026-08-29T07:29:34.045763",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1052 @@
+{
+  "id": "https://openalex.org/W4307553937",
+  "doi": "https://doi.org/10.3389/fneph.2022.962887",
+  "title": "Social determinants and chronic kidney disease of undetermined origin in childhood: Its communication and understanding described by families in Lake Chapala, Mexico",
+  "display_name": "Social determinants and chronic kidney disease of undetermined origin in childhood: Its communication and understanding described by families in Lake Chapala, Mexico",
+  "publication_year": 2022,
+  "publication_date": "2022-10-26",
+  "ids": {
+    "openalex": "https://openalex.org/W4307553937",
+    "doi": "https://doi.org/10.3389/fneph.2022.962887",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/37674995"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/fneph.2022.962887",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fneph.2022.962887",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fneph.2022.962887/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210215820",
+      "display_name": "Frontiers in Nephrology",
+      "issn_l": "2813-0626",
+      "issn": [
+        "2813-0626"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Nephrology",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/articles/10.3389/fneph.2022.962887/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5054600119",
+        "display_name": "Norma Guadalupe Ruiz-Velazco",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193181351",
+          "display_name": "Universidad de Guadalajara",
+          "ror": "https://ror.org/043xj7k26",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Norma Guadalupe Ruiz-Velazco",
+      "raw_affiliation_strings": [
+        "Nursing Department for Care, Development and Community Health Preservation, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Nursing Department for Care, Development and Community Health Preservation, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5108191909",
+        "display_name": "Felipe Lozano-Kasten",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193181351",
+          "display_name": "Universidad de Guadalajara",
+          "ror": "https://ror.org/043xj7k26",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Felipe de Jesús Lozano-Kasten",
+      "raw_affiliation_strings": [
+        "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5024240701",
+        "display_name": "Horacio Guzmán-Torres",
+        "orcid": "https://orcid.org/0000-0001-6923-3265"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193181351",
+          "display_name": "Universidad de Guadalajara",
+          "ror": "https://ror.org/043xj7k26",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Horacio Guzman-Torres",
+      "raw_affiliation_strings": [
+        "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5033142822",
+        "display_name": "Aaron Ismael Mejía-Sanchez",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I193181351",
+          "display_name": "Universidad de Guadalajara",
+          "ror": "https://ror.org/043xj7k26",
+          "country_code": "MX",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ],
+      "countries": [
+        "MX"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Aaron Ismael Mejía-Sanchez",
+      "raw_affiliation_strings": [
+        "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Environmental Health Department, Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, Mexico",
+          "institution_ids": [
+            "https://openalex.org/I193181351"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5108191909"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I193181351"
+  ],
+  "apc_list": {
+    "value": 1900,
+    "currency": "USD",
+    "value_usd": 1900
+  },
+  "apc_paid": {
+    "value": 1900,
+    "currency": "USD",
+    "value_usd": 1900
+  },
+  "fwci": 0.2835,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.54611643,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 89,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "2",
+    "issue": null,
+    "first_page": "962887",
+    "last_page": "962887"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T14511",
+    "display_name": "Medicine, History, and Philosophy",
+    "score": 0.9728999733924866,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2738",
+      "display_name": "Psychiatry and Mental health"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T14511",
+      "display_name": "Medicine, History, and Philosophy",
+      "score": 0.9728999733924866,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2738",
+        "display_name": "Psychiatry and Mental health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13147",
+      "display_name": "Ethics and bioethics in healthcare",
+      "score": 0.9459999799728394,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2739",
+        "display_name": "Public Health, Environmental and Occupational Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13633",
+      "display_name": "Public Health and Social Inequalities",
+      "score": 0.9153000116348267,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3306",
+        "display_name": "Health"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/narrative",
+      "display_name": "Narrative",
+      "score": 0.6387872695922852
+    },
+    {
+      "id": "https://openalex.org/keywords/disease",
+      "display_name": "Disease",
+      "score": 0.6285743713378906
+    },
+    {
+      "id": "https://openalex.org/keywords/context",
+      "display_name": "Context (archaeology)",
+      "score": 0.5605336427688599
+    },
+    {
+      "id": "https://openalex.org/keywords/social-determinants-of-health",
+      "display_name": "Social determinants of health",
+      "score": 0.5481744408607483
+    },
+    {
+      "id": "https://openalex.org/keywords/kidney-disease",
+      "display_name": "Kidney disease",
+      "score": 0.5469465851783752
+    },
+    {
+      "id": "https://openalex.org/keywords/social-environment",
+      "display_name": "Social environment",
+      "score": 0.495809406042099
+    },
+    {
+      "id": "https://openalex.org/keywords/etiology",
+      "display_name": "Etiology",
+      "score": 0.4426416754722595
+    },
+    {
+      "id": "https://openalex.org/keywords/population",
+      "display_name": "Population",
+      "score": 0.4287698566913605
+    },
+    {
+      "id": "https://openalex.org/keywords/developmental-psychology",
+      "display_name": "Developmental psychology",
+      "score": 0.4233753979206085
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.32027047872543335
+    },
+    {
+      "id": "https://openalex.org/keywords/medicine",
+      "display_name": "Medicine",
+      "score": 0.31610673666000366
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.2881319224834442
+    },
+    {
+      "id": "https://openalex.org/keywords/public-health",
+      "display_name": "Public health",
+      "score": 0.2859555780887604
+    },
+    {
+      "id": "https://openalex.org/keywords/geography",
+      "display_name": "Geography",
+      "score": 0.27464842796325684
+    },
+    {
+      "id": "https://openalex.org/keywords/environmental-health",
+      "display_name": "Environmental health",
+      "score": 0.24496382474899292
+    },
+    {
+      "id": "https://openalex.org/keywords/psychiatry",
+      "display_name": "Psychiatry",
+      "score": 0.13363763689994812
+    },
+    {
+      "id": "https://openalex.org/keywords/social-science",
+      "display_name": "Social science",
+      "score": 0.11067983508110046
+    },
+    {
+      "id": "https://openalex.org/keywords/pathology",
+      "display_name": "Pathology",
+      "score": 0.10050821304321289
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C199033989",
+      "wikidata": "https://www.wikidata.org/wiki/Q1318295",
+      "display_name": "Narrative",
+      "level": 2,
+      "score": 0.6387872695922852
+    },
+    {
+      "id": "https://openalex.org/C2779134260",
+      "wikidata": "https://www.wikidata.org/wiki/Q12136",
+      "display_name": "Disease",
+      "level": 2,
+      "score": 0.6285743713378906
+    },
+    {
+      "id": "https://openalex.org/C2779343474",
+      "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+      "display_name": "Context (archaeology)",
+      "level": 2,
+      "score": 0.5605336427688599
+    },
+    {
+      "id": "https://openalex.org/C78491826",
+      "wikidata": "https://www.wikidata.org/wiki/Q3045352",
+      "display_name": "Social determinants of health",
+      "level": 3,
+      "score": 0.5481744408607483
+    },
+    {
+      "id": "https://openalex.org/C2778653478",
+      "wikidata": "https://www.wikidata.org/wiki/Q1054718",
+      "display_name": "Kidney disease",
+      "level": 2,
+      "score": 0.5469465851783752
+    },
+    {
+      "id": "https://openalex.org/C110379092",
+      "wikidata": "https://www.wikidata.org/wiki/Q1571836",
+      "display_name": "Social environment",
+      "level": 2,
+      "score": 0.495809406042099
+    },
+    {
+      "id": "https://openalex.org/C137627325",
+      "wikidata": "https://www.wikidata.org/wiki/Q156318",
+      "display_name": "Etiology",
+      "level": 2,
+      "score": 0.4426416754722595
+    },
+    {
+      "id": "https://openalex.org/C2908647359",
+      "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+      "display_name": "Population",
+      "level": 2,
+      "score": 0.4287698566913605
+    },
+    {
+      "id": "https://openalex.org/C138496976",
+      "wikidata": "https://www.wikidata.org/wiki/Q175002",
+      "display_name": "Developmental psychology",
+      "level": 1,
+      "score": 0.4233753979206085
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.32027047872543335
+    },
+    {
+      "id": "https://openalex.org/C71924100",
+      "wikidata": "https://www.wikidata.org/wiki/Q11190",
+      "display_name": "Medicine",
+      "level": 0,
+      "score": 0.31610673666000366
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.2881319224834442
+    },
+    {
+      "id": "https://openalex.org/C138816342",
+      "wikidata": "https://www.wikidata.org/wiki/Q189603",
+      "display_name": "Public health",
+      "level": 2,
+      "score": 0.2859555780887604
+    },
+    {
+      "id": "https://openalex.org/C205649164",
+      "wikidata": "https://www.wikidata.org/wiki/Q1071",
+      "display_name": "Geography",
+      "level": 0,
+      "score": 0.27464842796325684
+    },
+    {
+      "id": "https://openalex.org/C99454951",
+      "wikidata": "https://www.wikidata.org/wiki/Q932068",
+      "display_name": "Environmental health",
+      "level": 1,
+      "score": 0.24496382474899292
+    },
+    {
+      "id": "https://openalex.org/C118552586",
+      "wikidata": "https://www.wikidata.org/wiki/Q7867",
+      "display_name": "Psychiatry",
+      "level": 1,
+      "score": 0.13363763689994812
+    },
+    {
+      "id": "https://openalex.org/C36289849",
+      "wikidata": "https://www.wikidata.org/wiki/Q34749",
+      "display_name": "Social science",
+      "level": 1,
+      "score": 0.11067983508110046
+    },
+    {
+      "id": "https://openalex.org/C142724271",
+      "wikidata": "https://www.wikidata.org/wiki/Q7208",
+      "display_name": "Pathology",
+      "level": 1,
+      "score": 0.10050821304321289
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C126322002",
+      "wikidata": "https://www.wikidata.org/wiki/Q11180",
+      "display_name": "Internal medicine",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C166957645",
+      "wikidata": "https://www.wikidata.org/wiki/Q23498",
+      "display_name": "Archaeology",
+      "level": 1,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.3389/fneph.2022.962887",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/fneph.2022.962887",
+      "pdf_url": "https://www.frontiersin.org/articles/10.3389/fneph.2022.962887/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210215820",
+        "display_name": "Frontiers in Nephrology",
+        "issn_l": "2813-0626",
+        "issn": [
+          "2813-0626"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Nephrology",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:37674995",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/37674995",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in nephrology",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:10479630",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/10479630",
+      "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10479630/pdf/fneph-02-962887.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Nephrol",
+      "raw_type": "Text"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/fneph.2022.962887",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/fneph.2022.962887",
+    "pdf_url": "https://www.frontiersin.org/articles/10.3389/fneph.2022.962887/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210215820",
+      "display_name": "Frontiers in Nephrology",
+      "issn_l": "2813-0626",
+      "issn": [
+        "2813-0626"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Nephrology",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4307553937.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4307553937.grobid-xml"
+  },
+  "referenced_works_count": 19,
+  "referenced_works": [
+    "https://openalex.org/W140123483",
+    "https://openalex.org/W1499906925",
+    "https://openalex.org/W1969220147",
+    "https://openalex.org/W2000109174",
+    "https://openalex.org/W2049920942",
+    "https://openalex.org/W2091711384",
+    "https://openalex.org/W2097116556",
+    "https://openalex.org/W2104514704",
+    "https://openalex.org/W2107296351",
+    "https://openalex.org/W2192872730",
+    "https://openalex.org/W2619968492",
+    "https://openalex.org/W2773400127",
+    "https://openalex.org/W3003083757",
+    "https://openalex.org/W3163214440",
+    "https://openalex.org/W3208325199",
+    "https://openalex.org/W4230236822",
+    "https://openalex.org/W6676179434",
+    "https://openalex.org/W6761220197",
+    "https://openalex.org/W7018876809"
+  ],
+  "related_works": [
+    "https://openalex.org/W2016390559",
+    "https://openalex.org/W609638663",
+    "https://openalex.org/W4255938420",
+    "https://openalex.org/W354738834",
+    "https://openalex.org/W2019481302",
+    "https://openalex.org/W13949714",
+    "https://openalex.org/W4387765855",
+    "https://openalex.org/W2309610076",
+    "https://openalex.org/W2047901857",
+    "https://openalex.org/W4366984055"
+  ],
+  "abstract_inverted_index": {
+    "This": [
+      0,
+      64
+    ],
+    "work": [
+      1
+    ],
+    "is": [
+      2,
+      31
+    ],
+    "based": [
+      3
+    ],
+    "on": [
+      4,
+      82
+    ],
+    "the": [
+      5,
+      8,
+      35,
+      46,
+      54,
+      59,
+      83,
+      88,
+      102,
+      105,
+      108,
+      111,
+      115,
+      117,
+      123,
+      126
+    ],
+    "recognition": [
+      6
+    ],
+    "of": [
+      7,
+      10,
+      25,
+      61,
+      75,
+      85,
+      110,
+      114,
+      120
+    ],
+    "existence": [
+      9
+    ],
+    "a": [
+      11,
+      70
+    ],
+    "complex": [
+      12
+    ],
+    "relationship": [
+      13,
+      124
+    ],
+    "between": [
+      14
+    ],
+    "social": [
+      15,
+      89,
+      112
+    ],
+    "and": [
+      16,
+      19,
+      37,
+      42,
+      90,
+      99,
+      122
+    ],
+    "environmental": [
+      17,
+      91
+    ],
+    "determinants": [
+      18,
+      113
+    ],
+    "infants": [
+      20
+    ],
+    "with": [
+      21,
+      69,
+      125
+    ],
+    "chronic": [
+      22
+    ],
+    "kidney": [
+      23
+    ],
+    "disease": [
+      24
+    ],
+    "non-traditional": [
+      26
+    ],
+    "etiology": [
+      27
+    ],
+    "(CKDnT).": [
+      28
+    ],
+    "The": [
+      29,
+      73
+    ],
+    "aim": [
+      30
+    ],
+    "to": [
+      32,
+      45
+    ],
+    "understand": [
+      33
+    ],
+    "how": [
+      34
+    ],
+    "Social": [
+      36
+    ],
+    "Environmental": [
+      38
+    ],
+    "Determinants": [
+      39
+    ],
+    "are": [
+      40
+    ],
+    "settled": [
+      41
+    ],
+    "its": [
+      43
+    ],
+    "influence": [
+      44
+    ],
+    "CKDnT": [
+      47,
+      76
+    ],
+    "in": [
+      48,
+      79,
+      87
+    ],
+    "childhood,": [
+      49
+    ],
+    "through": [
+      50
+    ],
+    "knowledge": [
+      51
+    ],
+    "built": [
+      52
+    ],
+    "from": [
+      53,
+      101
+    ],
+    "population": [
+      55
+    ],
+    "that": [
+      56,
+      129
+    ],
+    "has": [
+      57
+    ],
+    "lived": [
+      58
+    ],
+    "experience": [
+      60,
+      74,
+      84
+    ],
+    "this": [
+      62
+    ],
+    "disease.": [
+      63,
+      103
+    ],
+    "research": [
+      65
+    ],
+    "was": [
+      66,
+      77
+    ],
+    "carried": [
+      67
+    ],
+    "out": [
+      68
+    ],
+    "narrative-conversational": [
+      71
+    ],
+    "design.": [
+      72
+    ],
+    "organized": [
+      78
+    ],
+    "stories": [
+      80
+    ],
+    "focused": [
+      81
+    ],
+    "families": [
+      86
+    ],
+    "context": [
+      92
+    ],
+    "where": [
+      93
+    ],
+    "they": [
+      94
+    ],
+    "live,": [
+      95
+    ],
+    "get": [
+      96
+    ],
+    "sick,": [
+      97
+    ],
+    "suffer,": [
+      98
+    ],
+    "die": [
+      100
+    ],
+    "In": [
+      104
+    ],
+    "dialogue": [
+      106
+    ],
+    "emerges": [
+      107
+    ],
+    "intersection": [
+      109
+    ],
+    "disease,": [
+      116
+    ],
+    "different": [
+      118
+    ],
+    "ways": [
+      119
+    ],
+    "life,": [
+      121
+    ],
+    "health": [
+      127
+    ],
+    "services": [
+      128
+    ],
+    "attend": [
+      130
+    ],
+    "them.": [
+      131
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-28T12:50:07.497085",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,1083 @@
+{
+  "id": "https://openalex.org/W4396833227",
+  "doi": "https://doi.org/10.1145/3613904.3642937",
+  "title": "MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling",
+  "display_name": "MindfulDiary: Harnessing Large Language Model to Support Psychiatric Patients' Journaling",
+  "publication_year": 2024,
+  "publication_date": "2024-05-11",
+  "ids": {
+    "openalex": "https://openalex.org/W4396833227",
+    "doi": "https://doi.org/10.1145/3613904.3642937"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3613904.3642937",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3613904.3642937",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1145/3613904.3642937",
+    "any_repository_has_fulltext": null
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5068731260",
+        "display_name": "Taewan Kim",
+        "orcid": "https://orcid.org/0000-0001-8578-5342"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Taewan Kim",
+      "raw_affiliation_strings": [
+        "Department of Industrial Design, KAIST, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-8578-5342",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Industrial Design, KAIST, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": null,
+        "display_name": "Seolyeong Bae",
+        "orcid": "https://orcid.org/0009-0002-7218-5887"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I39534123",
+          "display_name": "Gwangju Institute of Science and Technology",
+          "ror": "https://ror.org/024kbgz78",
+          "country_code": "KR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39534123"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Seolyeong Bae",
+      "raw_affiliation_strings": [
+        "EECS, Gwangju Institute of Science and Technology, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0002-7218-5887",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "EECS, Gwangju Institute of Science and Technology, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I39534123"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5089542719",
+        "display_name": "Hyun Ah Kim",
+        "orcid": null
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4405260609",
+          "display_name": "NAVER Cloud (South Korea)",
+          "ror": "https://ror.org/041051y78",
+          "country_code": "KR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4405260609",
+            "https://openalex.org/I60922564"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I60922564",
+          "display_name": "Naver (South Korea)",
+          "ror": "https://ror.org/04nzrnx83",
+          "country_code": "KR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I60922564"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hyun Ah Kim",
+      "raw_affiliation_strings": [
+        "AI Innovation, NAVER Cloud, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0002-0995-5703",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "AI Innovation, NAVER Cloud, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I4405260609",
+            "https://openalex.org/I60922564"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5054597742",
+        "display_name": "S.H. Lee",
+        "orcid": "https://orcid.org/0009-0005-1959-1386"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I77079311",
+          "display_name": "Wonkwang University",
+          "ror": "https://ror.org/006776986",
+          "country_code": "KR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I77079311"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Su-Woo Lee",
+      "raw_affiliation_strings": [
+        "Deparment of psychiatry, Wonkwang university hospital, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0009-0005-1959-1386",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Deparment of psychiatry, Wonkwang university hospital, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I77079311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5025649906",
+        "display_name": "Hwajung Hong",
+        "orcid": "https://orcid.org/0000-0001-5268-3331"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157485424",
+          "display_name": "Korea Advanced Institute of Science and Technology",
+          "ror": "https://ror.org/05apxxy63",
+          "country_code": "KR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Hwajung Hong",
+      "raw_affiliation_strings": [
+        "KAIST, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5268-3331",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "KAIST, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I157485424"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5057060586",
+        "display_name": "Chan-Mo Yang",
+        "orcid": "https://orcid.org/0000-0002-4959-7595"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I77079311",
+          "display_name": "Wonkwang University",
+          "ror": "https://ror.org/006776986",
+          "country_code": "KR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I77079311"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Chanmo Yang",
+      "raw_affiliation_strings": [
+        "Department of Psychiatry, School of Medicine, Wonkwang University Hospital, Wonkwang University, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4959-7595",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Psychiatry, School of Medicine, Wonkwang University Hospital, Wonkwang University, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I77079311"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5062848438",
+        "display_name": "Young‐Ho Kim",
+        "orcid": "https://orcid.org/0000-0002-2681-2774"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I4405260609",
+          "display_name": "NAVER Cloud (South Korea)",
+          "ror": "https://ror.org/041051y78",
+          "country_code": "KR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I4405260609",
+            "https://openalex.org/I60922564"
+          ]
+        },
+        {
+          "id": "https://openalex.org/I60922564",
+          "display_name": "Naver (South Korea)",
+          "ror": "https://ror.org/04nzrnx83",
+          "country_code": "KR",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I60922564"
+          ]
+        }
+      ],
+      "countries": [
+        "KR"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Young-Ho Kim",
+      "raw_affiliation_strings": [
+        "NAVER AI Lab, Korea, Republic of"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2681-2774",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "NAVER AI Lab, Korea, Republic of",
+          "institution_ids": [
+            "https://openalex.org/I4405260609",
+            "https://openalex.org/I60922564"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 5,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 78.4214,
+  "has_fulltext": false,
+  "cited_by_count": 107,
+  "citation_normalized_percentile": {
+    "value": 0.99958786,
+    "is_in_top_1_percent": true,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 100
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "20"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12488",
+    "display_name": "Mental Health via Writing",
+    "score": 0.9998000264167786,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12488",
+      "display_name": "Mental Health via Writing",
+      "score": 0.9998000264167786,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11519",
+      "display_name": "Digital Mental Health Interventions",
+      "score": 0.9991000294685364,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3202",
+        "display_name": "Applied Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T13702",
+      "display_name": "Machine Learning in Healthcare",
+      "score": 0.9865999817848206,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/journaling-file-system",
+      "display_name": "Journaling file system",
+      "score": 0.9722456932067871
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.7808566093444824
+    },
+    {
+      "id": "https://openalex.org/keywords/mental-health",
+      "display_name": "Mental health",
+      "score": 0.5831595063209534
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.5002150535583496
+    },
+    {
+      "id": "https://openalex.org/keywords/workflow",
+      "display_name": "Workflow",
+      "score": 0.46703028678894043
+    },
+    {
+      "id": "https://openalex.org/keywords/bridging",
+      "display_name": "Bridging (networking)",
+      "score": 0.42018967866897583
+    },
+    {
+      "id": "https://openalex.org/keywords/psychotherapist",
+      "display_name": "Psychotherapist",
+      "score": 0.3129754662513733
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.23439741134643555
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2225880",
+      "wikidata": "https://www.wikidata.org/wiki/Q579047",
+      "display_name": "Journaling file system",
+      "level": 3,
+      "score": 0.9722456932067871
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.7808566093444824
+    },
+    {
+      "id": "https://openalex.org/C134362201",
+      "wikidata": "https://www.wikidata.org/wiki/Q317309",
+      "display_name": "Mental health",
+      "level": 2,
+      "score": 0.5831595063209534
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.5002150535583496
+    },
+    {
+      "id": "https://openalex.org/C177212765",
+      "wikidata": "https://www.wikidata.org/wiki/Q627335",
+      "display_name": "Workflow",
+      "level": 2,
+      "score": 0.46703028678894043
+    },
+    {
+      "id": "https://openalex.org/C174348530",
+      "wikidata": "https://www.wikidata.org/wiki/Q188635",
+      "display_name": "Bridging (networking)",
+      "level": 2,
+      "score": 0.42018967866897583
+    },
+    {
+      "id": "https://openalex.org/C542102704",
+      "wikidata": "https://www.wikidata.org/wiki/Q183257",
+      "display_name": "Psychotherapist",
+      "level": 1,
+      "score": 0.3129754662513733
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.23439741134643555
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C77088390",
+      "wikidata": "https://www.wikidata.org/wiki/Q8513",
+      "display_name": "Database",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C31258907",
+      "wikidata": "https://www.wikidata.org/wiki/Q1301371",
+      "display_name": "Computer network",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C171730128",
+      "wikidata": "https://www.wikidata.org/wiki/Q5227290",
+      "display_name": "Data file",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1145/3613904.3642937",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1145/3613904.3642937",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+      "raw_type": "proceedings-article"
+    },
+    {
+      "id": "pmh:oai:koasas.kaist.ac.kr:10203/320186",
+      "is_oa": false,
+      "landing_page_url": "http://hdl.handle.net/10203/320186",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306402435",
+        "display_name": "KAIST Institutional Repository (KAIST)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I157485424",
+        "host_organization_name": "Korea Advanced Institute of Science and Technology",
+        "host_organization_lineage": [
+          "https://openalex.org/I157485424"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Conference"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1145/3613904.3642937",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3613904.3642937",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the CHI Conference on Human Factors in Computing Systems",
+    "raw_type": "proceedings-article"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.6600000262260437,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": false,
+    "grobid_xml": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 69,
+  "referenced_works": [
+    "https://openalex.org/W61744013",
+    "https://openalex.org/W62051475",
+    "https://openalex.org/W349893698",
+    "https://openalex.org/W1993028205",
+    "https://openalex.org/W1999144584",
+    "https://openalex.org/W2025611158",
+    "https://openalex.org/W2027624180",
+    "https://openalex.org/W2032947214",
+    "https://openalex.org/W2043705607",
+    "https://openalex.org/W2066042060",
+    "https://openalex.org/W2096965732",
+    "https://openalex.org/W2132322340",
+    "https://openalex.org/W2133562625",
+    "https://openalex.org/W2143100743",
+    "https://openalex.org/W2154684451",
+    "https://openalex.org/W2170207495",
+    "https://openalex.org/W2290835535",
+    "https://openalex.org/W2395048880",
+    "https://openalex.org/W2554749924",
+    "https://openalex.org/W2559582770",
+    "https://openalex.org/W2582664174",
+    "https://openalex.org/W2589021616",
+    "https://openalex.org/W2623779865",
+    "https://openalex.org/W2750766457",
+    "https://openalex.org/W2767558581",
+    "https://openalex.org/W2774223171",
+    "https://openalex.org/W2799097429",
+    "https://openalex.org/W2866044803",
+    "https://openalex.org/W2889335577",
+    "https://openalex.org/W2895995041",
+    "https://openalex.org/W2898928601",
+    "https://openalex.org/W2940562610",
+    "https://openalex.org/W2941540847",
+    "https://openalex.org/W2941663933",
+    "https://openalex.org/W2977128309",
+    "https://openalex.org/W3015322406",
+    "https://openalex.org/W3018444593",
+    "https://openalex.org/W3029922759",
+    "https://openalex.org/W3031532441",
+    "https://openalex.org/W3036060683",
+    "https://openalex.org/W3036236864",
+    "https://openalex.org/W3036406130",
+    "https://openalex.org/W3136599046",
+    "https://openalex.org/W3164718925",
+    "https://openalex.org/W3174098556",
+    "https://openalex.org/W3183473388",
+    "https://openalex.org/W3185341429",
+    "https://openalex.org/W3203321135",
+    "https://openalex.org/W3206079177",
+    "https://openalex.org/W3215127018",
+    "https://openalex.org/W4210722449",
+    "https://openalex.org/W4221105509",
+    "https://openalex.org/W4226055518",
+    "https://openalex.org/W4303427132",
+    "https://openalex.org/W4309674289",
+    "https://openalex.org/W4317757464",
+    "https://openalex.org/W4320838518",
+    "https://openalex.org/W4366548345",
+    "https://openalex.org/W4366591012",
+    "https://openalex.org/W4366819510",
+    "https://openalex.org/W4367310920",
+    "https://openalex.org/W4378470708",
+    "https://openalex.org/W4381104068",
+    "https://openalex.org/W4383422217",
+    "https://openalex.org/W4383679928",
+    "https://openalex.org/W4385473492",
+    "https://openalex.org/W4396219010",
+    "https://openalex.org/W6778883912",
+    "https://openalex.org/W6950309848"
+  ],
+  "related_works": [
+    "https://openalex.org/W2396775314",
+    "https://openalex.org/W4241266395",
+    "https://openalex.org/W3175258235",
+    "https://openalex.org/W1533232479",
+    "https://openalex.org/W131862780",
+    "https://openalex.org/W3140045297",
+    "https://openalex.org/W2091828830",
+    "https://openalex.org/W2585638668",
+    "https://openalex.org/W2970435560",
+    "https://openalex.org/W2799310739"
+  ],
+  "abstract_inverted_index": {
+    "Large": [
+      0
+    ],
+    "Language": [
+      1
+    ],
+    "Models": [
+      2
+    ],
+    "(LLMs)": [
+      3
+    ],
+    "offer": [
+      4
+    ],
+    "promising": [
+      5
+    ],
+    "opportunities": [
+      6
+    ],
+    "in": [
+      7,
+      23,
+      43,
+      99,
+      133
+    ],
+    "mental": [
+      8,
+      46,
+      135
+    ],
+    "health": [
+      9,
+      47,
+      136
+    ],
+    "domains,": [
+      10
+    ],
+    "although": [
+      11
+    ],
+    "their": [
+      12,
+      21,
+      102,
+      111,
+      117,
+      143
+    ],
+    "inherent": [
+      13
+    ],
+    "complexity": [
+      14
+    ],
+    "and": [
+      15,
+      78,
+      89,
+      105,
+      119,
+      142
+    ],
+    "low": [
+      16
+    ],
+    "controllability": [
+      17
+    ],
+    "elicit": [
+      18
+    ],
+    "concern": [
+      19
+    ],
+    "regarding": [
+      20
+    ],
+    "applicability": [
+      22
+    ],
+    "clinical": [
+      24,
+      90,
+      146
+    ],
+    "settings.": [
+      25,
+      147
+    ],
+    "We": [
+      26
+    ],
+    "present": [
+      27
+    ],
+    "MindfulDiary,": [
+      28
+    ],
+    "an": [
+      29,
+      114
+    ],
+    "LLM-driven": [
+      30
+    ],
+    "journaling": [
+      31,
+      87
+    ],
+    "app": [
+      32
+    ],
+    "that": [
+      33,
+      95
+    ],
+    "helps": [
+      34
+    ],
+    "psychiatric": [
+      35
+    ],
+    "patients": [
+      36,
+      73,
+      98,
+      112
+    ],
+    "document": [
+      37
+    ],
+    "daily": [
+      38,
+      103,
+      120
+    ],
+    "experiences": [
+      39
+    ],
+    "through": [
+      40,
+      113
+    ],
+    "conversation.": [
+      41
+    ],
+    "Designed": [
+      42
+    ],
+    "collaboration": [
+      44
+    ],
+    "with": [
+      45,
+      57,
+      74,
+      110
+    ],
+    "professionals,": [
+      48
+    ],
+    "MindfulDiary": [
+      49,
+      84,
+      96
+    ],
+    "takes": [
+      50
+    ],
+    "a": [
+      51,
+      67
+    ],
+    "state-based": [
+      52
+    ],
+    "approach": [
+      53
+    ],
+    "to": [
+      54
+    ],
+    "safely": [
+      55
+    ],
+    "comply": [
+      56
+    ],
+    "the": [
+      58,
+      128,
+      134,
+      139
+    ],
+    "experts’": [
+      59
+    ],
+    "guidelines": [
+      60
+    ],
+    "while": [
+      61
+    ],
+    "carrying": [
+      62
+    ],
+    "on": [
+      63,
+      123
+    ],
+    "free-form": [
+      64
+    ],
+    "conversations.": [
+      65
+    ],
+    "Through": [
+      66
+    ],
+    "four-week": [
+      68
+    ],
+    "field": [
+      69
+    ],
+    "study": [
+      70,
+      93
+    ],
+    "involving": [
+      71
+    ],
+    "28": [
+      72
+    ],
+    "major": [
+      75
+    ],
+    "depressive": [
+      76
+    ],
+    "disorder": [
+      77
+    ],
+    "five": [
+      79
+    ],
+    "psychiatrists,": [
+      80
+    ],
+    "we": [
+      81,
+      126
+    ],
+    "examined": [
+      82
+    ],
+    "how": [
+      83
+    ],
+    "facilitates": [
+      85
+    ],
+    "patients’": [
+      86
+    ],
+    "practice": [
+      88
+    ],
+    "care.": [
+      91
+    ],
+    "The": [
+      92
+    ],
+    "revealed": [
+      94
+    ],
+    "supported": [
+      97
+    ],
+    "consistently": [
+      100
+    ],
+    "enriching": [
+      101
+    ],
+    "records": [
+      104
+    ],
+    "helped": [
+      106
+    ],
+    "clinicians": [
+      107
+    ],
+    "better": [
+      108
+    ],
+    "empathize": [
+      109
+    ],
+    "understanding": [
+      115
+    ],
+    "of": [
+      116,
+      130
+    ],
+    "thoughts": [
+      118
+    ],
+    "contexts.": [
+      121
+    ],
+    "Drawing": [
+      122
+    ],
+    "these": [
+      124
+    ],
+    "findings,": [
+      125
+    ],
+    "discuss": [
+      127
+    ],
+    "implications": [
+      129
+    ],
+    "leveraging": [
+      131
+    ],
+    "LLMs": [
+      132
+    ],
+    "domain,": [
+      137
+    ],
+    "bridging": [
+      138
+    ],
+    "technical": [
+      140
+    ],
+    "feasibility": [
+      141
+    ],
+    "integration": [
+      144
+    ],
+    "into": [
+      145
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 40
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 61
+    },
+    {
+      "year": 2024,
+      "cited_by_count": 6
+    }
+  ],
+  "updated_date": "2026-09-02T07:38:04.252551",
+  "created_date": "2025-10-10T00:00:00"
+}

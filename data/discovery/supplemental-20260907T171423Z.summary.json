@@ -1,0 +1,13 @@
+{
+  "run_id": "20260907T171423Z",
+  "raw_occurrences": 16291,
+  "centrality_minimum": 3,
+  "eligible_raw": 7056,
+  "new_unique": 4551,
+  "excluded_as_existing_or_intra_run_duplicate": 2505,
+  "by_api": {
+    "OpenAlex": 4551
+  },
+  "with_pdf_url": 3726,
+  "output": "data/discovery/supplemental-20260907T171423Z.csv"
+}

@@ -1,6 +1,6 @@
 {
-  "inspected": 200,
-  "validated": 190,
-  "rejected_mismatch": 10,
+  "inspected": 395,
+  "validated": 376,
+  "rejected_mismatch": 19,
   "validation_rule": "Assinatura PDF, leitura estrutural e cobertura mínima de 60% dos tokens do título nas três primeiras páginas."
 }

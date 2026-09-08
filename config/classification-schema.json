@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "purpose": "Campos de qualificação acrescentados após a descoberta. Não substituem a leitura ontológica nem a avaliação metodológica humana.",
+  "fields": {
+    "centralidade_design_conversacional": ["4-central", "3-explicita", "2-contextual", "1-lateral", "0-fora-do-escopo"],
+    "tipo_documental": ["artigo", "capitulo", "livro", "tese", "dissertacao", "anais", "preprint", "relatorio-tecnico", "guia-institucional", "outro"],
+    "metodo": ["conceitual", "revisao", "qualitativo", "quantitativo", "metodos-mistos", "design-science", "estudo-de-caso", "avaliacao-de-usabilidade", "nao-identificado"],
+    "acesso": ["pdf-validado", "pdf-aberto-a-validar", "metadados-sem-pdf", "restrito-ou-nao-localizado"],
+    "forca_evidencia": ["alta", "moderada", "exploratoria", "conceitual", "nao-avaliada"],
+    "lacuna": ["territorial", "linguistica", "metodologica", "populacional", "tematica", "documental", "nenhuma-identificada"]
+  }
+}

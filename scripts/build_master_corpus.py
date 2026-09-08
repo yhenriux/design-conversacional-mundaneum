@@ -6,6 +6,7 @@ from __future__ import annotations
 import csv
 import json
 import re
+import unicodedata
 from collections import Counter
 from pathlib import Path
 
@@ -20,7 +21,7 @@ def normalize_doi(value: str) -> str:
 
 
 def normalize_title(value: str) -> str:
-    return re.sub(r"[^a-z0-9]+", " ", (value or "").lower()).strip()
+    return re.sub(r"[^\w]+", " ", unicodedata.normalize("NFKC", value or "").casefold()).strip()
 
 
 def read_rows(path: Path) -> list[dict[str, str]]:
@@ -31,18 +32,45 @@ def read_rows(path: Path) -> list[dict[str, str]]:
 
 
 def key(row: dict[str, str]) -> tuple[str, str]:
-    return normalize_doi(row.get("doi", "")), normalize_title(row.get("title", ""))
+    doi = normalize_doi(row.get("doi", ""))
+    return (doi, "") if doi else ("", normalize_title(row.get("title", "")))
+
+
+def identity(row):
+    doi = normalize_doi(row.get("doi", ""))
+    if doi:
+        return "doi:" + doi
+    if row.get("source_id"):
+        return "source:" + row["source_id"].strip()
+    return "metadata:" + json.dumps([normalize_title(row.get("title", "")), row.get("authors", ""), row.get("year", ""), row.get("type", "")], ensure_ascii=False)
 
 
 def main() -> None:
     candidates = read_rows(SOURCE)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    registry_path = OUTPUT_DIR / "identity-registry.json"
+    registry = json.loads(registry_path.read_text(encoding="utf-8")) if registry_path.exists() else {}
+    for old in read_rows(OUTPUT_DIR / "master-corpus.csv"):
+        registry.setdefault(identity(old), old["corpus_id"])
+    next_id = max((int(value.split("-")[-1]) for value in registry.values()), default=0) + 1
     supplemental_paths = sorted((ROOT / "data" / "discovery").glob("*.csv"))
-    source_keys = {key(row) for row in candidates}
+    occurrences = list(candidates)
     for supplemental in supplemental_paths:
         for record in read_rows(supplemental):
-            if key(record) not in source_keys:
-                candidates.append(record)
-                source_keys.add(key(record))
+            occurrences.append(record)
+    unique = {}
+    for record in occurrences:
+        unique.setdefault(identity(record), record)
+    candidates = list(unique.values())
+    for record in candidates:
+        ident = identity(record)
+        if ident not in registry:
+            registry[ident] = f"DCM-{next_id:05d}"
+            next_id += 1
+    registry_path.write_text(json.dumps(registry, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    provenance = [{"corpus_id": registry[identity(r)], "source_api": r.get("source_api", ""), "source_id": r.get("source_id", ""), "run_id": r.get("run_id", ""), "query": r.get("query", ""), "title": r.get("title", ""), "pdf_url": r.get("pdf_url", "")} for r in occurrences]
+    with (OUTPUT_DIR / "discovery-provenance.csv").open("w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=list(provenance[0])); writer.writeheader(); writer.writerows(provenance)
     resolution_root = ROOT / "data" / "document-resolution"
     validated_paths = sorted(set(resolution_root.rglob("validated-documents.csv")))
     download_paths = sorted(set(resolution_root.rglob("*download-manifest.csv")))
@@ -81,7 +109,8 @@ def main() -> None:
 
         rows.append(
             {
-                "corpus_id": f"DCM-{number:05d}",
+                "corpus_id": registry[identity(candidate)],
+                "collection_status": "arquivo-recebido" if validation or received_pdf else "transferencia-falhou" if candidate_attempts else "endereco-pdf-localizado" if candidate.get("pdf_url") else "obra-descoberta",
                 "bibliographic_status": "estudo-unico-descoberto",
                 "document_status": status,
                 "run_id": candidate.get("run_id", ""),
@@ -121,6 +150,8 @@ def main() -> None:
         "with_doi": sum(bool(row["doi"]) for row in rows),
         "with_source_pdf_url": sum(bool(row["source_pdf_url"]) for row in rows),
         "document_status": dict(sorted(status_counts.items())),
+        "collection_status": dict(sorted(Counter(row['collection_status'] for row in rows).items())),
+        "current_phase": "Descoberta e coleta; análise de conteúdo posterior.",
         "output": output.relative_to(ROOT).as_posix(),
     }
     (OUTPUT_DIR / "master-corpus-summary.json").write_text(

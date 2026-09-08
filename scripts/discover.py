@@ -28,10 +28,11 @@ def score(title, abstract, gate):
     ontology = 4 if anchored else (3 if systems and field_relevance else (2 if systems else 0))
     return ontology, ontology + min(3, field_relevance), "titulo-ancora" if anchored else f"sistema={systems};relevancia-campo={field_relevance}"
 
-def openalex(query, rows, mailto):
+def openalex(query, rows, mailto, cursor=None):
     fields = "id,doi,title,publication_year,type,authorships,abstract_inverted_index,primary_location,best_oa_location,open_access"
     params = {"search": query, "per-page": min(rows, 200), "select": fields}
     if mailto: params["mailto"] = mailto
+    if cursor is not None: params['cursor'] = cursor
     url = "https://api.openalex.org/works?" + urllib.parse.urlencode(params)
     data, raw = fetch_json(url); records = []
     for item in data.get("results", []):
@@ -45,10 +46,11 @@ def openalex(query, rows, mailto):
           "oa_status":(item.get("open_access") or {}).get("oa_status","")})
     return url, records, raw
 
-def crossref(query, rows, mailto):
+def crossref(query, rows, mailto, cursor=None):
     params = {"query.bibliographic":query, "rows":min(rows,1000),
       "select":"DOI,title,author,published,type,abstract,URL,link,license"}
     if mailto: params["mailto"] = mailto
+    if cursor is not None: params['cursor'] = cursor
     url = "https://api.crossref.org/works?" + urllib.parse.urlencode(params)
     data, raw = fetch_json(url); records=[]
     for item in data.get("message",{}).get("items",[]):

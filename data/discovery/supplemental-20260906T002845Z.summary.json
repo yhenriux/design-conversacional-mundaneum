@@ -1,0 +1,14 @@
+{
+  "run_id": "20260906T002845Z",
+  "raw_occurrences": 3413,
+  "centrality_minimum": 3,
+  "eligible_raw": 1392,
+  "new_unique": 526,
+  "excluded_as_existing_or_intra_run_duplicate": 866,
+  "by_api": {
+    "OpenAlex": 405,
+    "Crossref": 121
+  },
+  "with_pdf_url": 287,
+  "output": "data/discovery/supplemental-20260906T002845Z.csv"
+}

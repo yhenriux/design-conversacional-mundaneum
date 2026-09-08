@@ -44,6 +44,18 @@ Resultados com zero, um ou dois pontos não entram no corpus. Também não são 
 
 ## Famílias de consultas
 
+### Cobertura multilíngue e territorial
+
+As mesmas famílias conceituais são executadas em português, inglês, espanhol, francês, alemão, italiano, mandarim, japonês e coreano. A tradução de uma consulta não basta para inclusão: cada resultado retorna ao portão ontológico. A cobertura territorial usa agregadores nacionais e regionais, começando por BDTD, SciELO e repositórios institucionais brasileiros das cinco regiões, e prossegue com LA Referencia e repositórios internacionais.
+
+### Expansão por citações
+
+Cada ciclo seleciona estudos centrais com PDF validado. Para cada semente, são recuperadas referências citadas e trabalhos citantes por OpenAlex. A relação de citação é apenas uma rota de descoberta, nunca uma justificativa de inclusão. Os candidatos ficam em `data/citation-runs/` e passam por deduplicação, portão ontológico e resolução documental.
+
+### Literatura cinzenta
+
+Teses, dissertações, anais, preprints, relatórios técnicos e guias institucionais são mapeados como tipos documentais próprios. Eles podem ser centrais para a história, métodos ou prática do Design Conversacional, mas não recebem o mesmo peso inferencial de um estudo empírico robusto sem avaliação explícita de método e limites.
+
 ### Núcleo explícito
 
 `"conversation design" OR "conversational design" OR "design conversacional" OR "diseño conversacional"`

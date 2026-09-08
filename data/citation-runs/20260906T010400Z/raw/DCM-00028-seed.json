@@ -1,0 +1,919 @@
+{
+  "id": "https://openalex.org/W4407719098",
+  "doi": "https://doi.org/10.1145/3816046.3816223",
+  "title": "Toward Metaphor-Fluid Conversation Design for Voice User Interfaces",
+  "display_name": "Toward Metaphor-Fluid Conversation Design for Voice User Interfaces",
+  "publication_year": 2026,
+  "publication_date": "2026-07-21",
+  "ids": {
+    "openalex": "https://openalex.org/W4407719098",
+    "doi": "https://doi.org/10.1145/3816046.3816223"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1145/3816046.3816223",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3816046.3816223",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+    "raw_type": "proceedings-article"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "arxiv",
+    "crossref",
+    "datacite"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://doi.org/10.1145/3816046.3816223",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5033717301",
+        "display_name": "Smit Desai",
+        "orcid": "https://orcid.org/0000-0001-6983-8838"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Smit Desai",
+      "raw_affiliation_strings": [
+        "Northeastern University, Boston, Massachusetts, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-6983-8838",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Northeastern University, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5033241314",
+        "display_name": "Jessie Chin",
+        "orcid": "https://orcid.org/0000-0002-2878-8544"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Jessie Chin",
+      "raw_affiliation_strings": [
+        "School of Information Sciences, University of Illinois Urbana-Champaign, Champaign, Illinois, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-2878-8544",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Information Sciences, University of Illinois Urbana-Champaign, Champaign, Illinois, USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5062817658",
+        "display_name": "Dakuo Wang",
+        "orcid": "https://orcid.org/0000-0001-9371-9441"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I12912129",
+          "display_name": "Northeastern University",
+          "ror": "https://ror.org/04t5xt781",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Dakuo Wang",
+      "raw_affiliation_strings": [
+        "Northeastern University, Boston, Massachusetts, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-9371-9441",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Northeastern University, Boston, Massachusetts, USA",
+          "institution_ids": [
+            "https://openalex.org/I12912129"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5084278986",
+        "display_name": "Benjamin R. Cowan",
+        "orcid": "https://orcid.org/0000-0002-8595-8132"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I100930933",
+          "display_name": "University College Dublin",
+          "ror": "https://ror.org/05m7pjf47",
+          "country_code": "IE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ],
+      "countries": [
+        "IE"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Benjamin R. Cowan",
+      "raw_affiliation_strings": [
+        "School of Information &amp; Communication Studies, University College Dublin, Dublin, Ireland"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-8595-8132",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Information &amp; Communication Studies, University College Dublin, Dublin, Ireland",
+          "institution_ids": [
+            "https://openalex.org/I100930933"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5085158617",
+        "display_name": "Michael B. Twidale",
+        "orcid": "https://orcid.org/0000-0002-1486-7364"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I157725225",
+          "display_name": "University of Illinois Urbana-Champaign",
+          "ror": "https://ror.org/047426m28",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ],
+      "countries": [
+        "US"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Michael Twidale",
+      "raw_affiliation_strings": [
+        "School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1486-7364",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, Illinois, USA",
+          "institution_ids": [
+            "https://openalex.org/I157725225"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 3,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 23.4744,
+  "has_fulltext": false,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.98866376,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "1",
+    "last_page": "21"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12031",
+    "display_name": "Speech and dialogue systems",
+    "score": 0.9779999852180481,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12031",
+      "display_name": "Speech and dialogue systems",
+      "score": 0.9779999852180481,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T11148",
+      "display_name": "Language, Metaphor, and Cognition",
+      "score": 0.925000011920929,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3205",
+        "display_name": "Experimental and Cognitive Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.8840909004211426
+    },
+    {
+      "id": "https://openalex.org/keywords/metaphor",
+      "display_name": "Metaphor",
+      "score": 0.8718822598457336
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.5895603895187378
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5246211290359497
+    },
+    {
+      "id": "https://openalex.org/keywords/communication",
+      "display_name": "Communication",
+      "score": 0.38045546412467957
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.3183094263076782
+    },
+    {
+      "id": "https://openalex.org/keywords/linguistics",
+      "display_name": "Linguistics",
+      "score": 0.3173326849937439
+    },
+    {
+      "id": "https://openalex.org/keywords/philosophy",
+      "display_name": "Philosophy",
+      "score": 0.0523776113986969
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.8840909004211426
+    },
+    {
+      "id": "https://openalex.org/C2778311575",
+      "wikidata": "https://www.wikidata.org/wiki/Q18534",
+      "display_name": "Metaphor",
+      "level": 2,
+      "score": 0.8718822598457336
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.5895603895187378
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5246211290359497
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.38045546412467957
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.3183094263076782
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.3173326849937439
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0523776113986969
+    }
+  ],
+  "mesh": [],
+  "locations_count": 3,
+  "locations": [
+    {
+      "id": "doi:10.1145/3816046.3816223",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1145/3816046.3816223",
+      "pdf_url": null,
+      "source": null,
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+      "raw_type": "proceedings-article"
+    },
+    {
+      "id": "pmh:oai:arXiv.org:2502.11554",
+      "is_oa": true,
+      "landing_page_url": "https://arxiv.org/abs/2502.11554",
+      "pdf_url": "https://arxiv.org/pdf/2502.11554",
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": "2331-8422",
+        "issn": [
+          "2331-8422"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "text"
+    },
+    {
+      "id": "doi:10.48550/arxiv.2502.11554",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.48550/arxiv.2502.11554",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400194",
+        "display_name": "arXiv (Cornell University)",
+        "issn_l": "2331-8422",
+        "issn": [
+          "2331-8422"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I205783295",
+        "host_organization_name": "Cornell University",
+        "host_organization_lineage": [
+          "https://openalex.org/I205783295"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": null,
+      "is_accepted": false,
+      "is_published": null,
+      "raw_source_name": null,
+      "raw_type": "Preprint"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1145/3816046.3816223",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1145/3816046.3816223",
+    "pdf_url": null,
+    "source": null,
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the 8th ACM Conference on Conversational User Interfaces",
+    "raw_type": "proceedings-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": false,
+    "pdf": false
+  },
+  "content_urls": null,
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2899084033",
+    "https://openalex.org/W1968552888",
+    "https://openalex.org/W1593456883",
+    "https://openalex.org/W2369400006",
+    "https://openalex.org/W2380816171",
+    "https://openalex.org/W3143433749",
+    "https://openalex.org/W4376458480",
+    "https://openalex.org/W4390300014",
+    "https://openalex.org/W2048412262",
+    "https://openalex.org/W2374116601"
+  ],
+  "abstract_inverted_index": {
+    "Metaphors": [
+      0
+    ],
+    "play": [
+      1
+    ],
+    "a": [
+      2,
+      36,
+      51,
+      102,
+      106
+    ],
+    "critical": [
+      3
+    ],
+    "role": [
+      4
+    ],
+    "in": [
+      5,
+      124
+    ],
+    "shaping": [
+      6
+    ],
+    "user": [
+      7,
+      30
+    ],
+    "experiences": [
+      8
+    ],
+    "with": [
+      9
+    ],
+    "Voice": [
+      10
+    ],
+    "User": [
+      11
+    ],
+    "Interfaces": [
+      12
+    ],
+    "(VUIs),": [
+      13
+    ],
+    "yet": [
+      14
+    ],
+    "existing": [
+      15
+    ],
+    "designs": [
+      16
+    ],
+    "rely": [
+      17
+    ],
+    "on": [
+      18,
+      44
+    ],
+    "static,": [
+      19
+    ],
+    "human-centric": [
+      20
+    ],
+    "metaphors": [
+      21,
+      73
+    ],
+    "that": [
+      22,
+      39,
+      110
+    ],
+    "fail": [
+      23
+    ],
+    "to": [
+      24,
+      26,
+      50,
+      76,
+      116
+    ],
+    "adapt": [
+      25
+    ],
+    "diverse": [
+      27
+    ],
+    "contexts": [
+      28
+    ],
+    "and": [
+      29,
+      83,
+      89,
+      119,
+      138
+    ],
+    "needs.": [
+      31
+    ],
+    "We": [
+      32,
+      47
+    ],
+    "introduce": [
+      33
+    ],
+    "Metaphor-Fluid": [
+      34,
+      103,
+      111,
+      140
+    ],
+    "Design,": [
+      35
+    ],
+    "novel": [
+      37
+    ],
+    "approach": [
+      38
+    ],
+    "adjusts": [
+      40
+    ],
+    "metaphorical": [
+      41,
+      96
+    ],
+    "representations": [
+      42
+    ],
+    "based": [
+      43
+    ],
+    "conversational": [
+      45
+    ],
+    "use-contexts.": [
+      46
+    ],
+    "compare": [
+      48
+    ],
+    "this": [
+      49
+    ],
+    "Default": [
+      52,
+      107
+    ],
+    "VUI,": [
+      53,
+      108
+    ],
+    "which": [
+      54
+    ],
+    "models": [
+      55
+    ],
+    "commercial": [
+      56
+    ],
+    "VUIs": [
+      57
+    ],
+    "commonly": [
+      58
+    ],
+    "designed": [
+      59
+    ],
+    "around": [
+      60
+    ],
+    "the": [
+      61,
+      128,
+      135
+    ],
+    "assistant": [
+      62
+    ],
+    "persona,": [
+      63
+    ],
+    "offering": [
+      64
+    ],
+    "uniform": [
+      65
+    ],
+    "interaction": [
+      66
+    ],
+    "across": [
+      67
+    ],
+    "contexts.": [
+      68
+    ],
+    "In": [
+      69
+    ],
+    "Study": [
+      70,
+      98
+    ],
+    "1": [
+      71
+    ],
+    "(N=130),": [
+      72
+    ],
+    "were": [
+      74
+    ],
+    "mapped": [
+      75
+    ],
+    "four": [
+      77
+    ],
+    "key": [
+      78
+    ],
+    "use-contexts—commands,": [
+      79
+    ],
+    "information": [
+      80
+    ],
+    "seeking,": [
+      81
+    ],
+    "sociality,": [
+      82
+    ],
+    "error": [
+      84
+    ],
+    "recovery—along": [
+      85
+    ],
+    "dimensions": [
+      86
+    ],
+    "of": [
+      87
+    ],
+    "formality": [
+      88
+    ],
+    "hierarchy,": [
+      90
+    ],
+    "revealing": [
+      91
+    ],
+    "distinct": [
+      92
+    ],
+    "preferences": [
+      93,
+      126
+    ],
+    "for": [
+      94,
+      130,
+      143
+    ],
+    "task-specific": [
+      95
+    ],
+    "designs.": [
+      97
+    ],
+    "2": [
+      99
+    ],
+    "(N=91)": [
+      100
+    ],
+    "evaluates": [
+      101
+    ],
+    "VUI": [
+      104
+    ],
+    "against": [
+      105
+    ],
+    "showing": [
+      109
+    ],
+    "Design": [
+      112
+    ],
+    "enhances": [
+      113
+    ],
+    "perceived": [
+      114
+    ],
+    "intention": [
+      115
+    ],
+    "adopt,": [
+      117
+    ],
+    "enjoyment,": [
+      118
+    ],
+    "likability.": [
+      120
+    ],
+    "However,": [
+      121
+    ],
+    "individual": [
+      122
+    ],
+    "differences": [
+      123
+    ],
+    "metaphor": [
+      125
+    ],
+    "highlight": [
+      127
+    ],
+    "need": [
+      129
+    ],
+    "personalization.": [
+      131
+    ],
+    "These": [
+      132
+    ],
+    "findings": [
+      133
+    ],
+    "challenge": [
+      134
+    ],
+    "one-size-fits-all": [
+      136
+    ],
+    "paradigm": [
+      137
+    ],
+    "demonstrate": [
+      139
+    ],
+    "Design’s": [
+      141
+    ],
+    "potential": [
+      142
+    ],
+    "more": [
+      144
+    ],
+    "adaptive": [
+      145
+    ],
+    "human-AI": [
+      146
+    ],
+    "interactions.": [
+      147
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-29T07:29:34.045763",
+  "created_date": "2025-02-19T00:00:00"
+}

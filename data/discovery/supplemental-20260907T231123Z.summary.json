@@ -1,0 +1,11 @@
+{
+  "run_id": "20260907T231123Z",
+  "raw_occurrences": 345,
+  "centrality_minimum": 2,
+  "eligible_raw": 0,
+  "new_unique": 0,
+  "excluded_as_existing_or_intra_run_duplicate": 0,
+  "by_api": {},
+  "with_pdf_url": 0,
+  "output": "data/discovery/supplemental-20260907T231123Z.csv"
+}

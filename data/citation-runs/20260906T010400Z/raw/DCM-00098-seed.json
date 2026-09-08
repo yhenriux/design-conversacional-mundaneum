@@ -1,0 +1,1045 @@
+{
+  "id": "https://openalex.org/W4409309562",
+  "doi": "https://doi.org/10.4236/ojapps.2025.154059",
+  "title": "Designing an Intelligent Virtual Assistant for Preventing Bullying and Cyberbullying in Education",
+  "display_name": "Designing an Intelligent Virtual Assistant for Preventing Bullying and Cyberbullying in Education",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4409309562",
+    "doi": "https://doi.org/10.4236/ojapps.2025.154059"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.4236/ojapps.2025.154059",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4236/ojapps.2025.154059",
+    "pdf_url": "https://www.scirp.org/pdf/ojapps2025154_92312986.pdf",
+    "source": {
+      "id": "https://openalex.org/S2764596442",
+      "display_name": "Open Journal of Applied Sciences",
+      "issn_l": "2165-3917",
+      "issn": [
+        "2165-3917",
+        "2165-3925"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320480",
+      "host_organization_name": "Scientific Research Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320480"
+      ],
+      "host_organization_lineage_names": [
+        "Scientific Research Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Open Journal of Applied Sciences",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "diamond",
+    "oa_url": "https://www.scirp.org/pdf/ojapps2025154_92312986.pdf",
+    "any_repository_has_fulltext": false
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5013261936",
+        "display_name": "Cristina Sánchez Romero",
+        "orcid": "https://orcid.org/0000-0002-0280-5406"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I178450904",
+          "display_name": "Universidad Nacional de Educación a Distancia",
+          "ror": "https://ror.org/02msb5n36",
+          "country_code": "ES",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ],
+      "countries": [
+        "ES"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Cristina Sánchez Romero",
+      "raw_affiliation_strings": [
+        "Faculty of Education , National Distance Education University , Madrid , Spain"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Faculty of Education , National Distance Education University , Madrid , Spain",
+          "institution_ids": [
+            "https://openalex.org/I178450904"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5013261936"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I178450904"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 3.5597,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.91444347,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 96,
+    "max": 97
+  },
+  "biblio": {
+    "volume": "15",
+    "issue": "04",
+    "first_page": "874",
+    "last_page": "884"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T10485",
+    "display_name": "Bullying, Victimization, and Aggression",
+    "score": 0.988099992275238,
+    "subfield": {
+      "id": "https://openalex.org/subfields/3207",
+      "display_name": "Social Psychology"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/32",
+      "display_name": "Psychology"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/2",
+      "display_name": "Social Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T10485",
+      "display_name": "Bullying, Victimization, and Aggression",
+      "score": 0.988099992275238,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3207",
+        "display_name": "Social Psychology"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/32",
+        "display_name": "Psychology"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10355",
+      "display_name": "Impact of Technology on Adolescents",
+      "score": 0.9383000135421753,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3312",
+        "display_name": "Sociology and Political Science"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/cyber-bullying",
+      "display_name": "Cyber bullying",
+      "score": 0.5502436757087708
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.46563851833343506
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.42302969098091125
+    },
+    {
+      "id": "https://openalex.org/keywords/applied-psychology",
+      "display_name": "Applied psychology",
+      "score": 0.37180328369140625
+    },
+    {
+      "id": "https://openalex.org/keywords/multimedia",
+      "display_name": "Multimedia",
+      "score": 0.3497624397277832
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-security",
+      "display_name": "Computer security",
+      "score": 0.33351486921310425
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.32315438985824585
+    },
+    {
+      "id": "https://openalex.org/keywords/the-internet",
+      "display_name": "The Internet",
+      "score": 0.23306924104690552
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.16185849905014038
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C3019496913",
+      "wikidata": "https://www.wikidata.org/wiki/Q494348",
+      "display_name": "Cyber bullying",
+      "level": 3,
+      "score": 0.5502436757087708
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.46563851833343506
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.42302969098091125
+    },
+    {
+      "id": "https://openalex.org/C75630572",
+      "wikidata": "https://www.wikidata.org/wiki/Q538904",
+      "display_name": "Applied psychology",
+      "level": 1,
+      "score": 0.37180328369140625
+    },
+    {
+      "id": "https://openalex.org/C49774154",
+      "wikidata": "https://www.wikidata.org/wiki/Q131765",
+      "display_name": "Multimedia",
+      "level": 1,
+      "score": 0.3497624397277832
+    },
+    {
+      "id": "https://openalex.org/C38652104",
+      "wikidata": "https://www.wikidata.org/wiki/Q3510521",
+      "display_name": "Computer security",
+      "level": 1,
+      "score": 0.33351486921310425
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.32315438985824585
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.23306924104690552
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.16185849905014038
+    }
+  ],
+  "mesh": [],
+  "locations_count": 1,
+  "locations": [
+    {
+      "id": "doi:10.4236/ojapps.2025.154059",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.4236/ojapps.2025.154059",
+      "pdf_url": "https://www.scirp.org/pdf/ojapps2025154_92312986.pdf",
+      "source": {
+        "id": "https://openalex.org/S2764596442",
+        "display_name": "Open Journal of Applied Sciences",
+        "issn_l": "2165-3917",
+        "issn": [
+          "2165-3917",
+          "2165-3925"
+        ],
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320480",
+        "host_organization_name": "Scientific Research Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320480"
+        ],
+        "host_organization_lineage_names": [
+          "Scientific Research Publishing"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Open Journal of Applied Sciences",
+      "raw_type": "journal-article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.4236/ojapps.2025.154059",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.4236/ojapps.2025.154059",
+    "pdf_url": "https://www.scirp.org/pdf/ojapps2025154_92312986.pdf",
+    "source": {
+      "id": "https://openalex.org/S2764596442",
+      "display_name": "Open Journal of Applied Sciences",
+      "issn_l": "2165-3917",
+      "issn": [
+        "2165-3917",
+        "2165-3925"
+      ],
+      "is_oa": true,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320480",
+      "host_organization_name": "Scientific Research Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320480"
+      ],
+      "host_organization_lineage_names": [
+        "Scientific Research Publishing"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Open Journal of Applied Sciences",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [
+    {
+      "id": "https://openalex.org/G3480869486",
+      "display_name": null,
+      "funder_award_id": "13039",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    },
+    {
+      "id": "https://openalex.org/G7084143925",
+      "display_name": null,
+      "funder_award_id": "AEI/10",
+      "funder_id": "https://openalex.org/F4320335598",
+      "funder_display_name": "Agencia Estatal de Investigación"
+    }
+  ],
+  "funders": [
+    {
+      "id": "https://openalex.org/F4320320300",
+      "display_name": "European Commission",
+      "ror": "https://ror.org/00k4n6c32"
+    },
+    {
+      "id": "https://openalex.org/F4320323261",
+      "display_name": "Universidad Nacional de Educación a Distancia",
+      "ror": "https://ror.org/02msb5n36"
+    },
+    {
+      "id": "https://openalex.org/F4320335598",
+      "display_name": "Agencia Estatal de Investigación",
+      "ror": "https://ror.org/003x0zc53"
+    }
+  ],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4409309562.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4409309562.grobid-xml"
+  },
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W428052884",
+    "https://openalex.org/W1959815587",
+    "https://openalex.org/W1979030611",
+    "https://openalex.org/W2005679958",
+    "https://openalex.org/W2245868235",
+    "https://openalex.org/W2419404605",
+    "https://openalex.org/W2520183997",
+    "https://openalex.org/W2939728130",
+    "https://openalex.org/W3042944269",
+    "https://openalex.org/W4250717536",
+    "https://openalex.org/W4251995656"
+  ],
+  "related_works": [
+    "https://openalex.org/W4284961424",
+    "https://openalex.org/W2036819466",
+    "https://openalex.org/W1545418533",
+    "https://openalex.org/W2774915415",
+    "https://openalex.org/W2366039398",
+    "https://openalex.org/W2900094264",
+    "https://openalex.org/W2614692194",
+    "https://openalex.org/W2757783603",
+    "https://openalex.org/W2963824610",
+    "https://openalex.org/W4386804559"
+  ],
+  "abstract_inverted_index": {
+    "In": [
+      0
+    ],
+    "educational": [
+      1,
+      217,
+      237
+    ],
+    "settings": [
+      2
+    ],
+    "where": [
+      3
+    ],
+    "bullying": [
+      4,
+      35,
+      82,
+      100,
+      125,
+      161
+    ],
+    "and": [
+      5,
+      36,
+      55,
+      64,
+      76,
+      87,
+      136,
+      166,
+      173,
+      190,
+      201,
+      209,
+      236,
+      242,
+      247
+    ],
+    "cyberbullying": [
+      6,
+      37
+    ],
+    "often": [
+      7
+    ],
+    "go": [
+      8
+    ],
+    "unnoticed,": [
+      9
+    ],
+    "there": [
+      10
+    ],
+    "is": [
+      11,
+      114
+    ],
+    "an": [
+      12,
+      28,
+      228
+    ],
+    "urgent": [
+      13
+    ],
+    "need": [
+      14
+    ],
+    "for": [
+      15
+    ],
+    "innovative": [
+      16,
+      229
+    ],
+    "solutions": [
+      17
+    ],
+    "to": [
+      18,
+      57,
+      93,
+      163,
+      176
+    ],
+    "tackle": [
+      19
+    ],
+    "these": [
+      20,
+      213
+    ],
+    "issues.": [
+      21
+    ],
+    "This": [
+      22,
+      113
+    ],
+    "article": [
+      23
+    ],
+    "introduces": [
+      24
+    ],
+    "the": [
+      25,
+      50,
+      79,
+      110,
+      129,
+      138,
+      157,
+      168,
+      179
+    ],
+    "design": [
+      26
+    ],
+    "of": [
+      27,
+      99,
+      170,
+      203
+    ],
+    "intelligent": [
+      29
+    ],
+    "virtual": [
+      30
+    ],
+    "assistant": [
+      31,
+      51,
+      80
+    ],
+    "focused": [
+      32
+    ],
+    "on": [
+      33
+    ],
+    "preventing": [
+      34
+    ],
+    "in": [
+      38,
+      61,
+      84,
+      109,
+      216
+    ],
+    "schools,": [
+      39
+    ],
+    "acting": [
+      40
+    ],
+    "as": [
+      41,
+      194,
+      206,
+      227
+    ],
+    "a": [
+      42,
+      68,
+      195,
+      207,
+      233
+    ],
+    "valuable": [
+      43
+    ],
+    "institutional": [
+      44
+    ],
+    "resource.": [
+      45
+    ],
+    "Powered": [
+      46
+    ],
+    "by": [
+      47,
+      106,
+      116,
+      156
+    ],
+    "artificial": [
+      48
+    ],
+    "intelligence,": [
+      49
+    ],
+    "offers": [
+      52
+    ],
+    "immediate": [
+      53
+    ],
+    "support": [
+      54
+    ],
+    "guidance": [
+      56
+    ],
+    "students": [
+      58
+    ],
+    "facing": [
+      59
+    ],
+    "intimidation": [
+      60
+    ],
+    "both": [
+      62,
+      85
+    ],
+    "physical": [
+      63
+    ],
+    "digital": [
+      65,
+      86,
+      191,
+      248
+    ],
+    "environments.": [
+      66
+    ],
+    "Through": [
+      67
+    ],
+    "tree-structured": [
+      69
+    ],
+    "conversational": [
+      70
+    ],
+    "design,": [
+      71
+    ],
+    "advanced": [
+      72
+    ],
+    "natural": [
+      73
+    ],
+    "language": [
+      74
+    ],
+    "processing,": [
+      75
+    ],
+    "behavior": [
+      77
+    ],
+    "analysis,": [
+      78
+    ],
+    "detects": [
+      81
+    ],
+    "patterns": [
+      83,
+      108
+    ],
+    "in-person": [
+      88
+    ],
+    "interactions,": [
+      89
+    ],
+    "providing": [
+      90
+    ],
+    "tailored": [
+      91
+    ],
+    "resources": [
+      92
+    ],
+    "each": [
+      94
+    ],
+    "user": [
+      95
+    ],
+    "confidentially.": [
+      96
+    ],
+    "The": [
+      97
+    ],
+    "detection": [
+      98
+    ],
+    "situations": [
+      101
+    ],
+    "can": [
+      102,
+      149
+    ],
+    "be": [
+      103,
+      154,
+      164
+    ],
+    "carried": [
+      104
+    ],
+    "out": [
+      105
+    ],
+    "analyzing": [
+      107
+    ],
+    "students’": [
+      111
+    ],
+    "responses.": [
+      112
+    ],
+    "done": [
+      115
+    ],
+    "asking": [
+      117
+    ],
+    "if": [
+      118
+    ],
+    "they": [
+      119
+    ],
+    "have": [
+      120
+    ],
+    "witnessed": [
+      121
+    ],
+    "or": [
+      122,
+      133,
+      144
+    ],
+    "experienced": [
+      123
+    ],
+    "similar": [
+      124
+    ],
+    "situations,": [
+      126
+    ],
+    "inquiring": [
+      127
+    ],
+    "whether": [
+      128,
+      137
+    ],
+    "experience": [
+      130
+    ],
+    "was": [
+      131
+    ],
+    "personal": [
+      132
+    ],
+    "involved": [
+      134
+    ],
+    "others,": [
+      135
+    ],
+    "individuals": [
+      139
+    ],
+    "affected": [
+      140
+    ],
+    "were": [
+      141
+    ],
+    "close": [
+      142
+    ],
+    "friends": [
+      143
+    ],
+    "other": [
+      145
+    ],
+    "people.": [
+      146
+    ],
+    "These": [
+      147
+    ],
+    "responses": [
+      148
+    ],
+    "generate": [
+      150
+    ],
+    "alerts": [
+      151
+    ],
+    "that": [
+      152,
+      187
+    ],
+    "will": [
+      153
+    ],
+    "assessed": [
+      155
+    ],
+    "institution,": [
+      158
+    ],
+    "allowing": [
+      159
+    ],
+    "potential": [
+      160
+    ],
+    "cases": [
+      162
+    ],
+    "identified": [
+      165
+    ],
+    "enabling": [
+      167
+    ],
+    "development": [
+      169
+    ],
+    "appropriate": [
+      171
+    ],
+    "awareness": [
+      172,
+      241
+    ],
+    "prevention": [
+      174
+    ],
+    "strategies": [
+      175
+    ],
+    "effectively": [
+      177
+    ],
+    "address": [
+      178
+    ],
+    "issue.": [
+      180
+    ],
+    "Additionally,": [
+      181
+    ],
+    "it": [
+      182,
+      198
+    ],
+    "includes": [
+      183
+    ],
+    "interactive": [
+      184
+    ],
+    "learning": [
+      185
+    ],
+    "tools": [
+      186
+    ],
+    "foster": [
+      188
+    ],
+    "socio-emotional": [
+      189
+    ],
+    "competencies.": [
+      192
+    ],
+    "Serving": [
+      193
+    ],
+    "reporting": [
+      196
+    ],
+    "mechanism,": [
+      197
+    ],
+    "aids": [
+      199
+    ],
+    "victims": [
+      200
+    ],
+    "witnesses": [
+      202
+    ],
+    "bullying,": [
+      204
+    ],
+    "functioning": [
+      205
+    ],
+    "protective": [
+      208,
+      221
+    ],
+    "preventive": [
+      210
+    ],
+    "measure": [
+      211
+    ],
+    "against": [
+      212
+    ],
+    "harmful": [
+      214
+    ],
+    "behaviors": [
+      215
+    ],
+    "contexts.": [
+      218
+    ],
+    "Beyond": [
+      219
+    ],
+    "its": [
+      220
+    ],
+    "role,": [
+      222
+    ],
+    "this": [
+      223
+    ],
+    "tool": [
+      224
+    ],
+    "also": [
+      225
+    ],
+    "serves": [
+      226
+    ],
+    "pedagogical": [
+      230
+    ],
+    "resource,": [
+      231
+    ],
+    "addressing": [
+      232
+    ],
+    "complex": [
+      234
+    ],
+    "social": [
+      235
+    ],
+    "challenge": [
+      238
+    ],
+    "while": [
+      239
+    ],
+    "raising": [
+      240
+    ],
+    "promoting": [
+      243
+    ],
+    "sensitivity": [
+      244
+    ],
+    "around": [
+      245
+    ],
+    "school": [
+      246
+    ],
+    "violence.": [
+      249
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2025,
+      "cited_by_count": 3
+    }
+  ],
+  "updated_date": "2026-08-29T07:29:34.045763",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,0 +1,924 @@
+{
+  "id": "https://openalex.org/W4407208471",
+  "doi": "https://doi.org/10.24251/hicss.2025.461",
+  "title": "Integrating Brand Identity Into AI-Based Conversational Agents: A Systematic Literature Review",
+  "display_name": "Integrating Brand Identity Into AI-Based Conversational Agents: A Systematic Literature Review",
+  "publication_year": 2025,
+  "publication_date": "2025-01-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4407208471",
+    "doi": "https://doi.org/10.24251/hicss.2025.461"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.24251/hicss.2025.461",
+    "is_oa": false,
+    "landing_page_url": "https://doi.org/10.24251/hicss.2025.461",
+    "pdf_url": null,
+    "source": {
+      "id": "https://openalex.org/S4210195248",
+      "display_name": "Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences",
+      "issn_l": "1530-1605",
+      "issn": [
+        "1530-1605",
+        "2572-6862"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": null,
+      "host_organization_name": null,
+      "host_organization_lineage": [],
+      "host_organization_lineage_names": [],
+      "type": "conference"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+    "raw_type": "proceedings-article"
+  },
+  "type": "review",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "green",
+    "oa_url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1762&context=hicss-58",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": null,
+        "display_name": "Angelia Dittmar",
+        "orcid": null
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Angelia Dittmar",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5080324783",
+        "display_name": "Philipp Reinhard",
+        "orcid": "https://orcid.org/0000-0003-3207-666X"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Philipp Reinhard",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5078257342",
+        "display_name": "Meng Li",
+        "orcid": "https://orcid.org/0009-0007-0117-8141"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Mahei Li",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5114869151",
+        "display_name": "Fabian Karst",
+        "orcid": "https://orcid.org/0009-0003-4432-3557"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Fabian Karst",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5031171331",
+        "display_name": "Jan Marco Leimeister",
+        "orcid": "https://orcid.org/0000-0002-1990-2894"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Jan Marco Leimeister",
+      "raw_affiliation_strings": [],
+      "raw_orcid": null,
+      "affiliations": []
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 0,
+  "institutions_distinct_count": 0,
+  "corresponding_author_ids": [],
+  "corresponding_institution_ids": [],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.8433,
+  "has_fulltext": true,
+  "cited_by_count": 3,
+  "citation_normalized_percentile": {
+    "value": 0.79184735,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 91,
+    "max": 98
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": null,
+    "last_page": null
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9902999997138977,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9902999997138977,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14260",
+      "display_name": "Impact of AI and Big Data on Business and Society",
+      "score": 0.9710999727249146,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1803",
+        "display_name": "Management Science and Operations Research"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/18",
+        "display_name": "Decision Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/identity",
+      "display_name": "Identity (music)",
+      "score": 0.6417146921157837
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.6090376377105713
+    },
+    {
+      "id": "https://openalex.org/keywords/systematic-review",
+      "display_name": "Systematic review",
+      "score": 0.5937222242355347
+    },
+    {
+      "id": "https://openalex.org/keywords/brand-identity",
+      "display_name": "Brand identity",
+      "score": 0.4542253315448761
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.3409620523452759
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-processing",
+      "display_name": "Natural language processing",
+      "score": 0.3226395845413208
+    },
+    {
+      "id": "https://openalex.org/keywords/advertising",
+      "display_name": "Advertising",
+      "score": 0.13988026976585388
+    },
+    {
+      "id": "https://openalex.org/keywords/business",
+      "display_name": "Business",
+      "score": 0.12940767407417297
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.10839205980300903
+    },
+    {
+      "id": "https://openalex.org/keywords/aesthetics",
+      "display_name": "Aesthetics",
+      "score": 0.0998414158821106
+    },
+    {
+      "id": "https://openalex.org/keywords/art",
+      "display_name": "Art",
+      "score": 0.07675331830978394
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C2778355321",
+      "wikidata": "https://www.wikidata.org/wiki/Q17079427",
+      "display_name": "Identity (music)",
+      "level": 2,
+      "score": 0.6417146921157837
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.6090376377105713
+    },
+    {
+      "id": "https://openalex.org/C189708586",
+      "wikidata": "https://www.wikidata.org/wiki/Q1504425",
+      "display_name": "Systematic review",
+      "level": 3,
+      "score": 0.5937222242355347
+    },
+    {
+      "id": "https://openalex.org/C2992678278",
+      "wikidata": "https://www.wikidata.org/wiki/Q431289",
+      "display_name": "Brand identity",
+      "level": 2,
+      "score": 0.4542253315448761
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.3409620523452759
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.3226395845413208
+    },
+    {
+      "id": "https://openalex.org/C112698675",
+      "wikidata": "https://www.wikidata.org/wiki/Q37038",
+      "display_name": "Advertising",
+      "level": 1,
+      "score": 0.13988026976585388
+    },
+    {
+      "id": "https://openalex.org/C144133560",
+      "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+      "display_name": "Business",
+      "level": 0,
+      "score": 0.12940767407417297
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.10839205980300903
+    },
+    {
+      "id": "https://openalex.org/C107038049",
+      "wikidata": "https://www.wikidata.org/wiki/Q35986",
+      "display_name": "Aesthetics",
+      "level": 1,
+      "score": 0.0998414158821106
+    },
+    {
+      "id": "https://openalex.org/C142362112",
+      "wikidata": "https://www.wikidata.org/wiki/Q735",
+      "display_name": "Art",
+      "level": 0,
+      "score": 0.07675331830978394
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C2779473830",
+      "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+      "display_name": "MEDLINE",
+      "level": 2,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.24251/hicss.2025.461",
+      "is_oa": false,
+      "landing_page_url": "https://doi.org/10.24251/hicss.2025.461",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4210195248",
+        "display_name": "Proceedings of the ... Annual Hawaii International Conference on System Sciences/Proceedings of the Annual Hawaii International Conference on System Sciences",
+        "issn_l": "1530-1605",
+        "issn": [
+          "1530-1605",
+          "2572-6862"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "conference"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Proceedings of the Annual Hawaii International Conference on System Sciences",
+      "raw_type": "proceedings-article"
+    },
+    {
+      "id": "pmh:oai:aisel.aisnet.org:hicss-58-1762",
+      "is_oa": true,
+      "landing_page_url": "https://aisel.aisnet.org/hicss-58/in/ai_based_assistants/7",
+      "pdf_url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1762&context=hicss-58",
+      "source": {
+        "id": "https://openalex.org/S30879505",
+        "display_name": "Journal of the Association for Information Systems",
+        "issn_l": "1536-9323",
+        "issn": [
+          "1536-9323"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310321080",
+        "host_organization_name": "Association for Information Systems",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310321080"
+        ],
+        "host_organization_lineage_names": [
+          "Association for Information Systems"
+        ],
+        "type": "journal"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Hawaii International Conference on System Sciences 2025 (HICSS-58)",
+      "raw_type": "text"
+    },
+    {
+      "id": "pmh:oai:alexandria.unisg.ch:20.500.14171/120913",
+      "is_oa": false,
+      "landing_page_url": "https://www.alexandria.unisg.ch/handle/20.500.14171/120913",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306400650",
+        "display_name": "Alexandria (UniSG) (University of St.Gallen)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I4210158813",
+        "host_organization_name": "St.Gallen University of Teacher Education",
+        "host_organization_lineage": [
+          "https://openalex.org/I4210158813"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "conference paper"
+    },
+    {
+      "id": "pmh:oai:scholarspace.manoa.hawaii.edu:10125/109305",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/10125/109305",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401722",
+        "display_name": "ScholarSpace (University of Hawaii at Manoa)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I117965899",
+        "host_organization_name": "University of Hawaiʻi at Mānoa",
+        "host_organization_lineage": [
+          "https://openalex.org/I117965899"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-nc-nd",
+      "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "Conference Paper"
+    }
+  ],
+  "best_oa_location": {
+    "id": "pmh:oai:aisel.aisnet.org:hicss-58-1762",
+    "is_oa": true,
+    "landing_page_url": "https://aisel.aisnet.org/hicss-58/in/ai_based_assistants/7",
+    "pdf_url": "https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1762&context=hicss-58",
+    "source": {
+      "id": "https://openalex.org/S30879505",
+      "display_name": "Journal of the Association for Information Systems",
+      "issn_l": "1536-9323",
+      "issn": [
+        "1536-9323"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310321080",
+      "host_organization_name": "Association for Information Systems",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310321080"
+      ],
+      "host_organization_lineage_names": [
+        "Association for Information Systems"
+      ],
+      "type": "journal"
+    },
+    "license": null,
+    "license_id": null,
+    "version": "submittedVersion",
+    "is_accepted": false,
+    "is_published": false,
+    "raw_source_name": "Hawaii International Conference on System Sciences 2025 (HICSS-58)",
+    "raw_type": "text"
+  },
+  "sustainable_development_goals": [
+    {
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education",
+      "score": 0.4300000071525574
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "grobid_xml": true,
+    "pdf": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4407208471.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4407208471.grobid-xml"
+  },
+  "referenced_works_count": 0,
+  "referenced_works": [],
+  "related_works": [
+    "https://openalex.org/W2395691387",
+    "https://openalex.org/W2792383399",
+    "https://openalex.org/W3024289321",
+    "https://openalex.org/W2766255174",
+    "https://openalex.org/W4200400515",
+    "https://openalex.org/W2938724434",
+    "https://openalex.org/W4200615155",
+    "https://openalex.org/W4320717566",
+    "https://openalex.org/W4322495751",
+    "https://openalex.org/W2394256565"
+  ],
+  "abstract_inverted_index": {
+    "A": [
+      0
+    ],
+    "company's": [
+      1,
+      50
+    ],
+    "brand": [
+      2,
+      42,
+      51
+    ],
+    "identity": [
+      3,
+      52
+    ],
+    "is": [
+      4,
+      61
+    ],
+    "vital": [
+      5
+    ],
+    "for": [
+      6,
+      36,
+      143
+    ],
+    "fostering": [
+      7
+    ],
+    "meaningful": [
+      8
+    ],
+    "interactions": [
+      9
+    ],
+    "with": [
+      10,
+      140
+    ],
+    "customers": [
+      11
+    ],
+    "in": [
+      12,
+      99,
+      149
+    ],
+    "a": [
+      13,
+      38,
+      74,
+      89,
+      120,
+      141
+    ],
+    "digital": [
+      14
+    ],
+    "economy.": [
+      15
+    ],
+    "As": [
+      16
+    ],
+    "generative": [
+      17
+    ],
+    "artificial": [
+      18
+    ],
+    "intelligence": [
+      19
+    ],
+    "(GenAI)": [
+      20
+    ],
+    "becomes": [
+      21
+    ],
+    "increasingly": [
+      22
+    ],
+    "integrated": [
+      23
+    ],
+    "into": [
+      24,
+      32,
+      53
+    ],
+    "our": [
+      25
+    ],
+    "daily": [
+      26
+    ],
+    "lives,": [
+      27
+    ],
+    "AI-based": [
+      28,
+      56,
+      103
+    ],
+    "assistants": [
+      29,
+      57,
+      114
+    ],
+    "are": [
+      30
+    ],
+    "evolving": [
+      31
+    ],
+    "the": [
+      33,
+      45,
+      71,
+      100,
+      110,
+      113,
+      116,
+      125,
+      150
+    ],
+    "primary": [
+      34
+    ],
+    "channel": [
+      35
+    ],
+    "representing": [
+      37
+    ],
+    "brand's": [
+      39
+    ],
+    "identity.": [
+      40
+    ],
+    "Consequently,": [
+      41
+    ],
+    "departments": [
+      43
+    ],
+    "face": [
+      44
+    ],
+    "challenge": [
+      46
+    ],
+    "of": [
+      47,
+      77,
+      102,
+      112,
+      152
+    ],
+    "translating": [
+      48
+    ],
+    "their": [
+      49,
+      81,
+      133
+    ],
+    "highly": [
+      54
+    ],
+    "interactive": [
+      55
+    ],
+    "effectively.": [
+      58
+    ],
+    "While": [
+      59
+    ],
+    "there": [
+      60
+    ],
+    "diverse": [
+      62
+    ],
+    "research": [
+      63
+    ],
+    "on": [
+      64,
+      83
+    ],
+    "single": [
+      65
+    ],
+    "cues": [
+      66,
+      79,
+      98
+    ],
+    "that": [
+      67,
+      123
+    ],
+    "influence": [
+      68,
+      109
+    ],
+    "user": [
+      69
+    ],
+    "perceptions,": [
+      70
+    ],
+    "literature": [
+      72,
+      91
+    ],
+    "lacks": [
+      73
+    ],
+    "comprehensive": [
+      75
+    ],
+    "understanding": [
+      76
+    ],
+    "conversational": [
+      78,
+      147
+    ],
+    "and": [
+      80,
+      96,
+      105,
+      115,
+      127,
+      135,
+      138,
+      145
+    ],
+    "impact": [
+      82
+    ],
+    "brand-related": [
+      84
+    ],
+    "outcomes.": [
+      85
+    ],
+    "Hence,": [
+      86
+    ],
+    "we": [
+      87
+    ],
+    "conduct": [
+      88
+    ],
+    "systematic": [
+      90
+    ],
+    "review": [
+      92
+    ],
+    "to": [
+      93
+    ],
+    "identify": [
+      94
+    ],
+    "verbal": [
+      95
+    ],
+    "visual": [
+      97
+    ],
+    "design": [
+      101,
+      148
+    ],
+    "chatbots": [
+      104
+    ],
+    "examine": [
+      106
+    ],
+    "how": [
+      107
+    ],
+    "they": [
+      108
+    ],
+    "perceptions": [
+      111
+    ],
+    "brand.": [
+      117
+    ],
+    "We": [
+      118
+    ],
+    "contribute": [
+      119
+    ],
+    "conceptual": [
+      121
+    ],
+    "framework": [
+      122
+    ],
+    "summarizes": [
+      124
+    ],
+    "independent": [
+      126
+    ],
+    "dependent": [
+      128
+    ],
+    "variables": [
+      129
+    ],
+    "as": [
+      130,
+      132
+    ],
+    "well": [
+      131
+    ],
+    "interrelationships": [
+      134
+    ],
+    "provides": [
+      136
+    ],
+    "researchers": [
+      137
+    ],
+    "practitioners": [
+      139
+    ],
+    "basis": [
+      142
+    ],
+    "designing": [
+      144
+    ],
+    "studying": [
+      146
+    ],
+    "age": [
+      151
+    ],
+    "GenAI.": [
+      153
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 2
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-09-04T10:56:28.161419",
+  "created_date": "2025-10-10T00:00:00"
+}

@@ -1,16 +1,37 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "ontology": "Design Conversacional como objeto interdisciplinar de pesquisa e estudo",
   "title_anchors": [
     "conversation design",
     "conversational design",
+    "design conversacional",
+    "design de conversação",
+    "design de diálogo",
     "conversational ux",
+    "ux conversacional",
     "conversational user interface",
     "conversational user interfaces",
+    "interface conversacional",
+    "interfaces conversacionais",
+    "interfaz conversacional",
+    "interfaces conversacionales",
     "voice user interface design",
     "dialogue design",
     "dialog system design",
     "conversational agent design",
+    "design de agentes conversacionais",
+    "diseño conversacional",
+    "conception conversationnelle",
+    "design conversationnel",
+    "konversationsdesign",
+    "dialogorientiertes design",
+    "progettazione conversazionale",
+    "会话设计",
+    "对话式界面",
+    "対話デザイン",
+    "会話型インターフェース",
+    "대화형 디자인",
+    "대화형 인터페이스",
     "designing conversational agents",
     "chatbot design"
   ],
@@ -18,13 +39,22 @@
     "conversational agent", "conversational agents", "conversational interface",
     "conversational interfaces", "dialog system", "dialogue system", "chatbot",
     "chatbots", "voice assistant", "voice assistants", "voice user interface",
-    "spoken dialogue system", "ai assistant"
+    "spoken dialogue system", "ai assistant", "agente conversacional", "agentes conversacionais",
+    "interface conversacional", "interfaces conversacionais", "sistema conversacional", "sistemas conversacionais",
+    "sistema de diálogo", "sistemas de diálogo", "assistente virtual", "assistentes virtuais",
+    "chatbot", "chatbots", "agente conversacional", "agentes conversacionales"
+    ,"interface conversationnelle", "konversationelle schnittstelle", "interfaccia conversazionale",
+    "对话系统", "会话式智能体", "対話システム", "会話エージェント", "대화형 에이전트", "대화 시스템"
   ],
   "field_relevance_terms": [
     "design", "product", "user experience", " ux ", "interaction", "interface",
     "usability", "accessibility", "evaluation", "workflow", "service",
     "turn-taking", "turn taking", "repair", "context", "memory", "microcopy",
-    "tone of voice", "governance", "multimodal"
+    "tone of voice", "governance", "multimodal", "acessibilidade", "usabilidade", "experiência do usuário",
+    "interação", "conversa", "contexto", "memória", "reparação", "tom de voz", "linguagem simples",
+    "accesibilidad", "usabilidad", "experiencia de usuario", "interacción", "contexto", "memoria"
+    ,"conception", "utilisabilité", "accessibilité", "interaction", "benutzererfahrung", "barrierefreiheit",
+    "interazione", "usabilità", "accessibilità", "用户体验", "可用性", "无障碍", "사용자 경험", "접근성", "사용성"
   ],
   "exclusion_signals": [
     "human conversation analysis without a conversation-design object, method or contribution",

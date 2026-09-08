@@ -1,0 +1,1178 @@
+{
+  "id": "https://openalex.org/W4390442851",
+  "doi": "https://doi.org/10.1007/978-3-031-49811-4_74",
+  "title": "Conversation Design for Raising Awareness on the Responsible Use of the Internet",
+  "display_name": "Conversation Design for Raising Awareness on the Responsible Use of the Internet",
+  "publication_year": 2023,
+  "publication_date": "2023-12-30",
+  "ids": {
+    "openalex": "https://openalex.org/W4390442851",
+    "doi": "https://doi.org/10.1007/978-3-031-49811-4_74"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.1007/978-3-031-49811-4_74",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/978-3-031-49811-4_74",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-49811-4_74.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210211810",
+      "display_name": "Springer series in design and innovation",
+      "issn_l": "2661-8184",
+      "issn": [
+        "2661-8184",
+        "2661-8192"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319972",
+      "host_organization_name": "Springer International Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319972",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer International Publishing",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Springer Series in Design and Innovation",
+    "raw_type": "book-chapter"
+  },
+  "type": "conference-paper",
+  "indexed_in": [
+    "crossref"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "hybrid",
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-49811-4_74.pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5062979589",
+        "display_name": "Mauro Filippi",
+        "orcid": "https://orcid.org/0000-0002-4312-8800"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I900890020",
+          "display_name": "University of Palermo",
+          "ror": "https://ror.org/044k9ta02",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mauro Filippi",
+      "raw_affiliation_strings": [
+        "University of Palermo, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-4312-8800",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Palermo, 90133, Palermo, PA, Italy",
+          "institution_ids": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5090921306",
+        "display_name": "Salvatore Di Dio",
+        "orcid": "https://orcid.org/0000-0002-3364-5433"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I900890020",
+          "display_name": "University of Palermo",
+          "ror": "https://ror.org/044k9ta02",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Salvatore Di Dio",
+      "raw_affiliation_strings": [
+        "University of Palermo, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-3364-5433",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Palermo, 90133, Palermo, PA, Italy",
+          "institution_ids": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5034826517",
+        "display_name": "Domenico Schillaci",
+        "orcid": "https://orcid.org/0000-0002-1782-9355"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I900890020",
+          "display_name": "University of Palermo",
+          "ror": "https://ror.org/044k9ta02",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Domenico Schillaci",
+      "raw_affiliation_strings": [
+        "University of Palermo, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-1782-9355",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "University of Palermo, 90133, Palermo, PA, Italy",
+          "institution_ids": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5093619242",
+        "display_name": "Stefano Malorni",
+        "orcid": "https://orcid.org/0000-0001-5649-2030"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I900890020",
+          "display_name": "University of Palermo",
+          "ror": "https://ror.org/044k9ta02",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ],
+      "countries": [
+        "IT"
+      ],
+      "is_corresponding": false,
+      "raw_author_name": "Stefano Malorni",
+      "raw_affiliation_strings": [
+        "PUSH, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0001-5649-2030",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "PUSH, 90133, Palermo, PA, Italy",
+          "institution_ids": [
+            "https://openalex.org/I900890020"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "middle",
+      "author": {
+        "id": "https://openalex.org/A5022255983",
+        "display_name": "A. Scuderi",
+        "orcid": "https://orcid.org/0000-0003-0811-7361"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Angelo Scuderi",
+      "raw_affiliation_strings": [
+        "LCD Onlus, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0003-0811-7361",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "LCD Onlus, 90133, Palermo, PA, Italy",
+          "institution_ids": []
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5093619243",
+        "display_name": "Sabrina Guzzo",
+        "orcid": "https://orcid.org/0000-0002-0452-2522"
+      },
+      "institutions": [],
+      "countries": [],
+      "is_corresponding": false,
+      "raw_author_name": "Sabrina Guzzo",
+      "raw_affiliation_strings": [
+        "LCD Onlus, 90133, Palermo, PA, Italy"
+      ],
+      "raw_orcid": "https://orcid.org/0000-0002-0452-2522",
+      "affiliations": [
+        {
+          "raw_affiliation_string": "LCD Onlus, 90133, Palermo, PA, Italy",
+          "institution_ids": []
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 1,
+  "institutions_distinct_count": 1,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5062979589"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I900890020"
+  ],
+  "apc_list": null,
+  "apc_paid": null,
+  "fwci": 0.2087,
+  "has_fulltext": true,
+  "cited_by_count": 1,
+  "citation_normalized_percentile": {
+    "value": 0.49253184,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": false
+  },
+  "cited_by_percentile_year": {
+    "min": 94,
+    "max": 97
+  },
+  "biblio": {
+    "volume": null,
+    "issue": null,
+    "first_page": "773",
+    "last_page": "782"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T12128",
+    "display_name": "AI in Service Interactions",
+    "score": 0.9933000206947327,
+    "subfield": {
+      "id": "https://openalex.org/subfields/1702",
+      "display_name": "Artificial Intelligence"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/17",
+      "display_name": "Computer Science"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/3",
+      "display_name": "Physical Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T12128",
+      "display_name": "AI in Service Interactions",
+      "score": 0.9933000206947327,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T14114",
+      "display_name": "Digital Media and Philosophy",
+      "score": 0.9825000166893005,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1706",
+        "display_name": "Computer Science Applications"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T12060",
+      "display_name": "Child Development and Digital Technology",
+      "score": 0.9794999957084656,
+      "subfield": {
+        "id": "https://openalex.org/subfields/3304",
+        "display_name": "Education"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/33",
+        "display_name": "Social Sciences"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/2",
+        "display_name": "Social Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/empowerment",
+      "display_name": "Empowerment",
+      "score": 0.4938858151435852
+    },
+    {
+      "id": "https://openalex.org/keywords/government",
+      "display_name": "Government (linguistics)",
+      "score": 0.4924658238887787
+    },
+    {
+      "id": "https://openalex.org/keywords/the-internet",
+      "display_name": "The Internet",
+      "score": 0.48746204376220703
+    },
+    {
+      "id": "https://openalex.org/keywords/public-relations",
+      "display_name": "Public relations",
+      "score": 0.48542723059654236
+    },
+    {
+      "id": "https://openalex.org/keywords/digital-literacy",
+      "display_name": "Digital literacy",
+      "score": 0.48253127932548523
+    },
+    {
+      "id": "https://openalex.org/keywords/teamwork",
+      "display_name": "Teamwork",
+      "score": 0.48028039932250977
+    },
+    {
+      "id": "https://openalex.org/keywords/chatbot",
+      "display_name": "Chatbot",
+      "score": 0.4491198658943176
+    },
+    {
+      "id": "https://openalex.org/keywords/literacy",
+      "display_name": "Literacy",
+      "score": 0.44831234216690063
+    },
+    {
+      "id": "https://openalex.org/keywords/conversation",
+      "display_name": "Conversation",
+      "score": 0.4312819540500641
+    },
+    {
+      "id": "https://openalex.org/keywords/political-science",
+      "display_name": "Political science",
+      "score": 0.3659190237522125
+    },
+    {
+      "id": "https://openalex.org/keywords/psychology",
+      "display_name": "Psychology",
+      "score": 0.36141538619995117
+    },
+    {
+      "id": "https://openalex.org/keywords/engineering",
+      "display_name": "Engineering",
+      "score": 0.3574877977371216
+    },
+    {
+      "id": "https://openalex.org/keywords/pedagogy",
+      "display_name": "Pedagogy",
+      "score": 0.34804224967956543
+    },
+    {
+      "id": "https://openalex.org/keywords/knowledge-management",
+      "display_name": "Knowledge management",
+      "score": 0.34391626715660095
+    },
+    {
+      "id": "https://openalex.org/keywords/sociology",
+      "display_name": "Sociology",
+      "score": 0.3256382346153259
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.271311491727829
+    },
+    {
+      "id": "https://openalex.org/keywords/world-wide-web",
+      "display_name": "World Wide Web",
+      "score": 0.17579355835914612
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C20555606",
+      "wikidata": "https://www.wikidata.org/wiki/Q868575",
+      "display_name": "Empowerment",
+      "level": 2,
+      "score": 0.4938858151435852
+    },
+    {
+      "id": "https://openalex.org/C2778137410",
+      "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+      "display_name": "Government (linguistics)",
+      "level": 2,
+      "score": 0.4924658238887787
+    },
+    {
+      "id": "https://openalex.org/C110875604",
+      "wikidata": "https://www.wikidata.org/wiki/Q75",
+      "display_name": "The Internet",
+      "level": 2,
+      "score": 0.48746204376220703
+    },
+    {
+      "id": "https://openalex.org/C39549134",
+      "wikidata": "https://www.wikidata.org/wiki/Q133080",
+      "display_name": "Public relations",
+      "level": 1,
+      "score": 0.48542723059654236
+    },
+    {
+      "id": "https://openalex.org/C2777646416",
+      "wikidata": "https://www.wikidata.org/wiki/Q242069",
+      "display_name": "Digital literacy",
+      "level": 2,
+      "score": 0.48253127932548523
+    },
+    {
+      "id": "https://openalex.org/C111226992",
+      "wikidata": "https://www.wikidata.org/wiki/Q626225",
+      "display_name": "Teamwork",
+      "level": 2,
+      "score": 0.48028039932250977
+    },
+    {
+      "id": "https://openalex.org/C2779041454",
+      "wikidata": "https://www.wikidata.org/wiki/Q870780",
+      "display_name": "Chatbot",
+      "level": 2,
+      "score": 0.4491198658943176
+    },
+    {
+      "id": "https://openalex.org/C547764534",
+      "wikidata": "https://www.wikidata.org/wiki/Q8236",
+      "display_name": "Literacy",
+      "level": 2,
+      "score": 0.44831234216690063
+    },
+    {
+      "id": "https://openalex.org/C2777200299",
+      "wikidata": "https://www.wikidata.org/wiki/Q52943",
+      "display_name": "Conversation",
+      "level": 2,
+      "score": 0.4312819540500641
+    },
+    {
+      "id": "https://openalex.org/C17744445",
+      "wikidata": "https://www.wikidata.org/wiki/Q36442",
+      "display_name": "Political science",
+      "level": 0,
+      "score": 0.3659190237522125
+    },
+    {
+      "id": "https://openalex.org/C15744967",
+      "wikidata": "https://www.wikidata.org/wiki/Q9418",
+      "display_name": "Psychology",
+      "level": 0,
+      "score": 0.36141538619995117
+    },
+    {
+      "id": "https://openalex.org/C127413603",
+      "wikidata": "https://www.wikidata.org/wiki/Q11023",
+      "display_name": "Engineering",
+      "level": 0,
+      "score": 0.3574877977371216
+    },
+    {
+      "id": "https://openalex.org/C19417346",
+      "wikidata": "https://www.wikidata.org/wiki/Q7922",
+      "display_name": "Pedagogy",
+      "level": 1,
+      "score": 0.34804224967956543
+    },
+    {
+      "id": "https://openalex.org/C56739046",
+      "wikidata": "https://www.wikidata.org/wiki/Q192060",
+      "display_name": "Knowledge management",
+      "level": 1,
+      "score": 0.34391626715660095
+    },
+    {
+      "id": "https://openalex.org/C144024400",
+      "wikidata": "https://www.wikidata.org/wiki/Q21201",
+      "display_name": "Sociology",
+      "level": 0,
+      "score": 0.3256382346153259
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.271311491727829
+    },
+    {
+      "id": "https://openalex.org/C136764020",
+      "wikidata": "https://www.wikidata.org/wiki/Q466",
+      "display_name": "World Wide Web",
+      "level": 1,
+      "score": 0.17579355835914612
+    },
+    {
+      "id": "https://openalex.org/C41895202",
+      "wikidata": "https://www.wikidata.org/wiki/Q8162",
+      "display_name": "Linguistics",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C46312422",
+      "wikidata": "https://www.wikidata.org/wiki/Q11024",
+      "display_name": "Communication",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C199539241",
+      "wikidata": "https://www.wikidata.org/wiki/Q7748",
+      "display_name": "Law",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C138885662",
+      "wikidata": "https://www.wikidata.org/wiki/Q5891",
+      "display_name": "Philosophy",
+      "level": 0,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 2,
+  "locations": [
+    {
+      "id": "doi:10.1007/978-3-031-49811-4_74",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.1007/978-3-031-49811-4_74",
+      "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-49811-4_74.pdf",
+      "source": {
+        "id": "https://openalex.org/S4210211810",
+        "display_name": "Springer series in design and innovation",
+        "issn_l": "2661-8184",
+        "issn": [
+          "2661-8184",
+          "2661-8192"
+        ],
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/P4310319972",
+        "host_organization_name": "Springer International Publishing",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310319972",
+          "https://openalex.org/P4310319965"
+        ],
+        "host_organization_lineage_names": [
+          "Springer International Publishing",
+          "Springer Nature"
+        ],
+        "type": "book series"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Springer Series in Design and Innovation",
+      "raw_type": "book-chapter"
+    },
+    {
+      "id": "pmh:oai:iris.unipa.it:10447/621404",
+      "is_oa": true,
+      "landing_page_url": "https://hdl.handle.net/10447/621404",
+      "pdf_url": "https://iris.unipa.it/bitstream/10447/621404/2/Conversation%20Design%20for%20Raising%20Awareness%20on%20the%20Responsible%20Use%20of%20the%20Internet.pdf",
+      "source": {
+        "id": "https://openalex.org/S4377196289",
+        "display_name": "IRIS UniPA (University of Palermo)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I900890020",
+        "host_organization_name": "University of Palermo",
+        "host_organization_lineage": [
+          "https://openalex.org/I900890020"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "other-oa",
+      "license_id": "https://openalex.org/licenses/other-oa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": null,
+      "raw_type": "info:eu-repo/semantics/bookPart"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.1007/978-3-031-49811-4_74",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.1007/978-3-031-49811-4_74",
+    "pdf_url": "https://link.springer.com/content/pdf/10.1007/978-3-031-49811-4_74.pdf",
+    "source": {
+      "id": "https://openalex.org/S4210211810",
+      "display_name": "Springer series in design and innovation",
+      "issn_l": "2661-8184",
+      "issn": [
+        "2661-8184",
+        "2661-8192"
+      ],
+      "is_oa": false,
+      "is_in_doaj": false,
+      "is_core": false,
+      "host_organization": "https://openalex.org/P4310319972",
+      "host_organization_name": "Springer International Publishing",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310319972",
+        "https://openalex.org/P4310319965"
+      ],
+      "host_organization_lineage_names": [
+        "Springer International Publishing",
+        "Springer Nature"
+      ],
+      "type": "book series"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Springer Series in Design and Innovation",
+    "raw_type": "book-chapter"
+  },
+  "sustainable_development_goals": [
+    {
+      "score": 0.8500000238418579,
+      "id": "https://metadata.un.org/sdg/4",
+      "display_name": "Quality Education"
+    }
+  ],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4390442851.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4390442851.grobid-xml"
+  },
+  "referenced_works_count": 11,
+  "referenced_works": [
+    "https://openalex.org/W2099466450",
+    "https://openalex.org/W2490812900",
+    "https://openalex.org/W2595127189",
+    "https://openalex.org/W2791172249",
+    "https://openalex.org/W2889465620",
+    "https://openalex.org/W2981452016",
+    "https://openalex.org/W3036903096",
+    "https://openalex.org/W3114906974",
+    "https://openalex.org/W3128685776",
+    "https://openalex.org/W3137424350",
+    "https://openalex.org/W4319710029"
+  ],
+  "related_works": [
+    "https://openalex.org/W4383501580",
+    "https://openalex.org/W4214931137",
+    "https://openalex.org/W4313813117",
+    "https://openalex.org/W4382052417",
+    "https://openalex.org/W3192088754",
+    "https://openalex.org/W4387007686",
+    "https://openalex.org/W3084631705",
+    "https://openalex.org/W3176146353",
+    "https://openalex.org/W4293646425",
+    "https://openalex.org/W4379781060"
+  ],
+  "abstract_inverted_index": {
+    "Abstract": [
+      0
+    ],
+    "The": [
+      1,
+      44,
+      91,
+      108
+    ],
+    "rapid": [
+      2
+    ],
+    "process": [
+      3
+    ],
+    "of": [
+      4,
+      29,
+      38,
+      46,
+      52,
+      58,
+      64,
+      97,
+      111,
+      120,
+      131,
+      137,
+      140,
+      152,
+      167
+    ],
+    "digital": [
+      5,
+      47
+    ],
+    "transformation": [
+      6
+    ],
+    "and": [
+      7,
+      41,
+      49,
+      122,
+      171,
+      176
+    ],
+    "servitization": [
+      8
+    ],
+    "experienced": [
+      9
+    ],
+    "on": [
+      10
+    ],
+    "a": [
+      11,
+      144
+    ],
+    "global": [
+      12
+    ],
+    "scale": [
+      13
+    ],
+    "in": [
+      14,
+      69,
+      124,
+      128,
+      159
+    ],
+    "recent": [
+      15
+    ],
+    "decades,": [
+      16
+    ],
+    "further": [
+      17
+    ],
+    "accelerated": [
+      18
+    ],
+    "by": [
+      19,
+      116
+    ],
+    "the": [
+      20,
+      26,
+      36,
+      50,
+      59,
+      65,
+      95,
+      112,
+      129,
+      135,
+      150,
+      165
+    ],
+    "pandemic": [
+      21
+    ],
+    "crisis,": [
+      22
+    ],
+    "has": [
+      23,
+      61
+    ],
+    "radically": [
+      24
+    ],
+    "altered": [
+      25
+    ],
+    "life": [
+      27
+    ],
+    "experience": [
+      28
+    ],
+    "societies,": [
+      30
+    ],
+    "with": [
+      31,
+      143
+    ],
+    "technological": [
+      32
+    ],
+    "innovations": [
+      33
+    ],
+    "leading": [
+      34
+    ],
+    "to": [
+      35,
+      73,
+      81,
+      155,
+      164
+    ],
+    "emergence": [
+      37
+    ],
+    "new": [
+      39
+    ],
+    "ethical": [
+      40
+    ],
+    "legal": [
+      42
+    ],
+    "challenges.": [
+      43
+    ],
+    "issue": [
+      45
+    ],
+    "literacy": [
+      48
+    ],
+    "acquisition": [
+      51
+    ],
+    "basic": [
+      53
+    ],
+    "skills": [
+      54,
+      169,
+      173
+    ],
+    "for": [
+      55,
+      105
+    ],
+    "responsible": [
+      56
+    ],
+    "use": [
+      57,
+      96
+    ],
+    "internet": [
+      60
+    ],
+    "become": [
+      62
+    ],
+    "one": [
+      63
+    ],
+    "most": [
+      66
+    ],
+    "urgent": [
+      67
+    ],
+    "prerogatives": [
+      68
+    ],
+    "international": [
+      70
+    ],
+    "government": [
+      71
+    ],
+    "programs": [
+      72
+    ],
+    "address": [
+      74
+    ],
+    "psychosocial": [
+      75
+    ],
+    "phenomena": [
+      76
+    ],
+    "such": [
+      77
+    ],
+    "as": [
+      78,
+      101
+    ],
+    "those": [
+      79
+    ],
+    "related": [
+      80
+    ],
+    "online": [
+      82,
+      89
+    ],
+    "grooming,": [
+      83
+    ],
+    "cyberbullying,": [
+      84
+    ],
+    "cybersuicide,": [
+      85
+    ],
+    "cyber": [
+      86
+    ],
+    "racing,": [
+      87
+    ],
+    "or": [
+      88
+    ],
+    "scamming.": [
+      90
+    ],
+    "proposed": [
+      92
+    ],
+    "work": [
+      93
+    ],
+    "introduces": [
+      94
+    ],
+    "participatory": [
+      98
+    ],
+    "game": [
+      99
+    ],
+    "design": [
+      100
+    ],
+    "an": [
+      102,
+      117,
+      141
+    ],
+    "empowerment": [
+      103
+    ],
+    "tool": [
+      104
+    ],
+    "young": [
+      106
+    ],
+    "students.": [
+      107
+    ],
+    "case": [
+      109
+    ],
+    "study": [
+      110
+    ],
+    "NetWalking": [
+      113
+    ],
+    "project,": [
+      114
+    ],
+    "developed": [
+      115
+    ],
+    "interdisciplinary": [
+      118
+    ],
+    "team": [
+      119
+    ],
+    "practitioners": [
+      121
+    ],
+    "researchers": [
+      123
+    ],
+    "several": [
+      125
+    ],
+    "secondary": [
+      126
+    ],
+    "schools": [
+      127
+    ],
+    "city": [
+      130
+    ],
+    "Palermo": [
+      132
+    ],
+    "(Italy),": [
+      133
+    ],
+    "describes": [
+      134
+    ],
+    "experimentation": [
+      136
+    ],
+    "co-design": [
+      138
+    ],
+    "activities": [
+      139
+    ],
+    "edugame": [
+      142
+    ],
+    "conversational": [
+      145
+    ],
+    "interface": [
+      146
+    ],
+    "(chatbot),": [
+      147
+    ],
+    "which": [
+      148
+    ],
+    "exploits": [
+      149
+    ],
+    "logic": [
+      151
+    ],
+    "nonlinear": [
+      153
+    ],
+    "storytelling": [
+      154
+    ],
+    "actively": [
+      156
+    ],
+    "engage": [
+      157
+    ],
+    "students": [
+      158
+    ],
+    "playful": [
+      160
+    ],
+    "learning": [
+      161
+    ],
+    "activities,": [
+      162
+    ],
+    "contributing": [
+      163
+    ],
+    "development": [
+      166
+    ],
+    "hard": [
+      168
+    ],
+    "(STEM)": [
+      170
+    ],
+    "soft": [
+      172
+    ],
+    "(self-assessment,": [
+      174
+    ],
+    "teamwork": [
+      175
+    ],
+    "information": [
+      177
+    ],
+    "management).": [
+      178
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 1
+    }
+  ],
+  "updated_date": "2026-08-23T07:36:19.812096",
+  "created_date": "2023-12-31T00:00:00"
+}

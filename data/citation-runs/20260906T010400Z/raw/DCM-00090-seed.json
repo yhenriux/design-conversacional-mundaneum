@@ -1,0 +1,1242 @@
+{
+  "id": "https://openalex.org/W4410013707",
+  "doi": "https://doi.org/10.3389/frai.2025.1526293",
+  "title": "Exploring ChatGPT's potential for augmenting post-editing in machine translation across multiple domains: challenges and opportunities",
+  "display_name": "Exploring ChatGPT's potential for augmenting post-editing in machine translation across multiple domains: challenges and opportunities",
+  "publication_year": 2025,
+  "publication_date": "2025-05-01",
+  "ids": {
+    "openalex": "https://openalex.org/W4410013707",
+    "doi": "https://doi.org/10.3389/frai.2025.1526293",
+    "pmid": "https://pubmed.ncbi.nlm.nih.gov/40376281"
+  },
+  "language": "en",
+  "primary_location": {
+    "id": "doi:10.3389/frai.2025.1526293",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/frai.2025.1526293",
+    "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526293/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210197006",
+      "display_name": "Frontiers in Artificial Intelligence",
+      "issn_l": "2624-8212",
+      "issn": [
+        "2624-8212"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Artificial Intelligence",
+    "raw_type": "journal-article"
+  },
+  "type": "article",
+  "indexed_in": [
+    "crossref",
+    "doaj",
+    "pubmed"
+  ],
+  "open_access": {
+    "is_oa": true,
+    "oa_status": "gold",
+    "oa_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526293/pdf",
+    "any_repository_has_fulltext": true
+  },
+  "authorships": [
+    {
+      "author_position": "first",
+      "author": {
+        "id": "https://openalex.org/A5083065933",
+        "display_name": "Jeehaan Algaraady",
+        "orcid": "https://orcid.org/0000-0003-3901-4648"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I36197038",
+          "display_name": "Taiz University",
+          "ror": "https://ror.org/03jwcxq96",
+          "country_code": "YE",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I36197038"
+          ]
+        }
+      ],
+      "countries": [
+        "YE"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Jeehaan Algaraady",
+      "raw_affiliation_strings": [
+        "Department of Languages and Translation, Taiz University, Taiz, Yemen"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Languages and Translation, Taiz University, Taiz, Yemen",
+          "institution_ids": [
+            "https://openalex.org/I36197038"
+          ]
+        }
+      ]
+    },
+    {
+      "author_position": "last",
+      "author": {
+        "id": "https://openalex.org/A5049529617",
+        "display_name": "Mohammad Mahyoob",
+        "orcid": "https://orcid.org/0000-0002-6664-1017"
+      },
+      "institutions": [
+        {
+          "id": "https://openalex.org/I23075662",
+          "display_name": "Taibah University",
+          "ror": "https://ror.org/01xv1nn60",
+          "country_code": "SA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I23075662"
+          ]
+        }
+      ],
+      "countries": [
+        "SA"
+      ],
+      "is_corresponding": true,
+      "raw_author_name": "Mohammad Mahyoob",
+      "raw_affiliation_strings": [
+        "Department of Languages and Translation, Taibah University, Madina, Saudi Arabia"
+      ],
+      "raw_orcid": null,
+      "affiliations": [
+        {
+          "raw_affiliation_string": "Department of Languages and Translation, Taibah University, Madina, Saudi Arabia",
+          "institution_ids": [
+            "https://openalex.org/I23075662"
+          ]
+        }
+      ]
+    }
+  ],
+  "institutions": [],
+  "countries_distinct_count": 2,
+  "institutions_distinct_count": 2,
+  "corresponding_author_ids": [
+    "https://openalex.org/A5049529617",
+    "https://openalex.org/A5083065933"
+  ],
+  "corresponding_institution_ids": [
+    "https://openalex.org/I23075662",
+    "https://openalex.org/I36197038"
+  ],
+  "apc_list": {
+    "value": 1950,
+    "currency": "CHF",
+    "value_usd": 2353
+  },
+  "apc_paid": {
+    "value": 1950,
+    "currency": "CHF",
+    "value_usd": 2353
+  },
+  "fwci": 3.2397,
+  "has_fulltext": true,
+  "cited_by_count": 11,
+  "citation_normalized_percentile": {
+    "value": 0.92174505,
+    "is_in_top_1_percent": false,
+    "is_in_top_10_percent": true
+  },
+  "cited_by_percentile_year": {
+    "min": 98,
+    "max": 99
+  },
+  "biblio": {
+    "volume": "8",
+    "issue": null,
+    "first_page": "1526293",
+    "last_page": "1526293"
+  },
+  "is_retracted": false,
+  "is_paratext": false,
+  "is_xpac": false,
+  "primary_topic": {
+    "id": "https://openalex.org/T11636",
+    "display_name": "Artificial Intelligence in Healthcare and Education",
+    "score": 0.7448999881744385,
+    "subfield": {
+      "id": "https://openalex.org/subfields/2718",
+      "display_name": "Health Informatics"
+    },
+    "field": {
+      "id": "https://openalex.org/fields/27",
+      "display_name": "Medicine"
+    },
+    "domain": {
+      "id": "https://openalex.org/domains/4",
+      "display_name": "Health Sciences"
+    }
+  },
+  "topics": [
+    {
+      "id": "https://openalex.org/T11636",
+      "display_name": "Artificial Intelligence in Healthcare and Education",
+      "score": 0.7448999881744385,
+      "subfield": {
+        "id": "https://openalex.org/subfields/2718",
+        "display_name": "Health Informatics"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/27",
+        "display_name": "Medicine"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/4",
+        "display_name": "Health Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10181",
+      "display_name": "Natural Language Processing Techniques",
+      "score": 0.01119999960064888,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    },
+    {
+      "id": "https://openalex.org/T10028",
+      "display_name": "Topic Modeling",
+      "score": 0.011099999770522118,
+      "subfield": {
+        "id": "https://openalex.org/subfields/1702",
+        "display_name": "Artificial Intelligence"
+      },
+      "field": {
+        "id": "https://openalex.org/fields/17",
+        "display_name": "Computer Science"
+      },
+      "domain": {
+        "id": "https://openalex.org/domains/3",
+        "display_name": "Physical Sciences"
+      }
+    }
+  ],
+  "keywords": [
+    {
+      "id": "https://openalex.org/keywords/translation",
+      "display_name": "Translation (biology)",
+      "score": 0.6136967539787292
+    },
+    {
+      "id": "https://openalex.org/keywords/machine-translation",
+      "display_name": "Machine translation",
+      "score": 0.5856654644012451
+    },
+    {
+      "id": "https://openalex.org/keywords/computer-science",
+      "display_name": "Computer science",
+      "score": 0.5196682214736938
+    },
+    {
+      "id": "https://openalex.org/keywords/data-science",
+      "display_name": "Data science",
+      "score": 0.33793163299560547
+    },
+    {
+      "id": "https://openalex.org/keywords/human–computer-interaction",
+      "display_name": "Human–computer interaction",
+      "score": 0.32300567626953125
+    },
+    {
+      "id": "https://openalex.org/keywords/natural-language-processing",
+      "display_name": "Natural language processing",
+      "score": 0.31517767906188965
+    },
+    {
+      "id": "https://openalex.org/keywords/chemistry",
+      "display_name": "Chemistry",
+      "score": 0.1815265715122223
+    }
+  ],
+  "concepts": [
+    {
+      "id": "https://openalex.org/C149364088",
+      "wikidata": "https://www.wikidata.org/wiki/Q185917",
+      "display_name": "Translation (biology)",
+      "level": 4,
+      "score": 0.6136967539787292
+    },
+    {
+      "id": "https://openalex.org/C203005215",
+      "wikidata": "https://www.wikidata.org/wiki/Q79798",
+      "display_name": "Machine translation",
+      "level": 2,
+      "score": 0.5856654644012451
+    },
+    {
+      "id": "https://openalex.org/C41008148",
+      "wikidata": "https://www.wikidata.org/wiki/Q21198",
+      "display_name": "Computer science",
+      "level": 0,
+      "score": 0.5196682214736938
+    },
+    {
+      "id": "https://openalex.org/C2522767166",
+      "wikidata": "https://www.wikidata.org/wiki/Q2374463",
+      "display_name": "Data science",
+      "level": 1,
+      "score": 0.33793163299560547
+    },
+    {
+      "id": "https://openalex.org/C107457646",
+      "wikidata": "https://www.wikidata.org/wiki/Q207434",
+      "display_name": "Human–computer interaction",
+      "level": 1,
+      "score": 0.32300567626953125
+    },
+    {
+      "id": "https://openalex.org/C204321447",
+      "wikidata": "https://www.wikidata.org/wiki/Q30642",
+      "display_name": "Natural language processing",
+      "level": 1,
+      "score": 0.31517767906188965
+    },
+    {
+      "id": "https://openalex.org/C185592680",
+      "wikidata": "https://www.wikidata.org/wiki/Q2329",
+      "display_name": "Chemistry",
+      "level": 0,
+      "score": 0.1815265715122223
+    },
+    {
+      "id": "https://openalex.org/C55493867",
+      "wikidata": "https://www.wikidata.org/wiki/Q7094",
+      "display_name": "Biochemistry",
+      "level": 1,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C104317684",
+      "wikidata": "https://www.wikidata.org/wiki/Q7187",
+      "display_name": "Gene",
+      "level": 2,
+      "score": 0.0
+    },
+    {
+      "id": "https://openalex.org/C105580179",
+      "wikidata": "https://www.wikidata.org/wiki/Q188928",
+      "display_name": "Messenger RNA",
+      "level": 3,
+      "score": 0.0
+    }
+  ],
+  "mesh": [],
+  "locations_count": 4,
+  "locations": [
+    {
+      "id": "doi:10.3389/frai.2025.1526293",
+      "is_oa": true,
+      "landing_page_url": "https://doi.org/10.3389/frai.2025.1526293",
+      "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526293/pdf",
+      "source": {
+        "id": "https://openalex.org/S4210197006",
+        "display_name": "Frontiers in Artificial Intelligence",
+        "issn_l": "2624-8212",
+        "issn": [
+          "2624-8212"
+        ],
+        "is_oa": true,
+        "is_in_doaj": true,
+        "is_core": true,
+        "host_organization": "https://openalex.org/P4310320527",
+        "host_organization_name": "Frontiers Media",
+        "host_organization_lineage": [
+          "https://openalex.org/P4310320527"
+        ],
+        "host_organization_lineage_names": [
+          "Frontiers Media"
+        ],
+        "type": "journal"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in Artificial Intelligence",
+      "raw_type": "journal-article"
+    },
+    {
+      "id": "pmid:40376281",
+      "is_oa": false,
+      "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/40376281",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306525036",
+        "display_name": "PubMed",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": null,
+      "license_id": null,
+      "version": "publishedVersion",
+      "is_accepted": true,
+      "is_published": true,
+      "raw_source_name": "Frontiers in artificial intelligence",
+      "raw_type": "Journal Article"
+    },
+    {
+      "id": "pmh:oai:pubmedcentral.nih.gov:12078335",
+      "is_oa": true,
+      "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/12078335",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S2764455111",
+        "display_name": "PubMed Central",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": true,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": "https://openalex.org/I1299303238",
+        "host_organization_name": "National Institutes of Health",
+        "host_organization_lineage": [
+          "https://openalex.org/I1299303238"
+        ],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by",
+      "license_id": "https://openalex.org/licenses/cc-by",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Front Artif Intell",
+      "raw_type": "Text"
+    },
+    {
+      "id": "pmh:oai:doaj.org/article:b5579c10c8ef4fabb9a960e7556e09f2",
+      "is_oa": true,
+      "landing_page_url": "https://doaj.org/article/b5579c10c8ef4fabb9a960e7556e09f2",
+      "pdf_url": null,
+      "source": {
+        "id": "https://openalex.org/S4306401280",
+        "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+        "issn_l": null,
+        "issn": null,
+        "is_oa": false,
+        "is_in_doaj": false,
+        "is_core": false,
+        "host_organization": null,
+        "host_organization_name": null,
+        "host_organization_lineage": [],
+        "host_organization_lineage_names": [],
+        "type": "repository"
+      },
+      "license": "cc-by-sa",
+      "license_id": "https://openalex.org/licenses/cc-by-sa",
+      "version": "submittedVersion",
+      "is_accepted": false,
+      "is_published": false,
+      "raw_source_name": "Frontiers in Artificial Intelligence, Vol 8 (2025)",
+      "raw_type": "article"
+    }
+  ],
+  "best_oa_location": {
+    "id": "doi:10.3389/frai.2025.1526293",
+    "is_oa": true,
+    "landing_page_url": "https://doi.org/10.3389/frai.2025.1526293",
+    "pdf_url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1526293/pdf",
+    "source": {
+      "id": "https://openalex.org/S4210197006",
+      "display_name": "Frontiers in Artificial Intelligence",
+      "issn_l": "2624-8212",
+      "issn": [
+        "2624-8212"
+      ],
+      "is_oa": true,
+      "is_in_doaj": true,
+      "is_core": true,
+      "host_organization": "https://openalex.org/P4310320527",
+      "host_organization_name": "Frontiers Media",
+      "host_organization_lineage": [
+        "https://openalex.org/P4310320527"
+      ],
+      "host_organization_lineage_names": [
+        "Frontiers Media"
+      ],
+      "type": "journal"
+    },
+    "license": "cc-by",
+    "license_id": "https://openalex.org/licenses/cc-by",
+    "version": "publishedVersion",
+    "is_accepted": true,
+    "is_published": true,
+    "raw_source_name": "Frontiers in Artificial Intelligence",
+    "raw_type": "journal-article"
+  },
+  "sustainable_development_goals": [],
+  "awards": [],
+  "funders": [],
+  "has_content": {
+    "pdf": true,
+    "grobid_xml": true
+  },
+  "content_urls": {
+    "pdf": "https://content.openalex.org/works/W4410013707.pdf",
+    "grobid_xml": "https://content.openalex.org/works/W4410013707.grobid-xml"
+  },
+  "referenced_works_count": 32,
+  "referenced_works": [
+    "https://openalex.org/W181113822",
+    "https://openalex.org/W1982816048",
+    "https://openalex.org/W2240815733",
+    "https://openalex.org/W2252053491",
+    "https://openalex.org/W2289400302",
+    "https://openalex.org/W2486710111",
+    "https://openalex.org/W2621526390",
+    "https://openalex.org/W2757388718",
+    "https://openalex.org/W2810180368",
+    "https://openalex.org/W2889541653",
+    "https://openalex.org/W2939905351",
+    "https://openalex.org/W2971025241",
+    "https://openalex.org/W2974269322",
+    "https://openalex.org/W3165387952",
+    "https://openalex.org/W3176009285",
+    "https://openalex.org/W4320167623",
+    "https://openalex.org/W4321065355",
+    "https://openalex.org/W4321472057",
+    "https://openalex.org/W4360584537",
+    "https://openalex.org/W4379933104",
+    "https://openalex.org/W4383336966",
+    "https://openalex.org/W4385429916",
+    "https://openalex.org/W4387251573",
+    "https://openalex.org/W4387687233",
+    "https://openalex.org/W4387929526",
+    "https://openalex.org/W4389518624",
+    "https://openalex.org/W6607384239",
+    "https://openalex.org/W6690119025",
+    "https://openalex.org/W6691517309",
+    "https://openalex.org/W6696306545",
+    "https://openalex.org/W6852989695",
+    "https://openalex.org/W6881401546"
+  ],
+  "related_works": [
+    "https://openalex.org/W3011059803",
+    "https://openalex.org/W2775554247",
+    "https://openalex.org/W2883671469",
+    "https://openalex.org/W2728761353",
+    "https://openalex.org/W2110168585",
+    "https://openalex.org/W3107474891",
+    "https://openalex.org/W2250213760",
+    "https://openalex.org/W4386247111",
+    "https://openalex.org/W4327642362",
+    "https://openalex.org/W2587014613"
+  ],
+  "abstract_inverted_index": {
+    "Introduction": [
+      0
+    ],
+    "Post-editing": [
+      1
+    ],
+    "plays": [
+      2
+    ],
+    "a": [
+      3,
+      47,
+      77,
+      126,
+      161,
+      168,
+      174,
+      267
+    ],
+    "crucial": [
+      4
+    ],
+    "role": [
+      5
+    ],
+    "in": [
+      6,
+      24,
+      52,
+      64,
+      119,
+      151,
+      201,
+      213,
+      217,
+      241,
+      253,
+      270
+    ],
+    "enhancing": [
+      7,
+      278
+    ],
+    "the": [
+      8,
+      42,
+      117,
+      186,
+      203,
+      237,
+      259,
+      262
+    ],
+    "quality": [
+      9,
+      120,
+      153,
+      283
+    ],
+    "of": [
+      10,
+      44,
+      80,
+      111,
+      165,
+      171,
+      206,
+      264
+    ],
+    "machine-generated": [
+      11
+    ],
+    "translation": [
+      12,
+      71,
+      271
+    ],
+    "(MGT)": [
+      13
+    ],
+    "by": [
+      14,
+      84,
+      95,
+      277
+    ],
+    "correcting": [
+      15
+    ],
+    "errors": [
+      16
+    ],
+    "and": [
+      17,
+      20,
+      69,
+      100,
+      123,
+      140,
+      167,
+      221,
+      230,
+      244,
+      249,
+      255,
+      280
+    ],
+    "ensuring": [
+      18,
+      202
+    ],
+    "cohesion": [
+      19
+    ],
+    "coherence.": [
+      21
+    ],
+    "With": [
+      22
+    ],
+    "advancements": [
+      23
+    ],
+    "artificial": [
+      25
+    ],
+    "intelligence,": [
+      26
+    ],
+    "Large": [
+      27
+    ],
+    "Language": [
+      28
+    ],
+    "Models": [
+      29
+    ],
+    "(LLMs)": [
+      30
+    ],
+    "like": [
+      31
+    ],
+    "ChatGPT-4o": [
+      32,
+      45,
+      124,
+      150,
+      156,
+      209,
+      265
+    ],
+    "offer": [
+      33
+    ],
+    "promising": [
+      34
+    ],
+    "capabilities": [
+      35
+    ],
+    "for": [
+      36
+    ],
+    "post-editing": [
+      37,
+      53,
+      272
+    ],
+    "tasks.": [
+      38
+    ],
+    "This": [
+      39
+    ],
+    "study": [
+      40,
+      75,
+      260
+    ],
+    "investigates": [
+      41
+    ],
+    "effectiveness": [
+      43
+    ],
+    "as": [
+      46,
+      136,
+      266
+    ],
+    "natural": [
+      48,
+      204
+    ],
+    "language": [
+      49
+    ],
+    "processing": [
+      50
+    ],
+    "tool": [
+      51,
+      269
+    ],
+    "Arabic": [
+      54,
+      81
+    ],
+    "translations": [
+      55,
+      82
+    ],
+    "across": [
+      56,
+      233
+    ],
+    "various": [
+      57,
+      234
+    ],
+    "domains,": [
+      58,
+      92
+    ],
+    "aiming": [
+      59
+    ],
+    "to": [
+      60
+    ],
+    "evaluate": [
+      61
+    ],
+    "its": [
+      62
+    ],
+    "performance": [
+      63,
+      200,
+      212
+    ],
+    "improving": [
+      65
+    ],
+    "productivity,": [
+      66
+    ],
+    "accuracy,": [
+      67,
+      138
+    ],
+    "consistency,": [
+      68
+    ],
+    "overall": [
+      70
+    ],
+    "quality.": [
+      72
+    ],
+    "Methods": [
+      73
+    ],
+    "The": [
+      74,
+      143
+    ],
+    "involved": [
+      76
+    ],
+    "comparative": [
+      78
+    ],
+    "analysis": [
+      79
+    ],
+    "generated": [
+      83
+    ],
+    "Google": [
+      85
+    ],
+    "Translate.": [
+      86
+    ],
+    "These": [
+      87
+    ],
+    "texts,": [
+      88
+    ],
+    "drawn": [
+      89
+    ],
+    "from": [
+      90
+    ],
+    "multiple": [
+      91
+    ],
+    "were": [
+      93
+    ],
+    "post-edited": [
+      94,
+      112
+    ],
+    "two": [
+      96,
+      187
+    ],
+    "professional": [
+      97,
+      105
+    ],
+    "human": [
+      98,
+      106,
+      147,
+      275
+    ],
+    "translators": [
+      99,
+      276
+    ],
+    "ChatGPT-4o.": [
+      101
+    ],
+    "Subsequently,": [
+      102
+    ],
+    "three": [
+      103
+    ],
+    "additional": [
+      104
+    ],
+    "post-editors": [
+      107,
+      148
+    ],
+    "evaluated": [
+      108
+    ],
+    "both": [
+      109
+    ],
+    "sets": [
+      110
+    ],
+    "outputs.": [
+      113
+    ],
+    "To": [
+      114
+    ],
+    "statistically": [
+      115,
+      175
+    ],
+    "assess": [
+      116
+    ],
+    "differences": [
+      118
+    ],
+    "between": [
+      121,
+      185
+    ],
+    "humans": [
+      122
+    ],
+    "post-edits,": [
+      125
+    ],
+    "paired": [
+      127
+    ],
+    "t": [
+      128,
+      163,
+      190
+    ],
+    "-test": [
+      129
+    ],
+    "was": [
+      130,
+      183
+    ],
+    "employed,": [
+      131
+    ],
+    "focusing": [
+      132
+    ],
+    "on": [
+      133
+    ],
+    "metrics": [
+      134
+    ],
+    "such": [
+      135
+    ],
+    "fluency,": [
+      137,
+      179
+    ],
+    "coherence,": [
+      139
+    ],
+    "efficiency.": [
+      141
+    ],
+    "Results": [
+      142
+    ],
+    "findings": [
+      144
+    ],
+    "indicated": [
+      145
+    ],
+    "that": [
+      146
+    ],
+    "outperformed": [
+      149
+    ],
+    "most": [
+      152
+    ],
+    "metrics.": [
+      154
+    ],
+    "However,": [
+      155
+    ],
+    "demonstrated": [
+      157
+    ],
+    "superior": [
+      158
+    ],
+    "efficiency,": [
+      159
+    ],
+    "yielding": [
+      160
+    ],
+    "positive": [
+      162
+    ],
+    "-statistic": [
+      164,
+      191
+    ],
+    "8.00": [
+      166
+    ],
+    "p": [
+      169,
+      194
+    ],
+    "-value": [
+      170,
+      195
+    ],
+    "0.015,": [
+      172
+    ],
+    "indicating": [
+      173
+    ],
+    "significant": [
+      176,
+      181
+    ],
+    "difference.": [
+      177
+    ],
+    "Regarding": [
+      178
+    ],
+    "no": [
+      180
+    ],
+    "difference": [
+      182
+    ],
+    "observed": [
+      184
+    ],
+    "methods": [
+      188
+    ],
+    "(": [
+      189
+    ],
+    "=": [
+      192,
+      196
+    ],
+    "−3.5,": [
+      193
+    ],
+    "0.074),": [
+      197
+    ],
+    "suggesting": [
+      198
+    ],
+    "comparable": [
+      199
+    ],
+    "flow": [
+      205
+    ],
+    "text.": [
+      207,
+      224
+    ],
+    "Discussion": [
+      208
+    ],
+    "showed": [
+      210
+    ],
+    "competitive": [
+      211
+    ],
+    "English-to-Arabic": [
+      214
+    ],
+    "post-editing,": [
+      215
+    ],
+    "particularly": [
+      216
+    ],
+    "producing": [
+      218
+    ],
+    "fluent,": [
+      219
+    ],
+    "coherent,": [
+      220
+    ],
+    "stylistically": [
+      222
+    ],
+    "consistent": [
+      223,
+      231
+    ],
+    "Its": [
+      225
+    ],
+    "conversational": [
+      226
+    ],
+    "design": [
+      227
+    ],
+    "enables": [
+      228
+    ],
+    "efficient": [
+      229
+    ],
+    "editing": [
+      232
+    ],
+    "domains.": [
+      235
+    ],
+    "Nonetheless,": [
+      236
+    ],
+    "model": [
+      238
+    ],
+    "faced": [
+      239
+    ],
+    "challenges": [
+      240
+    ],
+    "handling": [
+      242
+    ],
+    "grammatical": [
+      243
+    ],
+    "syntactic": [
+      245
+    ],
+    "nuances,": [
+      246
+    ],
+    "domain-specific": [
+      247
+    ],
+    "idioms,": [
+      248
+    ],
+    "complex": [
+      250
+    ],
+    "terminology,": [
+      251
+    ],
+    "especially": [
+      252
+    ],
+    "medical": [
+      254
+    ],
+    "sports": [
+      256
+    ],
+    "contexts.": [
+      257
+    ],
+    "Overall,": [
+      258
+    ],
+    "highlights": [
+      261
+    ],
+    "potential": [
+      263
+    ],
+    "supportive": [
+      268
+    ],
+    "workflows,": [
+      273
+    ],
+    "complementing": [
+      274
+    ],
+    "productivity": [
+      279
+    ],
+    "maintaining": [
+      281
+    ],
+    "acceptable": [
+      282
+    ],
+    "standards.": [
+      284
+    ]
+  },
+  "counts_by_year": [
+    {
+      "year": 2026,
+      "cited_by_count": 6
+    },
+    {
+      "year": 2025,
+      "cited_by_count": 5
+    }
+  ],
+  "updated_date": "2026-08-22T07:34:49.880490",
+  "created_date": "2025-10-10T00:00:00"
+}
