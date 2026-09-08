@@ -29,3 +29,5 @@ Esta etapa reúne obras e tenta localizar arquivos de acesso aberto. Não há le
 7. Incorporar literatura cinzenta, anais, preprints e relatórios técnicos.
 
 Os estados documentais antigos permanecem no CSV para rastreabilidade. A assinatura `%PDF` indica apenas que a resposta recebida começa como PDF; não confirma título, integralidade, qualidade ou aderência temática. Essas verificações pertencem à etapa posterior.
+
+Na rodada multilíngue OpenAlex de 8 de setembro de 2026, as 34 consultas foram executadas, mas o ambiente bloqueou as conexões de saída. O log foi preservado em `data/search-runs/20260908T002439Z/` para retomada.

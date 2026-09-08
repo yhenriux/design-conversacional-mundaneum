@@ -1,0 +1,209 @@
+{
+  "run_id": "20260908T002439Z",
+  "queries": [
+    {
+      "api": "openalex",
+      "query": "\"conversation design\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational design\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational UX\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational user interface\" design",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"voice user interface\" design",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conversational agent design\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"designing conversational agents\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"dialogue design\" conversational system",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"chatbot design\" user experience",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design conversacional\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design de conversação\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design de diálogo\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"experiência conversacional\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"UX conversacional\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"diseño conversacional\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaces conversacionais\" design",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaces conversacionales\" diseño",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"sistemas conversacionais\" acessibilidade",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"agentes conversacionais\" design",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "chatbot acessibilidade usabilidade",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"conception conversationnelle\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"design conversationnel\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interface conversationnelle\" conception",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"Konversationsdesign\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"dialogorientiertes Design\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"konversationelle Schnittstelle\" Design",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"progettazione conversazionale\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"interfaccia conversazionale\" progettazione",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"会话设计\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"对话式界面\" 设计",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"対話デザイン\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"会話型インターフェース\" 設計",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"대화형 디자인\"",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    },
+    {
+      "api": "openalex",
+      "query": "\"대화형 인터페이스\" 설계",
+      "status": "error",
+      "error": "URLError(PermissionError(13, 'Foi feita uma tentativa de acesso a um soquete de uma maneira que é proibida pelas permissões de acesso', None, 10013, None))"
+    }
+  ]
+}
