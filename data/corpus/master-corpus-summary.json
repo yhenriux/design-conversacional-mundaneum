@@ -1,18 +1,37 @@
 {
   "run_id": "20260831T003810Z",
-  "unique_discovered_studies": 1065,
+  "unique_discovered_studies": 7162,
   "supplemental_discovery_files": [
-    "data/discovery/brazil-seed.csv"
+    "data/discovery/brazil-institutional-20260908.csv",
+    "data/discovery/brazil-institutional-20260908b.csv",
+    "data/discovery/brazil-institutional-20260908c.csv",
+    "data/discovery/brazil-institutional-20260908d.csv",
+    "data/discovery/brazil-seed.csv",
+    "data/discovery/brazil-territorial-seed.csv",
+    "data/discovery/citation-gated-20260907T231123Z.csv",
+    "data/discovery/citation-gated-20260907T232617Z.csv",
+    "data/discovery/citation-gated-20260907T233441Z.csv",
+    "data/discovery/supplemental-20260906T002845Z.csv",
+    "data/discovery/supplemental-20260906T010206Z.csv",
+    "data/discovery/supplemental-20260907T171423Z.csv",
+    "data/discovery/supplemental-20260907T231123Z.csv",
+    "data/discovery/supplemental-20260907T235141Z.csv"
   ],
   "bibliographic_rule": "Todo registro deduplicado integra o corpus mestre; disponibilidade de PDF é estado documental.",
-  "with_doi": 1008,
-  "with_source_pdf_url": 388,
+  "with_doi": 6509,
+  "with_source_pdf_url": 4633,
   "document_status": {
-    "pdf-integral-validado-local": 297,
-    "pdf-recebido-a-validar": 16,
-    "recuperacao-tentada-sem-pdf-valido": 279,
-    "sem-doi-busca-por-titulo-pendente": 26,
-    "sem-url-pdf-resolucao-pendente": 447
+    "pdf-integral-validado-local": 495,
+    "pdf-recebido-a-validar": 1949,
+    "recuperacao-tentada-sem-pdf-valido": 2964,
+    "sem-doi-busca-por-titulo-pendente": 217,
+    "sem-url-pdf-resolucao-pendente": 1537
   },
+  "collection_status": {
+    "arquivo-recebido": 2444,
+    "obra-descoberta": 1754,
+    "transferencia-falhou": 2964
+  },
+  "current_phase": "Descoberta e coleta; análise de conteúdo posterior.",
   "output": "data/corpus/master-corpus.csv"
 }
