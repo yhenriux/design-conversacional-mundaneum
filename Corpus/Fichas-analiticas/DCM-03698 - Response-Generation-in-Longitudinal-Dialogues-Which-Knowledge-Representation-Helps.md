@@ -1,0 +1,53 @@
+---
+corpus_id: DCM-03698
+titulo: "Response Generation in Longitudinal Dialogues: Which Knowledge Representation Helps?"
+autores: "Seyed Mahed Mousavi; Simone Caldarella; Giuseppe Riccardi"
+ano: 2023
+doi: "https://doi.org/10.18653/v1/2023.nlp4convai-1.1"
+idioma: ""
+status_coleta: arquivo-recebido
+status_documento: pdf-recebido-a-validar
+aderencia_ontologica: 3
+triagem: nucleo-central
+---
+
+# Response Generation in Longitudinal Dialogues: Which Knowledge Representation Helps?
+
+## Ficha bibliográfica
+
+- **ID:** DCM-03698
+- **Autores:** Seyed Mahed Mousavi; Simone Caldarella; Giuseppe Riccardi
+- **Ano:** 2023
+- **Tipo:** conference-paper
+- **DOI:** https://doi.org/10.18653/v1/2023.nlp4convai-1.1
+- **Fonte de descoberta:** OpenAlex
+- **URL de registro:** https://doi.org/10.18653/v1/2023.nlp4convai-1.1
+- **URL de PDF:** https://aclanthology.org/2023.nlp4convai-1.1.pdf
+- **Status documental:** pdf-recebido-a-validar
+- **Status de coleta:** arquivo-recebido
+
+## Resumo disponível
+
+Longitudinal Dialogues (LD) are the most challenging type of conversation for humanmachine dialogue systems.LDs include the recollections of events, personal thoughts, and emotions specific to each individual in a sparse sequence of dialogue sessions.Dialogue systems designed for LDs should uniquely interact with the users over multiple sessions and long periods of time (e.g.weeks), and engage them in personal dialogues to elaborate on their feelings, thoughts, and real-life events.In this paper, we study the task of response generation in LDs.We evaluate whether general-purpose Pre-trained Language Models (PLM) are appropriate for this purpose.We fine-tune two PLMs, GePpeTto (GPT-2) and iT5, using a dataset of LDs.We experiment with different representations of the personal knowledge extracted from LDs for grounded response generation, including the graph representation of the mentioned events and participants.We evaluate the performance of the models via automatic metrics and the contribution of the knowledge via the Integrated Gradients technique.We categorize the natural language generation errors via human evaluations of contextualization, appropriateness and engagement of the user.
+
+## Triagem orientada pelo Design Conversacional
+
+- **Centralidade ontológica:** 3/4
+- **Classificação atual:** núcleo central
+- **Contribuição e relação com a obra:** a preencher após leitura analítica.
+- **Limitações e contrapontos:** a preencher após leitura analítica.
+
+## Ligações
+
+- Capítulos relacionados: a definir
+- Conceitos: a definir
+- Autores: a definir
+
+## Ficha analítica
+
+- Pergunta ou problema: a extrair do texto integral.
+- Tese principal: a extrair do texto integral.
+- Método e corpus: a extrair do texto integral.
+- Resultados e limitações: a extrair do texto integral.
+- Citações paginadas: a inserir após verificação.
+- Grau de confiança: pendente de leitura humana/analítica.

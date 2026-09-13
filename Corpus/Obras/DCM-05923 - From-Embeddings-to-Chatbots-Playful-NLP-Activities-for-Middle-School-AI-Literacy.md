@@ -1,0 +1,44 @@
+---
+corpus_id: DCM-05923
+titulo: "From Embeddings to Chatbots: Playful NLP Activities for Middle School AI Literacy"
+autores: "Jessica Vandenberg; Alex Goslen; Claire Aguiar; Wookhee Min; Veronica Cateté; Bradford Mott"
+ano: 2026
+doi: "https://doi.org/10.1609/aaai.v40i47.41530"
+idioma: ""
+status_coleta: transferencia-falhou
+status_documento: recuperacao-tentada-sem-pdf-valido
+aderencia_ontologica: 3
+triagem: triagem-pendente
+---
+
+# From Embeddings to Chatbots: Playful NLP Activities for Middle School AI Literacy
+
+## Ficha bibliográfica
+
+- **ID:** DCM-05923
+- **Autores:** Jessica Vandenberg; Alex Goslen; Claire Aguiar; Wookhee Min; Veronica Cateté; Bradford Mott
+- **Ano:** 2026
+- **Tipo:** conference-paper
+- **DOI:** https://doi.org/10.1609/aaai.v40i47.41530
+- **Fonte de descoberta:** OpenAlex
+- **URL de registro:** https://doi.org/10.1609/aaai.v40i47.41530
+- **URL de PDF:** https://ojs.aaai.org/index.php/AAAI/article/download/41530/45491
+- **Status documental:** recuperacao-tentada-sem-pdf-valido
+- **Status de coleta:** transferencia-falhou
+
+## Resumo disponível
+
+As large language models (LLMs) and chatbots become increasingly prevalent, there is an urgent need to create engaging, age-appropriate learning activities that foster foundational AI literacy with a focus on natural language processing (NLP). This paper presents the iterative design and implementation of three instructional activities that introduce middle school learners (ages 11--14) to NLP concepts through playful, hands-on experiences aligned with the AI4K12 Big Idea of Natural Interaction. These activities include: (1) an unplugged card game that develops students' understanding of embeddings and similarity, (2) an unplugged collaborative sentence-generation challenge that illustrates how language models work, and (3) a web-based educational game in which students design and interact with chatbots. Each activity was implemented and refined across multiple educational contexts, including teacher professional development workshops, summer camps, and classroom implementations. All activities are designed to be easy to set up, requiring only commonly available classroom technology (e.g., laptops) and a few inexpensive materials (e.g., decks of cards), and are supported with facilitation guides and reflection prompts. Early implementations revealed areas for refinement, leading to clearer scaffolding that helped students connect gameplay to underlying NLP concepts, and post-refinement surveys indicated that students found the activities both enjoyable and educational. Findings suggest that blending unplugged and digital formats enhances comprehension, and that tailoring content to students' local contexts supports engagement. By making these activities openly available, this work contributes to the growing ecosystem of K–12 AI education resources and offers practical guidance for integrating NLP concepts into classroom instruction.
+
+## Triagem orientada pelo Design Conversacional
+
+- **Centralidade ontológica:** 3/4
+- **Classificação atual:** aguarda triagem analítica
+- **Contribuição e relação com a obra:** a preencher após leitura analítica.
+- **Limitações e contrapontos:** a preencher após leitura analítica.
+
+## Ligações
+
+- Capítulos relacionados: a definir
+- Conceitos: a definir
+- Autores: a definir

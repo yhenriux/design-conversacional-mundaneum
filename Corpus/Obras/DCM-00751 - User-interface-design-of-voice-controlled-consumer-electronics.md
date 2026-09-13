@@ -1,0 +1,44 @@
+---
+corpus_id: DCM-00751
+titulo: "User interface design of voice controlled consumer electronics"
+autores: "S. Gamm; R. Haeb-Umbach"
+ano: 1995
+doi: "10.1016/0165-5817(96)81590-7"
+idioma: ""
+status_coleta: obra-descoberta
+status_documento: sem-url-pdf-resolucao-pendente
+aderencia_ontologica: 0
+triagem: triagem-pendente
+---
+
+# User interface design of voice controlled consumer electronics
+
+## Ficha bibliográfica
+
+- **ID:** DCM-00751
+- **Autores:** S. Gamm; R. Haeb-Umbach
+- **Ano:** 1995
+- **Tipo:** journal-article
+- **DOI:** 10.1016/0165-5817(96)81590-7
+- **Fonte de descoberta:** Crossref
+- **URL de registro:** https://doi.org/10.1016/0165-5817(96)81590-7
+- **URL de PDF:** 
+- **Status documental:** sem-url-pdf-resolucao-pendente
+- **Status de coleta:** obra-descoberta
+
+## Resumo disponível
+
+
+
+## Triagem orientada pelo Design Conversacional
+
+- **Centralidade ontológica:** 0/4
+- **Classificação atual:** aguarda triagem analítica
+- **Contribuição e relação com a obra:** a preencher após leitura analítica.
+- **Limitações e contrapontos:** a preencher após leitura analítica.
+
+## Ligações
+
+- Capítulos relacionados: a definir
+- Conceitos: a definir
+- Autores: a definir

@@ -1,0 +1,44 @@
+---
+corpus_id: DCM-00779
+titulo: "Conversational Co-creativity with Deep Reinforcement Learning Agent in Kitchen Layout"
+autores: "Poyen Hsieh; Deborah Benros; Timur Dogan"
+ano: 2022
+doi: "10.1007/978-3-030-90625-2_23"
+idioma: ""
+status_coleta: obra-descoberta
+status_documento: sem-url-pdf-resolucao-pendente
+aderencia_ontologica: 0
+triagem: triagem-pendente
+---
+
+# Conversational Co-creativity with Deep Reinforcement Learning Agent in Kitchen Layout
+
+## Ficha bibliográfica
+
+- **ID:** DCM-00779
+- **Autores:** Poyen Hsieh; Deborah Benros; Timur Dogan
+- **Ano:** 2022
+- **Tipo:** book-chapter
+- **DOI:** 10.1007/978-3-030-90625-2_23
+- **Fonte de descoberta:** Crossref
+- **URL de registro:** https://doi.org/10.1007/978-3-030-90625-2_23
+- **URL de PDF:** 
+- **Status documental:** sem-url-pdf-resolucao-pendente
+- **Status de coleta:** obra-descoberta
+
+## Resumo disponível
+
+
+
+## Triagem orientada pelo Design Conversacional
+
+- **Centralidade ontológica:** 0/4
+- **Classificação atual:** aguarda triagem analítica
+- **Contribuição e relação com a obra:** a preencher após leitura analítica.
+- **Limitações e contrapontos:** a preencher após leitura analítica.
+
+## Ligações
+
+- Capítulos relacionados: a definir
+- Conceitos: a definir
+- Autores: a definir
