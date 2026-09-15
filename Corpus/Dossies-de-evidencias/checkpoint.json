@@ -1,0 +1,21 @@
+{
+  "updated_at": "2026-09-15T00:17:05.856625+00:00",
+  "total_eligible": 193,
+  "next_offset": 193,
+  "created_this_batch": [
+    "DCM-01463",
+    "DCM-01464",
+    "DCM-01465",
+    "DCM-01467",
+    "DCM-01468",
+    "DCM-01469",
+    "DCM-01504",
+    "DCM-01530",
+    "DCM-01576",
+    "DCM-01580",
+    "DCM-01582",
+    "DCM-01584",
+    "DCM-01591"
+  ],
+  "pending_this_batch": []
+}
