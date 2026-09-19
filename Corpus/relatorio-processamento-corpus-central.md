@@ -9,8 +9,8 @@ Data de consolidação: 2026-09-19.
 - Fontes centrais com texto suficiente para leitura analítica: 190.
 - Dossiês de evidências extraídas: 191.
 - Fontes sem texto suficiente para ficha analítica confiável: 3.
-- Fichas analíticas concluídas com leitura redigida: 18.
-- Fichas analíticas ainda pendentes entre as fontes processáveis: 172.
+- Fichas analíticas concluídas com leitura redigida: 19.
+- Fichas analíticas ainda pendentes entre as fontes processáveis: 171.
 
 ## Pendências documentais
 
@@ -22,7 +22,7 @@ Data de consolidação: 2026-09-19.
 
 ## Leitura analítica concluída
 
-As fichas DCM-00011, DCM-00063, DCM-00134, DCM-00141, DCM-00145, DCM-00153, DCM-00156, DCM-00183, DCM-00186, DCM-00187, DCM-00199, DCM-00207, DCM-00210, DCM-00234, DCM-00245, DCM-00247, DCM-00279 e DCM-00280 receberam leitura analítica redigida, com distinção entre argumento da fonte, interpretação do fichamento e possíveis usos no Volume 1.
+As fichas DCM-00011, DCM-00063, DCM-00134, DCM-00141, DCM-00145, DCM-00153, DCM-00156, DCM-00183, DCM-00186, DCM-00187, DCM-00199, DCM-00207, DCM-00210, DCM-00234, DCM-00245, DCM-00247, DCM-00279, DCM-00280 e DCM-00285 receberam leitura analítica redigida, com distinção entre argumento da fonte, interpretação do fichamento e possíveis usos no Volume 1.
 
 ## Regra de leitura
 
