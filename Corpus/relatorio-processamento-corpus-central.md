@@ -6,11 +6,11 @@ Data de consolidação: 2026-09-19.
 
 - Fontes centrais identificadas: 2.098.
 - Fontes centrais com texto extraído inicialmente localizado: 193.
-- Fontes centrais com texto suficiente para leitura analítica: 190.
+- Fontes centrais com texto suficiente para leitura analítica: 189.
 - Dossiês de evidências extraídas: 191.
-- Fontes sem texto suficiente para ficha analítica confiável: 3.
+- Fontes sem texto suficiente ou com divergência documental para ficha analítica confiável: 4.
 - Fichas analíticas concluídas com leitura redigida: 20.
-- Fichas analíticas ainda pendentes entre as fontes processáveis: 170.
+- Fichas analíticas ainda pendentes entre as fontes processáveis: 169.
 
 ## Pendências documentais
 
@@ -19,6 +19,7 @@ Data de consolidação: 2026-09-19.
 | DCM-00264 | Texto extraído insuficiente para sustentar uma ficha científica. |
 | DCM-00792 | Texto extraído insuficiente para sustentar uma ficha científica. |
 | DCM-00103 | O arquivo recuperado contém elementos pré-textuais e sumário, sem capítulos suficientes para leitura analítica. |
+| DCM-00297 | O PDF local corresponde a outra obra, `Room for one more? Introducing Artificial Commensal Companions`, e não ao trabalho esperado sobre gênero em agentes conversacionais. |
 
 ## Leitura analítica concluída
 

@@ -1,6 +1,6 @@
 {
   "updated_at": "2026-09-19",
-  "total_com_texto_suficiente": 190,
+  "total_com_texto_suficiente": 189,
   "fichas_concluidas": [
     "DCM-00011",
     "DCM-00063",
@@ -28,6 +28,9 @@
     "DCM-00264",
     "DCM-00792"
   ],
-  "proxima_ficha": "DCM-00297",
+  "pendencias_documentais": [
+    "DCM-00297"
+  ],
+  "proxima_ficha": "DCM-00298",
   "regra": "Uma ficha só entra em fichas_concluidas após leitura analítica redigida, evidências localizadas e revisão de limites."
 }
