@@ -1,0 +1,28 @@
+{
+  "updated_at": "2026-09-19",
+  "total_com_texto_suficiente": 190,
+  "fichas_concluidas": [
+    "DCM-00011",
+    "DCM-00063",
+    "DCM-00134",
+    "DCM-00141",
+    "DCM-00145",
+    "DCM-00153",
+    "DCM-00156",
+    "DCM-00183",
+    "DCM-00186",
+    "DCM-00187",
+    "DCM-00199",
+    "DCM-00207",
+    "DCM-00210",
+    "DCM-00234",
+    "DCM-00245"
+  ],
+  "pendencias_texto_insuficiente": [
+    "DCM-00103",
+    "DCM-00264",
+    "DCM-00792"
+  ],
+  "proxima_ficha": "DCM-00247",
+  "regra": "Uma ficha só entra em fichas_concluidas após leitura analítica redigida, evidências localizadas e revisão de limites."
+}
