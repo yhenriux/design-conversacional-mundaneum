@@ -16,13 +16,15 @@
     "DCM-00207",
     "DCM-00210",
     "DCM-00234",
-    "DCM-00245"
+    "DCM-00245",
+    "DCM-00247",
+    "DCM-00279"
   ],
   "pendencias_texto_insuficiente": [
     "DCM-00103",
     "DCM-00264",
     "DCM-00792"
   ],
-  "proxima_ficha": "DCM-00247",
+  "proxima_ficha": "DCM-00280",
   "regra": "Uma ficha só entra em fichas_concluidas após leitura analítica redigida, evidências localizadas e revisão de limites."
 }
